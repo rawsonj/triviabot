@@ -19,17 +19,19 @@ class Answer:
         self._maskedAnswer = str()
 
         for i in self._answer:
-            if i == ' ':
-                self._maskedAnswer += ' '
-            else:
+            if i.isalnum():
                 self._maskedAnswer += '*'
+            else:
+                self._maskedAnswer += i
 
     def giveClue(self):
+        if self._answer == self._maskedAnswer:
+            return self._maskedAnswer
         from random import randint
 
         letter = ' '
 
-        while letter == ' ':
+        while not letter.isalnum():
             index = randint(0, len(self._answer)-1)
             letter = self._answer[index]
             if self._maskedAnswer[index] == letter:
@@ -52,16 +54,18 @@ class Answer:
     def reveal():
         return self._answer
 
-def getQuestion(self,fd):
+def getQuestion(filename):
+    fd = open(filename)
     from random import choice
     lines = fd.read().splitlines()
     myline = choice(lines)
-    [self._question, temp] = myline.split('*')
-    self._answer.setAnswer(temp)
+    rv = myline.split('*')
+    return rv
     
 if __name__ == "__main__":
 
     from os import walk
+    from random import choice
 
     question = ""
     
@@ -71,4 +75,7 @@ if __name__ == "__main__":
     for i in list_generator:
         filelist.append(i)
     filelist = filelist[0][2]
+    for num,i in enumerate(filelist):
+        filelist[num] = './questions/' + i
     #print(filelist)
+    print(getQuestion(choice(filelist)))
