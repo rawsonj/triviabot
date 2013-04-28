@@ -41,7 +41,7 @@ from lib.answer import Answer
 
 GAME_CHANNEL = '#trivia'
 ADMINS = ['nameless']
-Q_DIR = './questions'
+Q_DIR = './questions/'
 SAVE_DIR = './triviabot_data'
 IDENT_STRING = 'oicu812'
 WAIT_INTERVAL = 5
@@ -77,14 +77,14 @@ class triviabot(irc.IRCClient):
         '''
         self.join(self._game_channel)
         self.msg('NickServ','identify '+IDENT_STRING)
-        #	self.join(self.factory.channel, 'catsonly')
         print("Signed on as %s." % (self.nickname,))
-        self.msg(self._game_channel,'''
+        self.msg(self._game_channel,
+                '''
                 Welcome to '''+self._game_channel+'''!
 
                 Have an admin start the game when you are ready.
                 For how to use this bot, just say ? help or
-                '''+self.nickname+''' help.'''
+                '''+self.nickname+' help.')
 
     def joined(self, channel):
         '''
@@ -102,8 +102,6 @@ class triviabot(irc.IRCClient):
         while not msg[0].isalnum() and not msg[0] == '?':
             msg = msg[1:]
 
-    # need to figure out priviledged and non-priviledged commands
-
     # parses each incoming line, and sees if it's a command for the bot.
         if (msg[0]=="?"):
             command = msg.replace('?','').split()[0]
@@ -118,21 +116,61 @@ class triviabot(irc.IRCClient):
         # if not, try to match the message to the answer.
         else:
             if msg == self._answer.answer:
-                winner(user,channel)
-                self._got_it = True
+                self._winner(user,channel)
 
     def _winner(self,user,channel):
         '''
         Congratulates the winner for guessing correctly and assigns
-        points appropriately.
+        points appropriately, then signals that it was guessed.
         '''
-        self.msg(channel,user.toupper()+""" GUESSED IT!""")
-        self.msg(channel,str(self._current_points)+" have been added\
-                  to your score!")
+        self.msg(channel,user.toupper()+" GUESSED IT!")
         try:
             self._scores[user] += self._current_points
         except:
             self._scores[user] = self._current_points
+        self.msg(channel,str(self._current_points)+
+                    " have been added to your score!")
+        self._got_it = True
+
+    def _play_game(self):
+        '''
+        Implements the main loop of the game.
+        '''
+        self._get_new_question()
+        while self._running:
+            self._get_new_question()
+            self._current_points = 5
+            self._got_it = False
+            self.msg(self._game_channel, "Next question:")
+            self.msg(self._game_channel, self._question)
+            self.msg(self._game_channel, 
+                    "Clue: "+self._answer.get_clue())
+            sleep(WAIT_INTERVAL)
+            while not self._got_it:
+                self.msg(self._game_channel, "Current question:")
+                self.msg(self._game_channel, self._question)
+                self.msg(self._game_channel,self._give_next_clue())
+                sleep(WAIT_INTERVAL)
+
+    def _give_next_clue(self):
+        '''
+        They didn't get it, so decrement the points and give the next
+        clue.
+        '''
+        if self._current_points == 5:
+            self._current_points -= 2
+        elif self._current_points == 3:
+            self._current_points -= 2
+        elif self._current_points == 1:
+            self._current_points -= 1
+            self.msg(self._game_channel,
+                    '''
+                    No one got it. The answer was:
+                    '''+self._answer.answer)
+            self._got_it = True
+            return
+        self.msg(self._game_channel,
+                'Clue: '+self._answer.give_clue())
 
         # need to figure out access control.
     def ctcpQuery(self, user, channel, msg):
@@ -168,67 +206,86 @@ class triviabot(irc.IRCClient):
             ''')
 
     def _start(self):
-        self._running = True
-        self.play_game()
+        '''
+        Starts the trivia game.
+
+        TODO: Load scores from last game, if any.
+        '''
+        if self._running:
+            return
+        else:
+            self._running = True
+            self._play_game()
 
     def _stop(self):
-        pass
-
-    def _save(self):
-        pass
-
-    def _set_user_score(self, channel, user, score):
-        pass
-
-    def _play_game(self):
         '''
-        Implements the main loop of the game.
+        Stops the game and thanks people for playing,
+        then saves the scores.
         '''
-        self.get_new_question()
-        while self._running:
-            self.get_new_question()
-            self._current_points = 5
-            self.msg(self._game_channel, "Next question:")
-            self.msg(self._game_channel, self._question)
-            self.msg(self._game_channel, "Clue: \
-                    "+self._answer.get_clue())
-            sleep(WAIT_INTERVAL)
-            while not self._got_it:
-                sleep(WAIT_INTERVAL)
-                self._give_next_clue()
-
-    def _give_next_clue(self):
-        '''
-        They didn't get it, so decrement the points and give the next
-        clue.
-        '''
-        if self._current_points == 5:
-            self._current_points -= 2
-        elif self._current_points == 3:
-            self._current_points -= 2
-        elif self._current_points == 1:
-            self._current_points -= 1
+        if self._running == False:
+            return
+        else:
+            self._running = False
+            self._got_it = True
             self.msg(self._game_channel,
                     '''
-                    No one got it. The answer was:
-                    '''+self._answer.answer)
-            self._got_it = True
+                    Thanks for playing trivia!
+                    '''
+                    )
+            self._save_game()
+
+    def _save_game(self):
+        '''
+        Saves the game to the data directory.
+        '''
+        pass
+
+    def _load_game(self):
+        '''
+        Loads the running data from previous games.
+        '''
+        pass
+
+    def _set_user_score(self, admin, user, score):
+        '''
+        Administrative action taken to adjust scores, if needed.
+        '''
+        try:
+            self._scores[user] = score
+        except:
+            self.msg(admin, user+" not in scores database.")
             return
-        self.msg(self._game_channel, 'Clue: \
-                '+self._answer.give_clue())
+        self.msg(admin, user+" score set to "+score)
 
     def _die(self):
-        self.quit()
+        '''
+        Terminates execution of the bot.
+        Need to dig into twisted to figure out how this happens.
+        '''
+        #self.quit()
+        # figure out how to kill the bot
+        pass
 
     def _score(self,user):
+        '''
+        Tells the user their score.
+        '''
         self.msg(user,"Your current score is: "
                  +str(self._scores[user])
 
     def _next(self):
-        self.msg(channel,"Question has been skipped.")
-        get_new_question()
+        '''
+        Administratively skips the current question.
+        '''
+        self.msg(self._game_channel,"Question has been skipped.")
+        self._get_new_question()
 
     def _standings(self,user):
+        '''
+        Tells the user the complete standings in the game.
+
+        TODO: order them.
+        '''
         self.msg(user,"The current trivia standings are: ")
         for name in self._scores.keys():
             self.msg(user,name+": "+str(self._scores[name]))
@@ -248,18 +305,18 @@ class triviabot(irc.IRCClient):
         elif command=='die':
             self._die()
         elif command=='give' and args[0] == 'clue':
-            _give_clue(channel)
+            self._give_clue(channel)
         else:
             self.describe(channel,'looks at '+user+' oddly.')
 
-    def get_new_question(self):
+    def _get_new_question(self):
         '''
         Selects a new question from the questions directory and
-        returns [question, answer]
+        sets it.
         '''
         #randomly select file
         filename = choice(listdir(self._questions_dir))
-        fd = open(filename)
+        fd = open(Q_DIR+filename)
         lines = fd.read().splitlines()
         myline = choice(lines)
         fd.close()
@@ -283,15 +340,7 @@ class ircbotFactory(ClientFactory):
 
     
 if __name__ == "__main__":
-    # go get our list of questions
-    list_generator = walk('./questions/')
-    filelist = []
-    for i in list_generator:
-        filelist.append(i)
-    filelist = filelist[0][2]
-    print(getQuestion(choice(filelist)))
-
     # these two lines do the irc connection over ssl.
-    #reactor.connectSSL('irc.cat.pdx.edu',6697,ircbotFactory(),ssl.ClientContextFactory())
-    #reactor.run()
+    reactor.connectSSL('irc.cat.pdx.edu',6697,ircbotFactory(),ssl.ClientContextFactory())
+    reactor.run()
 
