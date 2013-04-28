@@ -2,76 +2,39 @@
 #
 # I NEED AN ALGORITHM! :D
 #
+from os import listdir,walk,path,makedirs
 from random import randint,choice
-from os import listdir,walk
+from time import sleep
+import json
 
-class Answer:
-    ''' 
-    This class implements storage for an answer you want to conceil
-    and give clues 1 letter at a time.
+from lib.answer import Answer
 
-    Methods:
-
-    giveClue(): returns the masked string after revealing a letter and saving the mask.
-    getClue(): returns the masked string.
-    setAnswer('string'): makes this object reusable, sets a new answer and clue mask.
-    reveal(): returns the answer string. 
-    '''
-    
-    def __init__(self, answer='None'):
-        self._answer = answer
-        self._masked_answer = str()
-
-        for i in self._answer:
-            if i.isalnum():
-                self._masked_answer += '*'
-            else:
-                self._masked_answer += i
-
-    def give_clue(self):
-        if self._answer == self._maskedAnswer:
-            return self._masked_answer
-
-        letter = ' '
-
-        while not letter.isalnum():
-            index = randint(0, len(self._answer)-1)
-            letter = self._answer[index]
-            if self._masked_answer[index] == letter:
-                letter = ' '
-
-        temp = list(self._masked_answer)
-
-        temp[index] = letter
-
-        self._masked_answer = "".join(temp)
-
-        return self._masked_answer
-
-    def get_clue(self):
-        return self._masked_answer
-
-    def set_answer(self, new_answer):
-        self.__init__(answer=new_answer)
-
-    def _reveal():
-        return self._answer
-
-    answer = property(_reveal)
+GAME_CHANNEL = '#trivia'
+ADMINS = ['nameless']
+Q_DIR = './questions'
+SAVE_DIR = './triviabot_data'
+IDENT_STRING = 'oicu812'
+WAIT_INTERVAL = 5
 
 class triviabot(irc.IRCClient):
     '''
     This is the irc bot portion of the trivia bot.
+    
+    It implements the whole program so is kinda big. The algorithm is
+    implemented by a series of callbacks, initiated by an admin on the
+    server.
     '''
     def __init__(self):
         self._answer = Answer()
         self._question = ''
         self._scores = {}
         self._clue_number = 0
-        self._ADMINS = ['nameless']
-        self._game_channel = '#trivia'
+        self._ADMINS = ADMINS
+        self._game_channel = GAME_CHANNEL
         self._current_points = 5
-        self._questions_dir = './questions'
+        self._questions_dir = Q_DIR
+        self._running = False
+        self._got_it = False
 
     def _get_nickname(self):
         return self.factory.nickname
@@ -79,15 +42,31 @@ class triviabot(irc.IRCClient):
     nickname = property(_get_nickname)
 
     def signedOn(self):
+        '''
+        Actions to perform on signon to the server.
+        '''
         self.join(self._game_channel)
-        self.msg('NickServ','identify oicu812')
+        self.msg('NickServ','identify '+IDENT_STRING)
         #	self.join(self.factory.channel, 'catsonly')
         print("Signed on as %s." % (self.nickname,))
+        self.msg(self._game_channel,'''
+                Welcome to '''+self._game_channel+'''!
+
+                Have an admin start the game when you are ready.
+                For how to use this bot, just say ? help or
+                '''+self.nickname+''' help.'''
 
     def joined(self, channel):
+        '''
+        Callback runs when the bot joins a channel
+        '''
         print("Joined %s." %(channel,))
 
     def privmsg(self, user, channel, msg):
+        '''
+        Parses out each message and initiates doing the right thing
+        with it.
+        '''
         print(user+" : "+channel+" : "+msg)
     # need to strip off colors if present.
         while not msg[0].isalnum() and not msg[0] == '?':
@@ -110,9 +89,13 @@ class triviabot(irc.IRCClient):
         else:
             if msg == self._answer.answer:
                 winner(user,channel)
-                get_new_question()
+                self._got_it = True
 
-    def winner(self,user,channel):
+    def _winner(self,user,channel):
+        '''
+        Congratulates the winner for guessing correctly and assigns
+        points appropriately.
+        '''
         self.msg(channel,user.toupper()+""" GUESSED IT!""")
         self.msg(channel,str(self._current_points)+" have been added\
                   to your score!")
@@ -123,33 +106,104 @@ class triviabot(irc.IRCClient):
 
         # need to figure out access control.
     def ctcpQuery(self, user, channel, msg):
+        '''
+        Responds to ctcp requests.
+        Currently just reports them.
+        '''
         print("CTCP recieved: "+user+":"+channel+": "+msg[0][0]+" "+msg[0][1])
 
-    def help(self,name,channel):
-        self.msg(channel,
+    def _help(self,name,channel):
+        '''
+        Tells people how to use the bot.
+        Replies differently if you are an admin or a regular user.
+        Only responds to the user since there could be a game in
+        progress.
+        '''
+        try:
+            self._ADMINS.index(name)
+        except:
+            self.msg(name,
+                '''
+                I'm nameless's trivia bot.
+                Commands: score, standings, give clue
+                ''')
+            return
+
+        self.msg(name,
             '''
             I'm nameless's trivia bot.
             Commands: score, standings, give clue
-            Admin commands: die, set <user> <score>, next
+            Admin commands: die, set <user> <score>, next, start,
+            stop, save
             ''')
 
-    def die(self):
+    def _start(self):
+        self._running = True
+        self.play_game()
+
+    def _stop(self):
+        pass
+
+    def _save(self):
+        pass
+
+    def _set_user_score(self, channel, user, score):
+        pass
+
+    def _play_game(self):
+        '''
+        Implements the main loop of the game.
+        '''
+        self.get_new_question()
+        while self._running:
+            self.get_new_question()
+            self._current_points = 5
+            self.msg(self._game_channel, "Next question:")
+            self.msg(self._game_channel, self._question)
+            self.msg(self._game_channel, "Clue: \
+                    "+self._answer.get_clue())
+            sleep(WAIT_INTERVAL)
+            while not self._got_it:
+                sleep(WAIT_INTERVAL)
+                self._give_next_clue()
+
+    def _give_next_clue(self):
+        '''
+        They didn't get it, so decrement the points and give the next
+        clue.
+        '''
+        if self._current_points == 5:
+            self._current_points -= 2
+        elif self._current_points == 3:
+            self._current_points -= 2
+        elif self._current_points == 1:
+            self._current_points -= 1
+            self.msg(self._game_channel,
+                    '''
+                    No one got it. The answer was:
+                    '''+self._answer.answer)
+            self._got_it = True
+            return
+        self.msg(self._game_channel, 'Clue: \
+                '+self._answer.give_clue())
+
+    def _die(self):
         self.quit()
 
-    def score(self,user):
+    def _score(self,user):
         self.msg(user,"Your current score is: "
                  +str(self._scores[user])
 
-    def next(self):
+    def _next(self):
         self.msg(channel,"Question has been skipped.")
         get_new_question()
 
-    def standings(self,user):
+    def _standings(self,user):
         self.msg(user,"The current trivia standings are: ")
         for name in self._scores.keys():
             self.msg(user,name+": "+str(self._scores[name]))
 
-    def give_clue(self,channel):
+    def _give_clue(self,channel):
         self.msg(channel,self._answer.get_clue())
 
     def selectCommand(self, command, args, user, channel):
@@ -158,13 +212,13 @@ class triviabot(irc.IRCClient):
             return
         if command=='++' and args[0].isalnum and args[1].isdigit:
             for _ in range(int(args[1])):
-                self.karma(args[0],channel)
+                self._karma(args[0],channel)
         elif command=='help':
-            self.help(user,channel)
+            self._help(user,channel)
         elif command=='die':
-            self.die()
+            self._die()
         elif command=='give' and args[0] == 'clue':
-            give_clue(channel)
+            _give_clue(channel)
         else:
             self.describe(channel,'looks at '+user+' oddly.')
 
@@ -181,8 +235,6 @@ class triviabot(irc.IRCClient):
         fd.close()
         self._question, temp_answer = myline.split('*')
         self._answer.set_answer(temp_answer)
-        return rv
-
 
 class ircbotFactory(ClientFactory):
     protocol = bot
@@ -201,17 +253,12 @@ class ircbotFactory(ClientFactory):
 
     
 if __name__ == "__main__":
-    question = ""
-
     # go get our list of questions
     list_generator = walk('./questions/')
     filelist = []
     for i in list_generator:
         filelist.append(i)
     filelist = filelist[0][2]
-    for num,i in enumerate(filelist):
-        filelist[num] = './questions/' + i
-    #print(filelist)
     print(getQuestion(choice(filelist)))
 
     # these two lines do the irc connection over ssl.
