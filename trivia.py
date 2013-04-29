@@ -45,7 +45,7 @@ from lib.answer import Answer
 GAME_CHANNEL = '#trivia'
 ADMINS = ['nameless']
 Q_DIR = './questions/'
-SAVE_DIR = './triviabot_data'
+SAVE_DIR = './savedata/'
 IDENT_STRING = 'oicu812'
 WAIT_INTERVAL = 10
 
@@ -87,7 +87,7 @@ class triviabot(irc.IRCClient):
             self._get_new_question()
             self._current_points = points[self._clue_number]
             self.msg(self._game_channel,'')
-            self.msg(self._game_channel, "Next question:")
+            self.msg(self._game_channel, "Next question: ")
             self.msg(self._game_channel, self._question)
             self.msg(self._game_channel, 
                     "Clue: "+self._answer.current_clue())
@@ -95,7 +95,7 @@ class triviabot(irc.IRCClient):
         # we must be somewhere in between
         elif self._clue_number < 4:
             self._current_points = points[self._clue_number]
-            self.msg(self._game_channel, "Current question:")
+            self.msg(self._game_channel, "Question: ")
             self.msg(self._game_channel, self._question)
             self.msg(self._game_channel,
                     'Clue: '+self._answer.give_clue())
@@ -106,6 +106,7 @@ class triviabot(irc.IRCClient):
                 '''No one got it. The answer was: '''
                 +self._answer.answer)
             self._clue_number = 0
+            self._get_new_question()
             #self._lc.reset()
 
     def signedOn(self):
@@ -164,10 +165,14 @@ class triviabot(irc.IRCClient):
             self._scores[user] += self._current_points
         except:
             self._scores[user] = self._current_points
-        self.msg(channel,str(self._current_points)+
-                    " points have been added to your score!")
+        if self._current_points == 1:
+            self.msg(channel,str(self._current_points)+
+                        " point has been added to your score!")
+        else:
+            self.msg(channel,str(self._current_points)+
+                        " points have been added to your score!")
         self._clue_number = 0
-        self._lc.reset()
+        self._get_new_question()
 
     def ctcpQuery(self, user, channel, msg):
         '''
@@ -256,21 +261,40 @@ class triviabot(irc.IRCClient):
         else:
             self._lc.stop()
             self.msg(self._game_channel,
-                    '''Thanks for playing trivia!'''
+                        '''
+Thanks for playing trivia!
+Current rankings were:
+'''
                     )
+            self._standings(None,self._game_channel,None)
+            self.msg(self._game_channel,
+                    '''Scores have been saved, and see you next game!''')
             self._save_game()
 
     def _save_game(self,*args):
         '''
         Saves the game to the data directory.
         '''
-        pass
+        if not path.exists(SAVE_DIR):
+            makedirs(SAVE_DIR)
+        with open(SAVE_DIR+'scores.json','w') as savefile:
+            json.dump(self._scores, savefile)
+            print "Scores have been saved."
 
     def _load_game(self):
         '''
         Loads the running data from previous games.
         '''
-        pass
+        if not path.exists(SAVE_DIR):
+            print "Save directory doesn't exist."
+            return
+        try:
+            with open(SAVE_DIR+'scores.json','r') as savefile:
+                self._scores = json.load(savefile)
+        except:
+            print "Save file doesn't exist."
+            return
+        print "Scores loaded."
 
     def _set_user_score(self, args, user, channel):
         '''
@@ -306,8 +330,13 @@ class triviabot(irc.IRCClient):
         '''
         Administratively skips the current question.
         '''
+        if not self._lc.running:
+            self.msg(self._game_channel, "we are not playing right now.")
+            return
         self.msg(self._game_channel,"Question has been skipped.")
-        self._get_new_question()
+        self._clue_number = 0
+        self._lc.stop()
+        self._lc.start(WAIT_INTERVAL)
 
     def _standings(self,args,user,channel):
         '''
@@ -320,6 +349,11 @@ class triviabot(irc.IRCClient):
             self.msg(user,name+": "+str(self._scores[name]))
 
     def _give_clue(self,args,user,channel):
+        if not self._lc.running:
+            self.msg(self._game_channel, "we are not playing right now.")
+            return
+        self.msg(channel,"Question: ")
+        self.msg(channel,self._question)
         self.msg(channel,"Clue: "+self._answer.current_clue())
 
     def _get_new_question(self):
