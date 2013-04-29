@@ -47,7 +47,7 @@ ADMINS = ['nameless']
 Q_DIR = './questions/'
 SAVE_DIR = './triviabot_data'
 IDENT_STRING = 'oicu812'
-WAIT_INTERVAL = 5
+WAIT_INTERVAL = 10
 
 class triviabot(irc.IRCClient):
     '''
@@ -81,18 +81,20 @@ class triviabot(irc.IRCClient):
         if self._clue_number == 0:
             self._get_new_question()
             self._current_points = 5
+            self.msg(self._game_channel,'')
             self.msg(self._game_channel, "Next question:")
             self.msg(self._game_channel, self._question)
             self.msg(self._game_channel, 
                     "Clue: "+self._answer.current_clue())
-            self._clue_number++
+            self._clue_number += 1
         # we must be somewhere in between
-        elif self._clue_number < 3:
+        elif self._clue_number < 4:
             self._current_points -= 2
             self.msg(self._game_channel, "Current question:")
             self.msg(self._game_channel, self._question)
-            self._give_next_clue()
-            self._clue_number++
+            self.msg(self._game_channel,
+                    'Clue: '+self._answer.give_clue())
+            self._clue_number += 1
         # no one must have gotten it.
         else:
             self.msg(self._game_channel,
@@ -151,33 +153,16 @@ class triviabot(irc.IRCClient):
         Congratulates the winner for guessing correctly and assigns
         points appropriately, then signals that it was guessed.
         '''
-        self.msg(channel,user.toupper()+" GUESSED IT!")
+        self.msg(channel,user.upper()+" GUESSED IT!")
         try:
             self._scores[user] += self._current_points
         except:
             self._scores[user] = self._current_points
         self.msg(channel,str(self._current_points)+
                     " have been added to your score!")
-        self._got_it = True
-        ---------clean this up
+        self._clue_number = 0
+        self._lc.reset()
 
-    def _give_next_clue(self):
-        '''
-        They didn't get it, so decrement the points and give the next
-        clue.
-        '''
-        if self._current_points == 5:
-            self._current_points -= 2
-        elif self._current_points == 3:
-            self._current_points -= 2
-        elif self._current_points == 1:
-            self._current_points -= 1
-            self._got_it = True
-            return
-        self.msg(self._game_channel,
-                'Clue: '+self._answer.give_clue())
-
-        # need to figure out access control.
     def ctcpQuery(self, user, channel, msg):
         '''
         Responds to ctcp requests.
@@ -244,33 +229,15 @@ class triviabot(irc.IRCClient):
         else:
             self.describe(channel,'looks at '+user+' oddly.')
             
-#        # start with user commands
-#        if command== 'score':
-#            self._score(user)
-#        elif command=='help':
-#            self._help(user,channel)
-#        elif command=='standings':
-#            self._standings(user)
-#        elif command=='give' and args[0] == 'clue':
-#            self._give_clue(channel)
-#        elif is_admin:
-#            if 
-#            elif command=='set':
-#            elif command=='die':
-#                self._die()
-#        else:
-#            self.describe(channel,'looks at '+user+' oddly.')
-
     def _start(self, args, user, channel):
         '''
         Starts the trivia game.
 
         TODO: Load scores from last game, if any.
         '''
-        if self._running:
+        if self._lc.running:
             return
         else:
-            self._running = True
             self._lc.start(WAIT_INTERVAL)
 
     def _stop(self,*args):
@@ -278,11 +245,10 @@ class triviabot(irc.IRCClient):
         Stops the game and thanks people for playing,
         then saves the scores.
         '''
-        if self._running == False:
+        if not self._lc.running:
             return
         else:
-            self._running = False
-            self._got_it = True
+            self._lc.stop()
             self.msg(self._game_channel,
                     '''
                     Thanks for playing trivia!
