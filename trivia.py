@@ -77,10 +77,15 @@ class triviabot(irc.IRCClient):
         '''
         Implements the main loop of the game.
         '''
+        points = { 0 : 5,
+                   1 : 3,
+                   2 : 2,
+                   3 : 1
+                 }
         # we must be starting up.
         if self._clue_number == 0:
             self._get_new_question()
-            self._current_points = 5
+            self._current_points = points[self._clue_number]
             self.msg(self._game_channel,'')
             self.msg(self._game_channel, "Next question:")
             self.msg(self._game_channel, self._question)
@@ -89,7 +94,7 @@ class triviabot(irc.IRCClient):
             self._clue_number += 1
         # we must be somewhere in between
         elif self._clue_number < 4:
-            self._current_points -= 2
+            self._current_points = points[self._clue_number]
             self.msg(self._game_channel, "Current question:")
             self.msg(self._game_channel, self._question)
             self.msg(self._game_channel,
@@ -101,6 +106,7 @@ class triviabot(irc.IRCClient):
                 '''No one got it. The answer was: '''
                 +self._answer.answer)
             self._clue_number = 0
+            #self._lc.reset()
 
     def signedOn(self):
         '''
@@ -145,7 +151,7 @@ class triviabot(irc.IRCClient):
             return
         # if not, try to match the message to the answer.
         else:
-            if msg == self._answer.answer:
+            if msg.lower().strip() == self._answer.answer.lower():
                 self._winner(user,channel)
 
     def _winner(self,user,channel):
@@ -159,7 +165,7 @@ class triviabot(irc.IRCClient):
         except:
             self._scores[user] = self._current_points
         self.msg(channel,str(self._current_points)+
-                    " have been added to your score!")
+                    " points have been added to your score!")
         self._clue_number = 0
         self._lc.reset()
 
@@ -250,9 +256,7 @@ class triviabot(irc.IRCClient):
         else:
             self._lc.stop()
             self.msg(self._game_channel,
-                    '''
-                    Thanks for playing trivia!
-                    '''
+                    '''Thanks for playing trivia!'''
                     )
             self._save_game()
 
@@ -337,7 +341,7 @@ class triviabot(irc.IRCClient):
                 print "Broken question:"
                 print myline
                 continue
-            self._answer.set_answer(temp_answer)
+            self._answer.set_answer(temp_answer.strip())
             damaged_question = False
 
 class ircbotFactory(ClientFactory):
