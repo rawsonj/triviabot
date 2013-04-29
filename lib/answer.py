@@ -24,7 +24,7 @@ class Answer:
                 self._masked_answer += i
 
     def give_clue(self):
-        if self._answer == self._maskedAnswer:
+        if self._answer == self._masked_answer:
             return self._masked_answer
 
         letter = ' '
@@ -49,7 +49,7 @@ class Answer:
     def set_answer(self, new_answer):
         self.__init__(answer=new_answer)
 
-    def _reveal():
+    def _reveal(self):
         return self._answer
 
     answer = property(_reveal)
