@@ -43,7 +43,7 @@ class Answer:
 
         return self._masked_answer
 
-    def get_clue(self):
+    def current_clue(self):
         return self._masked_answer
 
     def set_answer(self, new_answer):

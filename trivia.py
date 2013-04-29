@@ -106,12 +106,12 @@ class triviabot(irc.IRCClient):
         if (msg[0]=="?"):
             command = msg.replace('?','').split()[0]
             args = msg.replace('?','').split()[1:]
-            self.selectCommand(command, args, user, channel)
+            self.select_command(command, args, user, channel)
             return
         elif (msg.split()[0].find(self.nickname)==0):
             command = msg.split()[1]
             args = msg.replace(self.nickname,'').split()[2:]
-            self.selectCommand(command, args, user, channel)
+            self.select_command(command, args, user, channel)
             return
         # if not, try to match the message to the answer.
         else:
@@ -144,7 +144,7 @@ class triviabot(irc.IRCClient):
             self.msg(self._game_channel, "Next question:")
             self.msg(self._game_channel, self._question)
             self.msg(self._game_channel, 
-                    "Clue: "+self._answer.get_clue())
+                    "Clue: "+self._answer.current_clue())
             sleep(WAIT_INTERVAL)
             while not self._got_it:
                 self.msg(self._game_channel, "Current question:")
@@ -180,7 +180,7 @@ class triviabot(irc.IRCClient):
         '''
         print("CTCP recieved: "+user+":"+channel+": "+msg[0][0]+" "+msg[0][1])
 
-    def _help(self,name,channel):
+    def _help(self,args,user,channel):
         '''
         Tells people how to use the bot.
         Replies differently if you are an admin or a regular user.
@@ -188,24 +188,79 @@ class triviabot(irc.IRCClient):
         progress.
         '''
         try:
-            self._ADMINS.index(name)
+            self._ADMINS.index(user)
         except:
-            self.msg(name,
+            self.msg(user,
                 '''
                 I'm nameless's trivia bot.
-                Commands: score, standings, give clue
+                Commands: score, standings, giveclue, help
                 ''')
             return
 
         self.msg(name,
             '''
             I'm nameless's trivia bot.
-            Commands: score, standings, give clue
+            Commands: score, standings, giveclue, help
             Admin commands: die, set <user> <score>, next, start,
             stop, save
             ''')
 
-    def _start(self):
+    def select_command(self, command, args, user, channel):
+        '''
+        Callback that responds to commands given to the bot.
+
+        Need to differentiate between priviledged users and regular
+        users.
+        '''
+        # set up command dicts.
+        unpriviledged_commands = { 'score': self._score
+                                   'help' : self._help
+                                   'standings' : self._standings
+                                   'giveclue' : self._give_clue
+                                 }
+        priviledged_commands = { 'die' : self._die
+                                 'set' : self._set_user_score
+                                 'next': self._next_question
+                                 'start': self._start
+                                 'stop': self._stop
+                                 'save': self._save
+                               }
+        try:
+            self._ADMINS.index(user)
+            is_admin = True
+        except:
+            is_admin = False
+
+        # the following takes care of sorting out functions and
+        # priviledges.
+        if not is_admin and priviledged_commands.has_key(command):
+            self.msg(channel, user+": You don't tell me what to do.")
+            return
+        elif is_admin and priviledged_commands.has_key(command):
+            priviledged_commands[command](args, user, channel)
+        elif unpriviledged_commands.has_key(command):
+            unpriviledged_commands[command](args, user, channel)
+        else:
+            self.describe(channel,'looks at '+user+' oddly.')
+            
+#        # start with user commands
+#        if command== 'score':
+#            self._score(user)
+#        elif command=='help':
+#            self._help(user,channel)
+#        elif command=='standings':
+#            self._standings(user)
+#        elif command=='give' and args[0] == 'clue':
+#            self._give_clue(channel)
+#        elif is_admin:
+#            if 
+#            elif command=='set':
+#            elif command=='die':
+#                self._die()
+#        else:
+#            self.describe(channel,'looks at '+user+' oddly.')
+
+    def _start(self, args, user, channel):
         '''
         Starts the trivia game.
 
@@ -217,7 +272,7 @@ class triviabot(irc.IRCClient):
             self._running = True
             self._play_game()
 
-    def _stop(self):
+    def _stop(self,args,user,channel):
         '''
         Stops the game and thanks people for playing,
         then saves the scores.
@@ -234,7 +289,7 @@ class triviabot(irc.IRCClient):
                     )
             self._save_game()
 
-    def _save_game(self):
+    def _save_game(self,args,user,channel):
         '''
         Saves the game to the data directory.
         '''
@@ -245,8 +300,8 @@ class triviabot(irc.IRCClient):
         Loads the running data from previous games.
         '''
         pass
-
-    def _set_user_score(self, admin, user, score):
+------
+    def _set_user_score(self, args, user, channel):
         '''
         Administrative action taken to adjust scores, if needed.
         '''
@@ -257,7 +312,7 @@ class triviabot(irc.IRCClient):
             return
         self.msg(admin, user+" score set to "+score)
 
-    def _die(self):
+    def _die(self,args,user,channel):
         '''
         Terminates execution of the bot.
         Need to dig into twisted to figure out how this happens.
@@ -266,21 +321,21 @@ class triviabot(irc.IRCClient):
         # figure out how to kill the bot
         pass
 
-    def _score(self,user):
+    def _score(self,args,user,channel):
         '''
         Tells the user their score.
         '''
         self.msg(user,"Your current score is: "
                  +str(self._scores[user])
 
-    def _next(self):
+    def _next(self,args,user,channel):
         '''
         Administratively skips the current question.
         '''
         self.msg(self._game_channel,"Question has been skipped.")
         self._get_new_question()
 
-    def _standings(self,user):
+    def _standings(self,args,user,channel):
         '''
         Tells the user the complete standings in the game.
 
@@ -290,24 +345,8 @@ class triviabot(irc.IRCClient):
         for name in self._scores.keys():
             self.msg(user,name+": "+str(self._scores[name]))
 
-    def _give_clue(self,channel):
-        self.msg(channel,self._answer.get_clue())
-
-    def selectCommand(self, command, args, user, channel):
-        if user.find('nameless') != 0:
-            self.msg(channel,'Piss off, you don\'t tell me what to do.',maxlength)
-            return
-        if command=='++' and args[0].isalnum and args[1].isdigit:
-            for _ in range(int(args[1])):
-                self._karma(args[0],channel)
-        elif command=='help':
-            self._help(user,channel)
-        elif command=='die':
-            self._die()
-        elif command=='give' and args[0] == 'clue':
-            self._give_clue(channel)
-        else:
-            self.describe(channel,'looks at '+user+' oddly.')
+    def _give_clue(self,args,user,channel):
+        self.msg(channel,"Clue: "+self._answer.current_clue())
 
     def _get_new_question(self):
         '''
