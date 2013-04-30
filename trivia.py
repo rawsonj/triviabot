@@ -47,7 +47,7 @@ ADMINS = ['nameless']
 Q_DIR = './questions/'
 SAVE_DIR = './savedata/'
 IDENT_STRING = 'oicu812'
-WAIT_INTERVAL = 10
+WAIT_INTERVAL = 30
 
 class triviabot(irc.IRCClient):
     '''
@@ -140,21 +140,24 @@ class triviabot(irc.IRCClient):
             msg = msg[1:]
 
     # parses each incoming line, and sees if it's a command for the bot.
-        if (msg[0]=="?"):
-            command = msg.replace('?','').split()[0]
-            args = msg.replace('?','').split()[1:]
-            self.select_command(command, args, user, channel)
-            return
-        elif (msg.split()[0].find(self.nickname)==0):
-            command = msg.split()[1]
-            args = msg.replace(self.nickname,'').split()[2:]
-            self.select_command(command, args, user, channel)
-            return
-        # if not, try to match the message to the answer.
-        else:
-            if msg.lower().strip() == self._answer.answer.lower():
-                self._winner(user,channel)
-                self._save_game()
+	try:
+	    if (msg[0]=="?"):
+		command = msg.replace('?','').split()[0]
+		args = msg.replace('?','').split()[1:]
+		self.select_command(command, args, user, channel)
+		return
+	    elif (msg.split()[0].find(self.nickname)==0):
+		command = msg.split()[1]
+		args = msg.replace(self.nickname,'').split()[2:]
+		self.select_command(command, args, user, channel)
+		return
+	    # if not, try to match the message to the answer.
+	    else:
+		if msg.lower().strip() == self._answer.answer.lower():
+		    self._winner(user,channel)
+		    self._save_game()
+	except:
+	    pass
 
     def _winner(self,user,channel):
         '''
@@ -279,7 +282,7 @@ Current rankings were:
         if not path.exists(SAVE_DIR):
             makedirs(SAVE_DIR)
         with open(SAVE_DIR+'scores.json','w') as savefile:
-            json.dumps(self._scores, savefile)
+            json.dump(self._scores, savefile)
             print "Scores have been saved."
 
     def _load_game(self):
@@ -291,12 +294,12 @@ Current rankings were:
             return
         try:
             with open(SAVE_DIR+'scores.json','r') as savefile:
-                self._scores = json.loads(savefile)
+                temp_dict = json.load(savefile)
         except:
             print "Save file doesn't exist."
             return
-        for name in self._scores.keys():
-            self._scores[name] = int(self._scores[name])
+        for name in temp.keys():
+            self._scores[str(name)] = int(self._scores[name])
         print self._scores
         print "Scores loaded."
 
