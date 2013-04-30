@@ -197,13 +197,24 @@ class triviabot(irc.IRCClient):
         except:
             self.msg(user,
                 '''I'm nameless's trivia bot.\n'''+
-                '''Commands: score, standings, giveclue, help''')
+                '''Commands: score, standings, giveclue, help, source''')
             return
         self.msg(user,
             '''I'm nameless's trivia bot.\n'''+
-            '''Commands: score, standings, giveclue, help\n'''+
+            '''Commands: score, standings, giveclue, help, source\n'''+
             '''Admin commands: die, set <user> <score>, next, start,\n'''+
             '''stop, save''')
+
+    def _show_source(self,args,user,channel):
+        '''
+        Tells people how to use the bot.
+        Replies differently if you are an admin or a regular user.
+        Only responds to the user since there could be a game in
+        progress.
+        '''
+        self.msg(user,
+            '''My source can be found at: '''
+            '''https://github.com/rawsonj/triviabot''')
 
     def select_command(self, command, args, user, channel):
         '''
@@ -215,6 +226,7 @@ class triviabot(irc.IRCClient):
         # set up command dicts.
         unpriviledged_commands = { 'score': self._score,
                                    'help' : self._help,
+                                   'source' : self._show_source,
                                    'standings' : self._standings,
                                    'giveclue' : self._give_clue
                                  }
