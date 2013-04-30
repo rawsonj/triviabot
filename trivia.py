@@ -48,6 +48,7 @@ Q_DIR = './questions/'
 SAVE_DIR = './savedata/'
 IDENT_STRING = 'oicu812'
 WAIT_INTERVAL = 30
+COLOR_CODE = 5
 
 class triviabot(irc.IRCClient):
     '''
@@ -117,8 +118,8 @@ class triviabot(irc.IRCClient):
         self.msg('NickServ','identify '+IDENT_STRING)
         print("Signed on as %s." % (self.nickname,))
         self.msg(self._game_channel,
-                '''Welcome to '''+self._game_channel+'''!\n'''+
-                '''Have an admin start the game when you are ready.\n'''+
+                '''Welcome to '''+self._game_channel+'''!\n'''
+                '''Have an admin start the game when you are ready.\n'''
                 '''For how to use this bot, just say ? help or\n'''
                 +self.nickname+' help.')
 
@@ -196,14 +197,28 @@ class triviabot(irc.IRCClient):
             self._admins.index(user)
         except:
             self.msg(user,
-                '''I'm nameless's trivia bot.\n'''+
-                '''Commands: score, standings, giveclue, help''')
+                '''I'm nameless's trivia bot.\n'''
+                '''Commands: score, standings, giveclue, help, source''')
             return
         self.msg(user,
-            '''I'm nameless's trivia bot.\n'''+
-            '''Commands: score, standings, giveclue, help\n'''+
-            '''Admin commands: die, set <user> <score>, next, start,\n'''+
+            '''I'm nameless's trivia bot.\n'''
+            '''Commands: score, standings, giveclue, help, source\n'''
+            '''Admin commands: die, set <user> <score>, next, start,\n'''
             '''stop, save''')
+
+    def _show_source(self,args,user,channel):
+        '''
+        Tells people how to use the bot.
+        Only responds to the user since there could be a game in
+        progress.
+        '''
+        self.msg(user,
+            '''My source can be found at: '''
+            '''https://github.com/rawsonj/triviabot''')
+
+    def _color_test():
+        self.msg(self._game_channel, str(COLOR_CODE)+
+                '''This is a color test.''')
 
     def select_command(self, command, args, user, channel):
         '''
@@ -215,6 +230,7 @@ class triviabot(irc.IRCClient):
         # set up command dicts.
         unpriviledged_commands = { 'score': self._score,
                                    'help' : self._help,
+                                   'source' : self._show_source,
                                    'standings' : self._standings,
                                    'giveclue' : self._give_clue
                                  }
@@ -223,7 +239,8 @@ class triviabot(irc.IRCClient):
                                  'next': self._next_question,
                                  'start': self._start,
                                  'stop': self._stop,
-                                 'save': self._save_game
+                                 'save': self._save_game,
+                                 'colortest': self._color_test
                                }
         print command, args, user, channel
         try:
@@ -265,10 +282,8 @@ class triviabot(irc.IRCClient):
         else:
             self._lc.stop()
             self.msg(self._game_channel,
-                        '''
-Thanks for playing trivia!
-Current rankings were:
-'''
+                    '''Thanks for playing trivia!\n'''
+                    '''Current rankings were:\n'''
                     )
             self._standings(None,self._game_channel,None)
             self.msg(self._game_channel,
@@ -289,6 +304,8 @@ Current rankings were:
         '''
         Loads the running data from previous games.
         '''
+        # ensure initialization
+        self._scores = {}
         if not path.exists(SAVE_DIR):
             print "Save directory doesn't exist."
             return
@@ -298,8 +315,8 @@ Current rankings were:
         except:
             print "Save file doesn't exist."
             return
-        for name in temp.keys():
-            self._scores[str(name)] = int(self._scores[name])
+        for name in temp_dict.keys():
+            self._scores[str(name)] = int(temp_dict[name])
         print self._scores
         print "Scores loaded."
 
@@ -378,7 +395,7 @@ Current rankings were:
             myline = choice(lines)
             fd.close()
             try:
-                self._question, temp_answer = myline.split('*')
+                self._question, temp_answer = myline.split('`')
             except ValueError:
                 print "Broken question:"
                 print myline

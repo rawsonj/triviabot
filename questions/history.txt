@@ -1,95 +1,95 @@
-History: Who is the greek messenger God?*Hermes
-History: King Richard The ________?*Lionheart
-History: Who shot Abraham Lincoln?*John Wilkes Booth
-History: Which two biblical cities did God destroy with fire and brimstone?*Sodom and Gomorrah
-History: Who killed Goliath?*David
-History: On what date (year included) did America become an independant nation?*July 4th 1776
-History: Who were the first people to be elected into the Aviation Hall of Fame?*The Wright Brothers
-History: What kind of teeth did George Washington have?*Wooden
-History: What did Marie Curie die of on 4th july 1934?*Radiation poisoning
-History: Whose wife was Roxana, his horse Bacephalus?*Alexander the Great
-History: Which frontiersman died at The Alamo?*Davey Crockett
-History: Who was known as 'The Peanut President'?*Jimmy Carter
-History: What divides the American north from the south?*Mason-Dixon line
-History: In what year did the Berlin wall come down?*1989
-History: Name the first automobile racetrack in America?*Indianapolis Motor Speedway
-History: Who was the first person to break the sound barrier?*Chuck Yager
-History: When did Disneyland open?*1955
-History: What was the leading cause of death in the late 19th century?*Tuberculosis
-History: Where did the Bay of Pigs take place?*Cuba
-History: Adolf Hitler became chancellor of Germany in 1928, 1930 or 1933?*1933
-History: When did Israel declare independence?*14 may 1948
-History: When did the first man walk on the moon?*1968
-History: Who invented the smallpox vaccine?*Edward Jenner
-History: Who invented the telescope?*Galileo Galilei
-History: Who murdered Julius Caesar?*Marcus Brutus
-History: Who said 'Et Tu Brute'?*Julius Caesar
-History: Who fiddled while Rome burned?*Nero
-History: When was Nelson Mandela released from Robben Island?*1990
-History: Where is the Machu Picchu?*Peru
-History: Who led the children of Israel out of Egypt?*Moses
-History: The ______ Tea Party?*Boston
-History: What did 'D.M.Z' stand for in the Vietnam war?*Demilitarized Zone
-History: Who assassinated president Kennedy?*Lee Harvey Oswald
-History: What was the name of the scandal that resulted in the resignation of president Nixon?*Watergate
-History: What was the average age of united states soldiers in the Vietnam war?*Nineteen
-History: Where's the famed Arch of Hadrian?*Ahtens
-History: What did Wilhelm Roentgen discover in 1895?*X-rays
-History: Who saught to create The Great Society?*Lyndon Johnson
-History: Who built Camelot?*King Arthur
-History: Who is the Norse God of Thunder and War?*Thor
-History: Who was Hercules' father?*Zeus
-History: What Titan had snakes for hair?*Medusa
-History: Who is the Norse God of Wisdom and War?*Odin
-History: Who is the Norse God of Mischief?*Loki
-History: Who was Hercules' stepmother?*Hera
-History: How many children did Noah have?*Three
-History: What was Adolf Hitler's religion?*Roman Catholic
-History: What did the repair technicians of the first 'modern' computers wear while working?*Shorts and roller skates
-History: Where was the Septuagint written?*Alexandria
-History: Which Apollo space mission put the first men on the moon ?*Apollo 11
-History: What was the last Chinese Dynasty?*Manchu
-History: What is 9 metres high, 7 metres wide and 2,500 kilometres long?*Great Wall of China
-History: Who was the Greek Goddess of Spring?*Persephone
-History: Which people invented the compass?*The Chinese
-History: Who appeared on the back of a U.S banknote in 1875?*Pocahontas
-History: Where were the 1960 Summer Olympics held?*Rome
-History: In 1962, for what did Britain and France sign an agreement to build together?*Concorde
-History: Who was the Greek God of Wine?*Dionysus
-History: Dionysus was the Greek God of ______?*Wine
-History: What Egyptian object is also known as 'the Key to the Nile'?*Ankh
-History: In Egyptian mythology, who is known as the God of the Desert?*Ash
-History: In Egyptian mythology, who is the God of the Underworld?*Cherti
-History: In Egyptian mythology, of who was Isis the wife?*Osiris
-History: In Egyptian mythology, who was Horus' mother?*Isis
-History: In Egyptian mythology, what is the Life Force called?*Ka
-History: In Egyptian mythology, who is the God of the Dead?*Aker
-History: What was King Arthur's mother's name?*Igraine
-History: Who created the Round Table?*Merlin
-History: Who did Mark David Chapman assassinate?*John Lennon
-History: Who invented 'bifocal' lenses for eyeglasses?*Benjamin Franklin
-History: Who is identified with the word 'Eureka'?*Archimedes
-History: Who is known for the 'Theory of Evolution'?*Charles Darwin
-History: Who killed Jesse James?*Robert Ford
-History: Who led 900 followers in a mass suicide in 1979?*Jim Jones
-History: Who ordered the persecution of the Christians in which Peter and Paul died?*Nero
-History: Who first transmitted radio signals across the Atlantic?*Marconi
-History: Who was assassinated on december 8, 1980 in New York city?*John Lennon
-History: Who was assassinated on november 22, 1963 in Dallas?*President Kennedy
-History: Who was defeated at the battle of Little Bighorn?*George Custer
-History: German chemist Hennig Brand discovered phosphorus while he was examining ___?*Urine
-History: Hitler and Napoleon both had only one ___?*Testicle
-History: Ancient Egyptians slept on pillows made of?*Stone
-History: In 1975, what re-opened after an 8 year closure?*Suez canal
-History: Which two brothers committed the first daytime bank robbery on february 14, 1866?*Frank and Jesse James
-History: In greek mythology, who turned Arachne into a spider?*Athena
-History: What was the first Chinese Dynasty?*Shang
-History: What religious movement was founded by William Booth?*Salvation Army
-History: What was George Custer's horses' name?*Commanche
-History: Who was the only survivor of Custer's last stand?*His horse
-History: What was the D-Day invasion password?*Mickey Mouse
-History: In the 15th century, what was the war between the houses of Lancaster and York called?*War of the Roses
-History: Who discovered Jamaica?*Christopher Columbus
-History: What happened on screen for the first time in India in 1977?*Kissing
-History: What was the first ship to reach the Titanic after it sank?*The Carpathia
-History: Where was paper money first used?*China
+History: Who is the greek messenger God?`Hermes
+History: King Richard The ________?`Lionheart
+History: Who shot Abraham Lincoln?`John Wilkes Booth
+History: Which two biblical cities did God destroy with fire and brimstone?`Sodom and Gomorrah
+History: Who killed Goliath?`David
+History: On what date (year included) did America become an independant nation?`July 4th 1776
+History: Who were the first people to be elected into the Aviation Hall of Fame?`The Wright Brothers
+History: What kind of teeth did George Washington have?`Wooden
+History: What did Marie Curie die of on 4th july 1934?`Radiation poisoning
+History: Whose wife was Roxana, his horse Bacephalus?`Alexander the Great
+History: Which frontiersman died at The Alamo?`Davey Crockett
+History: Who was known as 'The Peanut President'?`Jimmy Carter
+History: What divides the American north from the south?`Mason-Dixon line
+History: In what year did the Berlin wall come down?`1989
+History: Name the first automobile racetrack in America?`Indianapolis Motor Speedway
+History: Who was the first person to break the sound barrier?`Chuck Yager
+History: When did Disneyland open?`1955
+History: What was the leading cause of death in the late 19th century?`Tuberculosis
+History: Where did the Bay of Pigs take place?`Cuba
+History: Adolf Hitler became chancellor of Germany in 1928, 1930 or 1933?`1933
+History: When did Israel declare independence?`14 may 1948
+History: When did the first man walk on the moon?`1968
+History: Who invented the smallpox vaccine?`Edward Jenner
+History: Who invented the telescope?`Galileo Galilei
+History: Who murdered Julius Caesar?`Marcus Brutus
+History: Who said 'Et Tu Brute'?`Julius Caesar
+History: Who fiddled while Rome burned?`Nero
+History: When was Nelson Mandela released from Robben Island?`1990
+History: Where is the Machu Picchu?`Peru
+History: Who led the children of Israel out of Egypt?`Moses
+History: The ______ Tea Party?`Boston
+History: What did 'D.M.Z' stand for in the Vietnam war?`Demilitarized Zone
+History: Who assassinated president Kennedy?`Lee Harvey Oswald
+History: What was the name of the scandal that resulted in the resignation of president Nixon?`Watergate
+History: What was the average age of united states soldiers in the Vietnam war?`Nineteen
+History: Where's the famed Arch of Hadrian?`Ahtens
+History: What did Wilhelm Roentgen discover in 1895?`X-rays
+History: Who saught to create The Great Society?`Lyndon Johnson
+History: Who built Camelot?`King Arthur
+History: Who is the Norse God of Thunder and War?`Thor
+History: Who was Hercules' father?`Zeus
+History: What Titan had snakes for hair?`Medusa
+History: Who is the Norse God of Wisdom and War?`Odin
+History: Who is the Norse God of Mischief?`Loki
+History: Who was Hercules' stepmother?`Hera
+History: How many children did Noah have?`Three
+History: What was Adolf Hitler's religion?`Roman Catholic
+History: What did the repair technicians of the first 'modern' computers wear while working?`Shorts and roller skates
+History: Where was the Septuagint written?`Alexandria
+History: Which Apollo space mission put the first men on the moon ?`Apollo 11
+History: What was the last Chinese Dynasty?`Manchu
+History: What is 9 metres high, 7 metres wide and 2,500 kilometres long?`Great Wall of China
+History: Who was the Greek Goddess of Spring?`Persephone
+History: Which people invented the compass?`The Chinese
+History: Who appeared on the back of a U.S banknote in 1875?`Pocahontas
+History: Where were the 1960 Summer Olympics held?`Rome
+History: In 1962, for what did Britain and France sign an agreement to build together?`Concorde
+History: Who was the Greek God of Wine?`Dionysus
+History: Dionysus was the Greek God of ______?`Wine
+History: What Egyptian object is also known as 'the Key to the Nile'?`Ankh
+History: In Egyptian mythology, who is known as the God of the Desert?`Ash
+History: In Egyptian mythology, who is the God of the Underworld?`Cherti
+History: In Egyptian mythology, of who was Isis the wife?`Osiris
+History: In Egyptian mythology, who was Horus' mother?`Isis
+History: In Egyptian mythology, what is the Life Force called?`Ka
+History: In Egyptian mythology, who is the God of the Dead?`Aker
+History: What was King Arthur's mother's name?`Igraine
+History: Who created the Round Table?`Merlin
+History: Who did Mark David Chapman assassinate?`John Lennon
+History: Who invented 'bifocal' lenses for eyeglasses?`Benjamin Franklin
+History: Who is identified with the word 'Eureka'?`Archimedes
+History: Who is known for the 'Theory of Evolution'?`Charles Darwin
+History: Who killed Jesse James?`Robert Ford
+History: Who led 900 followers in a mass suicide in 1979?`Jim Jones
+History: Who ordered the persecution of the Christians in which Peter and Paul died?`Nero
+History: Who first transmitted radio signals across the Atlantic?`Marconi
+History: Who was assassinated on december 8, 1980 in New York city?`John Lennon
+History: Who was assassinated on november 22, 1963 in Dallas?`President Kennedy
+History: Who was defeated at the battle of Little Bighorn?`George Custer
+History: German chemist Hennig Brand discovered phosphorus while he was examining ___?`Urine
+History: Hitler and Napoleon both had only one ___?`Testicle
+History: Ancient Egyptians slept on pillows made of?`Stone
+History: In 1975, what re-opened after an 8 year closure?`Suez canal
+History: Which two brothers committed the first daytime bank robbery on february 14, 1866?`Frank and Jesse James
+History: In greek mythology, who turned Arachne into a spider?`Athena
+History: What was the first Chinese Dynasty?`Shang
+History: What religious movement was founded by William Booth?`Salvation Army
+History: What was George Custer's horses' name?`Commanche
+History: Who was the only survivor of Custer's last stand?`His horse
+History: What was the D-Day invasion password?`Mickey Mouse
+History: In the 15th century, what was the war between the houses of Lancaster and York called?`War of the Roses
+History: Who discovered Jamaica?`Christopher Columbus
+History: What happened on screen for the first time in India in 1977?`Kissing
+History: What was the first ship to reach the Titanic after it sank?`The Carpathia
+History: Where was paper money first used?`China
