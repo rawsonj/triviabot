@@ -67,6 +67,7 @@ class triviabot(irc.IRCClient):
         self._current_points = 5
         self._questions_dir = Q_DIR
         self._lc = LoopingCall(self._play_game)
+        self._load_game()
 
     def _get_nickname(self):
         return self.factory.nickname
@@ -82,7 +83,6 @@ class triviabot(irc.IRCClient):
                    2 : 2,
                    3 : 1
                  }
-        # we must be starting up.
         if self._clue_number == 0:
             self._get_new_question()
             self._current_points = points[self._clue_number]
@@ -154,6 +154,7 @@ class triviabot(irc.IRCClient):
         else:
             if msg.lower().strip() == self._answer.answer.lower():
                 self._winner(user,channel)
+                self._save_game()
 
     def _winner(self,user,channel):
         '''
@@ -191,7 +192,7 @@ class triviabot(irc.IRCClient):
         try:
             self._admins.index(user)
         except:
-            self.msg(channel,
+            self.msg(user,
                 '''I'm nameless's trivia bot.\n'''+
                 '''Commands: score, standings, giveclue, help''')
             return
@@ -278,7 +279,7 @@ Current rankings were:
         if not path.exists(SAVE_DIR):
             makedirs(SAVE_DIR)
         with open(SAVE_DIR+'scores.json','w') as savefile:
-            json.dump(self._scores, savefile)
+            json.dumps(self._scores, savefile)
             print "Scores have been saved."
 
     def _load_game(self):
@@ -290,10 +291,13 @@ Current rankings were:
             return
         try:
             with open(SAVE_DIR+'scores.json','r') as savefile:
-                self._scores = json.load(savefile)
+                self._scores = json.loads(savefile)
         except:
             print "Save file doesn't exist."
             return
+        for name in self._scores.keys():
+            self._scores[name] = int(self._scores[name])
+        print self._scores
         print "Scores loaded."
 
     def _set_user_score(self, args, user, channel):
@@ -312,9 +316,10 @@ Current rankings were:
         Terminates execution of the bot.
         Need to dig into twisted to figure out how this happens.
         '''
-        #self.quit()
+        global reactor
+        self.quit(message='This is triviabot, signing off.')
+        reactor.stop()
         # figure out how to kill the bot
-        pass
 
     def _score(self,args,user,channel):
         '''
@@ -326,7 +331,7 @@ Current rankings were:
         except:
             self.msg(user,"You aren't in my database.")
 
-    def _next_question(self,*args):
+    def _next_question(self,args,user,channel):
         '''
         Administratively skips the current question.
         '''
@@ -382,7 +387,6 @@ class ircbotFactory(ClientFactory):
     protocol = triviabot
 
     def __init__(self,nickname='trivia'):
-    #        self.channel = channel
         self.nickname = nickname
 
     def clientConnectionLost(self, connector, reason):

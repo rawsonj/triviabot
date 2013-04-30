@@ -1,2 +1,3 @@
-questions/*
+savedata/*
 __pycache__/*
+*.pyc
