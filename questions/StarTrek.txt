@@ -2,13 +2,13 @@
 [Miscellaneous] A Jum-ja stick is also known as what*glop on a stick
 [Miscellaneous] How do you spell Barlow backwards*wolrab
 [Miscellaneous] How many episodes of Star Trek featuring Q do not have 'Q' in their title*4
-[Miscellaneous] In what city is Starfleet Headquarters located*san francisco*san francisco
+[Miscellaneous] In what city is Starfleet Headquarters located*san francisco
 [Miscellaneous] In what movie did Mark Lenard (aka Sarek) play a Klingon (movie number)*one
 [Miscellaneous] In what year was the Federation founded*2161
 [Miscellaneous] In ____ mode, all power to non-essential decks and systems is suspended. What word goes in the blank*grey
 [Miscellaneous] Old Romulan saying: never turn your back to _______*a breen
 [Miscellaneous] The episode 'Coda,' belongs to what series*voyager
-[Miscellaneous] The episode 'Crossfire,' belongs to what series*deep space nine*ds9
+[Miscellaneous] The episode 'Crossfire,' belongs to what series*deep space nine
 [Miscellaneous] Till the 22nd century, Bajoran society was strictly divided into castes, or ____*d'jarras
 [Miscellaneous] What class are the Breen disrupters classified*type 3
 [Miscellaneous] What class was the Enterprise NCC-1701-B*excelsior
@@ -23,7 +23,7 @@
 [Miscellaneous] When the 150 Jem'Hadar ships were going to attack the Tal Shiar & Obsidian Order, where did they hide*omarion nebula
 [Miscellaneous] Who was Spock's replacement in the never-aired Star Trek Series 2*xon
 [Star Trek I: The Motion Picture] In ST:TMP, what object threatens to collide with the Enterprise in a wormho*an asteroid
-[Star Trek I: The Motion Picture] The probe, in the form of Ilia, has been sent by ___*v'ger*v'ger
+[Star Trek I: The Motion Picture] The probe, in the form of Ilia, has been sent by ___*v'ger
 [Star Trek I: The Motion Picture] What class of starship is the USS Reliant*miranda
 [Star Trek I: The Motion Picture] What Federation space station is still unable to prevent itself from becoming the next victim of the energy cloud (Corrected! Thanks parasonic!)*epsilon nine
 [Star Trek I: The Motion Picture] What is used to destroy the asteroid in ST:TMP*photon torpedoes
@@ -41,26 +41,26 @@
 [Star Trek II: The Wrath of Khan] What song does Scotty play on Spock's funera*amazing grace
 [Star Trek II: The Wrath of Khan] What was a possible test site for Genesis and where the USS Reliant went to check it out*ceti alpha vi
 [Star Trek II: The Wrath of Khan] What's the name of the ship in the Starfleet Academy Sim you can't win*the kobayashi maru
-[Star Trek II: The Wrath of Khan] What's the name of the space laboratory*regula i*regula i
+[Star Trek II: The Wrath of Khan] What's the name of the space laboratory*regula i
 [Star Trek II: The Wrath of Khan] When Khan's Reliant is searching for the Enterprise, the enterprise hides in what nebula*mutara nebula
-[Star Trek III: The Search for Spock] How long is the Enterprise self-destruct sequence in Star Trek III*one minute*1 minute
+[Star Trek III: The Search for Spock] How long is the Enterprise self-destruct sequence in Star Trek III*1 minute
 [Star Trek III: The Search for Spock] How many violations of Starfleet regulations was Admiral Kirk charged with as a result of his actions in Star Trek III*9
 [Star Trek III: The Search for Spock] In Star Trek III, what does the security guard call Sulu*tiny
 [Star Trek III: The Search for Spock] What is the name of the starship sent to study the Genesis planet*USS Grissom
 [Star Trek III: The Search for Spock] Who commanded the USS Excelsior*captain styles
 [Star Trek IV: The Voyage Home] Chekov: "We are looking for the nuclear ______"*wessel
-[Star Trek IV: The Voyage Home] In Star Trek IV, to what hospital is the injured Chekov taken*mercy hospita*mercy hospital
+[Star Trek IV: The Voyage Home] In Star Trek IV, to what hospital is the injured Chekov taken*mercy hospital
 [Star Trek IV: The Voyage Home] In Star Trek IV, what cetacean biologist helps the crew recover the whales*gillian taylor
 [Star Trek IV: The Voyage Home] In Star Trek IV, where is the hospital located where Chekov is taken*the mission district
-[Star Trek IV: The Voyage Home] Kirk blames Spock's 'unusual' behaviour on… what*too much lds
+[Star Trek IV: The Voyage Home] Kirk blames Spock's 'unusual' behaviour on what*too much lds
 [Star Trek IV: The Voyage Home] What does the button of the supervisor at the manufacturing plant say*i quit smoking
 [Star Trek IV: The Voyage Home] What famous cracker maker is given special thanks in the ending credits (Submitted by locat)*nabisco
 [Star Trek IV: The Voyage Home] What is the radio frequency for the whales' transmitter in Star Trek IV*401 mhz
 [Star Trek IV: The Voyage Home] Where were the names of the two humpback whales*george and gracie
-[Star Trek IX: Insurrection] How many Ba'ku were there on the Ba'ku home world*six hundred*600
+[Star Trek IX: Insurrection] How many Ba'ku were there on the Ba'ku home world*six hundred
 [Star Trek IX: Insurrection] Subspace weapons were banned in the ________ Accord (Answer corrected - thanks FAdmThiago!*khitomer
 [Star Trek IX: Insurrection] What play was Data rehearsing before he left to help study the Ba'ku (Answer corrected!)*hms pinafore
-[Star Trek IX: Insurrection] What was the sub-title of Star Trek Insurrection*the battle for paradise has begun*the battle for paradise has begun
+[Star Trek IX: Insurrection] What was the sub-title of Star Trek Insurrection*the battle for paradise has begun
 [Star Trek IX: Insurrection] What's the name of the Ba'ku woman, Picard falls in love with*Anij
 [Star Trek IX: Insurrection] What's the name of the Son'a leader*ru'afo
 [Star Trek IX: Insurrection] When was the premiere of Insurrection dd/mm/yy (Answer corrected!)*11/12/98
@@ -75,20 +75,20 @@
 [Star Trek V: The Final Frontier] Who is Spock's half-brother (Series corrected! Thanks!)*sybok
 [Star Trek V: The Final Frontier] Who plays the Federation ambassador to Nimbus III in Star Trek V*david warner
 [Star Trek VI: The Undiscovered Country] In Star Trek VI, who plays Worf's grandfather, the defense lawyer for Kirk and McCoy*Michael dorn
-[Star Trek VI: The Undiscovered Country] In the Penal colony, where (body part) does Kirk kicks a prisoner (locat)*Genitals*knee
+[Star Trek VI: The Undiscovered Country] In the Penal colony, where (body part) does Kirk kicks a prisoner (locat)*Genitals
 [Star Trek VI: The Undiscovered Country] Name the eyepatch-wearing Klingon foe of the Enterprise in Star Trek VI*general chang
 [Star Trek VI: The Undiscovered Country] What high-ranking Admiral betrays Starfleet in Star Trek VI*admiral cartwright
-[Star Trek VII: Generations] How many different kinds of Christmas ornaments were on the tree in this movie :)*fourteen*14
-[Star Trek VII: Generations] In the opening scene, what is seen smashing in to the hull of the Enterprise-B*a bottle of wine*wine
+[Star Trek VII: Generations] How many different kinds of Christmas ornaments were on the tree in this movie :)*fourteen
+[Star Trek VII: Generations] In the opening scene, what is seen smashing in to the hull of the Enterprise-B*a bottle of wine
 [Star Trek VII: Generations] In this horrible movie, who did (full first and last name) Data push off the boat on the holodeck*Beverly Crusher
 [Star Trek VII: Generations] What is the vintage year of the bottle of wine at that breaks on the Enterprise-B's hull (Submitted by locat)*2265
-[Star Trek VII: Generations] Where is Captain James T. Kirk buried (Planet) (answers updated!)*Tora Naprem*Veridian III
+[Star Trek VII: Generations] Where is Captain James T. Kirk buried (Planet)*Veridian III
 [Star Trek VIII: First Contact] According to Picard, what is the temperature of a Borg ship*39.1
 [Star Trek VIII: First Contact] According to Will Riker, how many people live on the moon*50 million
-[Star Trek VIII: First Contact] Admiral Hayes: "Our colony on ____ _____ was destroyed this morning. Long range sensors have picked up…" Left:*ivor prime
+[Star Trek VIII: First Contact] Admiral Hayes: "Our colony on ____ _____ was destroyed this morning. Long range sensors have picked up" Left:*ivor prime
 [Star Trek VIII: First Contact] Data: "At maximum warp, it will take us _____ hours 25 minutes..."*3
 [Star Trek VIII: First Contact] Data: "Captain there was been no unusual activity along the Romulan border for the last ____ months. It seems highly unlikely that they would choose..."*9
-[Star Trek VIII: First Contact] Data: "Sensors show ____________ particles emanating from the [Borg] sphere…" Picard: "They're creating a temporal vortex…" Riker: "Time travel!"*chronometric
+[Star Trek VIII: First Contact] Data: "Sensors show ____________ particles emanating from the [Borg] sphere" Picard: "They're creating a temporal vortex" Riker: "Time travel!"*chronometric
 [Star Trek VIII: First Contact] Data: "The atmosphere contains high concentrations of _______, carbon monoxide, and fluorine"*methane
 [Star Trek VIII: First Contact] EMH: ".. Borg implants can cause severe skin irritations. Perhaps you'd like an _________ cream?"*analgesic
 [Star Trek VIII: First Contact] EMH: "I'm a doctor, not a ________"*doorstop
@@ -97,13 +97,12 @@
 [Star Trek VIII: First Contact] How many Maglocks hold the Enterprise-E's deflector into place*3
 [Star Trek VIII: First Contact] In the seconds before the Enterprise E travelled back in time to restore history, how many Borg were detected inhabiting Earth*9 billion
 [Star Trek VIII: First Contact] Picard : "Bridge to transporter room _____, beam the defiant survivors on board..."*3
-[Star Trek VIII: First Contact] Picard got hold of a Borg neural processor from who's body*ensign lynch*lynch
+[Star Trek VIII: First Contact] Picard got hold of a Borg neural processor from who's body*ensign lynch
 [Star Trek VIII: First Contact] Picard shoots and kills several Borg drones while in the Holodeck. Which piece of Borg technology was he after in their bodies*neural processor
-[Star Trek VIII: First Contact] Picard, Worf and and which other crewmember went to unlock Enterprise-E's deflector dish*lieutenant hawk*Lt. Hawk
+[Star Trek VIII: First Contact] Picard, Worf and and which other crewmember went to unlock Enterprise-E's deflector dish*lieutenant hawk
 [Star Trek VIII: First Contact] Picard: "Admiral _____ is mobilizing a fleet in the Typhon Sector"*hayes
 [Star Trek VIII: First Contact] Picard: "Mister Data, put starfleet frequency ____ on audio"*1486
 [Star Trek VIII: First Contact] Picard: Sensor sweep: "Twenty particles of space dust per cubic, fifty-two ___________ _________ ______, and a class 2 comet! Wow!"*ultraviolet radiation spikes
-[Star Trek VIII: First Contact] Picard: Sensor sweep: "Twenty particles of space dust per cubic, fifty-two ___________ _________ ______, and a class 2 comet! Wow!"*ultraviolet radiation spikes*77
 [Star Trek VIII: First Contact] The borg tried to convert the Enterprise-E's deflector dish into what*interplexing beacon
 [Star Trek VIII: First Contact] To what song did Picard and Lily Sloane dance on the holodeck in this movie*'moonlight becomes you'
 [Star Trek VIII: First Contact] To what song did Picard and Lily Sloane dance on the holodeck in this movie*'moonlight becomes you'
@@ -117,42 +116,42 @@
 [Star Trek VIII: First Contact] Who narrated "The Making of Star Trek: First Contact"*levar burton
 [Star Trek VIII: First Contact] Who said "Don't try to be a great man, just be a man. Let history make its own judgement." (Answer corrected!)*zefram cochrane
 [Star Trek VIII: First Contact] Worf: "The Borg have cut primary power to all decks, except _______"*16
-[Star Trek VIII: First Contact] Worf: "The Borg will adapt quickly. We will be able to fire... ______ shots at most."*twelve*12
-[Star Trek VIII: First Contact] Zefram Cochrane's ship*The Phoenix*Phoenix
+[Star Trek VIII: First Contact] Worf: "The Borg will adapt quickly. We will be able to fire... ______ shots at most."*twelve
+[Star Trek VIII: First Contact] Zefram Cochrane's ship*The Phoenix
 [Star Trek VIII: First Contact] Zephram Cochrane "I don't wanna be a ______!" What word goes in the blank*statue
-[Star Trek: ?] "For I looked into the future as far as the human eye could see, saw a vision of our world and all the wonders that would be…" is the text on the dedication plaque of which Federation starship? /\ ?*voyager
+[Star Trek: ?] "For I looked into the future as far as the human eye could see, saw a vision of our world and all the wonders that would be" is the text on the dedication plaque of which Federation starship? ? ?*voyager
 [Star Trek: ?] Which doctor said: "I'm a doctor, not a bricklayer."*dr. mccoy
-[Star Trek: ?] Which movie was made with NO special effects from ILM (Roman Numeral number)*star trek v*V
-[Star Trek: Deep Space Nine] "Apocalypse Rising": "Brag all you want! But don't get between me and the _________!" /\ ?*blood wine
+[Star Trek: ?] Which movie was made with NO special effects from ILM*Star Trek V
+[Star Trek: Deep Space Nine] "Apocalypse Rising": "Brag all you want! But don't get between me and the _________!" ? ?*blood wine
 [Star Trek: Deep Space Nine] A cloaked ship can be detected with what*an anti-proton beam
 [Star Trek: Deep Space Nine] According to Garak, what colour is the Romulan heart (Answer updated!)*grey
-[Star Trek: Deep Space Nine] According to Sisko, how many Bajorans were killed by the Cardassians during the occupation*five million*5 million
-[Star Trek: Deep Space Nine] According to the changeling Sisko encountered on Earth in "Paradise Lost", how many changelings were on earth*four*4
+[Star Trek: Deep Space Nine] According to Sisko, how many Bajorans were killed by the Cardassians during the occupation*five million
+[Star Trek: Deep Space Nine] According to the changeling Sisko encountered on Earth in "Paradise Lost", how many changelings were on earth*four
 [Star Trek: Deep Space Nine] An old Bajoran saying holds that 'The land and the people are ___*one
 [Star Trek: Deep Space Nine] At which ship did Benjamin Sisko serve as Executive Officer under then-Captain Leyton*uss okinawa
 [Star Trek: Deep Space Nine] Bajoran: The religious Vedek Assembly is led by the ___*kai
 [Star Trek: Deep Space Nine] Brock Peters, who plays Ben Sisko's father, also portrayed in Star Trek IV and Star Trek VI. What is the name of the character he played*Admiral Cartwright
 [Star Trek: Deep Space Nine] David Gerrold, the author of TOS:"The Trouble with Tribbles" appears in the DS9 "Trials and Tribble-ations" episode as what character*a security officer
 [Star Trek: Deep Space Nine] Dax's sixth host :)*joran
-[Star Trek: Deep Space Nine] Doctor Bashir was the template for what hologram*lmh*LMH
-[Star Trek: Deep Space Nine] Fill in: In "Paradise Lost", Benjamin Sisko encountered on Earth a changeling imitating _____ _______.*miles o'brien*chief o'brien
+[Star Trek: Deep Space Nine] Doctor Bashir was the template for what hologram*LMH
+[Star Trek: Deep Space Nine] Fill in: In "Paradise Lost", Benjamin Sisko encountered on Earth a changeling imitating _____ _______.*chief o'brien
 [Star Trek: Deep Space Nine] For how many years was O'Brien imprisoned in 'Hard Time'*20
-[Star Trek: Deep Space Nine] How long ago did the REAL Anjohl Tennan die *nine years*9 years
+[Star Trek: Deep Space Nine] How long ago did the REAL Anjohl Tennan die *nine years
 [Star Trek: Deep Space Nine] How long do Bajoran women carry their children*less than five months
 [Star Trek: Deep Space Nine] How many brothers and sisters does Morn have*17
 [Star Trek: Deep Space Nine] How many Cardassians were left behind in stasis pods as a boobytrap on Empok Nor*3
 [Star Trek: Deep Space Nine] How many children did Dukat tell Sisko he has in "The Maquis" (submitted by Anna Holmgren)*7
 [Star Trek: Deep Space Nine] How many hours a day are there on Deep Space Nine*26
 [Star Trek: Deep Space Nine] How many kids ddid ensign Pran have since the last time he budded*18
-[Star Trek: Deep Space Nine] How many orbs have been discovered in the last 10,000 years*9*9
+[Star Trek: Deep Space Nine] How many orbs have been discovered in the last 10,000 years*nine
 [Star Trek: Deep Space Nine] How many stomachs does Morn have*2
-[Star Trek: Deep Space Nine] How many times does Worf defeat a Jem'Hadar in the internment center*seven*7
+[Star Trek: Deep Space Nine] How many times does Worf defeat a Jem'Hadar in the internment center*seven
 [Star Trek: Deep Space Nine] How many Weyoun clones have there been*8
 [Star Trek: Deep Space Nine] How old was Jake Sisko when he arrived on DS9*15
 [Star Trek: Deep Space Nine] If you display a Horga'hn to the Risian locals, you show you are seeking _________.*jamaharon
 [Star Trek: Deep Space Nine] In "A simple investigation", what does the data crystal that Arissa want contain*memories
 [Star Trek: Deep Space Nine] In "Bar association", Quark is beaten up by members of what species*nausicaans
-[Star Trek: Deep Space Nine] In "Doctor Bashir, I presume?", Which Voyager castmember has a guest appearance*the doctor*robert picardo
+[Star Trek: Deep Space Nine] In "Doctor Bashir, I presume?", Which Voyager castmember has a guest appearance*the doctor
 [Star Trek: Deep Space Nine] In "In the cards", how does Dr. Giger want to procure eternal life*cell entertainment
 [Star Trek: Deep Space Nine] In "Invasive Procedures" Verad steals what*dax's symbiont
 [Star Trek: Deep Space Nine] In "Strange Bedfellows", for which missing member of the station crew was Quark pouring a drink every day*ezri
@@ -169,9 +168,9 @@
 [Star Trek: Deep Space Nine] In the episode "Sacrifice of Angels," how many ships were in the Dominion Fleet*1254
 [Star Trek: Deep Space Nine] In the episode "The Quickening", Bashir and Dax cure a disease of a dying race. What is this disease called*the blight
 [Star Trek: Deep Space Nine] In the episode, "Body Parts", Quark is diagnosed with what disease*dorek syndrome
-[Star Trek: Deep Space Nine] In the episode, “Armageddon Game” Bashir and O'Brien travel to a lab orbiting T'Lani III in an effort to eliminate what*the harvesters
-[Star Trek: Deep Space Nine] In the episode, “Melora,” Bashir falls in love with an ensign whose species is unable to walk in "normal" gravity. What is her name*Ensign Melora Pazlar
-[Star Trek: Deep Space Nine] In the episode, “Rivals”, what club is in competition with Quark’s bar*club martus
+[Star Trek: Deep Space Nine] In the episode, "Armageddon Game" Bashir and O'Brien travel to a lab orbiting T'Lani III in an effort to eliminate what*the harvesters
+[Star Trek: Deep Space Nine] In the episode, "Melora," Bashir falls in love with an ensign whose species is unable to walk in "normal" gravity. What is her name*Ensign Melora Pazlar
+[Star Trek: Deep Space Nine] In the episode, "Rivals", what club is in competition with Quark's bar*club martus
 [Star Trek: Deep Space Nine] In the excellent episode "One Little Ship", the doctor says that Miles is 'smaller' since he is sitting ____ metres closer to the center of the anomaly. (Season 6 episode 13)*Calder II
 [Star Trek: Deep Space Nine] In the mirror universe, who helped the Terran slaves escape*quark
 [Star Trek: Deep Space Nine] In the parallel universe, Terok Nor is ruled by Kira for whom*the alliance
@@ -180,7 +179,7 @@
 [Star Trek: Deep Space Nine] In what episode did Odo finally meet his peop*the search
 [Star Trek: Deep Space Nine] In what episode do the members of the station find their fantasies coming to life (e.g. Rumpelstiltskin)*if wishes were horses
 [Star Trek: Deep Space Nine] In what episode do we first encounter the parallel universe*crossover
-[Star Trek: Deep Space Nine] In what episode do Worf and Jadzia get together*looking for par'mach in all the wrong places*looking for par'mach in all the wrong places
+[Star Trek: Deep Space Nine] In what episode do Worf and Jadzia get together*looking for par'mach in all the wrong places
 [Star Trek: Deep Space Nine] In what episode does an entity take over Keiko's body and blackmails Chief O'Brien to sabotage the station (Blade{a})*the assignment
 [Star Trek: Deep Space Nine] In what episode does Bashir pose as a 1960s secret agent in a malfunctioning holosuite program*our man bashir
 [Star Trek: Deep Space Nine] In what episode does Grilka first appear*the house of quark
@@ -196,9 +195,9 @@
 [Star Trek: Deep Space Nine] In which episode does Odo get his shapeshifting abilities back*The Begotten
 [Star Trek: Deep Space Nine] In which episode does Worf join the series*Helena Rozhenko
 [Star Trek: Deep Space Nine] In which episode does Worf join the series*way of the warrior
-[Star Trek: Deep Space Nine] In “The Sword of Kahless” who helps Dax and Worf look for the sword of Kahless*kor
+[Star Trek: Deep Space Nine] In "The Sword of Kahless" who helps Dax and Worf look for the sword of Kahless*kor
 [Star Trek: Deep Space Nine] It was said that no __ has ever killed another. What word goes in the blank*changeling
-[Star Trek: Deep Space Nine] Just before his death, Liam Bilby asks Miles to care for … what? (Answer updated!)*his cat
+[Star Trek: Deep Space Nine] Just before his death, Liam Bilby asks Miles to care for  what?*his cat
 [Star Trek: Deep Space Nine] Kira _____. (name) What word goes in the blank*nerys
 [Star Trek: Deep Space Nine] Liquidator Brunt is part of what Ferengi organization*fca
 [Star Trek: Deep Space Nine] Name Kor's special title: _____ master*dahar
@@ -207,62 +206,43 @@
 [Star Trek: Deep Space Nine] Name the Cardassian that Quark loves*natima
 [Star Trek: Deep Space Nine] Name the drug which the Jem'Hadar must have to survive.*ketracel white
 [Star Trek: Deep Space Nine] Name the game of chance played in Quark's bar on a table similar to a roulette whee*dabo
-[Star Trek: Deep Space Nine] Name the Klingon, which is also the son of Duras, who tried to steal the Sword of Kahless from Kor, Worf and Jadzia Dax*tora*toral
+[Star Trek: Deep Space Nine] Name the Klingon, which is also the son of Duras, who tried to steal the Sword of Kahless from Kor, Worf and Jadzia Dax*toral
 [Star Trek: Deep Space Nine] Name the main Vorta administrator*weyoun
 [Star Trek: Deep Space Nine] Name the only confirmed Section-31 member*sloan
 [Star Trek: Deep Space Nine] Name the spy who disguises as a human in "Trials and Tribbleations" who causes the time trave*Kim
 [Star Trek: Deep Space Nine] Name the two time agents from Trials and Tribble-ations in alphabetical order*dulmer and lucsly
 [Star Trek: Deep Space Nine] Name the two time agents from Trials and Tribble-ations in alphabetical order*Nichelle Nichols
-[Star Trek: Deep Space Nine] Name the two time agents from Trials and Tribble-ations in alphabetical order*Nichelle Nichols*dulmer and lucsly
+[Star Trek: Deep Space Nine] Name the two time agents from Trials and Tribble-ations in alphabetical order*dulmer and lucsly
 [Star Trek: Deep Space Nine] Name the vedek with whom Kira was once romantically involved*bareil
-[Star Trek: Deep Space Nine] On the fourth anniversary of his wife's death, Sisko meets what facticous woman that he falls in love with*fenna*fenna
-[Star Trek: Deep Space Nine] On the fourth anniversary of his wife's death, Sisko meets what facticous woman that he falls in love with*two hundred twenty nine
+[Star Trek: Deep Space Nine] On the fourth anniversary of his wife's death, Sisko meets what facticous woman that he falls in love with*fenna
 [Star Trek: Deep Space Nine] On what ship did Benjamin Sisko serve when the Federation engaged the Borg cube at Wolf 359*uss saratoga
 [Star Trek: Deep Space Nine] On which holographic character's love advice have Bashir and Odo relied*Vic Fontaine
-[Star Trek: Deep Space Nine] Other than Q and Sisko, which regular on this series appeared in both TNG and VOY (corrected! Thanks parasonic)*armin shimmerman*armin shimmerman
 [Star Trek: Deep Space Nine] Other than Q and Sisko, which regular on this series appeared in both TNG and VOY (corrected! Thanks parasonic)*quark
 [Star Trek: Deep Space Nine] Other than Weyoun, which other character does Jeffrey Combs play in DS9 episodes*brunt
 [Star Trek: Deep Space Nine] Quark once married a Klingon woman named what*grilka
 [Star Trek: Deep Space Nine] Sisko: "In the old days, operation officers wore red, command officers wore gold." Dax: "And women wore ____."*less
-[Star Trek: Deep Space Nine] Sisko: "In the old days, operation officers wore red, command officers wore gold." Dax: "And women wore ____."*less
-[Star Trek: Deep Space Nine] Starting with 1 tribble, with an average litter of 10 every 12 hours, after 3 days… how many tribbles would there be (according to Jadzia Dax and Spock)*1771561
-[Star Trek: Deep Space Nine] The command center of Deep Space Nine is commonly called _____*ops
+[Star Trek: Deep Space Nine] Starting with 1 tribble, with an average litter of 10 every 12 hours, after 3 days how many tribbles would there be (according to Jadzia Dax and Spock)*1771561
 [Star Trek: Deep Space Nine] The command center of Deep Space Nine is commonly called _____*ops
 [Star Trek: Deep Space Nine] The disease that the Dominion unleashed on the population of the Teplan system was known as (the phage, the blight, the fever, the plague)*the blight
 [Star Trek: Deep Space Nine] The episode title "...Nor the Battle to the Strong." has been taken from which book in the bible*ecclesiastes
 [Star Trek: Deep Space Nine] The episode title "Let he who is without sin." has been taken from which book of the Bible*john
-[Star Trek: Deep Space Nine] The episode title "Let he who is without sin." has been taken from which book of the Bible*john
 [Star Trek: Deep Space Nine] The first alien to come out of the wormhole is named what*tosk
-[Star Trek: Deep Space Nine] The little worms that Ferengi like to eat are called... what*Vertion particles
-[Star Trek: Deep Space Nine] The little worms that Ferengi like to eat are called... what*Vertion particles*tube grubs
-[Star Trek: Deep Space Nine] The name of Dukat's freighter in 'Return to Grace' was the .... what*Gamma Trianguli VI
-[Star Trek: Deep Space Nine] The name of Dukat's freighter in 'Return to Grace' was the .... what*Gamma Trianguli VI*groumall
+[Star Trek: Deep Space Nine] The little worms that Ferengi like to eat are called... what*tube grubs
 [Star Trek: Deep Space Nine] The name of Dukat's freighter in 'Return to Grace' was the .... what*groumall
 [Star Trek: Deep Space Nine] The Risian female Arandis was played by which former Miss Universe America*vanessa williams
-[Star Trek: Deep Space Nine] The stone spires that marked ancient Bajoran cities' place in the universe were called... what*960
 [Star Trek: Deep Space Nine] The stone spires that marked ancient Bajoran cities' place in the universe were called... what*Argus X
 [Star Trek: Deep Space Nine] To defeat Grilka's guard, Quark gets help from whom*worf
 [Star Trek: Deep Space Nine] To whom was Torias Dax married*nilani khan
 [Star Trek: Deep Space Nine] What action did the Jem'Hadar perform when the founder died in "The Ship"*suicide
-[Star Trek: Deep Space Nine] What action did the Jem'Hadar perform when the founder died in "The Ship"*suicide
-[Star Trek: Deep Space Nine] What admiral is the head of Starfleet Operations*223
 [Star Trek: Deep Space Nine] What admiral is the head of Starfleet Operations*admiral leyton
-[Star Trek: Deep Space Nine] What admiral is the head of Starfleet Operations*zhian'tara
-[Star Trek: Deep Space Nine] What admiral is the head of Starfleet Operations*zhian'tara*Admiral leyton
 [Star Trek: Deep Space Nine] What are the ever-loyal soldiers that work for the Founders called*jem'hadar
-[Star Trek: Deep Space Nine] What are the two Cardassian scientists names in 'Destiny' Answer corrected! Thanks to Blade{a}!*345
 [Star Trek: Deep Space Nine] What are the two Cardassian scientists names in 'Destiny' Answer corrected! Thanks to Blade{a}!*gilora and ulani
 [Star Trek: Deep Space Nine] What are the two races in 'Armageddon Game' who are trying to stop a deadly biogenic war*Emony
 [Star Trek: Deep Space Nine] What are the two races in 'Armageddon Game' who are trying to stop a deadly biogenic war*Telani and Kellerun
 [Star Trek: Deep Space Nine] What Bajoran First Minister was Kira attracted to*shakaar
 [Star Trek: Deep Space Nine] What Bajoran scientist studied Odo after he was discovered*dr. mora pol
-[Star Trek: Deep Space Nine] What card game did Quark suggest he and Odo play to pass the time in 'The Ascent'*captain Will Decker
-[Star Trek: Deep Space Nine] What card game did Quark suggest he and Odo play to pass the time in 'The Ascent'*Trivas system
-[Star Trek: Deep Space Nine] What card game did Quark suggest he and Odo play to pass the time in 'The Ascent'*Trivas system*Fizzbin
-[Star Trek: Deep Space Nine] What card game did Quark suggest he and Odo play to pass the time in 'The Ascent'*USS Prometheus
-[Star Trek: Deep Space Nine] What card game did Quark suggest he and Odo play to pass the time in 'The Ascent'*USS Prometheus*Fizzbin
+[Star Trek: Deep Space Nine] What card game did Quark suggest he and Odo play to pass the time in 'The Ascent'*Fizzbin
 [Star Trek: Deep Space Nine] What causes the the failure of the Defiant's computers in "For the uniform"*a cascade computer virus
-[Star Trek: Deep Space Nine] What creatures were, according to Worf, once considered "mortal enemies of the Empire"*tribbles
 [Star Trek: Deep Space Nine] What creatures were, according to Worf, once considered "mortal enemies of the Empire"*tribbles
 [Star Trek: Deep Space Nine] What did the Bajoran use for early space trave*solar-sail ships
 [Star Trek: Deep Space Nine] What did the Bajoran use for early space trave*solar-sail vessels
@@ -307,14 +287,14 @@
 [Star Trek: Deep Space Nine] What is the name of Enabran Tain´s housekeeper (submitted by Anna Holmgren)*mila
 [Star Trek: Deep Space Nine] What is the name of Garak´s father (full name) (submitted by Anna Holmgren)*enabran tain
 [Star Trek: Deep Space Nine] What is the name of General Martok's son*drex
-[Star Trek: Deep Space Nine] What is the name of Grand Nagus Zek’s Hupyrian servant*Maihar'du
-[Star Trek: Deep Space Nine] What is the name of Grand Nagus Zek’s son*krax
+[Star Trek: Deep Space Nine] What is the name of Grand Nagus Zek's Hupyrian servant*Maihar'du
+[Star Trek: Deep Space Nine] What is the name of Grand Nagus Zek's son*krax
 [Star Trek: Deep Space Nine] What is the name of Grilka's guard*thopok
 [Star Trek: Deep Space Nine] What is the name of Gul Dukat's daughter (Answer corrected!)*tora ziyal
 [Star Trek: Deep Space Nine] What is the name of Gul Dukat's daughter (Answer corrected!)*ziyal
 [Star Trek: Deep Space Nine] What is the name of Kasidy Yates' ship*xhosa
 [Star Trek: Deep Space Nine] What is the name of Kira's father*taban*Taban
-[Star Trek: Deep Space Nine] What is the name of Kira's father /\ ?*taban
+[Star Trek: Deep Space Nine] What is the name of Kira's father ? ?*taban
 [Star Trek: Deep Space Nine] What is the name of Major Kira´s mother (full name) (submitted by Anna Holmgren)*kira meru
 [Star Trek: Deep Space Nine] What is the name of the alien race, that invaded the Klingon homeworld long ago*hur'q
 [Star Trek: Deep Space Nine] What is the name of the alien race, that invaded the Klingon homeworld long ago*hur'q
@@ -357,7 +337,7 @@
 [Star Trek: Deep Space Nine] What is the sea of Changelings called*The great link
 [Star Trek: Deep Space Nine] What is the sea of Changelings called*the great link
 [Star Trek: Deep Space Nine] What is the title of the novel Sisko receives from Michael Eddington*les miserables
-[Star Trek: Deep Space Nine] What is the ‘Trill Rite of Closure’ called*zhian'tara
+[Star Trek: Deep Space Nine] What is the ‘Trill Rite of Closure' called*zhian'tara
 [Star Trek: Deep Space Nine] What is Worf's brother's name (Blade{a})*kurn
 [Star Trek: Deep Space Nine] What is Worf's favorite weapon*mek'leth
 [Star Trek: Deep Space Nine] What item did Sisko leave behind on DS9 as a message to Gul Dukat*baseball
@@ -383,9 +363,7 @@
 [Star Trek: Deep Space Nine] What was the full Cardassian name given to Odo when he was being studied in a Bajoran laboratory*odo'ital
 [Star Trek: Deep Space Nine] What was the name of Tora Ziyal´s mother (full name) (submitted by Anna Holmgren)*tora naprem
 [Star Trek: Deep Space Nine] What's the average temperature of the Breen home world*approximately 220 kelvin
-[Star Trek: Deep Space Nine] What's the average temperature of the Breen home world*Gamma Hydra IV
-[Star Trek: Deep Space Nine] What's the average temperature of the Breen home world*Particle 010
-[Star Trek: Deep Space Nine] What’s the name of Keiko and O’Brien’s daughter*molly
+[Star Trek: Deep Space Nine] What's the name of Keiko and O'Brien's daughter*molly
 [Star Trek: Deep Space Nine] When Odo and Lwaxana were stuck in a turbolift, where did Odo 'revert'*her lap
 [Star Trek: Deep Space Nine] When Odo and Lwaxana were stuck in a turbolift, where did Odo 'revert'*in her lap
 [Star Trek: Deep Space Nine] Where did Morn keep his latinum*his stomach
@@ -434,25 +412,25 @@
 [Star Trek: Deep Space Nine] Who exposes the changeling in "Apocalypse Rising"*odo
 [Star Trek: Deep Space Nine] Who exposes the changeling in "Apocalypse Rising"*odo
 [Star Trek: Deep Space Nine] Who hit Lancelot in the holosuite*kira*kira
-[Star Trek: Deep Space Nine] Who is Ben Sisko’s father? (full name)*joseph sisko*joseph sisko
-[Star Trek: Deep Space Nine] Who is Ben Sisko’s father? (full name)*ryetalyn
-[Star Trek: Deep Space Nine] Who is Ben Sisko’s father? (full name)*ryetalyn*joseph sisko
+[Star Trek: Deep Space Nine] Who is Ben Sisko's father? (full name)*joseph sisko*joseph sisko
+[Star Trek: Deep Space Nine] Who is Ben Sisko's father? (full name)*ryetalyn
+[Star Trek: Deep Space Nine] Who is Ben Sisko's father? (full name)*ryetalyn*joseph sisko
 [Star Trek: Deep Space Nine] Who is Captain Sisko's girlfriend, whom he later married*kasidy yates
 [Star Trek: Deep Space Nine] Who is Dax's current host (duh)*ezri
 [Star Trek: Deep Space Nine] Who is exposed as a changeling instead of Gowron in "Apocalypse Rising"*Gary Mitchell
 [Star Trek: Deep Space Nine] Who is exposed as a changeling instead of Gowron in "Apocalypse Rising"*Gary Mitchel*martok
 [Star Trek: Deep Space Nine] Who is exposed as a changeling instead of Gowron in "Apocalypse Rising"*martok
-[Star Trek: Deep Space Nine] Who is exposed as a changeling instead of Gowron in "Apocalypse Rising" /\*martok
+[Star Trek: Deep Space Nine] Who is exposed as a changeling instead of Gowron in "Apocalypse Rising"?*martok
 [Star Trek: Deep Space Nine] Who is exposed as a changeling instead of Gowron in "Apocalypse Rising"*Verad
 [Star Trek: Deep Space Nine] Who is exposed as a changeling instead of Gowron in "Apocalypse Rising"*Verad*martok
-[Star Trek: Deep Space Nine] Who is Garak’s former Cardassian mentor*enabran tain
-[Star Trek: Deep Space Nine] Who is Garak’s former Cardassian mentor*enabran Tain
-[Star Trek: Deep Space Nine] Who is Garak’s former Cardassian mentor*Yeoman Rand
+[Star Trek: Deep Space Nine] Who is Garak's former Cardassian mentor*enabran tain
+[Star Trek: Deep Space Nine] Who is Garak's former Cardassian mentor*enabran Tain
+[Star Trek: Deep Space Nine] Who is Garak's former Cardassian mentor*Yeoman Rand
 [Star Trek: Deep Space Nine] Who is on trial in the epsiode "Rules of Engagement"*worf
 [Star Trek: Deep Space Nine] Who is on trial in the epsiode "Rules of Engagement"*Akorem Laan
 [Star Trek: Deep Space Nine] Who is on trial in the epsiode "Rules of Engagement"*Akorem Laan*worf
 [Star Trek: Deep Space Nine] Who is on trial in the epsiode "Rules of Engagement"*worf
-[Star Trek: Deep Space Nine] Who is the Ferengi Grand Nagus /\*zek
+[Star Trek: Deep Space Nine] Who is the Ferengi Grand Nagus ?*zek
 [Star Trek: Deep Space Nine] Who is the Ferengi Grand Nagus*zek
 [Star Trek: Deep Space Nine] Who is the mother of Gul Dukat's daughter (Answer corrected!)*Tora Naprem
 [Star Trek: Deep Space Nine] Who is the present leader of the Klingon Empire (Answer corrected!)*chancellor martok
@@ -523,8 +501,8 @@
 [Star Trek: The Next Generation] "Gagh is always best served ____" What word goes in the blank*live
 [Star Trek: The Next Generation] "Picard, Jean-Luc, serial number SP-937-??*215
 [Star Trek: The Next Generation] "Picard, Jean-Luc, serial number SP-937-??*215
-[Star Trek: The Next Generation] "This is Gul _____ security clearance ADL40…" ("The Maquis")*dukat
-[Star Trek: The Next Generation] "This is Gul _____ security clearance ADL40…" ("The Maquis")*dukat
+[Star Trek: The Next Generation] "This is Gul _____ security clearance ADL40" ("The Maquis")*dukat
+[Star Trek: The Next Generation] "This is Gul _____ security clearance ADL40" ("The Maquis")*dukat
 [Star Trek: The Next Generation] 'The Neutral Zone' - What DS9 character does the Romulan Captain play*gul dukat
 [Star Trek: The Next Generation] According to 'Yesterday's Enterprise', who was captain of the Enterprise-C*rachel garrett*rachel garrett
 [Star Trek: The Next Generation] According to Picard, all serious equestrians own their own ... what*saddle
@@ -539,7 +517,7 @@
 [Star Trek: The Next Generation] Data's pet cat*spot
 [Star Trek: The Next Generation] Data's pet cat*spot*spot
 [Star Trek: The Next Generation] Dr. Crusher gets trapped inside an ever diminishing warp bubble in what episode*remember me
-[Star Trek: The Next Generation] Dr. Ira Graves insisted Data call him what /\ ?*Grandpa
+[Star Trek: The Next Generation] Dr. Ira Graves insisted Data call him what ? ?*Grandpa
 [Star Trek: The Next Generation] Dr. Ira Graves insisted Data call him what*grandpa
 [Star Trek: The Next Generation] For what mathematical Theorem (Which was proven correct in 1995) was Picard endeavouring to discover a proof in 'The Royale'*fermat's last theorem
 [Star Trek: The Next Generation] From which shipyard was the Enterprise D launched (Answer fixed! Thanks parasonic!)*utopia planitia
@@ -588,7 +566,7 @@
 [Star Trek: The Next Generation] In 'The Bonding,' an archaeologist is killed, leaving a son behind. What was his first name*jeremy
 [Star Trek: The Next Generation] In 'The Bonding,' an archaeologist is killed, leaving a son behind. What was his first name*jeremy*jeremy
 [Star Trek: The Next Generation] In 'Timescape', which kind of vessel were Picard, LaForge, Troi, and Data travelling in*runabout
-[Star Trek: The Next Generation] In 11001001, what kind of jazz did Minuet NOT like /\ ?*dixieland
+[Star Trek: The Next Generation] In 11001001, what kind of jazz did Minuet NOT like ? ?*dixieland
 [Star Trek: The Next Generation] In 11001001, what kind of jazz did Minuet NOT like*dixieland
 [Star Trek: The Next Generation] In 2372, a civilian uprising overthrew the Cardassian Central Command, placing the power in the hand of __ ____ ___*the detapa council
 [Star Trek: The Next Generation] In addition to starring in Deep Space Nine, James Cromwell, better known as Zefram Cochrane in 'Star Trek: First Contact' also guest starred in which 2 seasons of TNG*3 and 6
@@ -615,7 +593,7 @@
 [Star Trek: The Next Generation] In what episode did Riker first meet his transporter doub*second chances
 [Star Trek: The Next Generation] In which episode did the TNG dress uniform first appear*lonely among us
 [Star Trek: The Next Generation] In which episode did the yellow on black grid of the empty holodeck first appear*code of honor
-[Star Trek: The Next Generation] In which episode does an Andorian first appear in TNG /\*The Offspring
+[Star Trek: The Next Generation] In which episode does an Andorian first appear in TNG ?*The Offspring
 [Star Trek: The Next Generation] In which episode does an Andorian first appear in TNG*The Offspring
 [Star Trek: The Next Generation] In which episode does Picard encouter a 'future double' of himself in a shuttlecraft, later causing him much grief over the judgement he had and was about to make*time squared
 [Star Trek: The Next Generation] In which episode does Riker and a Klingon switch places on their respective ships (Answer corrected!)*a matter of honor
@@ -630,8 +608,8 @@
 [Star Trek: The Next Generation] In which episode was Wesley made a full ensign*Menage a troi
 [Star Trek: The Next Generation] In which TNG episode did Ben Sisko appear*birthright
 [Star Trek: The Next Generation] In which TNG episode did Ben Sisko appear*Megas-Tu
-[Star Trek: The Next Generation] Jean-Luc Picard's father wanted him to become… what*a wine maker
-[Star Trek: The Next Generation] Jean-Luc Picard's father wanted him to become… what*a wine maker
+[Star Trek: The Next Generation] Jean-Luc Picard's father wanted him to become what*a wine maker
+[Star Trek: The Next Generation] Jean-Luc Picard's father wanted him to become what*a wine maker
 [Star Trek: The Next Generation] Lwaxana falls in love with whom in 'Half a Life'*dr. timicin
 [Star Trek: The Next Generation] Lwaxana falls in love with whom in 'Half a Life'*timicin
 [Star Trek: The Next Generation] Marc Alaimo (a.k.a. Gul Dukat, Star Trek: Deep Space Nine) also played which Cardassian in 'The Wounded'*Gul Macet
@@ -691,10 +669,10 @@
 [Star Trek: The Next Generation] Q threw away the Enterprise thousands of light years to what system*j-25
 [Star Trek: The Next Generation] Q threw away the Enterprise thousands of light years to what system*j-25
 [Star Trek: The Next Generation] Rene Picard dreams of being what when he grows up*a starship captain*Dr. Sevrin*captain
-[Star Trek: The Next Generation] Riker in 'Contagion': "Fate… protects fools, little children, and _____ _____ __________"*ships named enterprise
+[Star Trek: The Next Generation] Riker in 'Contagion': "Fate protects fools, little children, and _____ _____ __________"*ships named enterprise
 [Star Trek: The Next Generation] Romulans power their warp drives with what Answers fixed/corrected!*a quantum singularity
 [Star Trek: The Next Generation] Solve the character anagram "ANAL-CUPRIC JED" Answer corrected! Thanks MrCrisper!*jean-luc picard
-[Star Trek: The Next Generation] Solve the character anagram "ANAL-CUPRIC JED" Answer corrected! Thanks MrCrisper!/\ ?*jean-luc picard
+[Star Trek: The Next Generation] Solve the character anagram "ANAL-CUPRIC JED" Answer corrected! Thanks MrCrisper!? ?*jean-luc picard
 [Star Trek: The Next Generation] The beings from the future in 'Captain's Holiday' were called what*vorgons
 [Star Trek: The Next Generation] The beings from the future in 'Captain's Holiday' were called what*vorgons*vorgons
 [Star Trek: The Next Generation] The Binars hijack the Enterprise-D in this episode in an attempt to save their home world*'Turnabout Intruder'
@@ -722,7 +700,7 @@
 [Star Trek: The Next Generation] What 'super' girl, guest-starred in the episode 'The Outrageous Okona'*Tendara colony
 [Star Trek: The Next Generation] What 'super' girl, guest-starred in the episode 'The Outrageous Okona'*Tendara colony*Teri Hatcher
 [Star Trek: The Next Generation] What 'super' girl, guest-starred in the episode 'The Outrageous Okona'*teri hatcher
-[Star Trek: The Next Generation] What alteration did Lt. Reginald Barclay make to Commander Riker in his holodeck fantasy /\*shorter
+[Star Trek: The Next Generation] What alteration did Lt. Reginald Barclay make to Commander Riker in his holodeck fantasy ?*shorter
 [Star Trek: The Next Generation] What alteration did Lt. Reginald Barclay make to Commander Riker in his holodeck fantasy*shorter*shorter*shorter
 [Star Trek: The Next Generation] What class is the Enterprise C classified as*Ambassador
 [Star Trek: The Next Generation] What class is the Enterprise C classified as*ambassador class
@@ -731,7 +709,7 @@
 [Star Trek: The Next Generation] What colour was the brandy that Scotty was drinking in 'Relics'*USS Lakota*green
 [Star Trek: The Next Generation] What colour was the brandy that Scotty was drinking in 'Relics'*USS Lakota*green*green
 [Star Trek: The Next Generation] What deck is Engineering on on the Enterprise D (Answer corrected!)*36*36
-[Star Trek: The Next Generation] What does Barclay morph into in 'Genesis' /\ ?*a spider
+[Star Trek: The Next Generation] What does Barclay morph into in 'Genesis' ? ?*a spider
 [Star Trek: The Next Generation] What does Barclay morph into in 'Genesis'*a spider*spider
 [Star Trek: The Next Generation] What does Barclay morph into in 'Genesis'*A Spider
 [Star Trek: The Next Generation] What does DMZ stand for*Demilitarized zone
@@ -823,7 +801,7 @@
 [Star Trek: The Next Generation] Who is Tasha Yar's younger sister*ishara
 [Star Trek: The Next Generation] Who is the Starfleet Borg expert who tells Riker he can't make the 'big decisions'*lt. cmdr. shelby
 [Star Trek: The Next Generation] Who is the Starfleet Borg expert who tells Riker he can't make the 'big decisions'*shelby
-[Star Trek: The Next Generation] Who once replaced O'Brien with a replicant (the dominion, the cardassians, the argrathi, the paradas) /\ ?*the paradas
+[Star Trek: The Next Generation] Who once replaced O'Brien with a replicant (the dominion, the cardassians, the argrathi, the paradas) ? ?*the paradas
 [Star Trek: The Next Generation] Who once replaced O'Brien with a replicant (the dominion, the cardassians, the argrathi, the paradas)*the paradas
 [Star Trek: The Next Generation] Who once said, "I never met a chocolate I didn't like."*troi
 [Star Trek: The Next Generation] Who once said, "I never met a chocolate I didn't like."*troi
@@ -929,7 +907,7 @@
 [Star Trek: The Original Series] What alien was made powerful by the belief of children in 'And the Children Shall Lead'*Enabran Tain*60
 [Star Trek: The Original Series] What aliens built the asteroid deflector in 'The Paradise Syndrome'*the preservers
 [Star Trek: The Original Series] What aliens create the illusion of the old west in 'Spectre of the Gun'*melkots
-[Star Trek: The Original Series] What aliens force Kirk to fight the Gorn in 'Arena' /\ ?*the metrons
+[Star Trek: The Original Series] What aliens force Kirk to fight the Gorn in 'Arena' ? ?*the metrons
 [Star Trek: The Original Series] What Andorian stabs Kirk in 'Journey to Babel'*Palukoo*Odo
 [Star Trek: The Original Series] What Andorian stabs Kirk in 'Journey to Babel'*thelev
 [Star Trek: The Original Series] What android controls all of the others in 'I, Mudd'*Norman
@@ -945,10 +923,10 @@
 [Star Trek: The Original Series] What class was the original Enterprise NCC-1701*constitution
 [Star Trek: The Original Series] What computer ruled the people of Beta III until it was destroyed by Kirk*landru
 [Star Trek: The Original Series] What crewmember assists Khan in taking over the Enterprise*Marla Mcgivers
-[Star Trek: The Original Series] What crewmembers were almost married by Kirk in 'Balance of Terror' (the process was interrupted by a Red Alert) /\*Martine and Tomlinson
+[Star Trek: The Original Series] What crewmembers were almost married by Kirk in 'Balance of Terror' (the process was interrupted by a Red Alert) ?*Martine and Tomlinson
 [Star Trek: The Original Series] What crewmembers were almost married by Kirk in 'Balance of Terror' (the process was interrupted by a Red Alert)*Dr. Lenara Khan
 [Star Trek: The Original Series] What crewmembers were almost married by Kirk in 'Balance of Terror' (the process was interrupted by a Red Alert)*martine and tomlinson
-[Star Trek: The Original Series] What crippled star ship does the Enterprise encounter in 'The Doomsday Machine' /\*USS Constellation
+[Star Trek: The Original Series] What crippled star ship does the Enterprise encounter in 'The Doomsday Machine' ?*USS Constellation
 [Star Trek: The Original Series] What crippled star ship does the Enterprise encounter in 'The Doomsday Machine'*uss constellation
 [Star Trek: The Original Series] What deadly ape creature bit Kirk in 'A Private Little War' (Answer corrected! Thanks FAdmThiago!)*the 1930s
 [Star Trek: The Original Series] What device does Mr. Atoz control to send people back in time*atavachron
@@ -1105,11 +1083,11 @@
 [Star Trek: The Original Series] Who produced the episode "The Galileo Seven (1x16)"*coon
 [Star Trek: The Original Series] Who produced the episode "The Galileo Seven (1x16)"*coon
 [Star Trek: The Original Series] Who produced the episode "The Galileo Seven (1x16)"*gene l. coon
-[Star Trek: The Original Series] Who stole Spock's brain /\*Kara
+[Star Trek: The Original Series] Who stole Spock's brain ?*Kara
 [Star Trek: The Original Series] Who stole Spock's brain*373
 [Star Trek: The Original Series] Who stole Spock's brain*kara
 [Star Trek: The Original Series] Who was betrothed to Spock*t'pring
-[Star Trek: The Original Series] Who was Chapel's fiancée (Full name) /\*plak tow
+[Star Trek: The Original Series] Who was Chapel's fiancée (Full name) ?*plak tow
 [Star Trek: The Original Series] Who was the commander of the U.S.S. Constellation (his son appears in ST:TMP)*David Warner*commodore matthew decker
 [Star Trek: The Original Series] Who was the only character to cross over from the original pilot, "The Cage," to the regular series*spock
 [Star Trek: The Original Series] Who was the only character to cross over from the original pilot, "The Cage," to the regular series*spock
@@ -1137,9 +1115,9 @@
 [Star Trek: Voyager] Chakotay and Janeway go to warn Chaotica in "Shattered" of aliens from what dimension (_____ or ___)*8th
 [Star Trek: Voyager] Chakotay and Janeway go to warn Chaotica in "Shattered" of aliens from what dimension (_____ or ___)*eight
 [Star Trek: Voyager] Chakotay and Janeway go to warn Chaotica in "Shattered" of aliens from what dimension (_____ or ___)*eight*eighth
-[Star Trek: Voyager] Chakotay to Janeway in "Shattered": "Oh… I can't tell you." "Why not?" "________ _____ ________"*temporal prime directive
-[Star Trek: Voyager] Chakotay to Janeway in "Shattered": "Oh… I can't tell you." "Why not?" "________ _____ ________"*temporal prime directive
-[Star Trek: Voyager] Chakotay's father /\ ?*kolopak
+[Star Trek: Voyager] Chakotay to Janeway in "Shattered": "Oh I can't tell you." "Why not?" "________ _____ ________"*temporal prime directive
+[Star Trek: Voyager] Chakotay to Janeway in "Shattered": "Oh I can't tell you." "Why not?" "________ _____ ________"*temporal prime directive
+[Star Trek: Voyager] Chakotay's father ? ?*kolopak
 [Star Trek: Voyager] Chakotay's father*'Moonlight becomes you'*kolopak
 [Star Trek: Voyager] Chakotay's father*kolopak
 [Star Trek: Voyager] Crewman Darby told Tuvok to leave which Maquis crewman alone in 'Learning Curve'*crewman gerun*gerun
@@ -1219,9 +1197,9 @@
 [Star Trek: Voyager] In what episode was a Soap Opera mentioned*future's end
 [Star Trek: Voyager] In which episode (name) is Seska first revealed to be working for the Kazon*state of flux
 [Star Trek: Voyager] In which episode did the EMH say that Seven could start eating solid food *the raven
-[Star Trek: Voyager] In which episode does Chakotay say, "You once told me that starship captains don't choose their missions, the missions choose them…"*'shattered'
-[Star Trek: Voyager] In which episode does Chakotay say, "You once told me that starship captains don't choose their missions, the missions choose them…"*shattered
-[Star Trek: Voyager] In which episode does Chakotay say, "You once told me that starship captains don't choose their missions, the missions choose them…"*shattered
+[Star Trek: Voyager] In which episode does Chakotay say, "You once told me that starship captains don't choose their missions, the missions choose them"*'shattered'
+[Star Trek: Voyager] In which episode does Chakotay say, "You once told me that starship captains don't choose their missions, the missions choose them"*shattered
+[Star Trek: Voyager] In which episode does Chakotay say, "You once told me that starship captains don't choose their missions, the missions choose them"*shattered
 [Star Trek: Voyager] In which episode does Neelix lose his lungs*phage
 [Star Trek: Voyager] In which episode does Torres admit her love to Paris*'day of honor'
 [Star Trek: Voyager] In which episode does Torres admit her love to Paris*day of honor
@@ -1240,7 +1218,7 @@
 [Star Trek: Voyager] Mars was colonized in the year ____*2103
 [Star Trek: Voyager] Name Dr. Lewis Zimmerman's holographic iguana*leno
 [Star Trek: Voyager] Name Janeway's ancestor who appeared in the episode '11:59'*shannon o'donnel*shannon o'donnell
-[Star Trek: Voyager] Name one character whose father was a Star Fleet Admiral (Last name) /\ ?*paris
+[Star Trek: Voyager] Name one character whose father was a Star Fleet Admiral (Last name) ? ?*paris
 [Star Trek: Voyager] Name one character whose father was a Star Fleet Admiral (Last name)*paris
 [Star Trek: Voyager] Name one character whose father was a Star Fleet Admiral (Last name)*paris
 [Star Trek: Voyager] Name the actress who plays Captain Janeway*kate mulgrew
@@ -1255,12 +1233,12 @@
 [Star Trek: Voyager] Neelix prepares what dish for Kes every Wednesday*trellian crepes
 [Star Trek: Voyager] Neelix prepares what dish for Kes every Wednesday*trellian crepes
 [Star Trek: Voyager] Neelix: 'These people are natural born ______.'*idiots
-[Star Trek: Voyager] Other than a huge plot hole, what does Janeway use to defeat the class 4 tactical cube in "Unimatrix Zero" /\ ?*a torpedo
+[Star Trek: Voyager] Other than a huge plot hole, what does Janeway use to defeat the class 4 tactical cube in "Unimatrix Zero" ? ?*a torpedo
 [Star Trek: Voyager] Other than a huge plot hole, what does Janeway use to defeat the class 4 tactical cube in "Unimatrix Zero"*a torpedo
 [Star Trek: Voyager] Other than a huge plot hole, what does Janeway use to defeat the class 4 tactical cube in "Unimatrix Zero"*a torpedo
 [Star Trek: Voyager] Other than a huge plot hole, what does Janeway use to defeat the class 4 tactical cube in "Unimatrix Zero"*a torpedo*a torpedo
 [Star Trek: Voyager] Rain Robinson: "Tuvok, did anyone ever tell you that you're a real ____________?" What word goes in the blank*freakasaurus
-[Star Trek: Voyager] Reg Barclay is seen wearing what colour sunscreen on his nose in "Inside Man" while on the beach with Counsellor Troi /\*Blue
+[Star Trek: Voyager] Reg Barclay is seen wearing what colour sunscreen on his nose in "Inside Man" while on the beach with Counsellor Troi ?*Blue
 [Star Trek: Voyager] Reg Barclay is seen wearing what colour sunscreen on his nose in "Inside Man" while on the beach with Counsellor Troi*blue
 [Star Trek: Voyager] Reg Barclay is seen wearing what colour sunscreen on his nose in "Inside Man" while on the beach with Counsellor Troi*blue
 [Star Trek: Voyager] Reg Barclay is seen wearing what colour sunscreen on his nose in "Inside Man" while on the beach with Counsellor Troi*Calder II
@@ -1286,13 +1264,13 @@
 [Star Trek: Voyager] The 'second' time Kes returns in 'Fury,' what bulkhead sections (separated by commas) did Kes destroy according to Kim*Species 116*17,18,19
 [Star Trek: Voyager] The 'second' time Kes returns in 'Fury,' what deck does Janeway order to be evacuated*eleven*11
 [Star Trek: Voyager] The autonomous regeneration ________ is a Borg assimilation device*sequencer
-[Star Trek: Voyager] The captain of a kazon ship is referred to as… what*maje
+[Star Trek: Voyager] The captain of a kazon ship is referred to as what*maje
 [Star Trek: Voyager] The Doctor, in Seven of Nine's body in "Body and Soul" treats their captor to what kind of cake while on the Delta Flyer*new york cheesecake
 [Star Trek: Voyager] The Doctor: 'Fashion, of course, is hardly my ______.'*forte
 [Star Trek: Voyager] The episode "Endgame" tells the story of Voyager's crew how many years into the future*26
 [Star Trek: Voyager] The episode "Endgame" tells the story of Voyager's crew how many years into the future*twenty six
-[Star Trek: Voyager] The Klingons were unable to beam the bridge crew off Voyager in "Prophecy" as a result of a … what (Voyager, Season 7 episode 14)*forcefield
-[Star Trek: Voyager] The Klingons were unable to beam the bridge crew off Voyager in "Prophecy" as a result of a … what (Voyager, Season 7 episode 14)*forcefield
+[Star Trek: Voyager] The Klingons were unable to beam the bridge crew off Voyager in "Prophecy" as a result of a  what (Voyager, Season 7 episode 14)*forcefield
+[Star Trek: Voyager] The Klingons were unable to beam the bridge crew off Voyager in "Prophecy" as a result of a  what (Voyager, Season 7 episode 14)*forcefield
 [Star Trek: Voyager] The Klingons who stay on Voyager in "Prophecy" are infected with a virus. Using who's genetic information did the Doctor successfully develop an antidote*b'elanna torres' baby
 [Star Trek: Voyager] The wormhole in 'Eye of the Needle' led back to the past. What year did the Romulan say it was*2351
 [Star Trek: Voyager] There were two visible projectors in the theatre 'Repression' What colours were they*red and green
@@ -1392,7 +1370,7 @@
 [Star Trek: Voyager] What type were the torpedoes used to destroy the transwarp hub in "Endgame" (Submitted by adwas)*transphasic torpedoes
 [Star Trek: Voyager] What vital chemical are Paris and Kim searching for on the demon class planet*deuterium
 [Star Trek: Voyager] What was B'Elanna's name in World War II*brigitte
-[Star Trek: Voyager] What was Henry Starling's Assistant/Bodyguard named /\ ?*dunbar
+[Star Trek: Voyager] What was Henry Starling's Assistant/Bodyguard named ? ?*dunbar
 [Star Trek: Voyager] What was Henry Starling's Assistant/Bodyguard named*dunbar
 [Star Trek: Voyager] What was Henry Starling's Assistant/Bodyguard named*stardate 48308.2
 [Star Trek: Voyager] What was Henry Starling's Assistant/Bodyguard named*stardate 48308.2*dunbar
@@ -1442,7 +1420,7 @@
 [Star Trek: Voyager] Which crewmember was saved by Captain Janeway's going through the rituals of the Nechisti Order *kes
 [Star Trek: Voyager] Which crewmember was the only person besides Tom Paris that went through the warp 10 barrier *Janeway
 [Star Trek: Voyager] Which crewmember's life was once saved by Kurt Bendera near the Cardassian border *b'elanna torres
-[Star Trek: Voyager] Which crewmember's life was once saved by Kurt Bendera near the Cardassian border /\ ?*torres
+[Star Trek: Voyager] Which crewmember's life was once saved by Kurt Bendera near the Cardassian border ? ?*torres
 [Star Trek: Voyager] Which deck decompresses and explodes in Year Of Hell*5
 [Star Trek: Voyager] Which deck decompresses and explodes in Year Of Hel*five
 [Star Trek: Voyager] Which deck is the sickbay located *deck 5
@@ -1457,16 +1435,16 @@
 [Star Trek: Voyager] which two Voyager crewmembers were first seen in "Thirty Days"?*the delaney sisters
 [Star Trek: Voyager] which two Voyager crewmembers were first seen in "Thirty Days"?*the delaney sisters
 [Star Trek: Voyager] Who are the 'Hunters'*hirogen
-[Star Trek: Voyager] Who are the Borg at war with in 'Scorpion' /\ ?*species 8472
+[Star Trek: Voyager] Who are the Borg at war with in 'Scorpion'?*species 8472
 [Star Trek: Voyager] Who are the Borg at war with in 'Scorpion'*fire suppression containment fields
 [Star Trek: Voyager] Who are the Borg at war with in 'Scorpion'*species 8472
-[Star Trek: Voyager] Who are the Borg at war with in 'Scorpion'*species 8472*species 8472
+[Star Trek: Voyager] Who are the Borg at war with in 'Scorpion'*species 8472
 [Star Trek: Voyager] Who arranged Tom Paris's release from a Federation penal colony*janeway
-[Star Trek: Voyager] Who designed the Astrometrics lab /\*harry kim
+[Star Trek: Voyager] Who designed the Astrometrics lab?*harry kim
 [Star Trek: Voyager] Who designed the Astrometrics lab*ensign kim
 [Star Trek: Voyager] Who did Q came for when he boarded Voyager in 2372*quinn
-[Star Trek: Voyager] Who gets a TV set as a present from Torres*paris*tom paris
-[Star Trek: Voyager] Who has a crush on Seven*kim*kim
+[Star Trek: Voyager] Who gets a TV set as a present from Torres*tom paris
+[Star Trek: Voyager] Who has a crush on Seven*kim
 [Star Trek: Voyager] Who has an interest in Irish culture (name one of two last names of main bridge officers)*paris
 [Star Trek: Voyager] Who hushes Janeway and Tuvok in the theatre in 'Repression'*torres
 [Star Trek: Voyager] Who is Dr. Chaotica's object of desire*queen arachnia
@@ -1476,8 +1454,8 @@
 [Star Trek: Voyager] Who played the EMH mark 2*andy dick
 [Star Trek: Voyager] Who said "Just enough to bring chaos to order" in "Endgame"*janeway
 [Star Trek: Voyager] Who said 'Seems I found myself on the voyage of the damned'*the doctor
-[Star Trek: Voyager] Who said, in "Repression,": "Let me get this straight. You've gone to all this trouble to program a three dimensional environment, that projects a two dimensional image… and now you want me to wear these, to make ?*b'elanna torres
-[Star Trek: Voyager] Who said, in "Repression,": "Let me get this straight. You've gone to all this trouble to program a three dimensional environment, that projects a two dimensional image… and now you want me to wear these, to make ?*torres
+[Star Trek: Voyager] Who said, in "Repression,": "Let me get this straight. You've gone to all this trouble to program a three dimensional environment, that projects a two dimensional image and now you want me to wear these, to make ?*b'elanna torres
+[Star Trek: Voyager] Who said, in "Repression,": "Let me get this straight. You've gone to all this trouble to program a three dimensional environment, that projects a two dimensional image and now you want me to wear these, to make ?*torres
 [Star Trek: Voyager] Who sings*Ahn'woon
 [Star Trek: Voyager] Who sings*the doctor
 [Star Trek: Voyager] Who turned out to be the culprit of the suspicious attacks on the crew in "Repression"*tuvok
