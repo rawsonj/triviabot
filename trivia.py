@@ -117,8 +117,8 @@ class triviabot(irc.IRCClient):
         self.msg('NickServ','identify '+IDENT_STRING)
         print("Signed on as %s." % (self.nickname,))
         self.msg(self._game_channel,
-                '''Welcome to '''+self._game_channel+'''!\n'''+
-                '''Have an admin start the game when you are ready.\n'''+
+                '''Welcome to '''+self._game_channel+'''!\n'''
+                '''Have an admin start the game when you are ready.\n'''
                 '''For how to use this bot, just say ? help or\n'''
                 +self.nickname+' help.')
 
@@ -196,19 +196,18 @@ class triviabot(irc.IRCClient):
             self._admins.index(user)
         except:
             self.msg(user,
-                '''I'm nameless's trivia bot.\n'''+
+                '''I'm nameless's trivia bot.\n'''
                 '''Commands: score, standings, giveclue, help, source''')
             return
         self.msg(user,
-            '''I'm nameless's trivia bot.\n'''+
-            '''Commands: score, standings, giveclue, help, source\n'''+
-            '''Admin commands: die, set <user> <score>, next, start,\n'''+
+            '''I'm nameless's trivia bot.\n'''
+            '''Commands: score, standings, giveclue, help, source\n'''
+            '''Admin commands: die, set <user> <score>, next, start,\n'''
             '''stop, save''')
 
     def _show_source(self,args,user,channel):
         '''
         Tells people how to use the bot.
-        Replies differently if you are an admin or a regular user.
         Only responds to the user since there could be a game in
         progress.
         '''
@@ -277,10 +276,8 @@ class triviabot(irc.IRCClient):
         else:
             self._lc.stop()
             self.msg(self._game_channel,
-                        '''
-Thanks for playing trivia!
-Current rankings were:
-'''
+                    '''Thanks for playing trivia!\n'''
+                    '''Current rankings were:\n'''
                     )
             self._standings(None,self._game_channel,None)
             self.msg(self._game_channel,
