@@ -298,6 +298,8 @@ class triviabot(irc.IRCClient):
         '''
         Loads the running data from previous games.
         '''
+        # ensure initialization
+        self._scores = {}
         if not path.exists(SAVE_DIR):
             print "Save directory doesn't exist."
             return
@@ -307,8 +309,8 @@ class triviabot(irc.IRCClient):
         except:
             print "Save file doesn't exist."
             return
-        for name in temp.keys():
-            self._scores[str(name)] = int(self._scores[name])
+        for name in temp_dict.keys():
+            self._scores[str(name)] = int(temp_dict[name])
         print self._scores
         print "Scores loaded."
 
