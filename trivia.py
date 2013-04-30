@@ -389,7 +389,7 @@ class triviabot(irc.IRCClient):
             myline = choice(lines)
             fd.close()
             try:
-                self._question, temp_answer = myline.split('*')
+                self._question, temp_answer = myline.split('`')
             except ValueError:
                 print "Broken question:"
                 print myline
