@@ -48,6 +48,7 @@ Q_DIR = './questions/'
 SAVE_DIR = './savedata/'
 IDENT_STRING = 'oicu812'
 WAIT_INTERVAL = 30
+COLOR_CODE = 5
 
 class triviabot(irc.IRCClient):
     '''
@@ -215,6 +216,10 @@ class triviabot(irc.IRCClient):
             '''My source can be found at: '''
             '''https://github.com/rawsonj/triviabot''')
 
+    def _color_test():
+        self.msg(self._game_channel, str(COLOR_CODE)+
+                '''This is a color test.''')
+
     def select_command(self, command, args, user, channel):
         '''
         Callback that responds to commands given to the bot.
@@ -234,7 +239,8 @@ class triviabot(irc.IRCClient):
                                  'next': self._next_question,
                                  'start': self._start,
                                  'stop': self._stop,
-                                 'save': self._save_game
+                                 'save': self._save_game,
+                                 'colortest': self._color_test
                                }
         print command, args, user, channel
         try:
