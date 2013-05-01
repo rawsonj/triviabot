@@ -39,7 +39,7 @@
 80s Trivia: On Friends, who was the organizational person?`Monica
 80s Trivia: What planet was Alf from?`Melmac
 80s Trivia: Who owned the diner Alice worked in?`Mel
-80s Trivia: Which friend was an actor?`Joey
+80s Trivia: Which Friend was an actor?`Joey
 80s Trivia: Which two friends were brother and sister?`Monica and Ross
 80s Trivia: Who was the chef on Friends?`Monica
 80s Trivia: Who sings the song "Smelly Cat"?`Phoebe

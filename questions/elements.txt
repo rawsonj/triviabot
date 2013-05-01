@@ -11,7 +11,7 @@ Elements: what is the element for the symbol Be?`beryllium
 Elements: what is the element for the symbol Bi?`bismuth
 Elements: what is the element for the symbol B?`boron
 Elements: what is the element for the symbol Br?`bromine
-Elements: what is the element for the symbol Cd?`cadium
+Elements: what is the element for the symbol Cd?`cadmium
 Elements: what is the element for the symbol Ca?` calcium
 Elements: what is the element for the symbol Cf?`californium
 Elements: what is the element for the symbol C?`carbon
