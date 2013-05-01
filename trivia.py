@@ -75,10 +75,10 @@ class triviabot(irc.IRCClient):
 
     nickname = property(_get_nickname)
 
-    def _get_linerate(self):
-        return self.factory.linerate
+    def _get_lineRate(self):
+        return self.factory.lineRate
 
-    linerate = property(_get_linerate)
+    lineRate = property(_get_lineRate)
 
     def _play_game(self):
         '''
@@ -419,7 +419,7 @@ class ircbotFactory(ClientFactory):
     def __init__(self,nickname='trivia'):
         self.nickname = nickname
         self.running = False
-        self.linerate = 1
+        self.lineRate = 1
 
     def clientConnectionLost(self, connector, reason):
         print("Lost connection (%s)" % (reason,))
