@@ -48,7 +48,7 @@ Q_DIR = './questions/'
 SAVE_DIR = './savedata/'
 IDENT_STRING = 'oicu812'
 WAIT_INTERVAL = 30
-COLOR_CODE = '\0038'
+COLOR_CODE = '\0038 '
 
 class triviabot(irc.IRCClient):
     '''
@@ -179,10 +179,10 @@ class triviabot(irc.IRCClient):
         except:
             self._scores[user] = self._current_points
         if self._current_points == 1:
-            self.msg(channel,COLOR_CODE+' '+str(self._current_points)+
+            self.msg(channel,COLOR_CODE+str(self._current_points)+
                         " point has been added to your score!")
         else:
-            self.msg(channel,COLOR_CODE+' '+str(self._current_points)+
+            self.msg(channel,COLOR_CODE+str(self._current_points)+
                         " points have been added to your score!")
         self._clue_number = 0
         self._get_new_question()
