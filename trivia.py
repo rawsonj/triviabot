@@ -48,7 +48,7 @@ Q_DIR = './questions/'
 SAVE_DIR = './savedata/'
 IDENT_STRING = 'oicu812'
 WAIT_INTERVAL = 30
-COLOR_CODE = '\0038 '
+COLOR_CODE = '\0038,1 '
 
 class triviabot(irc.IRCClient):
     '''
