@@ -127,9 +127,9 @@ class triviabot(irc.IRCClient):
         else:
             self.msg(self._game_channel,
                     COLOR_CODE+'''Welcome to '''+self._game_channel+'''!\n'''
-                    COLOR_CODE+'''Have an admin start the game when you are ready.\n'''
-                    COLOR_CODE+'''For how to use this bot, just say ? help or\n'''
-                    COLOR_CODE+self.nickname+' help.')
+                    +COLOR_CODE+'''Have an admin start the game when you are ready.\n'''
+                    +COLOR_CODE+'''For how to use this bot, just say ? help or\n'''
+                    +COLOR_CODE+self.nickname+' help.')
 
     def joined(self, channel):
         '''
@@ -179,10 +179,10 @@ class triviabot(irc.IRCClient):
         except:
             self._scores[user] = self._current_points
         if self._current_points == 1:
-            self.msg(channel,COLOR_CODE+str(self._current_points)+
+            self.msg(channel,COLOR_CODE+' '+str(self._current_points)+
                         " point has been added to your score!")
         else:
-            self.msg(channel,COLOR_CODE+str(self._current_points)+
+            self.msg(channel,COLOR_CODE+' '+str(self._current_points)+
                         " points have been added to your score!")
         self._clue_number = 0
         self._get_new_question()
@@ -206,13 +206,13 @@ class triviabot(irc.IRCClient):
         except:
             self.msg(user,
                 COLOR_CODE+'''I'm nameless's trivia bot.\n'''
-                COLOR_CODE+'''Commands: score, standings, giveclue, help, source''')
+                +COLOR_CODE+'''Commands: score, standings, giveclue, help, source''')
             return
         self.msg(user,
             COLOR_CODE+'''I'm nameless's trivia bot.\n'''
-            COLOR_CODE+'''Commands: score, standings, giveclue, help, source\n'''
-            COLOR_CODE+'''Admin commands: die, set <user> <score>, next, start,\n'''
-            COLOR_CODE+'''stop, save''')
+            +COLOR_CODE+'''Commands: score, standings, giveclue, help, source\n'''
+            +COLOR_CODE+'''Admin commands: die, set <user> <score>, next, start,\n'''
+            +COLOR_CODE+'''stop, save''')
 
     def _show_source(self,args,user,channel):
         '''
@@ -222,7 +222,7 @@ class triviabot(irc.IRCClient):
         '''
         self.msg(user,
             COLOR_CODE+'''My source can be found at: '''
-            COLOR_CODE+'''https://github.com/rawsonj/triviabot''')
+            +COLOR_CODE+'''https://github.com/rawsonj/triviabot''')
 
     def _color_test(self,*args):
         self.msg(self._game_channel, str(COLOR_CODE)+
@@ -292,7 +292,7 @@ class triviabot(irc.IRCClient):
             self._lc.stop()
             self.msg(self._game_channel,
                     COLOR_CODE+'''Thanks for playing trivia!\n'''
-                    COLOR_CODE+'''Current rankings were:\n'''
+                    +COLOR_CODE+'''Current rankings were:\n'''
                     )
             self._standings(None,self._game_channel,None)
             self.msg(self._game_channel,
