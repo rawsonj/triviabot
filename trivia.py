@@ -48,7 +48,7 @@ Q_DIR = './questions/'
 SAVE_DIR = './savedata/'
 IDENT_STRING = 'oicu812'
 WAIT_INTERVAL = 30
-COLOR_CODE = 5
+COLOR_CODE = '\0038'
 
 class triviabot(irc.IRCClient):
     '''
@@ -93,23 +93,23 @@ class triviabot(irc.IRCClient):
             self._get_new_question()
             self._current_points = points[self._clue_number]
             self.msg(self._game_channel,'')
-            self.msg(self._game_channel, "Next question: ")
-            self.msg(self._game_channel, self._question)
+            self.msg(self._game_channel, COLOR_CODE+"Next question: ")
+            self.msg(self._game_channel, COLOR_CODE+self._question)
             self.msg(self._game_channel, 
-                    "Clue: "+self._answer.current_clue())
+                    COLOR_CODE+"Clue: "+self._answer.current_clue())
             self._clue_number += 1
         # we must be somewhere in between
         elif self._clue_number < 4:
             self._current_points = points[self._clue_number]
-            self.msg(self._game_channel, "Question: ")
-            self.msg(self._game_channel, self._question)
+            self.msg(self._game_channel, COLOR_CODE+"Question: ")
+            self.msg(self._game_channel, COLOR_CODE+self._question)
             self.msg(self._game_channel,
-                    'Clue: '+self._answer.give_clue())
+                    COLOR_CODE+'Clue: '+self._answer.give_clue())
             self._clue_number += 1
         # no one must have gotten it.
         else:
             self.msg(self._game_channel,
-                '''No one got it. The answer was: '''
+                COLOR_CODE+'''No one got it. The answer was: '''
                 +self._answer.answer)
             self._clue_number = 0
             self._get_new_question()
@@ -126,10 +126,10 @@ class triviabot(irc.IRCClient):
             self._start(None,None,None)
         else:
             self.msg(self._game_channel,
-                    '''Welcome to '''+self._game_channel+'''!\n'''
-                    '''Have an admin start the game when you are ready.\n'''
-                    '''For how to use this bot, just say ? help or\n'''
-                    +self.nickname+' help.')
+                    COLOR_CODE+'''Welcome to '''+self._game_channel+'''!\n'''
+                    COLOR_CODE+'''Have an admin start the game when you are ready.\n'''
+                    COLOR_CODE+'''For how to use this bot, just say ? help or\n'''
+                    COLOR_CODE+self.nickname+' help.')
 
     def joined(self, channel):
         '''
@@ -173,16 +173,16 @@ class triviabot(irc.IRCClient):
         Congratulates the winner for guessing correctly and assigns
         points appropriately, then signals that it was guessed.
         '''
-        self.msg(channel,user.upper()+" GUESSED IT!")
+        self.msg(channel,COLOR_CODE+user.upper()+" GUESSED IT!")
         try:
             self._scores[user] += self._current_points
         except:
             self._scores[user] = self._current_points
         if self._current_points == 1:
-            self.msg(channel,str(self._current_points)+
+            self.msg(channel,COLOR_CODE+str(self._current_points)+
                         " point has been added to your score!")
         else:
-            self.msg(channel,str(self._current_points)+
+            self.msg(channel,COLOR_CODE+str(self._current_points)+
                         " points have been added to your score!")
         self._clue_number = 0
         self._get_new_question()
@@ -205,14 +205,14 @@ class triviabot(irc.IRCClient):
             self._admins.index(user)
         except:
             self.msg(user,
-                '''I'm nameless's trivia bot.\n'''
-                '''Commands: score, standings, giveclue, help, source''')
+                COLOR_CODE+'''I'm nameless's trivia bot.\n'''
+                COLOR_CODE+'''Commands: score, standings, giveclue, help, source''')
             return
         self.msg(user,
-            '''I'm nameless's trivia bot.\n'''
-            '''Commands: score, standings, giveclue, help, source\n'''
-            '''Admin commands: die, set <user> <score>, next, start,\n'''
-            '''stop, save''')
+            COLOR_CODE+'''I'm nameless's trivia bot.\n'''
+            COLOR_CODE+'''Commands: score, standings, giveclue, help, source\n'''
+            COLOR_CODE+'''Admin commands: die, set <user> <score>, next, start,\n'''
+            COLOR_CODE+'''stop, save''')
 
     def _show_source(self,args,user,channel):
         '''
@@ -221,10 +221,10 @@ class triviabot(irc.IRCClient):
         progress.
         '''
         self.msg(user,
-            '''My source can be found at: '''
-            '''https://github.com/rawsonj/triviabot''')
+            COLOR_CODE+'''My source can be found at: '''
+            COLOR_CODE+'''https://github.com/rawsonj/triviabot''')
 
-    def _color_test():
+    def _color_test(self,*args):
         self.msg(self._game_channel, str(COLOR_CODE)+
                 '''This is a color test.''')
 
@@ -267,7 +267,7 @@ class triviabot(irc.IRCClient):
         elif unpriviledged_commands.has_key(command):
             unpriviledged_commands[command](args, user, channel)
         else:
-            self.describe(channel,'looks at '+user+' oddly.')
+            self.describe(channel,COLOR_CODE+'looks at '+user+' oddly.')
             
     def _start(self, args, user, channel):
         '''
@@ -291,12 +291,12 @@ class triviabot(irc.IRCClient):
         else:
             self._lc.stop()
             self.msg(self._game_channel,
-                    '''Thanks for playing trivia!\n'''
-                    '''Current rankings were:\n'''
+                    COLOR_CODE+'''Thanks for playing trivia!\n'''
+                    COLOR_CODE+'''Current rankings were:\n'''
                     )
             self._standings(None,self._game_channel,None)
             self.msg(self._game_channel,
-                    '''Scores have been saved, and see you next game!''')
+                    COLOR_CODE+'''Scores have been saved, and see you next game!''')
             self._save_game()
             self.factory.running = False
 
@@ -337,9 +337,9 @@ class triviabot(irc.IRCClient):
         try:
             self._scores[args[0]] = args[1]
         except:
-            self.msg(user, args[0]+" not in scores database.")
+            self.msg(user, COLOR_CODE+args[0]+" not in scores database.")
             return
-        self.msg(user, args[0]+" score set to "+args[1])
+        self.msg(user,COLOR_CODE+args[0]+" score set to "+args[1])
 
     def _die(self,*args):
         '''
@@ -356,19 +356,19 @@ class triviabot(irc.IRCClient):
         Tells the user their score.
         '''
         try:
-            self.msg(user,"Your current score is: "
+            self.msg(user,COLOR_CODE+"Your current score is: "
                      +str(self._scores[user]))
         except:
-            self.msg(user,"You aren't in my database.")
+            self.msg(user,COLOR_CODE+"You aren't in my database.")
 
     def _next_question(self,args,user,channel):
         '''
         Administratively skips the current question.
         '''
         if not self._lc.running:
-            self.msg(self._game_channel, "we are not playing right now.")
+            self.msg(self._game_channel, COLOR_CODE+"We are not playing right now.")
             return
-        self.msg(self._game_channel,"Question has been skipped.")
+        self.msg(self._game_channel,COLOR_CODE+"Question has been skipped.")
         self._clue_number = 0
         self._lc.stop()
         self._lc.start(WAIT_INTERVAL)
@@ -379,17 +379,17 @@ class triviabot(irc.IRCClient):
 
         TODO: order them.
         '''
-        self.msg(user,"The current trivia standings are: ")
+        self.msg(user,COLOR_CODE+"The current trivia standings are: ")
         for name in self._scores.keys():
-            self.msg(user,name+": "+str(self._scores[name]))
+            self.msg(user,COLOR_CODE+name+": "+str(self._scores[name]))
 
     def _give_clue(self,args,user,channel):
         if not self._lc.running:
-            self.msg(self._game_channel, "we are not playing right now.")
+            self.msg(self._game_channel, COLOR_CODE+"we are not playing right now.")
             return
-        self.msg(channel,"Question: ")
-        self.msg(channel,self._question)
-        self.msg(channel,"Clue: "+self._answer.current_clue())
+        self.msg(channel,COLOR_CODE+"Question: ")
+        self.msg(channel,COLOR_CODE+self._question)
+        self.msg(channel,COLOR_CODE+"Clue: "+self._answer.current_clue())
 
     def _get_new_question(self):
         '''
@@ -419,7 +419,7 @@ class ircbotFactory(ClientFactory):
     def __init__(self,nickname='trivia'):
         self.nickname = nickname
         self.running = False
-        self.lineRate = 1
+        self.lineRate = 0.2
 
     def clientConnectionLost(self, connector, reason):
         print("Lost connection (%s)" % (reason,))
