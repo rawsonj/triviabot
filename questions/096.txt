@@ -1,0 +1,1000 @@
+MUSIC:Who composed the Opera Albert Herring*benjamin Britten
+GENERAL KNOWLEDGE:Of what is a smuck a group*Jellyfish
+HISTORY;Who was the Man of destiny*Napoleon
+GEOGRAPHY:Which Canadian city used to be called Bytown*Ottawa
+FILM:Who played the boxer Jake la Motta in the 1980 film Raging Bull*Robert de Niro
+HISTORY:Who was the guest conductor at the opening of the Carnegie hall in 1891*Tchaikovsky
+HISTORY:Which of Henry viiis wives survived him*Catherine Parr
+GENERAL KNOWLEDGE:What are Olive Oyl's vital statistics*19-19-19
+MUSIC:Who composed"I've got you under my skin"*Cole Porter
+GENERAL KNOWLEDGE:About how many hairs does an average healthy scalp shed in 24 hours*sixty five
+GENERAL KNOWLEDGE:What is Londons Central Criminal Court called*The Old Bailey
+GENERAL KNOWLEDGE:In mythology which flower sprang from the blood of a young man killed by Apollo*Hyacinth
+SPORT:In the 1976 Olympics, who was the only female competitor not to be given a sex test*Princess anne
+FILM:Who starred in Easy Street*Charlie Chaplin
+GEOGRAPHY:In which sea is the Dogger bank*The North Sea
+GENERAL KNOWLEDGE:Whose court was at Camelot*King Arthurs
+GENERAL KNOWLEDGE:What is the Muslim equivalent of Red Cross*Red Crescent
+GEOGRAPHY:Which country owns the Queen Elizabeth Islands in the Arctic*Canada
+LITERATURE:Who wrote Mill on the Floss*George Elliot
+SPORT:Which was the first English Club to achieve FA Cup and League double*Preston North End
+ALIASES: Walker Smith*Sugar Ray Robinson
+SPORT: Old Trafford, home of which football team*Manchester United
+SPORT: The Hawthorns, home of which football team*West Bromwich Albion
+SCIENCE: Periodic Table: Element, atomic number 1, symbol H*Hydrogen
+SCIENCE: Periodic Table: Element, atomic number 2, symbol He*Helium
+SCIENCE: Periodic Table: Element, atomic number 3, symbol Li*Lithium
+SCIENCE: Periodic Table: Element, atomic number 4, symbol Be*Beryllium
+SCIENCE: Periodic Table: Element, atomic number 5, Symbol B*Boron
+SCIENCE: Periodic Table: Element, atomic number 6, symbol C*Carbon
+SCIENCE: Periodic Table: Element, atomic number 7, symbol N*Nitrogen
+SCIENCE: Periodic Table: Element, atomic number 8, symbol O*Oxygen
+SCIENCE: Periodic Table: Element, atomic number 9, symbol F*Fluorine
+SCIENCE: Periodic Table: Element, atomic number 10, symbol Ne*Neon
+SCIENCE: Periodic Table: Element, atomic number 11, symbol Na*Sodium
+SCIENCE: Periodic Table: Element, atomic number 12, symbol MG*Magnesium
+SCIENCE: Periodic Table: Element, atomic number 13, symbol Al*Aluminium
+SCIENCE: Periodic Table: Element, atomic number 14, symbol Si*Silicon
+SCIENCE: Periodic Table: Element, atomic number 15, symbol P*Phosphorus
+SCIENCE: Periodic Table: Element, atomic number 16, symbol S*Sulphur
+SCIENCE: Periodic Table: Element, atomic number 17, symbol Cl*Chlorine
+SCIENCE: Periodic Table: Element, atomic number 18, symbol Ar*Argon
+SCIENCE: Periodic Table: Element, atomic number 19, symbol K*Potassium
+SCIENCE: Periodic Table: Element, atomic number 20, symbol Ca*Calcium
+SCIENCE: Periodic Table: Element, atomic number 21, symbol Sc*Scandium
+SCIENCE: Periodic Table: Element, atomic number 22, symbol Ti*Titanium
+SCIENCE: Periodic Table: Element, atomic number 23, symbol V*Vanadium
+SCIENCE: Periodic Table: Element, atomic number 24, symbol Cr*Chromium
+SCIENCE: Periodic Table: Element, atomic number 25, symbol Mn*Manganese
+SCIENCE: Periodic Table: Element, atomic number 26, symbol Fe*Iron
+SCIENCE: Periodic Table: Element, atomic number 27, symbol Co*Cobalt
+SCIENCE: Periodic Table: Element, atomic number 28, symbol Ni*Nickel
+SCIENCE: Periodic Table: Element, atomic number 29, symbol Cu*Copper
+SCIENCE: Periodic Table: Element, atomic number 30, symbol Zn*Zinc
+SCIENCE: Periodic Table: Element, atomic number 31, symbol Ga*Gallium
+SCIENCE: Periodic Table: Element, atomic number 32, symbol Ge*Germanium
+SCIENCE: Periodic Table: Element, atomic number 33, symbol As*Arsenic
+SCIENCE: Periodic Table: Element, atomic number 34, symbol Se*Selenium
+SCIENCE: Periodic Table: Element, atomic number 35, symbol Br*Bromine
+SCIENCE: Periodic Table: Element, atomic number 36, symbol Kr*Krypton
+SCIENCE: Periodic Table: Element, atomic number 37, symbol Rb*Rubidium
+SCIENCE: Periodic Table: Element, atomic number 38, symbol Sr*Strontium
+SCIENCE: Periodic Table: Element, atomic number 39, symbol Y*Yttrium
+SCIENCE: Periodic Table: Element, atomic number 40, symbol Zr*Zirconium
+SCIENCE: Periodic Table: Element, atomic number 41, symbol Nb*Niobium
+SCIENCE: Periodic Table: Element, atomic number 42, symbol Mo*Molybdenum
+SCIENCE: Periodic Table: Element, atomic number 43, symbol Tc*Technetium
+SCIENCE: Periodic Table: Element, atomic number 44, symbol Ru*Ruthenium
+SCIENCE: Periodic Table: Element, atomic number 45, symbol Rh*Rhodium
+SCIENCE: Periodic Table: Element, atomic number 46, symbol Pd*Palladium
+SCIENCE: Periodic Table: Element, atomic number 47, symbol Ag*Silver
+SCIENCE: Periodic Table: Element, atomic number 48, symbol Cd*Cadmium
+SCIENCE: Periodic Table: Element, atomic number 49, symbol In*Indium
+SCIENCE: Periodic Table: Element, atomic number 50, symbol Sn*Tin
+SCIENCE: Periodic Table: Element, atomic number 51, symbol Sb*Antimony
+SCIENCE: Periodic Table: Element, atomic number 52, symbol Te*Tellurium
+SCIENCE: Periodic Table: Element, atomic number 53, symbol I*Iodine
+SCIENCE: Periodic Table: Element, atomic number 54, symbol Xe*Xenon
+SCIENCE: Periodic Table: Element, atomic number 55, symbol Cs*Caesium
+SCIENCE: Periodic Table: Element, atomic number 56, symbol Ba*Barium
+SCIENCE: Periodic Table: Element, atomic number 57, symbol La*Lanthanum
+SCIENCE: Periodic Table: Element, atomic number 58, symbol Ce*Cerium
+SCIENCE: Periodic Table: Element, atomic number 59, symbol Pr*Praeseodymim
+SCIENCE: Periodic Table: Element, atomic number 60, symbol Nd*Neodymium
+SCIENCE: Periodic Table: Element, atomic number 61, symbol Pm*Promethium
+SCIENCE: Periodic Table: Element, atomic number 62, symbol Sm*Samarium
+SCIENCE: Periodic Table: Element, atomic number 63, symbol Eu*Europium
+SCIENCE: Periodic Table: Element, atomic number 64, symbol Gd*Gadolinium
+SCIENCE: Periodic Table: Element, atomic number 65, symbol Tb*Terbium
+SCIENCE: Periodic Table: Element, atomic number 66, symbol Dy*Dysprosium
+SCIENCE: Periodic Table: Element, atomic number 67, symbol Ho*Holmium
+SCIENCE: Periodic Table: Element, atomic number 68, symbol Er*Erbium
+SCIENCE: Periodic Table: Element, atomic number 69, symbol Tm*Thulium
+SCIENCE: Periodic Table: Element, atomic number 70, symbol Yb*Ytterbium
+SCIENCE: Periodic Table: Element, atomic number 71, symbol Lu*Lutetium
+SCIENCE: Periodic Table: Element, atomic number 72, symbol Hf*Hafnium
+SCIENCE: Periodic Table: Element, atomic number 73, symbol Ta*Tantalum
+SCIENCE: Periodic Table: Element, atomic number 74, symbol W*Tungsten
+SCIENCE: Periodic Table: Element, atomic number 75, symbol Re*Rhenium
+SCIENCE: Periodic Table: Element, atomic number 76, symbol Os*Osmium
+SCIENCE: Periodic Table: Element, atomic number 77, symbol Ir*Iridium
+SCIENCE: Periodic Table: Element, atomic number 78, symbol Pt*Platinum
+SCIENCE: Periodic Table: Element, atomic number 79, symbol Au*Gold
+SCIENCE: Periodic Table: Element, atomic number 80, symbol Hg*Mercury
+SCIENCE: Periodic Table: Element, atomic number 81, symbol Tl*Thallium
+SCIENCE: Periodic Table: Element, atomic number 82, symbol Pb*Lead
+SCIENCE: Periodic Table: Element, atomic number 83, symbol Bi*Bismuth
+SCIENCE: Periodic Table: Element, atomic number 84, symbol Po*Polonium
+SCIENCE: Periodic Table: Element, atomic number 85, symbol At*Astatine
+SCIENCE: Periodic Table: Element, atomic number 86, symbol Rn*Radon
+SCIENCE: Periodic Table: Element, atomic number 87, symbol Fr*Francium
+SCIENCE: Periodic Table: Element, atomic number 88, symbol Ra*Radium
+SCIENCE: Periodic Table: Element, atomic number 89, symbol Ac*Actinium
+SCIENCE: Periodic Table: Element, atomic number 90, symbol Th*Thorium
+SCIENCE: Periodic Table: Element, atomic number 91, symbol Pa*Protactinium
+SCIENCE: Periodic Table: Element, atomic number 92, symbol U*Uranium
+SCIENCE: Periodic Table: Element, atomic number 93, symbol Np*Neptunium
+SCIENCE: Periodic Table: Element, atomic number 94, symbol Pu*Plutonium
+SCIENCE: Periodic Table: Element, atomic number 95, symbol Am*Americium
+SCIENCE: Periodic Table: Element, atomic number 96, symbol Cm*Curium
+SCIENCE: Periodic Table: Element, atomic number 97, symbol Bk*Berkelium
+SCIENCE: Periodic Table: Element, atomic number 98, symbol Cf*Californium
+SCIENCE: Periodic Table: Element, atomic number 99, symbol Es*Einsteinium
+SCIENCE: Periodic Table: Element, atomic number 100, symbol Fm*Fermium
+SCIENCE: Periodic Table: Element, atomic number 101, symbol Md*Mendelevium
+SCIENCE: Periodic Table: Element, atomic number 102, symbol No*Nobelium
+SCIENCE: Periodic Table: Element, atomic number 103, symbol Lr*Lawrencium
+PEOPLE: Hebrew patriarch from whom all jews trace their decent*Abraham
+SPORT: British sprinter, subject of the film Chariots of Fire*Harold Abrahams
+MEDICINE: Area accumulating pus within body tissue*Abscess
+ANIMALS: Nocturnal mammal of southern Africa with a long extendible tongue*Aardvark
+GEOGRAPHY: Capital of Ivory Coast*Abidjan
+SCIENCE:formation of living organisms from non living substances*Abiogenesis
+DEFINITIONS:The ceremonial washing*Ablution
+ACRONYMS: ABM*anti-ballistic missile
+DEFINITIONS:rejection or renounciation of a doctrine*Abnegation
+ANIMALS:unidentified animal said to live in the Himalayas*Abominable snowman
+ANIMALS:fourth stomach of a ruminant*Abomasum
+GENERAL KNOWLEDGE: the magic word*Abracadabra
+GEOGRAPHY: Inland sea separating Europe from N.Africa*Mediterranean Sea
+ANIMALS:A deep sea shark, feeds on plankton*Megamouth
+ACRONYMS:MICV*Mechanized infantry combat vehicle
+GENERAL KNOWLEDGE:U S health care programme introduced in 1965 by Johnson*Medicaid
+GENERAL KNOWLEDGE: IN WHICH YEAR. The worlds first test tube baby born in UK*1978
+GENERAL KNOWLEDGE: IN WHICH YEAR. William Harvey discovered the circulation of blood*1628
+GEOGRAPHY:Capital of Swaziland*Mbabane
+GENERAL KNOWLEDGE: Thursday before Easter*Maundy Thursday
+HISTORY:Henry viii warship*Mary Rose
+GEOGRAPHY:Capital of Martinique*Fort-de-France
+GEOGRAPHY:Chief sea port of France*Marseille
+GENERAL KNOWLEDGE:frech mime artist*Marcel Marceau
+GEOGRAPHY:Capital of the Isle of Man*Douglas
+GEOGRAPHY:Capital of the Canadian province of Manitoba*Winnipeg
+GEOGRAPHY:Capital of Malta*Valletta
+GEOGRAPHY:Capital of Malaysia*Kuala Lumpar
+DEFINITIONS:An amusing slip of the tongue*Malapropism
+DEFINITIONS:Secular song in 4 or 5 parts, sung without accompaniement*Madrigal
+GENERAL KNOWLEDGE:French fortification system along the German frontier from Switzerland to Luxembourg*Maginot Line
+DEFINITION:Substance used between moving surfaces to reduce friction*Lubricant
+GENERAL KNOWLEDGE: Founder of the Jesuits*Ignatius Loyola
+THE ARTS:English painter 1887 - 1976*Laurence Stephen Lowry
+GEOGRAPHY:capital of Lithuania*Vilnius
+GENERAL KNOWLEDGE:U S aircraft manufacturer*Lockheed
+GENERAL KNOWLEDGE:Former name for tetanus*Lockjaw
+MUSIC: U S composer of musicals including Paint your wagon, My fair lady*Frederick Loewe
+GEOGRAPHY:Southernmost point of England, in Cornwall*Lizard point
+SCIENCE:Soft, ductile silver- white metallic element*Lithium
+SCIENCE:Scientific study of language*Linguistics
+GENERAL KNOWLEDGE:U S aviator, first solo non stop trans atlantic flight*Charles Lindbergh
+GENERAL KNOWLEDGE:Holy Island, off the coast of Northumberland*Lindisfarne
+GENERAL KNOWLEDGE:A five line humorous verse*Limerick
+GEOGRAPHY:Capital of Liechtenstein*Vaduz
+GEOGRAPHY:Capital of Lesotho*Maseru
+SCIENCE:Belgian cosmologist, proposed the Big Bang theory*Georges Lemaitre
+NATURE:Larva of the cranefly*Leatherjacket
+GEOGRAPHY:Capital of Afghanistan*Kabul
+GEOGRAPHY:Capital of Albania*Tirana
+GEOGRAPHY:Capital of Algeria*Algiers
+GEOGRAPHY:Capital of Andorra*Andorra la Vella
+GEOGRAPHY:Capital of Angola*Luanda
+GEOGRAPHY:Capital of Argentina*Buenos Aires
+GEOGRAPHY:capital of Australia*Canberra
+GEOGRAPHY:Capital of Austria*Vienna
+GEOGRAPHY:Capital of the Bahamas*Nassau
+GEOGRAPHY:Capital of Bahrain*Manama
+GEOGRAPHY:Capital of Bangladesh*Dhaka
+GEOGRAPHY:Capital of Barbados*Bridgetown
+GEOGRAPHY:Capital of Belgium*Brussels
+GEOGRAPHY:Capital of Belize*Belmopan
+GEOGRAPHY:Capital of Benin*Porto Novo
+GEOGRAPHY:Capital of Bhutan*Thimphu
+GEOGRAPHY:Capital of Botswana*Gaborone
+GEOGRAPHY:capital of Brunei*Bandar Seri Begawan
+GEOGRAPHY:Capital of Brazil*Brasilia
+GEOGRAPHY:capital of Bulgaria*Sofia
+GEOGRAPHY:capital of Cambodia*Phnom Penh
+GEOGRAPHY:Capital of Cameroon*Yaounde
+GEOGRAPHY:Capital of Canada*Ottawa
+GEOGRAPHY:Capital of Chad*N'Djamena
+GEOGRAPHY:Capital of Costa Rica*San Jose
+GEOGRAPHY:Capital of Congo*Brazzaville
+GEOGRAPHY:Capital of Cuba*Havana
+GEOGRAPHY:Capital of Cyprus*Nicosia
+GEOGRAPHY:Capital of Czechoslovakia*Prague
+GEOGRAPHY:Capital of Denmark*Copenhagen
+GEOGRAPHY:Capital of Djibouti*Djibouti
+GEOGRAPHY:Capital of Ecuador*Quito
+GEOGRAPHY:Capital of Egypt*Cairo
+GEOGRAPHY:Capital of El Salvador*San Salvador
+GEOGRAPHY:Capital of Ethiopia*Addis Ababa
+GEOGRAPHY:Capital of Fiji*Suva
+GEOGRAPHY:Capital of Finland*Helsinki
+GEOGRAPHY:Capital of France*Paris
+GEOGRAPHY:Capital of Gabon*Libreville
+GEOGRAPHY:Capital of Ghana*Accra
+GEOGRAPHY:Capital of Greece*Athens
+GEOGRAPHY:Capital of Grenada*St George's
+GEOGRAPHY:Capital of Guatemala*Guatemala
+GEOGRAPHY:Capital of Guyana*Georgetown
+GEOGRAPHY:Capital of Haiti*Port-au-Prince
+GEOGRAPHY:Capital of Honduras*Tegucigalpa
+GEOGRAPHY:Capital of Hungary*Budapest
+GEOGRAPHY:Capital of Iceland*Reykjavik
+GEOGRAPHY:Capital of India*New Delhi
+GEOGRAPHY:Capital of Indonesia*Jakarta
+GEOGRAPHY:Capital of Iran*Teheran
+GEOGRAPHY:Capital of Iraq*Baghdad
+GEOGRAPHY:Capital of Irish Republic*Dublin
+GEOGRAPHY:Capital of Israel*Jerusalem
+GEOGRAPHY:Capital of Italy*Rome
+GEOGRAPHY:Capital of Jamaica*Kingston
+GEOGRAPHY:Capital of Japan*Tokyo
+GEOGRAPHY:Capital of Jordan*Amman
+GEOGRAPHY:Capital of Kenya*Nairobi
+GEOGRAPHY:Capital of Kiribati*Tarawa
+GEOGRAPHY:Capital of North Korea*Pyongyang
+GEOGRAPHY:Capital of South Korea*Seoul
+GEOGRAPHY:Capital of Kuwait*Kuwait
+GEOGRAPHY:Capital of Laos*Vientiane
+GEOGRAPHY:Capital of Lebanon*Beirut
+GEOGRAPHY:Capital of Libya*Tripoli
+GEOGRAPHY:Capital of Madagascar*Antananarivo
+GEOGRAPHY:Capital of Maldives*Male
+GEOGRAPHY:Capital of Mauritius*Port Louis
+GEOGRAPHY:Capital of Mexico*Mexico City
+GEOGRAPHY:Capital of Monaco*Monaco
+GEOGRAPHY:Capital of Mongolia*Ulan Bator
+GEOGRAPHY:Capital of Morocco*Rabat
+GEOGRAPHY:Capital of Moazambique*Maputo
+GEOGRAPHY:Capital of Namibia*Windhoek
+GEOGRAPHY:New name for Burma*Myanmar
+GEOGRAPHY:Capital of Nauru*Yaren
+GEOGRAPHY:Capital of Nepal*Kathmandu
+GEOGRAPHY:Capital of New Zealand*Wellington
+GEOGRAPHY:Capital of Nicaragua*Managua
+GEOGRAPHY:Capital of Niger*Niamey
+GEOGRAPHY:Capital of Nigeria*Lagos
+GEOGRAPHY:Capital of Norway*Oslo
+GEOGRAPHY:Capital of Oman*Muscat
+GEOGRAPHY:Capital of pakistan*Islamabad
+GEOGRAPHY:Capital of Panama*Panama
+GEOGRAPHY:Capital of Papua New Guinea*Port Moresby
+GEOGRAPHY:Capital of Paraguay*Asuncion
+GEOGRAPHY:Capital of Peru*Lima
+GEOGRAPHY:Capital of Phiippines*Manila
+GEOGRAPHY:Capital of Poland*Warsaw
+GEOGRAPHY:Capital of Portugal*Lisbon
+GEOGRAPHY:Capital of Qatar*Doha
+GEOGRAPHY:Capital of Romania*Bucharest
+GEOGRAPHY:Capital of Rwanda*Kigali
+WHAT YEAR:First domestic videotape system introduced by japanese company Sony*1975
+WHAT YEAR:Double helix structure of DNA discovered by F Crick & J watson*1953
+WHAT YEAR:World health Organisation declares the world free of smallpox*1980
+WHAT YEAR:Genetic fingerprinting developed by A Jeffreys(UK)*1984
+WHAT YEAR:First heart transplant carried out by C Barnard of South Africa*1967
+WHAT YEAR:First underwater cable laid under the English Channel*1851
+WHAT YEAR:Existence of blood groups discovered by K Landsteiner of Austria*1901
+MUSIC:Adam Ants real name*Stuart Goddard
+MUSIC:Who sang Save your kisses for me in 1976*Brotherhood of Man
+ACRONYMS:ROM*Read only memory
+AMERICAN STATES: How many states form the U.S. (answer in numbers)*50
+AMERICAN STATES: Can we find South Carolina at the Eastcoast (yes or no)*yes
+AMERICAN STATES: What city has the largest number of inhabitants*new york
+AMERICAN STATES: What state has the largest number of inhabitants*california
+AMERICAN STATES: What state has the largest land mass*alaska
+AMERICAN STATES: What state is the smallest*rhode island
+AMERICAN STATES: What state has the smallest number of inhabitants*alaska
+AMERICAN STATES: In what state can we find the largest mountain*alaska
+AMERICAN STATES: What's the U.S. northern neighbour country called*canada
+AMERICAN STATES: What's the U.S. southern neighbour country called*mexico
+AMERICAN STATES: How many colonies founded the U.S.A*13
+AMERICAN STATES: Orlando is in what state*Florida
+AMERICAN STATES: Dallas is in what state*Texas
+AMERICAN STATES: What state is named after the first president of the USA*Washington
+AMERICAN STATES: What city is famous for it's car factories*Detroit
+AMERICAN STATES: In what state is Las Vegas*Nevada
+AMERICAN STATES: In what state can we find Chicago*illinois
+AMERICAN STATES: What's the largest city to be found at the Westcoast*los angeles
+AMERICAN STATES: In what state can we find New York*new york
+AMERICAN STATES: In what state can we find San Francisco*california
+AMERICAN STATES: In what state can we find Atlanta*georgia
+AMERICAN STATES: District of Columbia is in what city*washington
+AMERICAN STATES: What's Pennsylvania's largest city*philadelphia
+AMERICAN STATES: Route 66 connects Los Angeles to...*chicago
+AMERICAN STATES: What's Louisiana's largest city*new orleans
+AMERICAN STATES: What state has no borders on land*hawaii
+AMERICAN STATES: What's Utah's largest city*Salt Lake City
+AMERICAN STATES: Birmingham is a big city in what state*Alabama
+AMERICAN STATES: What river is the south border of Texas*Rio Grande
+AMERICAN STATES: Omaha is in what state*Nebraska
+AMERICAN STATES: What is the capital of Minnesota*st.paul
+AMERICAN STATES: In what state can we find Phoenix*arizona
+AMERICAN STATES: What's the capital of Virginia*richmond
+AMERICAN STATES: Which state is also known as the "lone star state"*texas
+AMERICAN STATES: What's the largest city in Colorado*denver
+AMERICAN STATES: In what state can we find the Mount Rushmore*south dakota
+AMERICAN STATES: In what state can we find Memphis*tennessee
+AMERICAN STATES: Near what city do the Mississippi and the Missouri meet*st.louis
+AMERICAN STATES: What's the capital of Kansas*topeka
+AMERICAN STATES: Montpelier is the capital of what state*vermont
+AMERICAN STATES: What's the capital of New york state*Albany
+AMERICAN STATES: What's the capital of Wisconsin*Madison
+AMERICAN STATES: Duluth is in what state*Minnesota
+AMERICAN STATES: Yellowstone National Park is in what state*Wyoming
+AMERICAN STATES: What's the capital of Mississippi*Jackson
+US PRESIDENTS: Who was the first president of the U.S.*washington
+US PRESIDENTS: Who succeeded F.D.Roosevelt*truman
+US PRESIDENTS: In what year did J.F.Kennedy die*1963
+US PRESIDENTS: In what year did A.Lincoln die*1865
+US PRESIDENTS: Who had to resign from the presidency*nixon
+US PRESIDENTS: Who was president during World War I*wilson
+US PRESIDENTS: Who succeeded Jimmy Carter*reagan
+US PRESIDENTS: Who was Kennedy's vice president*johnson
+US PRESIDENTS: Who succeeded Richard Nixon*ford
+US PRESIDENTS: Who reigned during the Korean War*eisenhower
+US PRESIDENTS: Who reigned during the War of 1812*madison
+US PRESIDENTS: Who succeeded Abraham Lincoln*johnson
+US PRESIDENTS: Who preceded F.D.Roosevelt*hoover
+US PRESIDENTS: What party did Andrew Jackson represent*democrats
+US PRESIDENTS: Was Ulysses S. Grant a Republican? (yes/no)*yes
+US PRESIDENTS: Who succeeded George Washington*adams
+US PRESIDENTS: Who succeeded James Madison*monroe
+US PRESIDENTS: Has B.Franklin ever been president of the U.S.? (yes/no)*no
+US PRESIDENTS: Who was the third president of the U.S.A.*Jefferson
+US PRESIDENTS: Who succeeded John Quincy Adams*jackson
+US PRESIDENTS: Who was the last Whig president*fillmore
+US PRESIDENTS: Who was John Adams' vice president*jefferson
+US PRESIDENTS: Who reigned for 4 years, then not and then again 4 years*cleveland
+US PRESIDENTS: Who was president in 1900*mckinley
+US PRESIDENTS: Who was the first Democrat president of this century*wilson
+US PRESIDENTS: Who was Nixon's first vice president*agnew
+US PRESIDENTS: Who was Eisenhowers' vice president*nixon
+US PRESIDENTS: Who was the only Federalist party president*adams
+US PRESIDENTS: Who was vice president under J.Q.Adams and A.Jackson*calhoun
+007: what james bond film used the space shuttle*moonraker
+007: who most often played james bond's chief, m*bernard lee
+10' of what equals 1' of rain in water content*snow
+1701 who wrote the classic thriller 'the birds'*alfred hitchcock
+1776 what is the hardest bone in the human body*jawbone
+1961 movies: name one of the major stars in "the errand boy"*jerry lewis
+1991 Gulf War: What missiles did the Allies use to intercept Iraqi SCUDS*patriots
+1992 - a baseball owner and wife fell asleep in the stands at the world series*ted turner jane fonda*ted turner and jane fonda
+1992 - a former east german leader found refuge at moscow's chilean embassy*erich honecker
+1992 - what album did neil young release as a sequel to his 1972 lp harvest*harvest moon
+1992 - what british actor penned the autobiography what's it all about*michael caine
+1992 - what continent had the greatest explosion of aids cases*africa
+1992 - what credit card company recorded 205 million dollars in 3rd quarter losses*american express
+1992 - what democrat won the new hampshire primary*paul tsongas
+1992 - what did the church of england allow women to become*priests
+1992 - what gymnastics coach announced retirement at the barcelona olympic*bela karolyi
+1992 - What Ice-T opus offers the line: "Die, pig, die"*cop killer
+1992 - what line of children's books celebrated its 50th anniversary*little
+1992 - what mtv veejay co-starred in encino man*pauly shore
+1992 - What office is The Penguin running for in Batman Returns*mayor
+1992 - What pop star chose to name one of her companies Slutco*madonna
+1992 - what san francisco 49ers star was listed as the highest paid*joe
+1992 - what spanish cyclist won his second tour de france*miguel indurain
+Music: who recorded "disraeli gears" in 1967*cream
+Music: who recorded "girl watcher"*okaysions
+Music: who recorded "i want you to want me" on epic records in 1979*cheap
+Music: who recorded "just one look"*linda ronstadt
+Music: who recorded "my true story" in 1961*jive five
+Music: who recorded "rubber soul" in 1965*beatles
+Music: Who recorded "Save the Last Dance for Me" in 1960*drifters
+Music: who recorded "that's my desire"*frankie laine
+Music: who recorded "the cat's in the cradle" in 1974*harry chapin
+Music: Who recorded "The Last Kiss"*j frank wilson and the cavaliers
+Music: who recorded "too much"*elvis presley
+Music: who recorded "you're so vain"*carly simon
+Music: Who recorded 'Be True to your School' in 1963*The Beach Boys
+Music: Who recorded 'Blue Morning Blue Day' in 1978*Foreigner
+Music: Who recorded 'Cuts Like a Knife' in 1983*Bryan Adams
+Music: Who recorded 'I Can't Explain' in 1965*The Who
+Music: Who recorded 'In the Air Tonight' in 1981*Phil Collins
+Music: Who recorded 'Long Tall Sally' in 1956*Little Richard
+Music: Who recorded 'Shadows of the Night' in 1982*Pat Benatar
+Music: Who recorded I Want You, I Need You, I Love You in 1956*elvis
+Music: who recorded it's now or never in 1960*elvis presley
+Music: Who recorded the 1945 hit song "Till The End of Time"*perry como
+Music: who recorded the 1950 hit song "there's no tomorrow"*tony martin
+Music: who recorded the 1951 hit song "jezebel"*frankie lane
+Music: who recorded the 1951 hit song "shanghai"*doris day
+Music: who recorded the 1951 hit song "too young"*nat king cole
+Music: who recorded the 1952 hit song "half as much"*rosemary clooney
+Music: Who recorded the 1955 hit song "I'll Never Stop Loving You"*doris day
+Music: Who recorded the 1955 hit song "Whatever Lola Wants"*sarah vaughn
+Music: Who recorded the 1956 hit song "Treasure of Love"*clyde mcphatter
+Music: who recorded the 1957 hit song "could this be magic"*dubs
+Music: who recorded the 1957 hit song "jim dandy"*lavern baker
+Music: who recorded the 1958 hit song "tequila"*champs
+Music: Who recorded the 1959 hit song "Sea Cruise"*frankie ford
+Music: Who recorded the 1959 hit song "What'd I Say"*ray charles
+Music: who recorded the 1960 hit song "alley-oop"*hollywood argyles
+Music: who recorded the 1961 hit song "peppermint twist"*joey dee and the
+Music: Who recorded the 1961 hit song "Quarter to Three"*gary us bonds
+Music: who recorded the 1961 hit song "raindrops"*dee clark
+Music: who recorded the 1962 hit song "baby it's you"*shirelles
+Music: who recorded the 1962 hit song "duke of earl"*gene chandler
+Music: who recorded the 1962 hit song "only love can break a heart"*gene
+Music: who recorded the 1962 hit song "party lights"*claudine clark
+Music: Who recorded the 1963 hit song "Pipeline"*chantays
+Music: who recorded the 1963 hit song "walking the dog"*rufus thomas
+Music: who recorded the 1966 hit song "barbara ann"*beach boys
+Music: who recorded the 1966 hit song "psychotic reaction"*count five
+Music: Who recorded the 1967 hit song "Groovin"*young rascals
+Music: Who recorded the 1967 hit song "I Had Too Much To Dream Last Night"*electric prunes
+Music: Who recorded the 1968 hit song "On The Road Again"*canned heat
+Music: who recorded the 1968 hit song "the dock of the bay"*otis redding
+Music: Who recorded the 1968 hit song "Valleri"*monkees
+Music: Who recorded the 1969 hit song "Let's Work Together"*wilbert harrison
+Music: Who recorded the 1969 hit song "Oh, What A Night"*dells
+Music: who recorded the 1983 hit song "china girl"*david bowie
+Who recorded "16 candles" in 1959*crest
+Who recorded "after the gold rush" in 1970*neil young
+Who recorded "Back in Black" in 1980*ac/dc
+Who recorded "Barbara Ann" in 1961*regents
+Who recorded "blueberry hill" in 1956*fats domino
+Who recorded "burning bridges" in 1960*jack scott
+Who recorded "Ferry 'Cross the Mersey" in 1965*gerry and the
+Who recorded "Join Together" in 1972*the who
+Who recorded "king of the road" in 1965*roger miller
+Who recorded "love is all around" in 1968*troggs
+Who recorded "Mama Don't Lie" in 1963*jan bradley
+Who recorded "maybellene" in 1955*chuck berry
+Who recorded "my love is like a tyre iron" in 1981*ted nugent
+Who recorded "Sixteen Candles" in 1958*crests
+Who recorded "tragedy" in 1960*thomas wayne
+Who recorded "why" in 1960*frankie avalon
+Who recorded "yakkety yak" in 1958*coasters
+Who recorded 'a boy named sue'*johnny cash
+Who recorded 'hejira' in 1976*joni mitchell
+Who recorded 'hey jealousy'*gin blossoms
+Who recorded blue morning blue day in 1978*foreigner
+Who recorded left overture in 1976*kansas
+Who recorded such popular songs as 'policy of truth' and 'personal jesus'*depeche mode
+Who recorded such songs as 'toys in the attic' and 'angel', and also did the music for the film 'armageddon'*aerosmith
+Who recorded the album "business as usual" in 1983*men at work
+Who recorded the album "diver down" in 1980*van halen
+Who recorded the album "Freak Out"*frank zappa
+Who recorded the album "free for all" in 1976*ted nugent
+Who recorded the album "Freedom of Choice" in 1980*devo
+Who recorded the album "Get Lucky" in 1982*loverboy
+Who recorded the album "London Calling" in 1975*clash
+Who recorded the album "moving finger" in 1971*hollies
+Who recorded the album "nebraska" in 1982*bruce springsteen
+Who recorded the album "never a dull moment" in 1972*rod stewart
+Who recorded the album "nine tonite"*bob segar
+Who recorded the album "Rio" in 1983*duran duran
+Who recorded the album "Ssssh" in 1969*ten years after
+Who recorded the album "the cry of love" in 1970*jimi hendrix
+Who recorded the album "the point" in 1970*harry nilsson
+Who recorded the album "the smoker you drink, the player you get"*joe walsh
+Who recorded the album "there and back" in 1980*jeff beck
+Who recorded the album "Troubadour" in 1976*jj cale
+Who recorded the album "wings over america" in 1976*paul mccartney
+Who recorded the album "wish you were here" in 1975*pink floyd
+Who recorded the album "zoot allures" in 1976*frank zappa
+Who recorded the original song 'the twist'*the beatles
+Who recorded the song 'the humpty dance'*digital underground
+Who recorded the soundtrack for the movie "flash gordon"*queen
+Who recorded the tune 'dream weaver'*gary wright
+Who rehashes her triumphs and tragedies in the book Who's Sorry Now*connie
+Who released "carrie anne" in 1967*hollies
+Who released 'love roller coaster' in 1984*ohio players
+Who released 'pretty hate machine' in 1989*nine inch nails
+Who released 'she's so unusual' in 1984, and won a grammy for best new artist*cyndi lauper
+Who released 'tell him' in november 1962*the exciters
+Who released 'time, love and tenderness' in 1981*michael bolton
+Who released 'tuesday night music club' in 1993*sheryl crow
+Who released a chart-busting album in 1976 which featured 'the lido shuffle'*boz scaggs
+Who released the double album 'yellow brick road' in 1973*elton john
+Who released the smash hit 'she drives me crazy'*fine young cannibals
+Who replaced moses as the prophet of the israelites*joshua
+GEOGRAPHY:USA,What is the state capital of Montana*Helena
+GEOGRAPHY:USA,What is the state capital of Nebraska*Lincoln
+GEOGRAPHY:USA,What is the state capital of Nevada*Carson City
+GEOGRAPHY:USA,What is the state capital of New Hampshire*Concord
+GEOGRAPHY:USA,What is the state capital of New Jersey*Trenton
+GEOGRAPHY:USA,What is the state capital of New Mexico*Sante Fe
+GEOGRAPHY:USA,What is the state capital of New York*Albany
+GEOGRAPHY:USA,What is the state capital of North Carolina*Raleigh
+GEOGRAPHY:USA,What is the state capital of North Dakota*Bismarck
+GEOGRAPHY:USA,What is the state capital of Ohio*Columbus
+GEOGRAPHY:USA,What is the state capital of Oklahoma*Oklahoma City
+GEOGRAPHY:USA,What is the state capital of Oregon*Salem
+GEOGRAPHY:USA,What is the state capital of Pennsylvania*Harrisburg
+GEOGRAPHY:USA,What is the state capital of Rhode Island*Providence
+GEOGRAPHY:USA,What is the state capital of South Carolina*Columbia
+GEOGRAPHY:USA,What is the state capital of South Dakota*Pierre
+GEOGRAPHY:USA,What is the state capital of Tennessee*Nashville
+GEOGRAPHY:USA,What is the state capital of Texas*Austin
+GEOGRAPHY:USA,What is the state capital of Utah*Salt Lake City
+GEOGRAPHY:USA,What is the state capital of Vermont*Montpelier
+GEOGRAPHY:USA,What is the state capital of Virginia*Richmond
+GEOGRAPHY:USA,What is the state capital of Washington*Olympia
+GEOGRAPHY:USA,What is the state capital of West Virginia*Charleston
+GEOGRAPHY:USA,What is the state capital of Wisconsin*Madison
+GEOGRAPHY:USA,What is the state capital of Wyoming*Cheyenne
+GEOGRAPHY:USA,What is the state nickname of Alabama*Heart of Dixie
+GEOGRAPHY:USA,What is the state nickname of Alaska*The last frontier
+GEOGRAPHY:USA,What is the state nickname of Arizona*Apache state
+GEOGRAPHY:USA,What is the state nickname of Arkansas*Land of opportunity
+GEOGRAPHY:USA,What is the state nickname of California*Golden state
+GEOGRAPHY:USA,What is the state nickname of Colorado*Centennial state
+GEOGRAPHY:USA,What is the state nickname of Conneticut*Nutmeg state
+GEOGRAPHY:USA,What is the state nickname of Delaware*Diamond state
+GEOGRAPHY:USA,What is the state nickname of Florida*sunshine state
+GEOGRAPHY:USA,What is the state nickname of Georgia*Peach state
+GEOGRAPHY:USA,What is the state nickname of Hawaii*aloha state
+GEOGRAPHY:USA,What is the state nickname of Idaho*Gem state
+GEOGRAPHY:USA,What is the state nickname of Illinois*Prairie state
+GEOGRAPHY:USA,What is the state nickname of Indiana*hoosier state
+GEOGRAPHY:USA,What is the state nickname of Iowa*corn state
+GEOGRAPHY:USA,What is the state nickname of Kansas*sunflower state
+GEOGRAPHY:USA,What is the state nickname of Kentucky*bluegrass state
+GEOGRAPHY:USA,What is the state nickname of Louisiana*Sugar state
+GEOGRAPHY:USA,What is the state nickname of Maine*Pine tree state
+GEOGRAPHY:USA,What is the state nickname of Maryland*Free state
+GEOGRAPHY:USA,What is the state nickname of Massachusetts*Old colony
+GEOGRAPHY:USA,What is the state nickname of Michigan*Wolverine state
+GEOGRAPHY:USA,What is the state nickname of Minnesota*North star state
+GEOGRAPHY:USA,What is the state nickname of Mississippi*Magnolia state
+GEOGRAPHY:USA,What is the state nickname of Missouri*Bullion state
+GEOGRAPHY:USA,What is the state nickname of Montana*Big sky country
+GEOGRAPHY:USA,What is the state nickname of Nebraska*Cornhusker state
+GEOGRAPHY:USA,What is the state nickname of Nevada*Silver state
+GEOGRAPHY:USA,What is the state nickname of New Hampshire*granite state
+GEOGRAPHY:USA,What is the state nickname of New Jersay*garden state
+GEOGRAPHY:USA,What is the state nickname of New mexico*Land of enchantment
+GEOGRAPHY:USA,What is the state nickname of New York*Empire state
+GEOGRAPHY:USA,What is the state nickname of North carolina*Old north state
+GEOGRAPHY:USA,What is the state nickname of North Dakota*Sioux state
+GEOGRAPHY:USA,What is the state nickname of Ohio*Buckeye state
+GEOGRAPHY:USA,What is the state nickname of Oklahoma*Sooner state
+GEOGRAPHY:USA,What is the state nickname of Oregon*Sunset state
+GEOGRAPHY:USA,What is the state nickname of Pennsylvania*Keystone state
+GEOGRAPHY:USA,What is the state nickname of Rhode Island*Ocean state
+GEOGRAPHY:USA,What is the state nickname of South Carolina*Palmetto state
+GEOGRAPHY:USA,What is the state nickname of South dakota*Coyote state
+GEOGRAPHY:USA,What is the state nickname of Tennessee*Volunteer state
+GEOGRAPHY:USA,What is the state nickname of Texas*Lone star state
+GEOGRAPHY:USA,What is the state nickname of Utah*Mormon state
+GEOGRAPHY:USA,What is the state nickname of Vermont*Green mountain state
+GEOGRAPHY:USA,What is the state nickname of Virginia*Old Dominion
+GEOGRAPHY:USA,What is the state nickname of Washington*evergreen state
+GENERAL KNOWLEDGE:Of whom did Bill Clinton famously say "I did not have sexual relations with that woman"*Monica Lewinsky
+GENERAL KNOWLEDGE:Where do nice ladies buy their knickers*Marks & Spencer
+GENERAL KNOWLEDGE:Where was Mother Teresa of Calcutta born*Macedonia
+T.V: Who presents "Dog eat Dog"*Ulrika Jonsson
+T.V: Who presents "My kind of music"*Michael Barrymore
+T.V: What is Dot Cotton' ex husband called*Charlie
+T.V: Who plays Jack Vincent in Casualty*Will Mellor
+T.V: Friday Night With Jonathan*Ross
+T.V: Who plays Barbara in "The Royale Family"*Sue Johnston
+T.V: Who plays "Inspector Morse"*John Thaw
+T.V: Who presents "The Waiting Game"*Ruby Wax
+Football: Which team plays at "White Hart Lane"*Tottenham Hotspur
+Football: Which team plays at "Upton Park"*West Ham
+Football: Which team plays at "St. Marys Stadium"*Southampton
+Football: Which team plays at "The Stadium of Light"*Sunderland
+Football: Which team plays at "St. James Park"*Newcastle United
+Football: Which team plays at "Old Trafford"*Manchester United
+Football: Which team plays at "The Riverside Stadium"*Middlesborough
+Football: Which team plays at "Elland Road"*Leeds United
+Football: Which team plays at "Anfield"*Liverpool
+Football: Which team plays at "Filbert Street"*Leicester City
+Football: Which team plays at "Portman Road"*Ipswich Town
+Football: Which team plays at "Craven Cottage"*Fulham
+Football: Which team plays at "Goodison Park"*Everton
+Football: Which team plays at "Pride Park"*Derby County
+Football: Which team plays at "Stamford Bridge"*Chelsea
+Football: Which team plays at "The Valley"*Charlton Athletic
+Football: Which team plays at "The Reebok Stadium"*Bolton Wanderers
+Football: Which team plays at "Ewood Park"*Blackburn Rovers
+Football: Which team plays at "Villa Park"*Aston Villa
+Football: Which team plays at "Highbury"*Arsenal 
+T.V: Who is famous for his "Diddymen"*Ken Dodd
+Triv: What is another name for thong sandals*flip flops
+Football: Which computer tycoon became chairman of Tottenham Hotspur in 1991*alan sugar
+Film/T.V: What was the hospital St. Eligius better known as in the title of the t.v. series*st elsewhere
+Triv: Which country invaded The Falkland Islands in the 1980's*argentina
+Triv: Which british queen was honoured with the title "Empress of India"*queen victoria
+Triv: Which part of the body may be described as Varicose*veins
+Name the year: In which year did britain abolish the death penalty for murder*1965
+Name the year: When was the great plague of London*1665
+Triv: Who was Lord Protector of England 1653-1658*oliver cromwell
+Music: Name the lead singer of "Frankie goes to hollywood"*holly johnson
+Film/T.V: Who's catchphrase is "i wanna tell you a story"*max bygraves
+Music: Who's gold discs include "the next time & lucky lips"*sir cliff richard
+Film/T.V: Who has played Ken Barlow in coronation street since 1960*william roache
+Film/T.V: Who gained an oscar for his role as a butler in the film "Arthur"*sir john gielgud
+Film/T.V: Which writer created "Boys from the black stuff"*alan bleasdale
+Film/T.V: Who played Neil the hippie in "The young ones"*nigel planer
+Film/T.V: How does James Bond prefer his martinis*shaken not stirred
+Music: What folk group provided the music for the t.v. series "robin hood"*clannad
+Film/T.V: Fletcher is a character played by which comedy actor*ronnie barker
+Music: How long did bryan adam's "Everything i do" stay at no.1 in the charts for*16 weeks
+Music: Who was the youngest chart topper in 1972*jimmy osmond
+Triv: What did Sir Ernest Swinton invent in 1914*military tank
+Literature: Which Irish novalist wrote "Dubliners"*james joyce
+Triv: Which great lord admiral attended norwich grammar school*horatio nelson
+Music: Who had a No.1 album entitled "Love over gold"(1982)*dire straits
+Triv: Which comedian starred in the "bite your bum" world tour*billy connelly
+Film/T.V: Which talk show host regularly had his knee felt by female guests*terry wogan
+Music: What is Cliff Richards real name*harry webb
+Music: "Songs from the big chair" was a successful album for which duo*tears for fears
+Film/T.V: Name the t.v. pop show hosted by jools holland & paula yates*the tube
+Film/T.V: Which cockney performer starred in "half a sixpence"*tommy steele
+Film/T.V: Which famous little tramp was born in britain*charlie chaplin
+Film/T.V: Name Sir John Mills two famous daughters*hayley & juliet 
+Football: Name scotlands oldest football club*queens park
+Sport: The Eclipse Stakes is the main race run at which race course*sandown park
+Sport: Name the first english classic horse race run in 1776*st leger
+Football: Ron Harris made 665 league appearances for which football club between 1962-1980*chelsea
+Sport: Which tennis player became british No.1 in 1982*sue baker
+Sport: Where would you find a "foot spot, head spot and scratch line"*pool table
+Sport: Name Lancashires cricket ground*old trafford
+Sport: Name englands most famous steeplechase*the grand national
+Sport: Which british swimmer was the youngest member of the 1976 Montreal Olympic Team*sharon davies
+Sport: In what year did Torvell & Dean win the world championships*1981
+Football: Which colourful character was European & English footballer of the year in 1968*george best
+Football: At which football ground did 52 people die in a fire in May 1985*bradford city
+GEOGRAPHY:the capital of the Balearic Islands*Palma de Mallorca
+SPORT:Winner of the British Open Golf in 1979/1984 & 1988*Severiano Ballesteros
+LITERATURE:French writer (Le Pere Goriot, La Comedie Humaine)*Honore de Balzac
+HISTORY:When did the Baltic states gain independence from the USSR*1991
+KAOS:Baltic Republics*Estonia*Latvia*Lithuania
+TV:Groundforces strong man*Tommy Walsh
+GEOGRAPHY:Residence of the British Royal family in Scotland*Balmoral Castle
+GENERAL KNOWLEDGE:The process of voting in an election*ballot
+GENERAL KNOWLEDGE:The profession of barristers collectively*The Bar
+GENERAL KNOWLEDGE:Small ornamental species of domestic chicken*Bantam
+GENERAL KNOWLEDGE:Any vessel that converts water into steam*boiler
+GEOGRAPHY:Where is the Cresta Run*St Moritz
+SPORT:Name the famous Swiss bobsleigh course*The Cresta Run
+GEOGRAPHY:The largest rock mass in the world*Ayres Rock
+GEOGRAPHY:Alternative name for Ayres Rock*Uluru
+GEOGRAPHY:Height of Ayres Rock*110 FEET
+LITERATURE:British playwright (This is where we came in, Invisible friends)*Alan Ayckbourn
+SCIENCE:Examination of the internal organs & tissues of a dead body to establish the cause of death*Postmortem
+GENERAL KNOWLEDGE:popular name for the Weat german guerrilla group*Bader-Meinhoff Gang
+GENERAL KNOWLEDGE:English mathematician who devised the precursor of the computer*Charles Babbage
+GENERAL KNOWLEDGE:First synthetic plastic created in 1909*Bakelite
+GENERAL KNOWLEDGE:The former Edward viii*The Duke of Windsor
+GENERAL KNOWLEDGE:Formerly which king? - The Duke of Windsor*King Edward viii
+GENERAL KNOWLEDGE:English fashion photographer*David Bailey
+ACRONYM:BAFTA*British Academy of Film & Televison
+TV:The housewives favorite gardener*Alan Titchmarsh
+TV:Gardener known for her nipples*Charlie Dimmock
+SCIENCE:Bright spots of sunlight seen around the edge of the moon just before & after an eclipse*Bailys beads
+FILM:2002, who won best actor Oscar for his role in A beautiful Mind*Russell Crowe
+LITERATURE:Feb 2002, latest Joan Collins novel*Star Quality
+MUSIC:Irish boyband*Westlife
+SCIENCE:british fertility expert*Lord Robert Winston
+TV:Possible the richest comedian in the world*Jerry Steinfeld
+FILM:Which pop star had a cameo role in Moulin Rouge*Kylie Minogue
+FILM:Hugh Grants ex girlfriend*Liz Hurley
+GENERAL KNOWLEDGE:Rod Stewarts most recent ex wife*Rachel Hunter
+GENERAL KNOWLEDGE:Editor of Private Eye*Ian Hislop
+MUSIC:Wildman of Black Sabbath*Ozzy Osbourne
+On This Day In January 1764 - Wolfgang ______ Mozart played for the Royal Family at Versailles in France.*Amadeus
+On This Day In January 1925 - Lucrezia Bori and John McCormack of the famous ______ Opera in New York City made their singing debuts on radio.*Metropolitan
+On This Day In January 1953 - Hank ______ died of drug and alcohol overdose at the age of 29.*Williams
+On This Day In January 1955 - RCA ______ announced that they were dropping the prices of their records in an attempt to spur record sales.*Victor
+On This Day In January 1959 - Elvis Presley destroyed his ______ on Germany's Autobahn.*BMW
+On This Day In January 1962 - The Beatles auditioned for ______ Records in London. The company opted for Brian Polle & the Tremeloes because the group was based in the south of England.*Decca
+On This Day In January 1964 - The BBC ______ the first "Top of the Pops" TV rock show.*broadcasts
+On This Day In January 1964 - The Beach Boys ______ "Fun Fun Fun.".*recorded
+On This Day In January 1966 - The final episode of "The Adventures of Ozzie & ______ " (with Rick Nelson) was filmed.*Harriet
+On This Day In January 1967 - Gary Lewis (______ ) was drafted into the U.S. Army.*Playboys
+On This Day In January 1967 - Sonny and Cher were barred from the Tournament of Roses in______ , CA, for their support of the Sunset Strip rioters.*Pasadena
+On This Day In January 1968 - The Blue ______ changed the name of their band to Creedence Clearwater Revival.*Velvets
+On This Day In January 1979 - Bruce Springsteen's ______ was ripped open by a fire-cracker that was thrown onstage from the audience.*cheek
+On This Day In January 1981 - Prince and the ______ released their first home video "Live." The recording is from the "Purple Rain" tour.*Revolution
+On This Day In January 1982 - The last ABBA concert was held in______ .*Stockholm
+On This Day In January 1985 - VH-1 premiered as an adult ______ music video channel with Marvin Gaye's "Star Spangled Banner" video.*contemporary
+On This Day In January 1989 - The Recording Industry Association of ______ (RIAA) changed the requirements for a musical work to achieve gold and platinum status.*America
+On This Day In January 1999 - Cinjun August Tate and ______ Milano were married.*Alyssa
+On This Day In January 2002 - Eric Clapton and ______ McEnery were married.*Melia
+On This Day In January 2002 - In Tampa, FL, Nick Carter (Backstreet Boys) was ______ and charged with a misdemeanor count of resisting arrest/opposing a law enforcement officer without violence.*arrested
+On This Day In January 0404 - The last ______ competition was held in Rome.*gladiator
+On This Day In January 1622 - The ______ Chancery adopted January 1st as the beginning of the New Year instead of March 25th.*Papal
+On This Day In January 1772 - The first traveler's checks were ______ in London.*issued
+On This Day In January 1785 - London's ______ daily paper "The Daily Universal Register" (later renamed "The Times" in 1788) was first published.*oldest
+On This Day In January 1797 - Albany became the capital of New York______ , replacing New York City.*state
+On This Day In January 1801 - The Act of Union of ______ and Ireland came into force.*England
+On This Day In January 1801 - Italian ______ Giuseppe Piazzi became the first person to discover an asteroid. He named it Ceres.*astronomer
+On This Day In January 1804 - Haiti gained its______ .*independence
+On This Day In January 1808 - The U.S. ______ import of slaves from Africa.*prohibited
+On This Day In January 1840 - The first recorded bowling match was ______ in the U.S.*recorded
+On This Day In January 1863 - U.S. President ______ signed the Emancipation Proclamation, which declared that all slaves in the rebel states were free.*Lincoln
+On This Day In January 1887 - Queen Victoria was proclaimed ______ of India in Delhi.*empress
+On This Day In January 1892 - Ellis Island Immigrant Station formally ______ in New York.*opened
+On This Day In January 1892 - ______ and New York merged to form the single city of New York.*Brooklyn
+On This Day In January 1894 - The Manchester Ship ______ was officially opened to traffic.*Canal
+On This Day In January 1898 - Manhattan, the Bronx, Brooklyn, ______ and Staten Island were consolidated into New York City.*Queens
+On This Day In January 1900 - Hawaii asked for a delegate to the ______ national convention.*Republican
+On This Day In January 1900 - Nigeria became a ______ protectorate with Frederick Lagard as the high commissioner.*British
+On This Day In January 1901 - The Commonwealth of ______ was founded.*Australia
+On This Day In January 1902 - The first ______ of Roses collegiate football game was played in Pasadena, CA.*Tournament
+On This Day In January 1909 - The first payments of old-age ______ were made in Britain. People over 70 received five shillings a week.*pensions
+On This Day In January 1913 - The post office began ______ post deliveries.*parcel
+On This Day In January 1924 - Frank B. ______ received a patent for ink paste.*Cooney
+On This Day In January 1926 - The Rose ______ was carried coast to coast on network radio for the first time.*Bowl
+On This Day In January 1930 - "The ______ Hour" was heard for the first time on the NBC-Blue Network, which later became ABC Radio.*Cuckoo
+On This Day In January 1934 - ______ Island officially became a Federal Prison.*Alcatraz
+On This Day In January 1934 - The ______ Deposit Insurance Corporation (FDIC) began operation.*Federal
+On This Day In January 1936 - The "New York Herald ______ " began microfilming its current issues.*Tribune
+On This Day In January 1937 - The First ______ Bowl football game was played in Dallas, TX. Texas Christian University (T.C.U.) beat Marquette, 16-6.*Cotton
+On This Day In January 1942 - U.S. President Franklin D. ______ and British Prime Minister Winston Churchill issued a declaration called the "United Nations." It was signed by 26 countries that vowed to create an international postwar World War II peacekeeping orgnazation.  .*Roosevelt
+On This Day In January 1945 - France was admitted to the ______ Nations.*United
+On This Day In January 1956 - ______ gained its independence.*Sudan
+On This Day In January 1958 - The European ______ Community (EEC) started operations.*Economic
+On This Day In January 1959 - Fidel ______ overthrew the government of Fulgencio Batista, and seized power in Cuba.*Castro
+On This Day In January 1968 - Evel Knievel, stunt performing______ , lost control of his motorcycle midway through a jump of 141 feet over the ornamental fountains in front of Caesar’s Palace in Las Vegas.*daredevil
+On This Day In January 1971 - ______ ads representing $20 million dollars in advertising were banned from TV and radio broadcast.*Tobacco
+On This Day In January 1973 - Britain, Ireland, ______ and Norway joined the EEC.*Denmark
+On This Day In January 1979 - The United States and ______ held celebrations in Washington, DC, and Beijing to mark the establishment of diplomatic relations between the two countries.*China
+On This Day In January 1981 - Greece joined the ______ Community.*European
+On This Day In January 1984 - AT&T was broken up into ______ Bell System companies under terms of an antitrust agreement.*22
+On This Day In January 1986 - Spain and ______ joined the European Community (EC.*Portugal
+On This Day In January 1987 - A pro-democracy rally took place in Beijing's ______ Square (China.*Tiananmen
+On This Day In January 1990 - David ______ was sworn in as New York City's first black mayor.*Dinkins
+On This Day In January 1992 - The ESPN Radio Network was officially______ .*launched
+On This Day In January 1993 - ______ split into two separate states, the Czech Republic and Slovakia. The peaceful division had been engineered in 1992.*Czechoslovakia
+On This Day In January 1994 - Bill Gates, Chief Executive Officer of ______ married Marilyn French.*Microsoft
+On This Day In January 1994 - The North American Free Trade ______ went into effect.*Agreement
+On This Day In January 1995 - ______ West, an alleged killer of 12 women and girls, was found hanged in his jail cell in Winston Green prison, in Birmingham. West had been under almost continuous watch since his arrest in 1994, but security had reportedly been relaxed in the months preceding the apparent suicide.*Frederick
+On This Day In January 1995 - The World Trade Organization came into existance. The group of ______ nations monitors global trade.*125
+On This Day In January 1998 - A new anti-______  law went into effect in California. The law prohibiting people from lighting up in bars.*smoking
+On This Day In January 1999 - The ______ became currency for 11 Member States of the European Union. Coins and notes were not available until January 1, 2002.*euro
+On This Day In January 1999 - In California, a law went into effect that defined "invasion of ______ as trespassing with the intent to capture audio or video images of a celebrity or crime victim engaging in a personal of family activity.*privacy
+On This Day In January 2001 - The "______  7," rented space in an RV park in Woodland Park, CO.*Texas
+On This Day In January 1732 - Composer Franz Xaver ______ was born.*Brixi
+On This Day In January 1837 - Composer Mili Alexeyevich ______ was born.*Balakirev
+On This Day In January 1905 - Composer Sir ______ Kemp Tippett was born.*Michael
+On This Day In January 1932 - Freddy Martin formed a new band and was hired to play the ______ Grill in New York City. Merv Griffin later became Martin’s lead vocalist.*Roosevelt
+On This Day In January 1941 - The Andrews ______ recorded "Boogie Woogie Bugle Boy.*Sisters
+On This Day In January 1968 - Newark, NJ, police confiscated a shipment of John ______ and Yoko Ono's album "Two Virgins". The album featured a nude cover.*Lennon
+On This Day In January 1975 - U.S. District Court Judge Richard ______ ruled in New York, that John Lennon and his lawyers will have access to Department of Immigration files pertaining to his deportation case.*Owen
+This Day In January 1975 - The Allman ______ Band were named "Outstanding Community Organization" by the Georgia Department of Corrections.*Brothers
+On This Day In January 1979 - The trial of ex-Sex______ , Sid Vicious for the October 1978 murder of his girlfriend Nancy Spungen, opened in New York City. Vicious died of a heroin overdose, thereby not living to hear the verdict.*Pistol
+On This Day In January 1980 - Larry Williams was found dead in his home in Los Angeles, CA. The gunshot wound to the head was never confirmed as the result of a murder or______ .*suicide
+On This Day In January 1983 - The ______ "Annie" closed on Broadway at the Uris Theatre after 2,377 performances.*musical
+On This Day In January 1993 - The musical "Gypsy Passion" closed after 55______ .*performances
+On This Day In January 1492 - The leader of the last ______ stronghold in Spain surrendered to Spanish forces loyal to King Ferdinand II and Queen Isabella I.*Arab
+On This Day In January 1788 - ______ became the 4th state to ratify the U.S. Constitution.*Georgia
+On This Day In January 1842 - In Fairmount, PA, the first wire ______ bridge was opened to traffic.*suspension
+On This Day In January 1859 - Erastus Beadle published "The Dime Book of ______ Etiquette.*Practical
+On This Day In January 1872 - Brigham Young, the 71-year-old leader of the ______ Church, was arrested on a charge of bigamy. He had 25 wives.*Mormon
+On This Day In January 1879 - Thomas Edison began ______ on his first generator.*construction
+On This Day In January 1890 - Alice ______ became the first female White House staffer.*Sanger
+On This Day In January 1893 - The first commemorative ______ stamps were issued.*postage
+On This Day In January 1900 - U.S. Secretary of State John Hay announced the Open ______ Policy to prompt trade with China.*Door
+On This Day In January 1900 - The Chicago ______ opened.*Canal
+On This Day In January 1910 - The first junior high school in the United States opened. ______ School in Berkeley, CA, housed seventh and eighth grade students. In a separate building students were housed who attended grades 9-12.*McKinley
+On This Day In January 1917 - Royal Bank of ______ took over the Quebec Bank.*Canada
+On This Day In January 1921 - The first religious ______ on radio was heard on KDKA Radio in Pittsburgh, PA, as Dr. E.J. Van Etten of Calvary Episcopal Church preached.*broadcast
+On This Day In January 1921 - DeYoung ______ in Golden Gate Park opened.*Museum
+On This Day In January 1929 - The United States and Cananda reached an ______ on joint action to preserve Niagara Falls.*agreement
+On This Day In January 1935 - Bruno Richard ______ went on trial for the kidnap-murder of Charles Lindberghs baby. Hauptmann was found guilt and executed.*Hauptmann
+On This Day In January 1942 - The Philippine capital of ______ was captured by Japanese forces during World War II.*Manila
+On This Day In January 1953 - "The Life of ______ " debuted on NBC-TV.*Riley
+On This Day In January 1955 - ______ President Jose Antonio Remon was assassinated.*Panamanian
+On This Day In January 1957 - The San Francisco and Los Angeles ______ exchanges merged.*stock
+On This Day In January 1959 - ______ Radio ended four soap operas. "Our Gal Sunday", "This is Nora Drake", "Backstage Wife" and "Road of Life" all aired for the last time.*CBS
+On This Day In January 1960 - U.S. Sen. John F. Kennedy of ______ announced his candidacy for the Democratic presidential nomination.*Massachusetts
+On This Day In January 1965 - "Broadway" Joe ______ signed the richest rookie contract ($400,000) in the history of pro football.*Namath
+On This Day In January 1968 - Dr. Christian ______ performed the first successful heart transplant.*Barnard
+On This Day In January 1968 - ______ Castro announced petroleum and sugar rationing in Cuba.*Fidel
+On This Day In January 1971 - In the U.S., a federally imposed ban on ______ cigarette advertisements went into effect.*television
+On This Day In January 1974 - U.S. President Richard M. Nixon signed a bill requiring all states to lower the maximum speed limit to ______ MPH. The law was intended to conserve gasoline supplies during an embargo imposed by Arab oil-producing countries. Federal speed limits were abolished in 1995.*55
+On This Day In January 1983 - The final edition of Garry Trudeau’s comic strip, ______ , appeared in 726 newspapers. "Doonesbury" began runnning again in September 1984.*Doonesbury
+On This Day In January 1983 - The ______ "Annie" closed on Broadway at the Uris Theatre after 2,377 performances.*musical
+On This Day In January 1985 - The Rebels of UNLV beat Utah State in three overtime periods. The final score of 142-140 set a new new NCAA record for total points in a ______ game (282). The game took over three hours to play.*basketball
+On This Day In January 1991 - Sharon Pratt Dixon was sworn in as mayor of______ , DC. She was the first black woman to head a city of that size and prominence.*Washington
+On This Day In January 1996 - AT&T announced that it would eliminate 40,000 ______ over three years.*jobs
+On This Day In January 1998 - Russia began circulating new ______ in effort to keep inflation in check and promote confidence.*rubles
+On This Day In January 1999 - It was announced that ______ people had been killed in Sri Lanka, Columbia, during two days of fighting between rebels and government troops.*66
+On This Day In January 1900 - ______ Verdi's "Aida" was performed in New York.*Giuseppe
+On This Day In January 1940 - The "Southland Shuffle" was recorded on Bluebird Records by Charlie Barnet and his______ . Billy May was featured as a trumpet player.*Orchestra
+On This Day In January 1957 - Fats ______ recorded "I'm Walkin'.*Domino
+On This Day In January 1960 - Bobby Darin and Connie Francis ______ together on the "Ed Sullivan Show.*performed
+On This Day In January 1964 - The Beatles made their first ______ on U.S. television in a film clip shown on the "Jack Paar Show." It was a performance of the song "She Loves You.*appearance
+On This Day In January 1966 - The ______ appeared on "Hullabaloo.*Beatles
+On This Day In January 1967 - Carl Wilson (Beach Boys) refused to be ______ in after receiving a U.S. Army draft notice. He said he was a conscientious objector.*sworn
+On This Day In January 1970 - "I Me Mine" was recorded by the______ . It was the last song that the band would record together.*Beatles
+On This Day In January 1970 - Davy Jones announced he was leaving the______ .*Monkees
+On This Day In January 1987 - ______ Franklin inducted into the Rock and Roll Hall of Fame along with Bill Haley and 14 others.*Aretha
+On This Day In January 1996 - ______ testified in an L.A. Court against Robert Dewey Hoskins. He had been accused of stalking and threatening to kill her.*Madonna
+On This Day In January 1998 - Swedish police arrested a total of ______ people following a neo-Nazi concert near Stolkholm. Crowd members allegedly gave Hitler salutes, classified as a "hate crime" under Swedish law, during a performance by U.S. group Max Resist.*314
+On This Day In January 1496 - References in ______ da Vinci notebooks suggested that he tested his flying machine. The test didn't succeed and he didn't try to fly again for several years.*Leonardo
+On This Day In January 1521 - Pope Leo X ______ Martin Luther.*excommunicated
+On This Day In January 1777 - The Battle of Princeton took place in the War of______ , in which George Washington defeated the British forces, led by Cornwallis.*Independence
+On This Day In January 1815 - By secret treaty, Austria, Britain, and ______ formed a defensive alliance against Prusso-Russian plans to solve the Saxon and Polish problems.*France
+On This Day In January 1823 - Stephen F. Austin received a grant from the ______ government and began colonization in the region of the Brazos River in Texas.*Mexican
+On This Day In January 1825 - The first engineering college in the U.S. , Rensselaer School, opened in Troy, NY. It is now known as ______ Polytechnic Institute.*Rensselaer
+On This Day In January 1833 - Britain seized control of the ______ Islands in the South Atlantic. About 150 years later, Argentina seized the islands from the British, but Britain took them back after a 74-day war.*Falkland
+On This Day In January 1868 - The Shogunate was ______ in Japan and Meiji dynasty was restored.*abolished
+On This Day In January 1871 - Henry W. Bradley patented______ .*oleomargarine
+On This Day In January 1888 - The drinking ______ was patented by Marvin C. Stone.*straw
+On This Day In January 1924 - English ______ Howard Carter discovered the sarcophagus of Tutankhamen in the Valley of the Kings, near Luxor, Egypt.*explorer
+On This Day In January 1925 - In Italy, ______ announced that he would take dictatorial powers.*Mussolini
+On This Day In January 1938 - The first broadcast of "Woman in White" was presented on the NBC Red network. The program remained on ______ for 10 years.*radio
+On This Day In January 1938 - The March of ______ was established by U.S. President Franklin Delano Roosevelt. The organization fights poliomyelitis. The original name of the organization was the National Foundation for Infantile Paralysis.*Dimes
+On This Day In January 1947 - U.S. Congressional proceedings were televised for the first time. Viewers in Washington, Philadelphia and New York City saw some of the opening ceremonies of the 80th______ .*Congress
+On This Day In January 1947 - In Trenton, NJ, Al Herrin, passed away at age______ . He had claimed that he had not slept at all during his life.*92
+On This Day In January 1951 - NBC-TV debuted______ .*Dragnet
+On This Day In January 1953 - Frances ______ and her son, Oliver from Ohio, became the first mother-son combination to serve at the same time in the U.S. Congress.*Bolton
+On This Day In January 1957 - The ______ Watch Company introduced the first electric watch.*Hamilton
+On This Day In January 1959 - In the U.S., Alaska became the 49th______ .*state
+On This Day In January 1961 - The U.S. severed diplomatic ______ with Cuba.*relations
+On This Day In January 1962 - ______ John XXIII excommunicated Cuban prime minister Fidel Castro.*Pope
+On This Day In January 1967 - Jack ______ died in a Dallas, TX, hospital.*Ruby
+On This Day In January 1973 - The Columbia ______ System (CBS) sold the New York Yankees to a 12-man syndicate headed by George Steinbrenner for $10 million.*Broadcasting
+On This Day In January 1980 - Conservationist Joy Adamson, ______ of "Born Free," was killed in northern Kenya by a servant.*author
+On This Day In January 1984 - A woman died at ______ after falling from a ride. She had apparently unfastened her seatbelt while on the ______ bobsled.*Disneyland*Matterhorn
+On This Day In January 1988 - Margaret Thatcher became the longest-serving ______ Prime Minister in the 20th century.*British
+On This Day In January 1990 - Ousted ______ leader Manuel Noriega surrendered to U.S. forces, 10 days after taking refuge in the Vatican's diplomatic mission.*Panamanian
+On This Day In January 1991 - The British government ______ that seven Iraqi diplomats, another embassy staff member and 67 other Iraqis were being ______ from Britain.*announced*expelled
+On This Day In January 1993 - U.S. ______ George Bush and Russian President Boris Yeltsin signed the second Strategic Arms Reduction Treaty (START) in Moscow.*President
+On This Day In January 1995 - WHO reported that the cumulative total of officially reported cases of ______ had risen to 1,025,073 in 192 countries as at the end of 1994.*AIDS
+On This Day In January 1995 - The U.S. ______ Service raised the price of the first-class stamp to 32 cents.*Postal
+On This Day In January 1997 - ______ Gumbel signed off for the last time as host of NBC's "Today" show.*Bryant
+On This Day In January 1998 - China announced that it would spend $27.7 billion to fight ______ and pollution in the Yangtze and Yellow river valleys.*erosion
+On This Day In January 1999 - ______ authorities detained, and later expelled, 14 members of Concerned Christians. Israili officials claimed that the Denver, CO-based cult was plotting violence in Jerusalem to bring about the Second Coming of Christ.*Israeli
+On This Day In January 2001 - The ATF (Bureau of Alcohol, Tobacco and Firearms) charged the "Texas 7" with weapons violations. An ______ showed that Office Aubrey Hawkins, killed by the convicts, had been shot 11 times and run over with a vehicle.*autopsy
+On This Day In January 1710 - ______ Giovanni Battista Pergolesi was born.*Composer
+On This Day In January 1720 - Composer Johann ______ Agricola was born.*Friedrich
+On This Day In January 1874 - Composer ______ Suk was born.*Josef
+On This Day In January 1932 - NBC Red debuted "The Carnation ______ Hour". The show was as a showcase for top singers and musicians.*Contented
+On This Day In January 1935 - Bert ______ and his Orchestra recorded "Hors d’oeuvres.*Ambrose
+On This Day In January 1936 - The first pop music ______ based on national sales was published by "Billboard" magazine.*chart
+On This Day In January 1950 - RCA ______ announced that it would manufacture long-playing (LP) records.*Victor
+On This Day In January 1954 - Elvis ______ recorded "Casual Love" and "I’ll Never Stand in Your Way.*Presley
+On This Day In January 1957 - Boxer Joe ______ appeared on "The Steve Allen Show" to introduce singer Solomon Burke.*Louis
+On This Day In January 1962 - Gene ______ recorded "Point of No Return.*McDaniels
+On This Day In January 1965 - Leo Fender sold the Fender ______ Company to CBS for $13 million.*Guitar
+On This Day In January 1971 - The film "Performance" starring Mick ______ debuted in London.*Jagger
+On This Day In January 1973 - The Allman ______ name Lamar Williams as the replacement for the late Berry Oakley. The announcment was in Rolling Stone magazine.*Brothers
+On This Day In January 1976 - Mal Evans was shot to death by ______ at his Los Angeles apartment. Evans alledgedly pointed a loaded rifle at officers causing them to fire upon him. Evans was a former roadie and bodyguard of the Beatles.*police
+On This Day In January 1821 - The first native-born American______ , Elizabeth Ann Seton, died in Emmitsburg, MD.*saint
+On This Day In January 1850 - The first American ice-______  club was organized in Philadelphia, PA.*skating
+On This Day In January 1884 - The socialist Fabian Society was ______ in London.*founded
+On This Day In January 1885 - Dr. William Grant performed the first successful______ . The patient was Mary Gartside.*appendectomy
+On This Day In January 1896 - ______ became the 45th U.S. state.*Utah
+On This Day In January 1928 - NBC Radio debuted "The ______ Victory Hour" which starred Will Rogers, Paul Whiteman and his Orchestra and singer Al Jolson.*Dodge
+On This Day In January 1935 - Bob ______ was heard for the first time on network radio as part of "The Intimate Revue.*Hope
+On This Day In January 1936 - The first ______ music chart based on national sales was published by "Billboard" magazine.*pop
+On This Day In January 1944 - The attack on ______ Cassino was launched by the British Fifth Army in Italy.*Monte
+On This Day In January 1948 - ______ granted independence to Burma.*Britain
+On This Day In January 1951 - During the ______ conflict, North Korean and Communist Chinese forces captured the city of Seoul.*Korean
+On This Day In January 1953 - Tufted plastic ______ was introduced by Barwick Mills.*carpeting
+On This Day In January 1957 - "Collier’s" ______ was published for the last time. The periodical was published for 69 years.*magazine
+On This Day In January 1958 - The Soviet satellite ______ I fell to the earth from its orbit. The craft had been launched on October 4, 1957.*Sputknik
+On This Day In January 1960 - ______ author Albert Camus died in an automobile accident at age 46.*French
+On This Day In January 1962 - New York City introduced a ______ that operated without conductors and motormen.*train
+On This Day In January 1965 - The Fender ______ Company was sold to CBS for $13 million.*Guitar
+On This Day In January 1965 - Poet T.S. Eliot ______ at age 76.*died
+On This Day In January 1965 - In his State of the Union address, U.S. President ______ proclaimed the building of the "Great Society.*Johnson
+On This Day In January 1972 - ______ Heilbron became the first woman judge in Britain at the Old Bailey, London.*Rose
+On This Day In January 1974 - U.S. President ______ refused to hand over tape recordings and documents subpoenaed by the Senate Watergate Committee.*Nixon
+On This Day In January 1974 - NBC-TV presented hockey in prime time. The ______ Bruins and the New York Rangers were the teams in the National Hockey League (NHL) game.*Boston
+On This Day In January 1981 - The Broadway show "______ " lost an estimated $2 million, when it opened and closed on the same night.*Frankenstein
+On This Day In January 1982 - Bryant Gumbel moved from ______ Sports to the anchor desk where he joined Jane Pauley as co-host of the "Today" show on NBC.*NBC
+On This Day In January 1984 - Wayne ‘The Great One’ ______ scored eight points (four goals and four assists) for the second time in his National Hockey League (NHL) career. Edmonton’s Oilers defeated the Minnesota North Stars, 12-8. The game was the highest-scoring NHL game to date.*Gretzky
+On This Day In January 1987 - An ______ train bound from Washington to Boston collided with Conrail engines approaching from a side track, 16 people were killed.*Amtrak
+On This Day In January 1990 - Charles Stuart jumped to his death from a Boston ______ bridge. He had become a suspect in the murder of his wife. He had claimed that a gunman had shot him and his wife.*Harbor
+On This Day In January 1990 - Deposed ______ leader Manuel Noriega was arraigned in U.S. federal district court in Miami on drug-trafficking charges.*Panamanian
+On This Day In January 1991 - The U.N. Security Council voted ______ to condemn Israel's treatment of the Palestinians in the occupied territories.*unanimously
+On This Day In January 1997 - The Greek Cypriot government signed an agreement to buy S-300 surface-to-air ______ from Russia.*missiles
+On This Day In January 1999 - A drifting ______ fishing boat was found by the Norwegian oil tanker Joelm. The fisherman had been lost at sea for 35 days after the engine of their vessel quit working.*Nicaraguan
+On This Day In January 1999 - ______ people were killed and 25 injured when gunmen opened fire on Shiite Muslim worshippers at a mosque in Islamabad, Pakistan.*16
+On This Day In January 1999 - Former professional ______ Jesse Ventura was sworn in as Minnesota's 37th governor.*wrestler
+On This Day In January 2001 - ______ agents in the Dallas area charged the "Texas 7" of unlawful flight to avoid federal prosecution for capital murder, broadening the manhunt nationwide.*FBI
+On This Day In January 1880 - ______ Nicolai Karlovich Medtner was born.*Composer
+On This Day In January 1957 - Pat Boone began filming the movie______ .*Bernadine
+On This Day In January 1959 - "It Doesn't Matter Anymore" backed by "Raining in My Heart" was released by Coral Records. It was the last release of ______ Holly before his death.*Buddy
+On This Day In January 1965 - The ______ recorded "Stop! In the Name of Love.*Supremes
+On This Day In January 1976 - Mal Evans, a Beatle's ______ and road manager, was killed in a confrontation with Los Angeles police.*bodyguard
+On This Day In January 1978 - The Sex Pistols' U.S. ______ debut took place.*concert
+On This Day In January 1978 - ______ made his solo performance debut in Minneapolis, MN.*Prince
+On This Day In January 1975 - "The Wiz" opened on______ .*Broadway
+On This Day In January 1984 - The Police, announced a farewell concert for March 2 in______ . The group had been together for 9 years.*Australia
+On This Day In January 1998 - Sony ______ died in a skiing accident.*Bono
+On This Day In January 1781 - Richmond, VA, was burned by a ______ naval expedition led by Benedict Arnold.*British
+On This Day In January 1885 - The Long Island ______ Company became the first to offer piggy-back rail service which was the transportation of farm wagons on trains.*Railroad
+On This Day In January 1896 - It was reported by The ______ newspaper that Wilhelm Roentgen had discovered the type of radiation that became known as X-rays.*Austrian
+On This Day In January 1900 - In Ireland, ______ leader John Edward Redmond called for a revolt against British rule.*Nationalist
+On This Day In January 1903 - The general public could use the ______ cable for the very first time.*Pacific
+On This Day In January 1914 - ______ Motor Company announced that there would be a new daily minimum wage of $5 and an eight-hour workday.*Ford
+On This Day In January 1925 - Mrs. Nellie Taylor Ross was ______ in as the governor of Wyoming She was the first female governor in the U.S.*sworn
+On This Day In January 1933 - ______ of the Golden Gate Bridge began.*Construction
+On This Day In January 1934 - Both the National and American ______ leagues decided to use a uniform-size baseball. It was the first time in 33 years that both leagues used the same size ball. (MLB.*baseball
+On This Day In January 1935 - Phil Spitalny’s All-Girl ______ was featured on CBS radio on the program, "The Hour of Charm.*Orchestra
+On This Day In January 1940 - The ______ Communications Commission (FCC) got its very first demonstration of FM radio.*Federal
+On This Day In January 1944 - The London "Daily Mail" was the first ______ newspaper to be published.*transoceanic
+On This Day In January 1948 - ______ Brothers-Pathe showed the very first color newsreel. The footage was of the Tournament of Roses Parade and the Rose Bowl football classic.*Warner
+On This Day In January 1961 - "Mr. Ed" debuted. The show would run for six______ .*years
+On This Day In January 1970 - "All My Children" premiered on______ .*ABC
+On This Day In January 1972 - U.S. ______ Richard M. Nixon orderd the developement of the space shuttle.*President
+On This Day In January 1987 - U.S. President Ronald ______ underwend prostate surgery.*Reagan
+On This Day In January 1993 - The state of ______ executed Westley Allan Dodd. It was America's first legal hanging since 1965. Dodd was an admitted child sex killer.*Washington
+On This Day In January 1996 - ______ Ayyash, a member of the Hamas in Israel, is killed by a booby-trapped cellular phone.*Yahya
+On This Day In January 1998 - U.S. Representative ______ Bono died in skiing accident.*Sonny
+On This Day In January 1695 - Composer ______ Sammartini was born.*Giuseppe
+On This Day In January 1838 - Composer Max ______ was born.*Bruch
+On This Day In January 1850 - Composer ______ Xaver Scharwenka was born.*Franz
+On This Day In January 1856 - Composer Giuseppe ______ was born.*Martucci
+On This Day In January 1872 - Composer ______ Nikolaevich Scriabin was born.*Alexander
+On This Day In January 1938 - Trummy ______ played trombone and sang with the Jimmy Lunceford Orchestra in New York City while recording "Margie.*Young
+On This Day In January 1957 - Elvis Presley made his last appearance on the "Ed ______ Show" in New York City.*Sullivan
+On This Day In January 1958 - Bobby Helms filmed a role in the movie "The Case Against______ .*Brooklyn
+On This Day In January 1966 - Duke Ellington’s concert recorded at 5th ______ Presbyterian Church in New York City, was broadcast on CBS-TV.*Avenue
+On This Day In January 1968 - Gibson ______ its "Flying V" electric guitar.*patented
+On This Day In January 1968 - Dick Clark premiered his TV series "Happening '68." The show ran through ______ of 1969.*September
+On This Day In January 1975 - About a thousand Led ______ fans riot while waiting for tickets to go on sale at Boston Garden. About $30,000 was done in damage and the show was cancelled by Boston Mayor Kevin White.*Zeppelin
+On This Day In January 1977 - ______ terminated its contract with the Sex Pistols only 3 months after signing it. No reason was given.*EMI
+On This Day In January 1982 - The ______ single "Let's Work" was released.*Prince
+On This Day In January 1987 - Elton John cancelled all live ______ for a year after having throat surgery.*performances
+On This Day In January 1993 - Bill ______ announced that he has officially left the Rolling Stones.*Wyman
+On This Day In January 0871 - England's King Alfred defeated the ______ at the Battle of Ashdown.*Danes
+On This Day In January 1205 - Philip of ______ was crowned as King of the Romans.*Swabia
+On This Day In January 1453 - Frederick III erected ______ into an Archduchy.*Austria
+On This Day In January 1540 - King Henry VIII of ______ was married to Anne of Cleves, his fourth wife.*England
+On This Day In January 1720 - The Committee of Inquiry on the South Sea ______ published its findings.*Bubble
+On This Day In January 1759 - George Washington and ______ Dandridge Custis were married.*Martha
+On This Day In January 1883 - Samuel ______ demonstrated the telegraph for the first time.*Morse
+On This Day In January 1896 - The first American women’s six-day bicycle ______ was held at Madison Square Garden in New York City.*race
+On This Day In January 1900 - In India, it was reported that ______ of people were dying from starvation.*millions
+On This Day In January 1900 - Off of South______ , the British seized the German steamer Herzog. The boat was released on January 22, 1900.*Africa
+On This Day In January 1912 - New ______ became the 47th U.S. state.*Mexico
+On This Day In January 1930 - The first diesel-engine ______ trip was completed after a run of 792 miles from Indianapolis, IN, to New York City, NY.*automobile
+On This Day In January 1931 - ______ Edison executed his last patent application.*Thomas
+On This Day In January 1941 - Richard ______ made his debut on radio in "The Home of the Brave.*Widmark
+On This Day In January 1941 - Alice Marble made her professional tennis ______ when she defeated Ruth Hardwick of Great Britain at Madison Square Garden in New York City.*debut
+On This Day In January 1942 - The first ______ around-the-world airline flight took place. Pan American Airlines was the company that made history with the feat.*commercial
+On This Day In January 1942 - The National Collegiate ______ Rules Committee abolished the Y formation.*Football
+On This Day In January 1945 - The Battle of the ______ ended with 130,000 German and 77,000 Allied casualties.*Bulge
+On This Day In January 1950 - ______ recognized the Communist government of China.*Britain
+On This Day In January 1952 - "Peanuts" debuted in ______ papers across the United States.*Sunday
+On This Day In January 1963 - "Wild ______ " premiered on NBC.*Kingdom
+On This Day In January 1967 - U.S. and South ______ forces launched a major offensive, known as Operation "Deckhouse V", in the Mekong River delta.*Vietnamese
+On This Day In January 1974 - ______ radio debuted "Radio Mystery Theatre.*CBS
+On This Day In January 1975 - The ______ premiere of "The Wiz" opened.*Broadway
+On This Day In January 1975 - ABC-TV debuted "A.M.______ .*America
+On This Day In January 1982 - William G. ______ was convicted in Los Angeles, CA, of being the "freeway killer" who had murdered 14 young men and boys.*Bonin
+On This Day In January 1987 - After a 29-year lapse, the Ford ______ was presented with the Motor Trend Car of the Year Award. It was the first occurrance of a repeat winner of the award.*Thunderbird
+On This Day In January 1994 - Figure skater Nancy Kerrigan was clubbed on the right leg by an assailant at Cobo Arena in Detroit, MI. Four men were later sentenced to ______ for the attack, including Tonya Harding's ex-husband.*prison
+On This Day In January 1998 - The spacecraft ______ Prospect was launched into orbit around the moon. The craft was crashed into the moon, in an effort to find water under the lunar surface, on July 31, 1999.*Lunar
+On This Day In January 1999 - The 106th U.S. ______ opened. The first item on the agenda was the impeachment proceedings of U.S. President Bill Clinton. The trial was set to begin January 7, 1999.*Congress
+On This Day In January 1999 - Bob ______ received a star on the Hollywood Walk of Fame.*Newhart
+On This Day In January 1876 - Composer William Yeates ______ was born.*Hurlstone
+On This Day In January 1899 - Composer ______ Poulenc was born.*Francis
+On This Day In January 1924 - George ______ completed "Rhapsody in Blue" at the age of 26.*Gershwin
+On This Day In January 1941 - "Good-for-Nothin’-Joe" was ______ by the sultry Lena Horne with Charlie Barnet and his Orchestra on Bluebird Records.*recorded
+On This Day In January 1950 - ______ Tubb made his debut appearance at "The Grand Ole Opry" in Nashville, TN.*Ernest
+On This Day In January 1958 - The Flying V guitar was patented by the ______ Guitar Company.*Gibson
+On This Day In January 1963 - Gary "U.S." Bonds filed a $100,000 suit against ______ Checker. The charge was that Checker "stole" "Quarter to Three" and turned it into the song "Dancin' Party." The case was settled out of court.*Chubby
+On This Day In January 1964 - Long John ______ formed Hoochie Coochie Men.*Baldry
+On This Day In January 1970 - ______ Yasgur was sued for $35,000 in property damages by neighboring farmers. It was Yasgur's on which the August 1969 Woodstock Festival was held.*Max
+On This Day In January 1980 - Larry ______ committed suicide.*Williams
+On This Day In January 1997 - Prince appeared on the ______ O'Donnell show.*Rosie
+On This Day In January 1558 - Calais, the last English possession on mainland______ , was recaptured by the French.*France
+On This Day In January 1610 - ______ Galilei sighted four of Jupiter's moons. He named them Io, Europa, Ganymede, and Callisto.*Galileo
+On This Day In January 1782 - The Bank of North America opened in______ . It was the first commercial bank in the United States.*Philadelphia
+On This Day In January 1785 - ______ aeronaut/balloonist Jean-Pierre Blanchard successfully made the first air-crossing of the English Channel from the English coast to France.*French
+On This Day In January 1789 - Americans voted for the ______ that would choose George Washington to be the first U.S. president.*electors
+On This Day In January 1887 - Thomas ______ completed the first worldwide bicycle trip. He started his trip in April 1884. Stevens and his bike traveled 13,500 miles in almost three years time.*Stevens
+On This Day In January 1894 - W.K. ______ received a patent for motion picture film.*Dickson
+On This Day In January 1896 - "Fannie Farmer Cookbook" ______ was published.*cookbook
+On This Day In January 1904 - The ______ signal "CQD" was established. Two years later "SOS" became the radio distress signal because it was quicker to send by wireless radio.*distress
+On This Day In January 1926 - George ______ and Gracie Allen were married.*Burns
+On This Day In January 1927 - Transatlantic ______ service Service began between New York and London. 31 calls were made on this first day.*telephone
+On This Day In January 1929 - The debut of "Buck ______ 2429 A.D." occurred in newspapers around the U.S. The title of the comic strip was later changed to "Buck Rogers in the 25th Century.*Rogers
+On This Day In January 1932 - Chancellor ______ Brüning declared that Germany cannot, and will not, resume reparations payments.*Heinrich
+On This Day In January 1935 - French Foreign ______ Pierre Laval and Italian Prime Minister Benito Mussolini signed the Italo-French agreements.*Minister
+On This Day In January 1940 - "Gene Autry’s Melody Ranch" debuted on ______ Radio. The show aired for 16 years.*CBS
+On This Day In January 1941 - The NBC Blue radio ______ presented "The Squeaky Door" for the first time. The show was later known as "Inner Sanctum.*network
+On This Day In January 1942 - The ______ War II siege of Bataan began.*World
+On This Day In January 1949 - The announcement of the first ______ of genes was shown at the University of Southern California in Los Angeles.*photograph

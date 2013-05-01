@@ -1,0 +1,666 @@
+Architecture: Which famous building was built by Shah Jehan *Taj Mahal
+Architecture: Which famous building was built by Shih Huang Ti *Great Wall of China
+Arts: Who painted the ceiling of the Sistine Chapel *Michelangelo
+Astronomy: What is the meaning of the name of the constellation Aquila *Eagle
+Astronomy: What is the meaning of the name of the constellation Auriga *Charioteer
+Astronomy: What is the meaning of the name of the constellation Camelopardalis *Giraffe
+Astronomy: What is the meaning of the name of the constellation Canes Venatici *Greyhounds
+Astronomy: What is the meaning of the name of the constellation Cassiopeia *Cassiopeia
+Astronomy: What is the meaning of the name of the constellation Cepheus *Cepheus
+Astronomy: What is the meaning of the name of the constellation Coma Berenices *Berenice's Hair
+Astronomy: What is the meaning of the name of the constellation Corona Borealis *Northern Crown
+Astronomy: What is the meaning of the name of the constellation Cygnus *Swan
+Astronomy: What is the meaning of the name of the constellation Delphinus *Dolphin
+Astronomy: What is the meaning of the name of the constellation Draco *Dragon
+Astronomy: What is the meaning of the name of the constellation Equuleus *Colt
+Astronomy: What is the meaning of the name of the constellation Lacerta *Lizard
+Astronomy: What is the meaning of the name of the constellation Leo Minor *Lesser Lion
+Astronomy: What is the meaning of the name of the constellation Lyra *Lyre
+Astronomy: What is the meaning of the name of the constellation Ophiuchus *Serpent Bearer
+Astronomy: What is the meaning of the name of the constellation Sagitta *Arrow
+Astronomy: What is the meaning of the name of the constellation Serpens *Serpent
+Astronomy: What is the meaning of the name of the constellation Triangulum *Triangle
+Astronomy: What is the meaning of the name of the constellation Ursa Major *Great Bear
+Astronomy: What is the meaning of the name of the constellation Ursa Minor *Little Bear
+Astronomy: What is the meaning of the name of the constellation Vulpecula *Fox
+Astronomy: Which meteor shower occurs on the 10th October *Draconids
+Astronomy: Which meteor shower occurs on the 12th August *Perseids
+Astronomy: Which meteor shower occurs on the 14th November *Andromedids
+Astronomy: Which meteor shower occurs on the 16th November *Leonids
+Astronomy: Which meteor shower occurs on the 21st April *Lyrids
+Astronomy: Which meteor shower occurs on the 21st October *Orionids
+Astronomy: Which meteor shower occurs on the 4th May *Eta Aquarids
+Astronomy: Which meteor shower occurs on the 4th November *Taurids
+Astronomy: Which planet is covered in thick clouds of carbon dioxide and sulphuric acid *Venus
+Astronomy: Which planet is known as the red planet *Mars
+Astronomy: Which planet was discovered in 1930 *Pluto
+Astronomy: Which star is nearest the Earth *Sun
+Astronomy: Who was the first person to notice "canals" on Mars *Schiaparelli
+Biology: In which organ is Bile produced *Liver
+Biology: What breed of dog has an inability to bark *Basenji
+Biology: What is a Salamander *Amphibian
+Biology: What is the fastest breed of dog *Greyhound
+Biology: What is the fastest growing species of grass *Bamboo
+Biology: What is the most common animal *Sea worm
+Biology: What is the name of the process used by green plants for obtaining food *Photosynthesis
+Biology: What is the process of converting glucose to energy in cells called *Respiration
+Biology: What is the study of insects called *Entomology
+Biology: What name is given to a male bee *Drone
+Biology: What name is given to a young frog *Tadpole
+Biology: What name is given to animals which eat both plants and meat *Omnivore
+Biology: What name is given to animals which have pouches *Marsupials
+Biology: What name is given to animals which only eat meat *Carnivore
+Biology: What name is given to animals which only eat plants *Herbivore
+Biology: Which bird became extinct in 1861 *Dodo
+Biology: Which breed of dog has a name derived from the old name for Greece *Greyhound
+Biology: Which part of a cat's eye reflects light *Tapetum
+Biology: Which science studies animal behaviour in natural habitats *Ethology
+Biology: Which sight problem occurs in men far more then in women *Colour Blindness
+Biology: Which species of Elephant has the largest ears *African
+Chemistry: What are Helium, Neon, Argon, Krypton and Xenon *Noble Gases
+Chemistry: What are Petrol, Naphta, Kerosine, Diesel and Oil *Hydrocarbons
+Chemistry: What element has the periodic table name Au *Gold
+Chemistry: What element has the periodic table name Na *Sodium
+Chemistry: What element has the periodic table name Sb *Antimony
+Chemistry: What element has the periodic table name Sn *Tin
+Chemistry: What is another name for iron oxide *Rust
+Chemistry: What is brine *Salt water
+Chemistry: What name is given to a chemical reaction which gives out heat *Exothermic
+Chemistry: What name is given to a chemical reaction which takes in heat *Endothermic
+Chemistry: Which element is also known as Quicksilver *Mercury
+Chemistry: Who invented dynamite *Alfred Nobel
+Computer: How many bits are in a nibble *4
+Computer: What does ietf stand for *Internet Engineering Task Force
+Computer: What is MUD an abbreviation for *Multiple User Dungeon
+Computer: What was Fortran designed for *Formula Translation
+Computer: Which brothers built a home-made supercomputer to calculate the digits of Pi *Chudnovsky
+Computer: Who is the Linux operating system named after *Linus Torvalds
+Film: Who invented James Bond *Ian Fleming
+General Knowledge: From what is velvet made *Silk
+General Knowledge: How is the 15th March also known *Ides of March
+General Knowledge: How is the math related structure of beads strung on parallel wires in a rectangular frame better known *Abacus
+General Knowledge: How many feet are in a nautical mile *6080
+General Knowledge: How many herrings are in a Warp *Four
+General Knowledge: How many muscles are in a human *639
+General Knowledge: How many seconds are in a day *86400
+General Knowledge: How was "Abu Yusuf Ya'qub ibn Is-haq ubn as-Sabbah ibn 'omran ibn Ismail al-Kindi" better known  *The philosopher of the Arabs
+General Knowledge: In a period of 400 years how many times does the 1st of January fall on a Sunday *58
+General Knowledge: In the Gregorian calendar after 10,000 years by how many days will the calendar be wrong by *Three
+General Knowledge: In the kama-sutra the art of which game is recommened for women to study *chess
+General Knowledge: In which field of science is the history of the universe studied *Cosmology
+General Knowledge: In which month is the Earth nearest the Sun *January
+General Knowledge: Nutagak, perksertok and pokaktok are Eskimo words for what *Snow
+General Knowledge: On a chemical what does a skull and cross-bone mean *Toxic
+General Knowledge: The name "Lego" comes from which Danish words *leg godt
+General Knowledge: The second Beale code was encoded using what *The American Declaration of Independence
+General Knowledge: The term Bicentennial represents how many years *200
+General Knowledge: The term Centennial represents how many years *100
+General Knowledge: The term Quadricentennial represents how many years *400
+General Knowledge: The term Quartocentennial represents how many years *25
+General Knowledge: The term Quincentennial represents how many years *500
+General Knowledge: The term Semicentennial represents how many years *50
+General Knowledge: The term Septiquinquennial represents how many years *75
+General Knowledge: The term Sesquibicentennial represents how many years *250
+General Knowledge: The term Sesquincentennial represents how many years *150
+General Knowledge: The term Sesquiquadricentennial represents how many years *450
+General Knowledge: The term Sesquitercentennial represents how many years *350
+General Knowledge: The term Tercentennial represents how many years *300
+General Knowledge: The Triassic, Jurrasic, and Cretaceous periods make up which era *Mesozoic Era
+General Knowledge: Thomas Young the Physicist and Egyptologist spoke how many language when he was 14 *twelve
+General Knowledge: What are Eastern, Central, Mountain, and Pacific *American Time Zones
+General Knowledge: What are noctilucent, cirrus, and cirrostratus categories of *Clouds
+General Knowledge: What are Russian astronauts called *Cosmonauts
+General Knowledge: What are the height and width of a horse measured in *Hands
+General Knowledge: What bird is associated with the Tower of London *Raven
+General Knowledge: What did AOL claim had been found, on April Fool's Day in 1996 *Life on Jupiter
+General Knowledge: What did the House of Saxe-Coburg-Gotha change it's name to *House of Windsor
+General Knowledge: What do the letters F.D. on British coins mean *Defender of the Faith
+General Knowledge: What does GDP stand for *Gross Domestic Product
+General Knowledge: What does GNP stand for *Gross National Product
+General Knowledge: What does NATO stand for *North Atlantic Treaty Organization
+General Knowledge: What does the ancient Greek word "electron" mean *Amber
+General Knowledge: What does the latin "luna" mean *Moon
+General Knowledge: What does the latin 'carpe diem' mean *Seize the day
+General Knowledge: What does the Latin RIP stand for *requiescat in pace
+General Knowledge: What does the word khaki mean *Dusty
+General Knowledge: What does UNESCO stand for *United Nation Educational, Scientific and Cultural Organization
+General Knowledge: What famous stone structure is located near Salisbury *Stonehenge
+General Knowledge: What is e.g. an abbreviation of *exempli gratia
+General Knowledge: What is Harry Houdini famous for being *Escapologist
+General Knowledge: What is Interpol short for *International Criminal Police Commission
+General Knowledge: What is it that walks on four feet in the morning, two feet at noon, and three feet in the evening *Man
+General Knowledge: What is known as the Lost Continent *Atlantis
+General Knowledge: What is LCD an abbreviation of *Liquid Crystal Display
+General Knowledge: What is the 30th longest river in the world *The Thames
+General Knowledge: What is the British equivalent of the US Navy rank Rear Admiral (lower half) *Commodore
+General Knowledge: What is the European equivalnet of a Nonillion *Quintillion
+General Knowledge: What is the full term for the abbreviation "zoo" *Zoological garden
+General Knowledge: What is the headquarter of the British Metropolitan Police Force *Scotland Yard
+General Knowledge: What is the lead in pencils made from *Graphite
+General Knowledge: What is the Maths equivalent of the Nobel prize *Fields Medal
+General Knowledge: What is the world's oldest newspaper(the name is swedish) *Post och Inrikes Tidningar
+General Knowledge: What is the world's oldest song *Shadouf chant
+General Knowledge: What is the world's oldest university *Fez University
+General Knowledge: What modern word comes from the Arab "hashishi" *Assassin
+General Knowledge: What name is given to a male witch *Warlock
+General Knowledge: What name is given to a settlement which is clustered around a central point *Nucleated
+General Knowledge: What name is given to farms which specialise in growing crops *Arable
+General Knowledge: What name is given to farms which specialise in rearing animals *Pastoral
+General Knowledge: What name is given to the abominable snowman *Yeti
+General Knowledge: What name is given to those days which have equal hours of daylight and darkness *Equinox
+General Knowledge: What was invented by Ludovic Zamenhof *Esperanto
+General Knowledge: What was the name of Aristotle's school *Lyceum
+General Knowledge: What was the name of the "fake" evolutionary missing link found in Sussex, England *Piltdown Man
+General Knowledge: Where did the Mafia originate *Sicily
+General Knowledge: Which American state is known as the Lone Star State *Texas
+General Knowledge: Which American state passed a bill declaring Pi to be 3 *Indiana
+General Knowledge: Which English book was written without using the letter 'E' once *A Void
+General Knowledge: Which famous piece of artwork depcits the Battle of Hastings *Bayeux Tapestry
+General Knowledge: Which French book was written without using the letter 'E' once *La Disparition
+General Knowledge: Which gestalt entity produced the cult TV show Red Dwarf *Grant and Naylor
+General Knowledge: Which is the largest of the Egyptian Pyramids *Pyramid of Cheops
+General Knowledge: Which Japanese suicide technique translates to the English "belly cutting" *Hara-kiri
+General Knowledge: Which word is used to mean, malicious enjoyment at the misfortunes of others *Schadenfreude
+General Knowledge: Who appears on the 10,000 dollar (US) note*Salmon Chase
+General Knowledge: Who appears on the 100,000 dollar (US) note*Woodrow Wilson
+General Knowledge: Who appears on the 5,000 dollar (US) note*James Madison
+General Knowledge: Who does the Mona Lisa depict *Madonna Lisa Gherardini
+General Knowledge: Who does the statue, the Colossus of Rhodes, depict *Helios
+General Knowledge: Who invented the toothbrush *William Addis
+General Knowledge: Who is known as the "Father of History" *Herodotus
+General Knowledge: Who is known as the "Father of Modern Economics" *Adam Smith
+General Knowledge: Who was America named after *Amerigo Vespucci
+General Knowledge: Who was responsible for the American style of spelling *Noah Webster
+General Knowledge: Who was the first woman to fly the Atlantic alone *Amelia Earhart
+Geography: Burma was the former name of which country *Myanmar
+Geography: Denmark, Norway and Sweden combine to make what *Scandinavia
+Geography: In which city is the Sistine Chapel *Vatican City
+Geography: In which continent would you find the Amazon river *South America
+Geography: In which continent would you find the Amur river *Asia
+Geography: In which continent would you find the Congo river *Africa
+Geography: In which continent would you find the Lena river *Asia
+Geography: In which continent would you find the Mackenzie river *North America
+Geography: In which continent would you find the Mekong river *Asia
+Geography: In which continent would you find the Mississippi river *North America
+Geography: In which continent would you find the Niger river *Africa
+Geography: In which continent would you find the Nile river *Africa
+Geography: In which continent would you find the Ob river *Asia
+Geography: In which continent would you find the Volga river *Europe
+Geography: In which continent would you find the Yangtze river *Asia
+Geography: In which continent would you find the Yellow river *Asia
+Geography: In which continent would you find the Yenisey river *Asia
+Geography: In which country was natural gas first discovered *Greece
+Geography: In which country was the first Zoo *China
+Geography: In which country would you find Ayers Rock *Australia
+Geography: In which country would you find Dunkirk *France
+Geography: In which state are the Everglades *Florida
+Geography: On which river was Rome built *Tiber
+Geography: What is known as the graveyard of the Atlantic *Sable Island
+Geography: What is the basic unit of currency for China *yuan
+Geography: What is the basic unit of currency for Colombia *peso
+Geography: What is the basic unit of currency for Comoros *franc
+Geography: What is the basic unit of currency for Costa Rica *colon
+Geography: What is the basic unit of currency for Croatia *kuna
+Geography: What is the basic unit of currency for Cuba *peso
+Geography: What is the basic unit of currency for Cyprus *pound
+Geography: What is the basic unit of currency for Czech Republic *koruna
+Geography: What is the basic unit of currency for Denmark *krone
+Geography: What is the basic unit of currency for Djibouti *franc
+Geography: What is the basic unit of currency for Dominica *dollar
+Geography: What is the basic unit of currency for Dominican Republic *peso
+Geography: What is the basic unit of currency for Ecuador *sucre
+Geography: What is the basic unit of currency for Egypt *pound
+Geography: What is the basic unit of currency for El Salvador *colon
+Geography: What is the basic unit of currency for Equatorial Guinea *franc
+Geography: What is the basic unit of currency for Eritrea *nakfa
+Geography: What is the basic unit of currency for Estonia *kroon
+Geography: What is the basic unit of currency for Ethiopia *birr
+Geography: What is the basic unit of currency for Fiji *dollar
+Geography: What is the basic unit of currency for Finland *markka
+Geography: What is the basic unit of currency for France *franc
+Geography: What is the basic unit of currency for Gabon *franc
+Geography: What is the basic unit of currency for Gambia *dalasi
+Geography: What is the basic unit of currency for Georgia (country)*lari
+Geography: What is the basic unit of currency for Germany *deutsche mark
+Geography: What is the basic unit of currency for Ghana *cedi
+Geography: What is the basic unit of currency for Greece *drachma
+Geography: What is the basic unit of currency for Grenada *dollar
+Geography: What is the basic unit of currency for Guatemala *quetzal
+Geography: What is the basic unit of currency for Guinea *franc
+Geography: What is the basic unit of currency for Guinea-Bissau *franc
+Geography: What is the basic unit of currency for Guyana *dollar
+Geography: What is the basic unit of currency for Haiti *gourde
+Geography: What is the basic unit of currency for Honduras *lempira
+Geography: What is the basic unit of currency for Hong Kong *dollar
+Geography: What is the basic unit of currency for Hungary *forint
+Geography: What is the basic unit of currency for Iceland *krona
+Geography: What is the basic unit of currency for Samoa *tala
+Geography: What is the basic unit of currency for San Marino *lira
+Geography: What is the basic unit of currency for Saudi Arabia *riyal
+Geography: What is the basic unit of currency for Senegal *franc
+Geography: What is the basic unit of currency for Seychelles *rupee
+Geography: What is the basic unit of currency for Sierra Leone *leone
+Geography: What is the basic unit of currency for Singapore *dollar
+Geography: What is the basic unit of currency for Slovakia *koruna
+Geography: What is the basic unit of currency for Slovenia *tolar
+Geography: What is the basic unit of currency for Solomon Islands *dollar
+Geography: What is the basic unit of currency for Somalia *shilling
+Geography: What is the basic unit of currency for South Africa *rand
+Geography: What is the basic unit of currency for South Korea *won
+Geography: What is the basic unit of currency for Spain *peseta
+Geography: What is the basic unit of currency for Sri Lanka *rupee
+Geography: What is the basic unit of currency for Sudan *dinar
+Geography: What is the basic unit of currency for Suriname *guilder
+Geography: What is the basic unit of currency for Swaziland *lilangeni
+Geography: What is the basic unit of currency for Sweden *krona
+Geography: What is the basic unit of currency for Switzerland *franc
+Geography: What is the basic unit of currency for Syria *pound
+Geography: What is the basic unit of currency for Taiwan *dollar
+Geography: What is the basic unit of currency for Tajikistan *rouble
+Geography: What is the basic unit of currency for Tanzania *shilling
+Geography: What is the basic unit of currency for Thailand *baht
+Geography: What is the basic unit of currency for Togo *franc
+Geography: What is the basic unit of currency for Tonga *pa'anga
+Geography: What is the basic unit of currency for Trinidad and Tobago *dollar
+Geography: What is the basic unit of currency for Tunisia *dinar
+Geography: What is the basic unit of currency for Turkey *lira
+Geography: What is the basic unit of currency for Turkmenistan *manat
+Geography: What is the basic unit of currency for Tuvalu *dollar
+Geography: What is the basic unit of currency for Uganda *shilling
+Geography: What is the basic unit of currency for Ukraine *hryvnia
+Geography: What is the basic unit of currency for United Arab Emirates *dirham
+Geography: What is the basic unit of currency for United Kingdom *pound
+Geography: What is the basic unit of currency for United States *dollar
+Geography: What is the capital of Afghanistan *Kabul
+Geography: What is the capital of Algeria *Algiers
+Geography: What is the capital of Andorra *Andorra la Vella
+Geography: What is the capital of Angola *Luanda
+Geography: What is the capital of Antigua and Barbuda *Saint John's
+Geography: What is the capital of Armenia *Yerevan
+Geography: What is the capital of Australia *Canberra
+Geography: What is the capital of Austria *Vienna
+Geography: What is the capital of Azerbaijan *Baku
+Geography: What is the capital of Bahrain *Manama
+Geography: What is the capital of Barbados *Bridgetown
+Geography: What is the capital of Belarus *Minsk
+Geography: What is the capital of Belgium *Brussels
+Geography: What is the capital of Belize *Belmopan
+Geography: What is the capital of Bhutan *Thimphu
+Geography: What is the capital of Bolivia *La Paz
+Geography: What is the capital of Bosnia and Hercegovina *Sarajevo
+Geography: What is the capital of Botswana *Gaborone
+Geography: What is the capital of Brunei *Bandar Seri Begawan
+Geography: What is the capital of Bulgaria *Sofia
+Geography: What is the capital of Burkina Faso *Ouagadougou
+Geography: What is the capital of Burundi *Bujumbura
+Geography: What is the capital of Cambodia *Phnom Penh
+Geography: What is the capital of Canada *Ottawa
+Geography: What is the capital of Cape Verde *Praia
+Geography: What is the capital of Central African Republic *Bangui
+Geography: What is the capital of Chad *N'Djamena
+Geography: What is the capital of China *Beijing
+Geography: What is the capital of Comoros *Moroni
+Geography: What is the capital of Congo *Brazzaville
+Geography: What is the capital of Croatia *Zagreb
+Geography: What is the capital of Cuba *Havana
+Geography: What is the capital of Cyprus *Nicosia
+Geography: What is the capital of Czech Republic *Prague
+Geography: What is the capital of Democratic Republic of the Congo *Kinshasa
+Geography: What is the capital of Denmark *Copenhagen
+Geography: What is the capital of Djibouti *Djibouti
+Geography: What is the capital of Dominica *Roseau
+Geography: What is the capital of Dominican Republic *Santo Domingo
+Geography: What is the capital of Ecuador *Quito
+Geography: What is the capital of Egypt *Cairo
+Geography: What is the capital of El Salvador *San Salvador
+Geography: What is the capital of Equatorial Guinea *Malabo
+Geography: What is the capital of Eritrea *Asmara
+Geography: What is the capital of Estonia *Tallinn
+Geography: What is the capital of Ethiopia *Addis Ababa
+Geography: What is the capital of Fiji *Suva
+Geography: What is the capital of Finland *Helsinki
+Geography: What is the capital of France *Paris
+Geography: What is the capital of Gabon *Libreville
+Geography: What is the capital of Gambia *Banjul
+Geography: What is the capital of Germany *Berlin
+Geography: What is the capital of Ghana *Accra
+Geography: What is the capital of Greece *Athens
+Geography: What is the capital of Grenada *Saint George's
+Geography: What is the capital of Guatemala *Guatemala
+Geography: What is the capital of Guinea *Conakry
+Geography: What is the capital of Guinea-Bissau *Bissau
+Geography: What is the capital of Guyana *Georgetown
+Geography: What is the capital of Haiti *Port-au-Prince
+Geography: What is the capital of Honduras *Tegucigalpa
+Geography: What is the capital of Hungary *Budapest
+Geography: What is the capital of Iran *Tehran
+Geography: What is the capital of Iraq *Baghdad
+Geography: What is the capital of Ireland *Dublin
+Geography: What is the capital of Israel *Jerusalem
+Geography: What is the capital of Jamaica *Kingston
+Geography: What is the capital of Japan *Tokyo
+Geography: What is the capital of Jordan *Amman
+Geography: What is the capital of Kazakhstan *Astana
+Geography: What is the capital of Kenya *Nairobi
+Geography: What is the capital of Kiribati *Bairiki
+Geography: What is the capital of Kuwait *Kuwait City
+Geography: What is the capital of Kyrgyzstan *Bishkek
+Geography: What is the capital of Laos *Vientiane
+Geography: What is the capital of Latvia *Riga
+Geography: What is the capital of Lebanon *Beirut
+Geography: What is the capital of Lesotho *Maseru
+Geography: What is the capital of Liberia *Monrovia
+Geography: What is the capital of Libya *Tripoli
+Geography: What is the capital of Liechtenstein *Vaduz
+Geography: What is the capital of Lithuania *Vilnius
+Geography: What is the capital of Luxembourg *Luxembourg
+Geography: What is the capital of Macedonia *Skopje
+Geography: What is the capital of Madagascar *Antananarivo
+Geography: What is the capital of Malawi *Lilongwe
+Geography: What is the capital of Malaysia *Kuala Lumpur
+Geography: What is the capital of Maldives *Male
+Geography: What is the capital of Mali *Bamako
+Geography: What is the capital of Malta *Valletta
+Geography: What is the capital of Marshall Islands *Dalap-Uliga-Davrit
+Geography: What is the capital of Mauritania *Nouakchott
+Geography: What is the capital of Mauritius *Port Louis
+Geography: What is the capital of Mexico *Mexico City
+Geography: What is the capital of Micronesia *Palikir
+Geography: What is the capital of Moldova *Chisinau
+Geography: What is the capital of Monaco *Monaco
+Geography: What is the capital of Mongolia *Ulaanbaatar
+Geography: What is the capital of Morocco *Rabat
+Geography: What is the capital of Mozambique *Maputo
+Geography: What is the capital of Namibia *Windhoek
+Geography: What is the capital of Nauru *Yaren
+Geography: What is the capital of Nepal *Kathmandu
+Geography: What is the capital of Nicaragua *Managua
+Geography: What is the capital of Niger *Niamey
+Geography: What is the capital of Nigeria *Abuja
+Geography: What is the capital of North Korea *Pyongyang
+Geography: What is the capital of Norway *Oslo
+Geography: What is the capital of Oman *Muscat
+Geography: What is the capital of Pakistan *Islamabad
+Geography: What is the capital of Panama *Panama City
+Geography: What is the capital of Papua New Guinea *Port Moresby
+Geography: What is the capital of Peru *Lima
+Geography: What is the capital of Philippines *Manila
+Geography: What is the capital of Poland *Warsaw
+Geography: What is the capital of Portugal *Lisbon
+Geography: What is the capital of Qatar *Doha
+Geography: What is the capital of Romania *Bucharest
+Geography: What is the capital of Russia *Moscow
+Geography: What is the capital of Rwanda *Kigali
+Geography: What is the capital of Saint Kitts and Nevis *Basseterre
+Geography: What is the capital of Saint Lucia *Castries
+Geography: What is the capital of Saint Vincent *Kingstown
+Geography: What is the capital of Samoa *Apia
+Geography: What is the capital of San Marino *San Marino
+Geography: What is the capital of Saudi Arabia *Riyadh
+Geography: What is the capital of Senegal *Dakar
+Geography: What is the capital of Seychelles *Victoria
+Geography: What is the capital of Sierra Leone *Freetown
+Geography: What is the capital of Singapore *Singapore
+Geography: What is the capital of Slovakia *Bratislava
+Geography: What is the capital of Slovenia *Ljubljana
+Geography: What is the capital of Solomon Islands *Honiara
+Geography: What is the capital of Somalia *Mogadishu
+Geography: What is the capital of South Korea *Seoul
+Geography: What is the capital of Spain *Madrid
+Geography: What is the capital of Sudan *Khartoum
+Geography: What is the capital of Suriname *Paramaribo
+Geography: What is the capital of Swaziland *Mbabane
+Geography: What is the capital of Sweden *Stockholm
+Geography: What is the capital of Switzerland *Bern
+Geography: What is the capital of Syria *Damascus
+Geography: What is the capital of Taiwan *Taipei
+Geography: What is the capital of Tajikistan *Dushanbe
+Geography: What is the capital of Thailand *Bangkok
+Geography: What is the capital of The Bahamas *Nassau
+Geography: What is the capital of the country Georgia *Tbilisi
+Geography: What is the capital of The Netherlands *Amsterdam
+Geography: What is the capital of Tonga *Nuku'alofa
+Geography: What is the capital of Trinidad and Tobago *Port-of-Spain
+Geography: What is the capital of Tunisia *Tunis
+Geography: What is the capital of Turkey *Ankara
+Geography: What is the capital of Turkmenistan *Ashgabat
+Geography: What is the capital of Tuvalu *Fongafale
+Geography: What is the capital of Uganda *Kampala
+Geography: What is the capital of Ukraine *Kiev
+Geography: What is the capital of United Kingdom *London
+Geography: What is the capital of United States *Washington
+Geography: What is the capital of Uruguay *Montevideo
+Geography: What is the capital of Uzbekistan *Tashkent
+Geography: What is the capital of Vanuatu *Port-Vila
+Geography: What is the capital of Vatican City *Vatican City
+Geography: What is the capital of Venezuela *Caracas
+Geography: What is the capital of Vietnam *Hanoi
+Geography: What is the capital of Yugoslavia *Belgrade
+Geography: What is the capital of Zambia *Lusaka
+Geography: What is the name for the deepest part of the ocean *Abyss
+Geography: What is the world's deepest lake *Lake Baikal
+Geography: What is the world's highest mountain *Mount Everest
+Geography: What is the world's second highest mountain *K2
+Geography: What tunnel connects France and Italy *Mont Blanc Tunnel
+Geography: Where are the great Walls of Babylon located in the modern day world *Iraq
+Geography: Where is most of America's gold located *Fort Knox
+Geography: Which city has the highest population *Mexico City
+Geography: Which country altered it's timezone in order to be the first to see in the year 2000 *Tonga
+Geography: Which country has a flag of a red circle on a white background *Japan
+Geography: Which country has the fourth largest population *Indonesia
+Geography: Which country is also known as Suomi *Finland
+Geography: Which country is the smallest population *Vatican City
+Geography: Which country's ships fly under the Union Jack *Great Britain
+Geography: Which element makes up 2.5% of the Earth's crust *Potassium
+Geography: Which element makes up 2.6% of the Earth's crust *Magnesium
+Geography: Which element makes up 2.83% of the Earth's crust *Sodium
+Geography: Which element makes up 27.72% of the Earth's crust *Silicon
+Geography: Which element makes up 3.63% of the Earth's crust *Calcium
+Geography: Which element makes up 46.6% of the Earth's crust *Oxygen
+Geography: Which element makes up 5% of the Earth's crust *Iron
+Geography: Which element makes up 8.13% of the Earth's crust *Aluminium
+Geography: Which is the Earth's fifth largest continent *Antarctica
+Geography: Which is the Earth's fourth largest continent *South America
+Geography: Which is the Earth's largest continent *Asia
+Geography: Which is the Earth's second largest continent *Africa
+Geography: Which is the Earth's second smallest continent *Europe
+Geography: Which is the Earth's smallest continent *Australia
+Geography: Which is the Earth's third largest continent *North America
+Geography: Which island was born near Iceland in 1963 *Surtsey
+Geography: Which mountains are regarded as the east border of Europe *Ural
+Geology: What is the name of the layer between the Earth's crust and the Earth's core *Mantle
+Geology: What name is given to the point where a river starts *Source
+Geology: What name is given to the point where two rivers join *Confluence
+Geology: What name is given to the single super-continent that existed 200 million years ago *Pangaea
+Geology: Which river made The Grand Canyon *Colorado
+History: Alexander the Great was king of which country *Macedonia
+History: At the time of Julius Caesar, who was the ruler of Egypt *Cleopatra
+History: How is the stockmarket collapse of the 24th October 1929 better known *Black Thursday
+History: How many countries joined the United Nations at it's start *51
+History: How many stab wounds did Julius Caesar have when he died *23
+History: How many years were between the creation of the Magna Carta and the American Declaration of Independence *561
+History: How old was Alexander the Great when he died *32
+History: How was the 1839-42 Anglo-Chinese war better known *The Opium War
+History: In 1911 Roald Amundsen became the first person to reach where *South Pole
+History: In March 1979, where did a major nuclear accident occur *Three Mile Island
+History: In the 17th century which country started taxing beards *Russia
+History: In the 1855 Russian War, what were used to transport Torpedos *Kites
+History: In the 9th century which city had several thousand bookstores *Baghdad
+History: In the period 978-1016 England was ruled by which "Unready" king *Ethelred
+History: In the year 2000 which companies CEO was the worlds second richest man *Oracle
+History: In what type of building did Plato and Aristotle teach *Gymnasium
+History: In what year did China become a communist state *1949
+History: In which year did London Underground open *1863
+History: In which year was John F. Kennedy elected *1960
+History: In which year was the First Crusade *1095
+History: In which year was the Rosetta stone written *196 BC
+History: The 14th July 1789 marked the start of what *French Revolution
+History: To which island was Napoleon exiled, after his loss at Waterloo *St Helena
+History: What city was founded in 753 BC *Rome
+History: What country did Abel Tasman discover in 1642 *New Zealand
+History: What did Peter Minuit buy in 1626 *Manhattan Island
+History: What did Temujin change his name to *Genghis Khan
+History: What happened at 2:56 on the 21st July 1969 *First Manned moon landing
+History: What product was the first TV advert advertising *Toothpaste
+History: What purged the Great Plague of London *Great Fire of London
+History: What was first worn on the 10th October 1886 *Tuxedo
+History: What was the destination of the ship 'Mary Celeste' on it's final voyage November 1872*Genoa
+History: What was the first newspaper produced in the United States *Publick Occurences
+History: What was the first postage stamp *Penny Black
+History: What was the first transatlantic radio message sent *s
+History: What was the name of the government newspaper in ancient Rome *Acat Diurna
+History: What was the nationality of Marco Polo *Italian
+History: What was the nationallity of Rasputin *Russian
+History: What was the predecessor of the United Nations *League of Nations
+History: When was the Rosetta stone found *1799
+History: Where was the Rosetta stone found *Cairo
+History: Where were the ancient script of Linear A and Linear B found *Crete
+History: Which American Military Academt was established in 1802 on the Hudson river *West Point
+History: Which artificial fiber was invented in 1938 *Nylon
+History: Which British prime minister died in 1965 *Winston Churchill
+History: Which country has the oldest national flag *Denmark
+History: Which famous ship sank in 1912 *Titanic
+History: Which French king was known as the Sun King *Louis XIV
+History: Which gangster died on the 25th January 1947 *Al Capone
+History: Which major international organization was created in 1945 *United Nations
+History: Who imported the first Go set into Britain *Marco Polo
+History: Who in 1893 defined vegtables as plants eaten in a meal and fruits as plants eaten as dessert *United States Supreme Court
+History: Who in 1988 became the first elected female prime minister in an Islamic country *Benazir Bhutto
+History: Who is famous for historically riding naked on horseback through Coventry, England *Lady Godiva
+History: Who took the title "Lord Protector of the Commonwelth of England, Scotland, and Ireland" *Oliver Cromwell
+History: Who was Canada's first Prime Minister*John A. Macdonald
+History: Who was known as "the wizard of Menlo Park" *Thomas Alva Edison
+History: Who was the first dog in space *Laika
+History: Who was the first female American astronaut *Sally Ride
+History: Who was the first fully Danish king of England *Canute the Great
+History: Who was the first man to reach the North Pole *Robert Edwin Peary
+Literature: Douglas Adams is famous for writing what *The hitchhiker's guide to the galaxy
+Literature: How is Samuel Clemens better known *Mark Twain
+Literature: In which book is Scheherazade a story teller *Arabian Nights
+Literature: The book "Wamyouruijoshou" was the first to use what word *Kite
+Literature: What book is the film Blade Runner based on *Do Androids Dream of Electric Sheep
+Literature: What is the second best-selling book of all time *Quotations from the Works of Chairman Mao Tse-Tung
+Literature: What series has Robert Jordan written *Wheel of Time
+Literature: What trilogy did J.R.R. Tolkien write *Lord of the Rings
+Literature: What word is Isaac Asimov famous for coining *Robotics
+Literature: Who created Sherlock Holmes *Sir Arthur Conan Doyle
+Literature: Who is associated with the address 221B Baker Street, London *Sherlock Holmes
+Literature: Who wrote "Ender's Game" *Orson Scott Card
+Literature: Who wrote "The Wind in the Willows" *Kenneth Grahame
+Literature: Who wrote 1984 *George Orwell
+Literature: Who wrote the Belgariad *Leigh and David Eddings
+Literature: Who wrote the book "The Origin of Species" *Charles Darwin
+Literature: Who wrote the Discworld series *Terry Pratchett
+Literature: Who wrote the epic poem Odyssey *Homer
+Literature: Who wrote the novel "The Strange Case of Dr. Jekyll and Mr Hyde" *Stevenson
+Literature: Who wrote the shortest ever letter *Victor Hugo
+Literature: Who wrote three books under the title "Das Kapital" *Karl Marx
+Mathematics: What is the square root of -1 *i
+Mathematics: Who invented logarithms *John Napier
+Mathematics: Who proved Fermat's Last Theorem *Andrew Wiles
+Medicine: How is german measles also known *Rubella
+Medicine: Who developed the vaccine for smallpox *Edward Jenner
+Medicine: Who discovered Penicillin *Alexander Fleming
+Medicine: Who first used antiseptics *Joseph Lister
+Music: What term is used for the speed at which a piece of music is played *Tempo
+Music: Who wrote the Nutcracker Suite *Tchaikovsky
+Mythology: What does the "touch of Midas" turn everything into *Gold
+Mythology: Who is the greek equivalent of the roman god Cupid *Eros
+Mythology: Who is the greek equivalent of the roman god Diana *Artemis
+Mythology: Who is the greek equivalent of the roman god Discordia *Eris
+Mythology: Who is the greek equivalent of the roman god Juno *Hera
+Mythology: Who is the greek equivalent of the roman god Jupiter *Zeus
+Mythology: Who is the greek equivalent of the roman god Mars *Ares
+Mythology: Who is the greek equivalent of the roman god Mercury *Hermes
+Mythology: Who is the greek equivalent of the roman god Minerva *Athena
+Mythology: Who is the greek equivalent of the roman god Neptune *Poseidon
+Mythology: Who is the greek equivalent of the roman god Pluto *Hades
+Mythology: Who is the greek equivalent of the roman god Venus *Aphrodite
+Mythology: Who is the greek equivalent of the roman god Vesta *Hestia
+Mythology: Who is the greek equivalent of the roman god Vulcan *Hephaistos
+Mythology: Who is the Norse god of justice *Forseti
+Mythology: Who is the Norse god of poetry *Bragi
+Mythology: Who is the Norse god of the sky and thunder *Thor
+Mythology: Who is the Norse Watchman of the Gods *Heimdall
+Mythology: Who was Ancient Egyptian goddess of fertility, love and beauty *Bastet
+Mythology: Who was Ancient Egyptian moon god *Khonsu
+Mythology: Who was the ancient Egyptian goddess of the sky and queen of heaven *Hathor
+Philosophy: What is the name of the belief that many gods exist, but only one should be worshipped *Monolatry
+Phrases: Who said "If you want something said, ask a man. If you want something done, ask a woman." *Margaret Thatcher
+Phrases: Who said "In my free time I do differential and integral calculus"*Karl Marx
+Phrases: Who said "The no-mind not-thinks no-thoughts about no-things" *Buddha
+Phrases: Who said 'Everything must either be or not be, whether in the present or in the future' *Aristotle
+Phrases: Who said 'Give me a firm place to stand and I will move the Earth' *Archimedes
+Phrases: Who said 'The greater our knowledge increases, the more our ignorance unfolds' *John F. Kennedy
+Phrases: Who said 'The way of the warrior is the resolute acceptance of death' *Miyamoto Musashi
+Phrases: Who said the line "Dr Livingstone, I presume!" *Henry Morton Stanley
+Physics: What are the units of measurement for Energy *Joule
+Physics: What are the units of measurement for Force *Newton
+Physics: What are the units of measurement for Frequency *Hertz
+Physics: What are the units of measurement for Power *Watt
+Physics: What are the units of measurement for Pressure *Pascal
+Physics: What device is used to measure weather pressure *Barometer
+Physics: What device used to be described in Greek as "watcher of the small" *Microscope
+Physics: What device was used to determine a ship's latitude *Sextant
+Physics: What has superseded Newtonian mechanics of the atomic scale *Quantum mechanics
+Physics: What is the formal name for when a substance breaks down on heating *Thermal Decomposition
+Physics: What is the luminous intensity of light measured in *Candela
+Physics: What is the name for 0.1 Newtons *Dyne
+Physics: What is the second derivative of distance *Acceleration
+Physics: What scale is used to measure wind speed *Beaufort
+Physics: Which scale is based on the speed of sound *Mach
+Politics: What is PLO an abbreviation for *Palestine Liberation Organization
+Religion: In ancient Egypt which animal was considered sacred *Cat
+Religion: In China why were kites flown on the ninth day of every month *To banish evil
+Religion: What is the holy book of Islam *Koran
+Religion: What religion was founded by Guru Nanak *Sikhism
+Religion: What religion was founded by Lao-tzu *Taoism
+Religion: What religion was founded by Siddhartha Gautama *Buddhism
+Religion: Where was Methodism founded *Oxford University
+Religion: Which group of people elect the pope *Cardinals
+Religion: Which tree do Druids regard sacred *Oak
+Science: Which was the longest dinosaur *Diplodocus
+Software: Who invented Tetris *Alexi Pazhitnov
+Sports: Where were the 1896 Olympics held *Athens, Greece
+Sports: Where were the 1900 Olympics held *Paris, France
+Sports: Where were the 1908 Olympics held *London, England
+Sports: Where were the 1912 Olympics held *Stockholm, Sweden
+Sports: Where were the 1920 Olympics held *Antwerp, Belgium
+Sports: Where were the 1924 Olympics held *Paris, France
+Sports: Where were the 1928 Olympics held *Amsterdam
+Sports: Where were the 1936 Olympics held *Berlin, Germany
+Sports: Where were the 1948 Olympics held *London, England
+Sports: Where were the 1952 Olympics held *Helsinki, Finland
+Sports: Where were the 1956 Olympics held *Melbourne, Australia
+Sports: Where were the 1960 Olympics held *Rome, Italy
+Sports: Where were the 1964 Olympics held *Tokyo, Japan
+Sports: Where were the 1968 Olympics held *Mexico City, Mexico
+Sports: Where were the 1972 Olympics held *Munich, West Germany
+Sports: Where were the 1980 Olympics held *Moscow, U.S.S.R.
+Sports: Where were the 1988 Olympics held *Seoul, South Korea
+Sports: Where were the 1992 Olympics held *Barcelona, Spain
+Sports&Games: How is the chess term "shah mat" better known *Checkmate
+Sports&Games: How many pieces are found in a chess set *32
+Sports&Games: Tic-Tac-Toe is based on which game *Nine men morris
+Sports&Games: What does "Dan" mean *Grade
+Sports&Games: What is the Chess ranking system called *Elo
+Sports&Games: What is the name of the board that Baduk is player on *Goban
+Sports&Games: What sport did James Naismith invent *Basketball
+Sports&Games: Which game has 361 intersections *Go
+Sports&Games: With which sport is Babe Ruth associated *Baseball
+Sports&Games: With which sport is Bjorn Borg associated *Tennis
+Sports&Games: With which sport is Bobby Moore associated *Soccer
+Sports&Games: With which sport is Chirs Evert-Lloyd associated *Tennis
+Sports&Games: With which sport is Jack Nicklaus associated *Golf
+Sports&Games: With which sport is Muhammad Ali associated *Boxing
+Sports&Games: With which sport is Pele associated *Soccer
+Technology: What is the reason behind the layout of the Qwerty keyboard *To slow down typing rates
+Technology: What was launched on the 4th December 1996 *Mars Pathfinder
+Technology: What was the Earth's first artificial satellite *Sputnik 1
+Technology: What was the first lighthouse *Pharos of Alexandria
+Technology: What was the name of the first plane ever to fly *Flyer
+Technology: Which was the first manned aircraft to exceed the speed of sound *Bell X-1
+Technology: Who invented the Hovercraft *Sir Christopher Cockerell
+Technology: Who invented the Telephone *Alexander Graham Bell
+History: How was William Pitt the Elder's son known *William Pitt the Younger
+Tv / movies: In Dr Who, what was Tardis an abbreviation of *Time and relative dimensions in space

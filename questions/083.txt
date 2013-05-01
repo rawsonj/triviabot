@@ -1,0 +1,999 @@
+Geography : Bridgetown is the capital of ________.*barbados
+Geography : Brussels is the capital of which country*belgium
+Geography : Frankfort is the capital of which state*kentucky
+Geography : Guayaquil is the largest city in what country*ecuador
+Geography : Halifax is the capital of which Canadian province*nova scotia
+Geography : Havana is the capital of which country*cuba
+Geography : He invented the most common projection for world maps.*mercator
+Geography : He visited Australia and New Zealand, then surveyed the Pacific Coast of North America.*vancouver
+Geography : How many stars are on the flag of New Zealand*four
+Geography : If its 4:00pm in Seattle Washington, what time is it in Portland Oregon*4
+Geography : In what city are the famous Tivoli Gardens*copenhagen
+Geography : In what city is the Leaning Tower*pisa
+Geography : In what city is the Smithsonian Institute*washington
+Geography : In what country is Banff National Park*canada
+Geography : In what country is Lahore*pakistan
+Geography : In what country is Mandalay*burma
+Geography : In what country is Taipei*taiwan
+Geography : In what country is Thunder Bay*canada
+Geography : In what country is the Jutland peninsula*denmark
+Geography : In what country is the Mekong River Delta*vietnam
+Geography : In what country is the Waterloo battlefield*belgium
+Geography : In what country is the highest point in South America*argentina
+Geography : In what country is the lowest point in South America*argentina
+Geography : In what country is the source of the Blue Nile*ethiopia
+Geography : In what island group is Corregidor*philippine
+Geography : In what mountain range is Kicking Horse Pass*rockies
+Geography : In what state is Concord*new hampshire
+Geography : In which city is Red Square*moscow
+Geography : In which city is Saint Paul's Cathedral*london
+Geography : In which city is Wembley Stadium*london
+Geography : In which city is the Bridge of Sighs*venice
+Geography : In which city is the C.N. Tower*toronto
+Geography : In which city is the Canale Grande*venice
+Geography : In which city is the Coliseum located*rome
+Geography : In which city is the Wailing Wall*jerusalem
+Geography : In which country is Angel Falls*venezuela
+Geography : In which country is Brest (NOT Breast;-)*france
+Geography : In which country is Cusco*peru
+Geography : In which country is Loch Ness*scotland
+Geography : In which country is Madras*india
+Geography : In which country is Normandy*france
+Geography : In which country is Sapporo*japan
+Geography : In which country is the Calabria region*italy
+Geography : In which country is the Dalai Lama's palace*tibet
+Geography : In which country is the Great Victoria Desert*australia
+Geography : In which country is the Machu Picchu*peru
+Geography : In which country would you find the Yucatan Peninsula*mexico
+Geography : In which ocean or sea are the Seychelles*indian
+Geography : In which state are Gettysburg and the Liberty Bell*pennsylvania
+Geography : In which state are the Finger Lakes*new york
+Geography : In which state is Appomattax*virginia
+Geography : In which state is Hoover Dam*arizona
+Geography : In which state is Mount McKinley*alaska
+Geography : In which state is Mount St. Helens*washington
+Geography : In which state is Mount Vernon*virginia
+Geography : In which state is Stone Mountain*georgia
+Geography : In which state is Walla Walla*washington
+Geography : In which state is the Kennedy Space Center*florida
+Geography : In which state is the Mayo Clinic*minnesota
+Geography : In which state is the Painted Desert*arizona
+Geography : Into what bay does the Ganges River flow*bengal
+Geography : Into what body of water does the Danube River flow*black sea
+Geography : Into what body of water does the Yukon River flow*bering sea
+Geography : Into what sea does the Elbe River flow*north
+Geography : Into what sea does the Mackenzie River flow*beaufort
+Geography : Khartoum is the capital of which country*sudan
+Geography : Kingston is the capital of which country*jamaica
+Geography : Linz, Austria is a leading port on which river*danube
+Geography : Madrid and Lisbon are both located near this river.*tagus
+Geography : Meridians converge at the ________.*pole s
+Geography : Mount Victoria is the highest peak of this island country.*fiji
+Geography : Name a country which has the same name as a bird.*turkey
+Geography : Name the U.S. state with the smallest population.*alaska
+Geography : Name the capital city of Massachusetts.*boston
+Geography : Name the capital city of Rhode Island.*providence
+Geography : Name the capital of Argentina.*buenos aires
+Geography : Name the capital of Brazil.*brazilia
+Geography : Name the capital of Italy.*rome
+Geography : Name the city at the west end of Lake Superior.*duluth
+Geography : Name the continent that consists of a single country.*australia
+Geography : Name the desrt located in south-east California.*mojave
+Geography : Name the large mountain chain in the eastern U.S.A.*the appalachian s
+Geography : Name the largest cathedral in the world.*st. peter's
+Geography : Name the largest city in Canada*toronto
+Geography : Name the largest island in the world.*greenland
+Geography : Name the largest lake in Australia*eyre
+Geography : Name the largest river forming part of the U.S. - Mexican border.*rio grande
+Geography : Name the last province to become part of Canada.*newfoundland
+Geography : Name the longest river in Asia.*yangtze
+Geography : Name the longest river in Nigeria*niger
+Geography : Name the most north-easterly of the 48 contiguous states.*maine
+Geography : Name the only Central American country without an Atlantic coastline.*el salvador
+Geography : Name the sea between Asia Minor and Greece.*aegean
+Geography : Name the sea between Korea and China.*the yellow sea
+Geography : Name the sea north of Alaska.*beaufort
+Geography : Name the sea north of Murmansk, Russia.*barents
+Geography : Name the sea west of Alaska.*bering
+Geography : Name the second largest country in Africa.*algeria
+Geography : Name the second largest country in South America.*argentina
+Geography : Name the second largest lake in North America.*huron
+Geography : Name the smallest of the Great Lakes.*ontario
+Geography : Name the strait joining the Atlantic Ocean and the Mediterranean Sea.*gibraltar
+Geography : Name the world's most photographed and most climbed mountain.*fuji
+Geography : Nassau is the capital of which country*bahamas
+Geography : On what island is Honolulu*oahu
+Geography : On what island is Pearl Harbour*oahu
+Geography : On what island is the Blue Grotto*capri
+Geography : On what island is the U.S. naval base, Guantanamo*cuba
+Geography : On what mountain are four presidents' faces carved*rushmore
+Geography : On what peninsula are Spain and Portugal located*the iberian peninsula
+Geography : On what river is the capital city of Canada*ottawa
+Geography : On which river is London, England*thames
+Geography : On which river is Rome located*tiber
+Geography : On which river is the Aswan High Dam*nile
+Geography : Over 75% of the Earth's surface is covered by some form of _____.*water
+Geography : Rabat is the capital of which country*morocco
+Geography : San Francisco Bay is located near what city*san francisco
+Geography : Seoul is the capital of which country*south korea
+Geography : St. George's is the capital city of what island country*grenada
+Geography : Surfing is believed to have originated here.*hawaii
+Geography : The Auckland Islands belong to which country*new zealand
+Geography : The Hebrides are part of this country.*scotland
+Geography : The Ionian and Cyclades are island groups of which country*greece
+Geography : The Little Mermaid is found in the harbour of which city*copenhagen
+Geography : The Nationalist Chinese occupy this island.*taiwan
+Geography : The Thatcher Ferry Bridge crosses what canal*the panama canal
+Geography : The United States is made up of __ states.*50
+Geography : The Volta is the largest river in which country*ghana
+Geography : The countries of Belgium, Netherlands, and Luxembourg are together called ________.*benelux
+Geography : The longest river in Western Europe is _________*rhine
+Geography : The sun sets in the ____*west
+Geography : This Canadian island is the world's fifth largest.*baffin
+Geography : This Pacific island's puzzling monoliths attract ethnologists.*easter island
+Geography : This country is divided at the 38th parallel.*korea
+Geography : This country occupies the "horn of Africa".*somalia
+Geography : This country's flag has a large "R" on it.*rwanda
+Geography : This is called the "Honeymoon Capital" of the world.*niagara falls
+Geography : This is the bridge with the longest span in the U.S.A.*verrazano
+Geography : This is the only borough of New York City that is not on an island.*bronx
+Geography : This is the port city serving Tokyo.*yokohama
+Geography : This is the residence of English monarchs.*buckingham palace
+Geography : This island group is off the east coast of southern South America.*falkland islands
+Geography : This re-opened in 1975 after being closed for 8 years.*suez canal
+Geography : This section of Manhattan is noted for its Negro and Latin American residents.*harlem
+Geography : To what country do the Faeroe Islands belong*denmark
+Geography : To what country does the Gaza Strip belong*egypt
+Geography : Under what river does the Holland Tunnel run*hudson
+Geography : Warsaw is the capital of what country*poland
+Geography : What American city is known as Little Havana*miami
+Geography : What Asian city was once called Edo*tokyo
+Geography : What Canadian city is at the west end of Lake Ontario*hamilton
+Geography : What English city does the Prime Meridian pass through*greenwich
+Geography : What European country administers the island of Martinique*france
+Geography : What European country has "Vaduz" as its capital city*liechtenstein
+Geography : What U.S. city is known as Insurance City*hartford
+Geography : What U.S. city is named after Saint Francis of Assisi*san francisco
+Geography : What U.S. state is known as The Land of 10,000 Lakes*minnesota
+Geography : What US state is completely surrounded by the Pacific Ocean*hawaii
+Geography : What are drumlins and eskers formed by*glacier
+Geography : What are the worlds four oceans - alphabetically*arctic, atlantic, indian and pacific
+Geography : What body of water borders Saudi Arabia to the east*persian gulf
+Geography : What canal connects Lake Ontario and Lake Erie*welland
+Geography : What city boasts the Copacabana Beach and Impanema*rio
+Geography : What city is associated with Alcatraz*san francisco
+Geography : What city is on Lake Erie at the mouth of the Cuyahoga River*cleveland
+Geography : What city is the Christian Science Monitor based in*boston
+Geography : What city is the Kremlin located*moscow
+Geography : What city was the setting for "Gone With the Wind"*atlanta
+Geography : What color does the bride wear in China*red
+Geography : What continent is Cyprus considered to be part of*asia
+Geography : What continent is the home to the greatest number of countries*africa
+Geography : What country are the Islands of Quemoy and Matsu part of*taiwan
+Geography : What country borders Egypt on the west*libya
+Geography : What country borders Egypt to the south*sudan
+Geography : What country does the island of Mykonos belong to*greece
+Geography : What country formed the union of Tanganyika and Zanzibar*tanzania
+Geography : What country has the world's most southerly city*chile
+Geography : What country is Phnom Penh the capital of*cambodia
+Geography : What country is Santo Domingo the capital of*dominican republic
+Geography : What country is directly north of Israel*lebanon
+Geography : What country is directly north of the continental United States*canada
+Geography : What country is directly west of Spain*portugal
+Geography : What country is known as the Hellenic Republic*greece
+Geography : What country is located between Panama and Nicaragua*costa rica
+Geography : What country owns the island of Corfu*greece
+Geography : What country was once known as Gaul*france
+Geography : What country was the setting for "Casablanca"*morocco
+Geography : What country was the setting for "Doctor Zhivago"*russia
+Geography : What famous geyser erupts regularly at the Yellowstone National Park*old faithful
+Geography : What is the capital of Alaska*juneau
+Geography : What is the capital of Bangladesh*dacca
+Geography : What is the capital of Burma*rangoon
+Geography : What is the capital of Chile*santiago
+Geography : What is the capital of Colorado*denver
+Geography : What is the capital of Florida*tallahassee
+Geography : What is the capital of India*new delhi
+Geography : What is the capital of Indonesia*jakarta
+Geography : What is the capital of Kansas*topeka
+Geography : What is the capital of Maine*augusta
+Geography : What is the capital of Nebraska*lincoln
+Geography : What is the capital of New Zealand*wellington
+Geography : What is the capital of Washington state*olympia
+Geography : What is the capital of West Virginia*charleston
+Geography : What is the capital of Wisconsin*madison
+Geography : What is the capital of Zimbabwe*salisbury
+Geography : What is the capital of the United Arab Emirates*abu dhabi
+Geography : What is the current name for south-west Africa*namibia
+Geography : What is the highest mountain in Canada*mt. logan
+Geography : What is the largest city in Australia, in terms of population*sydney
+Geography : What is the largest city in China*shanghai
+Geography : What is the largest of the countries in Central America*nicaragua
+Geography : What is the monetary unit of India*rupee
+Geography : What is the most sacred river in India*ganges
+Geography : What is the official language of Egypt*arabic
+Geography : What is the principal river of Ireland*shannon
+Geography : What is the second largest of the United States*texas
+Geography : What is the smallest Canadian province*prince edward island
+Geography : What is the smallest independent state in the world*vatican
+Geography : What is the smallest of the Central American countries*el salvador
+Geography : What is the world's highest city*lhasa
+Geography : What island has Hamilton as its capital*bermuda
+Geography : What island is known as the Spice Island*zanzibar
+Geography : What mountain range separates Europe from Asia*urals
+Geography : What prison island was off the coast of French Guiana*devil
+Geography : What river has the largest drainage basin*amazon
+Geography : What river is Liverpool on*mersey
+Geography : What river is called "Old Man River"*mississippi
+Geography : What river is known as China's Sorrow*yellow
+Geography : What river is the Temple of Karnak near*nile
+Geography : What sea is between Italy and Yugoslavia*adriatic
+Geography : What south American country has both a Pacific and Atlantic coastline*colombia
+Geography : What state borders Alabama to the north*tennessee
+Geography : What state is the Golden State*california
+Geography : What state was the home to Mayberry*north carolina
+Geography : What symbol is on the flag of Vietnam*star
+Geography : What unit of currency will buy you dinner in Iraq, Jordan, Tunisia and Yugoslavia*dinar
+Geography : What volcano showers ash on Sicily*etna
+Geography : What's the former name of Istanbul*constantinople
+Geography : What's the highest mountain in the 48 contiguous U.S. states*whitney
+Geography : Where are the Nazca Lines*peru
+Geography : Where are the pyramids located*egypt
+Geography : Where is Beacon Street*boston
+Geography : Where is Euston Station*london
+Geography : Where is George Washington buried*mt. vernon, virginia
+Geography : Where is Queen Maud Land located*antarctica
+Geography : Where is Westminster Abbey located*london
+Geography : Where is the Admirality Arch*london
+Geography : Where is the Holy Kaaba*mecca
+Geography : Where is the Parthenon located*athens
+Geography : Where is the city of Brotherly Love*philadelphia
+Geography : Where were the Pillars of Hercules located*gibraltar
+Geography : Which Canadian province extends farthest north*quebec
+Geography : Which Central American country extends furthest north*belize
+Geography : Which European country has the highest population density*monaco
+Geography : Which European country has the lowest population density*iceland
+Geography : Which Irish city is famous for its crystal*waterford
+Geography : Which U.S. city is known as Beantown*boston
+Geography : Which U.S. city is known as the Biggest Little City in the World*reno
+Geography : Which U.S. state borders a Canadian territory*alaska
+Geography : Which U.S. state has the least rainfall*nevada
+Geography : Which U.S. state receives the most rainfall*hawaii
+Geography : Which capital is known as the Glass Capital of the World*toledo
+Geography : Which city has the largest rodeo in the world*calgary
+Geography : Which city is known as Motown*detroit
+Geography : Which city is known as the Windy City*chicago
+Geography : Which city is on the east side of San Francisco Bay*oakland
+Geography : Which country administers Christmas Island*australia
+Geography : Which country are the Galapagos Islands part of*ecuador
+Geography : Which country developed "Tae-Kwan-Do"*korea
+Geography : Which country has Ankara as its capital*turkey
+Geography : Which country has Budapest as its capital*hungary
+Geography : Which country has the longest land border*china
+Geography : Which country hosted the 1982 World Cup of soccer*spain
+Geography : Which country uses the "yen" for currency*japan
+Geography : Which country would come first in an alphabetical list of countries*afghanistan
+Geography : Which islands were named after Prince Philip of Spain*the philippine s
+Geography : Which mainland Latin American country is in neither South America nor Central America*mexico
+Geography : Which of the 48 contiguous states extends farthest north*minnesota
+Geography : Which of the U.S. states borders only one other state*maine
+Geography : Which river contains the most fresh water*amazon
+Geography : Which state has Cape Hatteras*north carolina
+Geography : Which state has the most hospitals*california
+Geography : Which state is divided into two parts by a large lake*michigan
+Geography : Which state is the Evergreen State*washington
+Geography : Which state is the Garden State*new jersey
+Geography : Which state is the Wolverine State*michigan
+Geography : With what country is Fidel Castro associated*cuba
+Geography : With which country is Prince Rainier III identified*monaco
+Geogrpahy : Name the capital city of Utah.*salt lake city
+Geology : Earth's outer layer of surface soil or crust is called the _______.*lithosphere
+Geology : Peat, lignite and bituminous are types of _________.*coal
+Geology : Slate is formed by the metamorphosis of _________.*shale
+Geology : The green variety of beryl is called ________.*emerald
+Geology : The molten material from a volcano is ________*lava
+Geology : The spot on the Earth's surface directly above an earthquake's focus is called the ______.*epicenter
+Geology : The violet variety of quartz is called ________.*amethyst
+Geology : There are three types of rocks: metamorphic, sedimentary, and _________.*igneous
+Geology : These limestone deposits rise from the floor of caves.*stalagmites
+Geology : This is the hardest naturally occurring substance.*diamond
+Geology : What name is used to describe permanently-frozen subsoil*permafrost
+Television: Which TV Series stars Georgie Parker as the head nurse*All Saints
+Television: All Saints is centred around which ward of All Saints Hospital*17
+Television: In All Saints, what was Nurse Terri Sullivan before becoming a nurse*a nun
+Television: Which TV Series features Constable Evan "jonesy" Jones*Blue Heelers
+Television: Which TV Series features Sergeant Theresa "tess" Gallagher*Blue Heelers
+Television: Which TV Series features Constable Joanna "jo" Parrish*Blue Heelers
+Television: Which TV Series features Inspector Monica Draper*Blue Heelers
+Television: Which TV Series stars Martin Sacks*Blue Heelers  
+Television: Which character does Martin Sacks play in Blue Heelers*Senior Detective P.J. Hasham
+What do you call a Penguin in the Desert*lost
+Which side of a Chicken has the most Feathers*The Outside
+What do Dogs and Trees have in common*Bark
+What invention allows you to see through walls*A window
+Which Months have 28 Days*All of them
+What word is always spelt incorrectly*incorrectly
+What starts with an"E',ends with an "E' and only has one letter in it*An Envelope
+What gets wet, the more you dry*A Towel
+What can you hold without touching*Your Breath
+Television: Which character does Damian Walshe-Howling play in Blue Heelers*Constable Adam Cooper
+Television: Who plays Senior Constable Maggie Doyle in Blue Heelers*Lisa Mccune
+Television: Where is the TV Series Blue Heelers set*Mt. Thomas
+Television: Which TV Series stars Lucky Grills*Bluey
+Television: Who plays Det.Sgt.Bluey Hills in Bluey*Lucky Grills
+Television: Who is the host of Burke's Backyard*Don Burke
+Television: Don Burke hosts which show*Burke's Backyard
+Television: Which TV Series stars Peter Adams as Detective Jeff Johnson*Cop Shop
+Television: Which Character does Paula Duncan play in Cop Shop*Detective Danni Francis
+Television: Which character does Gill Tucker play in Cop Shop*Constable Roy Baker
+Television: Who plays Detective Sergeant Glen Taylor in Cop Shop*George Mallaby
+Television: Who plays Detective Mike Georgio in Cop Shop*John Orcsik
+Television: Which character does Terry Norris play in Cop Shop*Senior Sergeant Eric O'Rielly
+Television: Which character does Penny Cook play in A Country Practice*Vicki Dean
+Television: What is the name of Frank Gilroy's wife in A Country Practice*Shirley
+Television: Who plays Dr.Simon Bowen in A Country Practice*Grant Dodwell
+Television: Which character does Syd Heylen play in A Country Practice*Cookie
+Television: Which character does Joyce Jacobs play in A Country Practice*Esme Watson
+Television: Which TV Series stars Gordon Piper as Bob Hatfield*A Country Practice
+Television: Which TV Series stars Shane Porteous as Dr. Terence Elliott*A Country Practice
+Television: Where is the TV Series A Country Practice set*Wandin Valley
+Television: Who is the star of Crocodile Hunter*Steve Irwin
+Television: Who hosted A Current Affair between 1988 and 1993*Jana Wendt
+Television: Who hosted A Current Affair between 1994 and 1998*Ray Martin
+Television: Which TV Series stars Gerard Kennedy and Chuck Faulkner*Division 4
+Television: Which character does Gerard Kennedy play in Division 4*Detective Sergeant Frank Banner
+Television: Who plays Detective Sergeant Mick Peters in Division 4*Terence Donovan
+Television: Who hosted the Don Lane Show*Don Lane
+Television: Who was the host of Great Temptation*Tony Barber
+Television: Who was the hostess on Great Temptation*Barbara Rogers
+Television: Which show featured Ossie the Ostrich*Hey Hey It's Saturday
+Television: Who was the host of Hey Hey It's Saturday*Daryl Somers
+Television: Which TV Series features Donald Fisher and Alf Stewart*Home and Away
+Television: Which TV Series stars Leonard Teale and Alwyn Kurts*Homicide
+Television: Which character does Don Barker play in Homicide*DetEctive Sergeant Harry White
+Television: Which character does Gary Day play in Homicide*Senior Detective Phil Redford
+Television: Which character does Alwyn Kurts play in Homicide*Inspector Colin Fox
+Television: Which character does George Mallaby play in Homicide*Senior Detective Peter Barnes
+Television: Which character does Leonard Teale play in Homicide*Detective Sergeant David Mackay
+Television: Which character does Norman Yemm play in Homicide*Senior Detective Jim Patterson
+Television: Who plays Detective Sergeant Harry White in Homicide*Don Barker 
+Television: Who plays Inspector Colin Fox in Homicide*Alwyn Kurts
+Television: Who plays Senior Detective Peter Barnes in Homicide*George Mallaby
+Television: Who plays Inspector Reg Lawson in Homicide*Charles Tingwell
+Television: Which TV Series stars Ross Higgins as Ted Bulpitt*Kingswood Country
+Television: Which character does Ross Higgins play in Kingswood Country*Ted Bulpitt
+Television: What is the name Ted Bulpitt's wife in Kingswood Country*Thelma
+Television: Which TV Series features Det.Sgt.Vic Maddern*Matlock Police
+Television: Which TV Series stars Vic Gordon and Michael Pate*Matlock Police
+Television: Who plays Senior Constable Gary Hogan in Matlock Police*Paul Cronin
+Television: Who plays Detective Sergeant Vic Maddern in Matlock Police*Michael Pate
+Television: Which character does Michael Pate play in Matlock Police*Detective Sergeant Vic Maddern
+Television: Which character does Paul Cronin play in Matlock Police*Senior Constable Gary Hogan
+Television: Who plays Senior Detective Steve York in Matlock Police*Tom Richards
+Television: Which TV Series stars Bridie Carter as Tess McLeod*McLeod's Daughters
+Television: Which TV Series features Tess Silverman McLeod*McLeod's Daughters
+Television: Which TV Series features Dorrie Evans*Number 96
+Television: Which TV Series features Aldo Godolfus*Number 96
+Television: Who plays Dorrie Evans in Number 96*Pat McDonald
+Television: Who plays Aldo Godolfus in Number 96*Johnny Lockwood
+Television: Who was Pual Hogans side-kick on The Paul Hogan Show*Strop
+Television: Who hosted The Paul Hogan Show*Paul Hogan
+Television: Who plays Strop on The Paul Hogan Shaw*John Cornell
+Television: Which TV Series stars Gary sweet as Sgt.Steve "mickey" McClintock*Police Rescue
+Television: Who plays Sergeant Steve 'mickey' McClintock in Police Rescue*Gary Sweet
+Television: What was the name of the Prison in Prisoner*Wentworth Detention Centre
+Television: Which TV Series stars Maggie Kirkpatrick as 'The Freak"*Prisoner
+Television: Which TV Series stars Fiona Spence as 'Vinegar Tits'*Prisoner
+Television: Who plays Meg Jackson-morris in Prisoner*Elspeth Ballantyne
+Television: Who plays Vera "Vinegar Tits" in Prisoner*Fiona Spence
+Television: Who plays Joan 'The Freak' in Prisoner*Maggie Kirkpatrick
+Television: Which Character does Shiela Florence play in Prisoner*Lizzy Birdsworth
+Television: Which Character does Val Lehman play in Prisoner*Bea Smith
+Television: Which Character does Carol Burns play in Prisoner*Franky Doyle
+Television: Which TV Series stars John Wood as Michael Rafferty*Rafferty's Rules
+Television: Who plays Michael Rafferty in Rafferty's Rules*John Wood
+Television: Who hosted The Ray Martin Show*Ray Martin
+Television: Which TV Series stars Rod Mulliner as Michael Ryan*Ryan
+Television: Which Character does Rod Mulliner play in Ryan*Michael Ryan
+Television: Who hosted Sale of the Century from 1980 to 1991*Tony Barber
+Television: Who hosted Sale of the Century from 1991 to 2001*Glenn Ridge
+Television: Which TV Series stars Ken James and Garry Pankhurst*Skippy
+Television: Which Character does Ed Devereaux play in Skippy*Matt Hammond
+Television: Which Character does Garry Pankhurst play in Skippy*Sonny Hammond
+Television: Which Character does Ken James play in Skippy*Mark Hammond
+Television: In the TV Series Skippy, What was Skippy*A Kangaroo
+Television: Who plays Matt Hammond in Skippy*Ed Devereaux
+Television: Who plays Mark Hammond in Skippy*Ken James
+Television: Who plays Sonny Hammond in Skippy*Garry Pankhurst
+Television: Which TV Series stars Paul Cronin as Gary Hogan*Solo One
+Television: Which Character does Paul Cronin play in Solo One*Gary Hogan
+Television: Which TV Series stars Jack Thompson and Peter Sumner*Spyforce
+Television: Who plays Erskine in Spyforce*Jack Thompson
+Television: Which TV Series stars Peter Phelps as Peter Church*Stingers
+Television: Who plays Peter Church in Stingers*Peter Phelps
+Television: Which TV Series stars Paul cronin as Dave Sullivan*The Sullivans
+Television: Who plays Dave Sullivan in The Sulivans*Paul Cronin
+Television: Which Character Does Paul Cronin play in The Sullivans*Dave Sullivan
+Television: Which TV Show was hosted by Uncle Norman and Joffa Boy*The Tarax Show
+Television: Which TV Series stars Steve Bisley as Det.Sgt.Jack Christey*Water Rats
+Television: Which Character does Steve Bisley play in Water Rats*Detective Sergeant Jack Christey
+Television: Which TV Series was hosted by Johnny Young*Young Talent Time
+Television: Who hosted Young Talent Time*Johnny Young
+Name The Artist: This Time I Know It's For Real*donna summer
+Name The Artist: This Time*bryan adams
+Name The Artist: This Time*john cougar
+Name The Artist: This Woman*kenny rogers
+Name The Artist: Three Times In Love*tommy james
+Name The Artist: Thriller*michael jackson
+Name The Artist: Through The Storm*aretha franklin/elton john
+Name The Artist: Through The Years*kenny rogers
+Name The Artist: Throwing It All Away*genesis
+Name The Artist: Tied Up*olivia newton john
+Name The Artist: Til My Baby Comes Home*luther vandross
+Name The Artist: Till I Loved You*barbra streisand & don johnson
+Name The Artist: Till I Loved You*don johnson
+Name The Artist: Time (Clock Of The Heart)*culture club
+Name The Artist: Time After Time*cyndi lauper
+Name The Artist: Time And Tide*basia
+Name The Artist: Time Is Time*andy gibb
+Name The Artist: Time Out Of Mind*steely dan
+Name The Artist: Time Will Reveal*debarge
+Name The Artist: Time*alan parsons project
+Name The Artist: Tired Of Toein' The Line*rocky burnette
+Name The Artist: To Be A Lover*billy idol
+Name The Artist: Together Forever*rick astley
+Name The Artist: Together*tierra
+Name The Artist: Tommorrow People*ziggy marley & the melody makers
+Name The Artist: Tomorrow Doesn't Matter Tonight*jefferson starship
+Name The Artist: Tonight I'm Yours*rod stewart
+Name The Artist: Tonight She Comes*cars
+Name The Artist: Tonight*kool & the gang
+Name The Artist: Tonight, I Celebrate My Love*peabo bryson & roberta flack
+Name The Artist: Tonight, Tonight, Tonight*genesis
+Name The Artist: Too Hot*kool & the gang
+Name The Artist: Too Late For Goodbyes*julian lennon
+Name The Artist: Too Much Time On My Hands*styx
+Name The Artist: Too Shy*kajagoogoo
+Name The Artist: Too Tight*con funk shun
+Name The Artist: Torture*jacksons
+Name The Artist: Total Eclipse Of The Heart*bonnie tyler
+Name The Artist: Touch And Go*cars
+Name The Artist: Touch Me When We're Dancing*carpenters
+Name The Artist: Touch Me*samantha fox
+Name The Artist: Touch Of Grey*grateful dead
+Name The Artist: Tough All Over*john cafferty & the beaver brown band
+Name The Artist: Toy Soldiers*martika
+Name The Artist: Tragedy*john hunter
+Name The Artist: Treat Me Right*pat benatar
+Name The Artist: Trian In Vain*clash
+Name The Artist: Trouble*lindsey buckingham
+Name The Artist: Trouble*nia peeples
+Name The Artist: True Blue*madonna
+Name The Artist: True Colors*cyndi lauper
+Name The Artist: True Faith*new order
+Name The Artist: True Love*glenn frey
+Name The Artist: True*spandau ballet
+Name The Artist: Truly*lionel richie
+Name The Artist: Try Again*champaigne
+Name The Artist: Tuff Enuff*the fabulous thunderbirds
+Name The Artist: Tulsa Time*eric clapton
+Name The Artist: Tunnel Of Love*bruce springsteen & the e street band
+Name The Artist: Turn Me Loose*loverboy
+Name The Artist: Turn To You*go go's
+Name The Artist: Turn Up The Radio*autograph
+Name The Artist: Turn Your Love Around*george benson
+Name The Artist: Turning Japanese*vapors
+Name The Artist: Twilight World*swing out sister
+Name The Artist: Twilight Zone*golden earring
+Name The Artist: Twilight Zone/Twilight Tone*manhattan transfer
+Name The Artist: Twilight*electric light orchestra
+Name The Artist: Twist And Shout*beatles
+Name The Artist: Twist Of Fate*olivia newton john
+Name The Artist: Two Hearts*phil collins
+Name The Artist: Two Hearts*stephanie mills & teddy pendergrass
+Name The Artist: Two Less Lonely People In The World*air supply
+Name The Artist: Two Occasions*deele
+Name The Artist: Two Of Hearts*stacey q
+Name The Artist: Two People*tina turner
+Name The Artist: Two Places At The Same Time*ray parker jr. & raydio
+Name The Artist: Two Sides Of Love*sammy hagar
+Name The Artist: Two To Make It Right*seduction
+Name The Artist: Typical Male*tina turner
+Name The Artist: U Got The Look*prince & the revolution
+Name The Artist: Under Pressure*queen
+Name The Artist: Under The Milky Way*church
+Name The Artist: Undercover Of The Night*rolling stones
+Name The Artist: Understanding*bob seger & the silver bullet band
+Name The Artist: Union Of The Snake*duran duran
+Name The Artist: Up Where We Belong*jennifer warnes & joe cocker
+Name The Artist: Up Where We Belong*joe cocker & jennifer warnes
+Name The Artist: Upside Down*diana ross
+Name The Artist: Uptown Girl*billy joel
+Name The Artist: Urgent*foreigner
+Name The Artist: Vacation*go go's
+Name The Artist: Valerie*steve winwood
+Name The Artist: Valley Girl*frank zappa
+Name The Artist: Valotte*julian lennon
+Name The Artist: Velcro Fly*zz top
+Name The Artist: Venus*bananarama
+Name The Artist: Veronica*elvis costello
+Name The Artist: Victim Of Love*bryan adams & tina turner
+Name The Artist: Victory*kool & the gang
+Name The Artist: Vienna Calling*falco
+Name The Artist: Voices Carry*'til tuesday
+Name The Artist: Voices Of Babylon*outfield
+Name The Artist: Voices*cheap trick
+Name The Artist: Vox Humana*kenny loggins
+Name The Artist: Voyeur*kim carnes
+Name The Artist: Wait*white lion
+Name The Artist: Waiting For A Girl Like You*foreigner
+Name The Artist: Waiting For A Star To Fall*boy meets girl
+Name The Artist: Waiting On A Friend*rolling stones
+Name The Artist: Wake Me Up Before You Go Go*wham!
+Name The Artist: Wake Up Little Susie*simon & garfunkel
+Name The Artist: Wake Up*graham parker & the shot
+Name The Artist: Walk Away*donna summer
+Name The Artist: Walk Like An Egyptian*bangles
+Name The Artist: Walk Of Life*dire straits
+Name The Artist: Walk On Water*eddie money
+Name The Artist: Walk The Dinosaur*was (not was)
+Name The Artist: Walk This Way*run d.m.c
+Name The Artist: Walking Away*information society
+Name The Artist: Walking Down Your Street*bangles
+Name The Artist: Walking On A Thin Line*huey lewis & the news
+Name The Artist: Walks Like A Lady*journey
+Name The Artist: Wanna Be Startin' Somethin'*michael jackson
+Name The Artist: Wanted Dead Or Alive*bon jovi
+Name The Artist: War*bruce springsteen & the e street band
+Name The Artist: Wasted On The Way*crosby stills & nash
+Name The Artist: Watching The Wheels*john lennon
+Name The Artist: We All Sleep Alone*cher
+Name The Artist: We Are The World*usa for africa
+Name The Artist: We Are The Young*dan hartman
+Name The Artist: We Belong*pat benatar
+Name The Artist: We Built This City*jefferson starship
+Name The Artist: We Connect*stacey q
+Name The Artist: We Didn't Start The Fire*billy joel
+Name The Artist: We Don't Have To*jermaine stewart
+Name The Artist: We Don't Need Another Hero*tina turner
+Name The Artist: We Got The Beat*go go's
+Name The Artist: We Live For Love*pat benatar
+Name The Artist: We Two*little river band
+Name The Artist: We Were Meant To Be Lovers*photoglo
+Name The Artist: Welcome To Heartlight*kenny loggins
+Name The Artist: Welcome To The Boomtown*david & david
+Name The Artist: Welcome To The Jungle*guns n' roses
+Name The Artist: We'll Be Together*sting
+Name The Artist: We're In This Love Together*al jarreau
+Name The Artist: We're Not Gonna Take It*twisted sister
+Name The Artist: We're Ready*boston
+Name The Artist: West End Girls*pet shop boys
+Name The Artist: We've Got Tonight*kenny rogers & sheena easton
+Name The Artist: What A Wonderful World*louis armstrong
+Name The Artist: What About Love*'til tuesday
+Name The Artist: What About Love?*heart
+Name The Artist: What About Me*james ingram/kim carnes/kenny rogers
+Name The Artist: What About Me*moving pictures
+Name The Artist: What Am I Gonna Do*rod stewart
+Name The Artist: What Are We Doin' In Love*dottie west/kenny rogers
+Name The Artist: What Have I Done To Deserve This?*dusty springfield/petshop boys
+Name The Artist: What Have You Done For Me Lately*janet jackson
+Name The Artist: What I Am*brickell
+Name The Artist: What I Like About You*michael morales
+Name The Artist: What Is Love?*howard jones
+Name The Artist: What Kind Of Fool Am I*rick springfield
+Name The Artist: What Kind Of Fool*barbra streisand & barry gibb
+Name The Artist: What Kind Of Man Would I Be?*chicago
+Name The Artist: What You Don't Know*expose
+Name The Artist: What You Get Is What You See*tina turner
+Name The Artist: What You Need*inxs
+Name The Artist: What You See Is What You Get*brenda k. starr
+Name The Artist: What's Forever For*michael martin murphey
+Name The Artist: What's Going On*cyndi lauper
+Name The Artist: What's Love Got To Do With It*tina turner
+Name The Artist: What's On Your Mind*information society
+Name The Artist: When A Man Loves A Woman*bette midler
+Name The Artist: When All Is Said And Done*abba
+Name The Artist: When Doves Cry*prince
+Name The Artist: When He Shines*sheena easton
+Name The Artist: When I Looked At Him*expose
+Name The Artist: When I See You Smile*bad english
+Name The Artist: When I Think Of You*janet jackson
+Name The Artist: When I Wanted You*barry manilow
+Name The Artist: When I'm With You*sheriff
+Name The Artist: When It's Love*van halen
+Name The Artist: When It's Over*loverboy
+Name The Artist: When She Was My Girl*four tops
+Name The Artist: When Smokey Sings*abc
+Name The Artist: When The Children Cry*white lion
+Name The Artist: When The Going Gets Tough*billy ocean
+Name The Artist: When The Lights Go Out*naked eyes
+Name The Artist: When The Night Comes*joe cocker
+Name The Artist: When We Kiss*bardeux
+Name The Artist: When We Was Fab*george harrison
+Name The Artist: When You Close Your Eyes*night ranger
+Name The Artist: When Your Heart Is Weak*cock robin
+Name The Artist: Where Are You Now?*synch
+Name The Artist: Where Do Broken Hearts Go*whitney houston
+Name The Artist: Where Do The Children Go*hooters
+Name The Artist: Where The Streets Have No Name*u2
+Name The Artist: While You See A Chance*steve winwood
+Name The Artist: Whip It*devo
+Name The Artist: Whirly Girl*oxo
+Name The Artist: Whisper To A Scream*icicle works
+Name The Artist: White Horse*laid back
+Name The Artist: White Wedding*billy idol
+Name The Artist: Who Can It Be Now?*men at work
+Name The Artist: Who Do You Give Your Love To?*michael morales
+Name The Artist: Who Do You Think You're Foolin'*donna summer
+Name The Artist: Who Found Who*jellybean
+Name The Artist: Who Wears These Shoes?*elton john
+Name The Artist: Who Will You Run To*heart
+Name The Artist: Who'll Be The Fool Tonight*larsen feiten band
+Name The Artist: Who's Crying Now*journey
+Name The Artist: Who's Holding Donna Now*debarge
+Name The Artist: Who's Johnny*el debarge
+Name The Artist: Who's Making Love*blues brothers
+Name The Artist: Who's That Girl*madonna
+Name The Artist: Who's That Girl?*eurythmics
+Name The Artist: Who's Zoomin' Who*aretha franklin
+Name The Artist: Why Can't I Have You*cars
+Name The Artist: Why Can't This Be Love*van halen
+Name The Artist: Why Do Fools Fall In Love*diana ross
+Name The Artist: Why Me*styx
+Name The Artist: Why Me?*irene cara
+Name The Artist: Why Not Me*fred knoblock
+Name The Artist: Why You Treat Me So Bad*club nouveau
+Name The Artist: Wild Thing*tone loc
+Name The Artist: Wild Wild Life*talking heads
+Name The Artist: Wild World*maxi priest
+Name The Artist: Wild, Wild West*escape club
+Name The Artist: Will You Still Love Me?*chicago
+Name The Artist: Wind Beneath My Wings*bette midler
+Name The Artist: Winds Of Change*jefferson starship
+Name The Artist: Winning*santana
+Name The Artist: Wipeout*fat boys
+Name The Artist: Wishing Well*terence trent d'arby
+Name The Artist: Wishing*flock of seagulls
+Name The Artist: With Every Beat Of My Heart*taylor dayne
+Name The Artist: With Or Without You*u2
+Name The Artist: With You I'm Born Again*billy preston
+Name The Artist: Without You*franke & the knockouts
+Name The Artist: Without Your Love*roger daltrey
+Name The Artist: Without Your Love*toto
+Name The Artist: Woman In Love*barbra streisand
+Name The Artist: Woman*john lennon
+Name The Artist: Wondering Where The Lions Are*bruce cockburn
+Name The Artist: Wonderland*commodores
+Name The Artist: Word Up*cameo
+Name The Artist: Words Get In The Way*miami sound machine
+Name The Artist: Working For The Weekend*loverboy
+Name The Artist: Working My Way Back To You*spinners
+Name The Artist: Wot's It To Ya*robbie nevil
+Name The Artist: Would I Lie To You?*eurythmics
+Name The Artist: Wrack My Brain*ringo starr
+Name The Artist: Wrap Her Up*elton john
+Name The Artist: Wrapped Around Your Finger*police
+Name The Artist: Xanadu*olivia newton john
+Name The Artist: Yah Mo B There*james ingram
+Name The Artist: Yah Mo B There*michael mcdonald & james ingram
+Name The Artist: Yankee Rose*david lee roth
+Name The Artist: Yeah, Yeah, Yeah*judson spence
+Name The Artist: Years*wayne newton
+Name The Artist: Yesterday's Songs*neil diamond
+Name The Artist: You And I*eddie rabbitt
+Name The Artist: You Are My Lady*freddie jackson
+Name The Artist: You Are The Girl*cars
+Name The Artist: You Are*lionel richie
+Name The Artist: You Be Illin'*run d.m.c
+Name The Artist: You Belong To The City*glenn frey
+Name The Artist: You Better You Bet*who
+Name The Artist: You Can Call Me Al*paul simon
+Name The Artist: You Can Do Magic*america
+Name The Artist: You Can't Get What You Want*joe jackson
+Name The Artist: You Can't Hurry Love*phil collins
+Name The Artist: You Could Have Been With Me*sheena easton
+Name The Artist: You Could Take My Heart Away*silver condor
+Name The Artist: You Don't Know*scarlett & black
+Name The Artist: You Don't Want Me Anymore*steel breeze
+Name The Artist: You Dropped A Bomb On Me*gap band
+Name The Artist: You Give Good Love*whitney houston
+Name The Artist: You Give Love A Bad Name*bon jovi
+Name The Artist: You Got It (The Right Stuff)*new kids on the block
+Name The Artist: You Got It All*jets
+Name The Artist: You Got It*roy orbison
+Name The Artist: You Got Lucky*tom petty & the heartbreakers
+Name The Artist: You Keep Me Hangin' On*kim wilde
+Name The Artist: You Keep Runnin' Away*38 special
+Name The Artist: You Know I Love You Don't You?*howard jones
+Name The Artist: You Know That I Love You*santana
+Name The Artist: You Make My Dreams*daryl hall & john oates
+Name The Artist: You May Be Right*billy joel
+Name The Artist: You Might Think*cars
+Name The Artist: You Saved My Soul*burton cummings
+Name The Artist: You Shook Me All Night Long*ac/dc
+Name The Artist: You Should Be Mine*jeffrey osborne
+Name The Artist: You Should Hear How She Talks About You*melissa manchester
+Name The Artist: You Spin Me Around*dead or alive
+Name The Artist: You'll Accomp'ny Me*bob seger
+Name The Artist: Young Love*air supply
+Name The Artist: Young Turks*rod stewart
+Name The Artist: Your Imagination*daryl hall & john oates
+Name The Artist: Your Love Is Driving Me Crazy*sammy hagar
+Name The Artist: Your Love*outfield
+Name The Artist: Your Mama Don't Dance*poison
+Name The Artist: Your Wildest Dreams*moody blues
+Name The Artist: You're A Friend Of Mine*jackson browne
+Name The Artist: You're Driving Me Out Of My Mind*little river band
+Name The Artist: You're My Girl*franke & the knockouts
+Name The Artist: You're Not Alone*chicago
+Name The Artist: You're Only Human*billy joel
+Name The Artist: You're Supposed To Keep You Love For Me*jermaine jackson
+Name The Artist: You're The Inspiration*chicago
+Name The Artist: You're The Only Woman*ambrosia
+Name The Artist: You've Lost That Lovin' Feeling*daryl hall & john oates
+Name The Artist: Hearts On Fire*randy meisner
+Name The Artist: Hearts*marty balin
+Name The Artist: Heat Of The Moment*asia
+Name The Artist: Heat Of The Night*bryan adams & tina turner
+Name The Artist: Heaven Help Me*deon estus/george michael*5
+Name The Artist: Heaven In Your Eyes*loverboy
+Name The Artist: Heaven Is A Place On Earth*belinda carlisle
+Name The Artist: Heaven*bryan adams
+Name The Artist: Heaven*warrant
+Name The Artist: He'll Never Love You (Like I Do)*freddie jackson
+Name The Artist: Hello Again*cars
+Name The Artist: Hello Again*neil diamond
+Name The Artist: Hello*lionel richie
+Name The Artist: Her Town Too*j.d. souther & james taylor
+Name The Artist: (Don't Fear) The Reaper*blue oyster cult
+Name The Artist: A Cowboys Work Is Never Done*sonny & cher
+Name The Artist: A Dose Of Rock 'N' Roll*ringo starr
+Name The Artist: A Fifth Of Beethoven*walter murphy
+Name The Artist: A Horse With No Name*america
+Name The Artist: A Letter To Myself*chi-lites
+Name The Artist: A Little Bit More*dr. hook
+Name The Artist: A Little More Love*olivia newton-john
+Name The Artist: A Man I'll Never Be*boston
+Name The Artist: A Million To One*donny osmond
+Name The Artist: A Natural Man*lou rawls
+Name The Artist: A Rock 'N' Roll Fantasy*kinks
+Name The Artist: A Song Of Joy*miguel rios
+Name The Artist: A Very Special Love Song*charlie rich
+Name The Artist: Abc*jackson 5
+Name The Artist: Abra Ca Dabra*defranco family
+Name The Artist: Absolutely Right*five man electrical band
+Name The Artist: Action*sweet
+Name The Artist: After Midnight*eric clapton
+Name The Artist: After The Goldrush*prelude
+Name The Artist: After The Love Has Gone*earth wind & fire
+Name The Artist: After The Lovin'*engelbert humperdinck
+Name The Artist: Afternoon Delight*starland vocal band
+Name The Artist: Ain't Gonna Bump No More*joe tex
+Name The Artist: Ain't No Mountain High Enough*diana ross
+Name The Artist: Ain't No Stopin' Us Now*mcfadden & whitehead
+Name The Artist: Ain't No Sunshine*bill withers
+Name The Artist: Ain't No Way To Treat A Lady*helen reddy
+Name The Artist: Ain't No Woman*four tops
+Name The Artist: Ain't Nothing Like The Real Thing*donny & marie osmond
+Name The Artist: Ain't That A Shame*cheap trick
+Name The Artist: Ain't Too Proud To Beg*rolling stones
+Name The Artist: Ain't Understanding Mellow*jerry butler & brenda lee eager
+Name The Artist: Airport Love Theme*vincent bell
+Name The Artist: Albert Flash*guess who
+Name The Artist: Alive Again*chicago
+Name The Artist: Alive*bee gees
+Name The Artist: All By Myself*eric carmen
+Name The Artist: All Day Music*war
+Name The Artist: All I Ever Need Is You*sonny & cher
+Name The Artist: All I Have To Do Is Dream*glen campbell & bobbie gentry
+Name The Artist: All I Know*art garfunkel
+Name The Artist: All Right Now*free
+Name The Artist: All Strung Out On You*john travolta
+Name The Artist: All The King's Horses*aretha franklin
+Name The Artist: All The Young Dudes*mott the hoople
+Name The Artist: All You Get From Love Is A Love Song*carpenters
+Name The Artist: Almost Like Being In Love*michael johnson
+Name The Artist: So Emotional*whitney houston
+Name The Artist: So Far Away*dire straits
+Name The Artist: So In Love*orchestral manoeuvres in the dark
+Name The Artist: So Wrong*patrick simmons
+Name The Artist: Soldier Of Love*donny osmond
+Name The Artist: Solid*ashford & simpson
+Name The Artist: Solitaire*laura branigan
+Name The Artist: Some Days Are Diamonds*john denver
+Name The Artist: Some Guys Have All The Luck*rod stewart
+Name The Artist: Some Kind Of Friend*barry manilow
+Name The Artist: Some Kind Of Lover*jody watley
+Name The Artist: Some Like It Hot*power station
+Name The Artist: Somebody*bryan adams
+Name The Artist: Somebody's Baby*jackson brown
+Name The Artist: Somebody's Knockin'*terri gibbs
+Name The Artist: Somebody's Out There*triumph
+Name The Artist: Somebody's Watching Me*rockwell
+Name The Artist: Someday, Someday*marshall crenshaw
+Name The Artist: Someone That I Used To Love*natalie cole
+Name The Artist: Something About You*level 42
+Name The Artist: Something Real*mr. mister
+Name The Artist: Sometimes A Fantasy*billy joel
+Name The Artist: Somewhere Down The Road*barry manilow
+Name The Artist: Somewhere Out There*james ingram & linda ronstadt
+Name The Artist: Somewhere Out There*linda ronstadt
+Name The Artist: Songbird*kenny g
+Name The Artist: Soul City*partland brothers
+Name The Artist: Soul Kiss*olivia newton john
+Name The Artist: Soul Provider*michael bolton
+Name The Artist: Souls*rick springfield
+Name The Artist: Southern Cross*crosby stills & nash
+Name The Artist: Space Age Love Song*flock of seagulls
+Name The Artist: Spanish Eddie*laura branigan
+Name The Artist: Special Lady*ray, goodman & brown
+Name The Artist: Spice Of Life*manhattan transfer
+Name The Artist: Spies Like Us*paul mccartney
+Name The Artist: Spirits In The Material World*police
+Name The Artist: Spy In The House Of Love*was
+Name The Artist: St. Elmo's Fire (Love Theme)*david foster
+Name The Artist: St. Elmo's Fire*john parr
+Name The Artist: Stages*zz top
+Name The Artist: Stand Back*stevie nicks
+Name The Artist: Stand By Me*ben e. king
+Name The Artist: Stand By Me*mickey gilley
+Name The Artist: Stand*r.e.m
+Name The Artist: Stars On 45 Iii*stars on 45
+Name The Artist: Stars On 45*stars on 45
+Name The Artist: Start Me Up*rolling stones
+Name The Artist: Starting Over Again*dolly parton
+Name The Artist: State Of Shock*jacksons
+Name The Artist: State Of The Heart*rick springfield
+Name The Artist: Stay The Night*benjamin orr
+Name The Artist: Stay The Night*chicago
+Name The Artist: Stay With Me Tonight*jeffrey osborne
+Name The Artist: Staying Together*debbie gibson
+Name The Artist: Staying With It*firefall
+Name The Artist: Steal Away*robbie dupree
+Name The Artist: Steal The Night*stevie woods
+Name The Artist: Step By Step*eddie rabbitt
+Name The Artist: Steppin' Out*joe jackson
+Name The Artist: Stick Around*julian lennon
+Name The Artist: Still In Saigon*charlie daniels band
+Name The Artist: Still Right Here In My Heart*pure prairie league
+Name The Artist: Still They Ride*journey
+Name The Artist: Stomp!*brothers johnson
+Name The Artist: Stone Cold*rainbow
+Name The Artist: Stone Love*kool & the gang
+Name The Artist: Stop Draggin' My Heart Around*tom petty & the heartbreakers
+Name The Artist: Stop Draggin' Your Heart Around*stevie nicks
+Name The Artist: Stop In The Name Of Love*hollies
+Name The Artist: Stop To Love*luther vandross
+Name The Artist: Straight From The Heart*allman brothers band
+Name The Artist: Straight From The Heart*bryan adams
+Name The Artist: Straight Up*paula abdul
+Name The Artist: Strange But True*times two
+Name The Artist: Stranger In My House*ronnie milsap
+Name The Artist: Stranger In Town*toto
+Name The Artist: Stray Cat Strut*stray cats
+Name The Artist: Stronger Than Before*carole bayer sager
+Name The Artist: Strung Out*steve perry
+Name The Artist: Strut*sheena easton
+Name The Artist: Stuck On You*lionel richie
+Name The Artist: Stuck With You*huey lewis & the news
+Name The Artist: Suddenly Last Summer*motels
+Name The Artist: Suddenly*billy ocean
+Name The Artist: Suddenly*cliff richard/olivia newton john
+Name The Artist: Suddenly*olivia newton john & cliff richard
+Name The Artist: Sugar Daddy*thompson twins
+Name The Artist: Sugar Don't Bite*sam harris
+Name The Artist: Sugar Free*wa wa nee
+Name The Artist: Sugar Walls*sheena easton
+Name The Artist: Sukiyaki*a taste of honey
+Name The Artist: Summer Of '69*bryan adams
+Name The Artist: Sun City*artist united against apartheid
+Name The Artist: Magic*cars
+Name The Artist: Magic*olivia newton john
+Name The Artist: Magnum P.I. (Theme)*mike post
+Name The Artist: Major Tom*peter schilling
+Name The Artist: Make A Little Magic*dirt band
+Name The Artist: Make A Move On Me*olivia newton john
+Name The Artist: Make Believe*toto
+Name The Artist: Make It Real*jets
+Name The Artist: Make Love Stay*dan fogelberg
+Name The Artist: Make Me Lose Control*eric carmen
+Name The Artist: Making Love In The Rain*herb alpert
+Name The Artist: Making Love Out Of Nothing At All*air supply
+Name The Artist: Making Love*roberta flack
+Name The Artist: Mama Used To Say*junior
+Name The Artist: Man In The Mirror*michael jackson
+Name The Artist: Man On The Corner*genesis
+Name The Artist: Man On Your Mind*little river band
+Name The Artist: Man Size Love*klymaxx
+Name The Artist: Mandolin Rain*bruce hornsby & the range
+Name The Artist: Maneater*daryl hall & john oates
+Name The Artist: Maniac*michael sembello
+Name The Artist: Manic Monday*bangles
+Name The Artist: Mary's Prayer*danny wilson
+Name The Artist: Master Blaster*stevie wonder
+Name The Artist: Material Girl*madonna
+Name The Artist: Me (Without You)*andy gibb
+Name The Artist: Me Myself And I*de la soul
+Name The Artist: Me So Horny*2 live crew
+Name The Artist: Meet Me Half Way*kenny loggins
+Name The Artist: Memory*barry manilow
+Name The Artist: Mercedes Boy*pebbles
+Name The Artist: Method Of Modern Love*daryl hall & john oates
+Name The Artist: Miami Vice Theme*jan hammer
+Name The Artist: Mickey*toni basil
+Name The Artist: Middle Of The Road*pretenders
+Name The Artist: Midnight Blue*lou gramm
+Name The Artist: Midnight Rocks*al stewart
+Name The Artist: Millionaire*abc
+Name The Artist: Miracles*stacy lattisaw
+Name The Artist: Mirror Man*human league
+Name The Artist: Mirror, Mirror*diana ross
+Name The Artist: Misled*kool & the gang
+Name The Artist: Miss Me Blind*culture club
+Name The Artist: Miss Sun*boz scaggs
+Name The Artist: Miss You Like Crazy*natalie cole
+Name The Artist: Miss You Much*janet jackson
+Name The Artist: Missed Opportunity*daryl hall & john oates
+Name The Artist: Missing You*dan fogelberg
+Name The Artist: Missing You*diana ross
+Name The Artist: Missing You*john waite
+Name The Artist: Missionary Man*eurythmics & aretha franklin
+Name The Artist: Mistake #3*culture club
+Name The Artist: Mister Sandman*emmylou harris
+Name The Artist: Misunderstanding*genesis
+Name The Artist: Mixed Emotions*rolling stones
+Name The Artist: Modern Day Delilah*van stephenson
+Name The Artist: Modern Girl*sheena easton
+Name The Artist: Modern Love*david bowie
+Name The Artist: Modern Woman*billy joel
+Name The Artist: Money Changes Everything*cyndi lauper
+Name The Artist: Money For Nothing*dire straits
+Name The Artist: Money$ Too Tight (To Mention)*simply red
+Name The Artist: Monkey*george michael
+Name The Artist: Mony Mony "Live"*billy idol
+Name The Artist: Moonlighting*al jarreau
+Name The Artist: More Love*kim carnes
+Name The Artist: More Than I Can Say*leo sayer
+Name The Artist: More Than Just The Two Of Us*sneaker
+Name The Artist: More Than You Know*martika
+Name The Artist: Mornin'*al jarreau
+Name The Artist: Morning Train (Nine To Five)*sheena easton
+Name The Artist: Mothers Talk*tears for fears
+Name The Artist: Motortown*the kane gang
+Name The Artist: Mountains*prince & the revolution
+Name The Artist: Move Away*culture club
+Name The Artist: Mr. Roboto*styx
+Name The Artist: Mr. Telephone Man*new edition
+Name The Artist: (I'm Not Your) Steppin' Stone*the monkees
+Name The Artist: I'm Wondering*stevie wonder
+Name The Artist: I've Been Lonely Too Long*the young rascals
+Name The Artist: In and Out of Love*diana ross & the supremes
+Name The Artist: In the Chapel in the Moonlight*dean martin
+Name The Artist: In the Heat of the Night*ray charles
+Name The Artist: Incense and Peppermints*strawberry alarm clock
+Name The Artist: Indescribably Blue*elvis presley
+Name The Artist: It Must Be Him*vikki carr
+Name The Artist: It Takes Two*marvin gaye & kim weston
+Name The Artist: It's Wonderful*the young rascals
+Name The Artist: Itchycoo Park*small faces
+Name The Artist: Jackson*nancy sinatra & lee hazlewood
+Name The Artist: Jimmy Mack*martha & the vandellas
+Name The Artist: Just as Much as Ever*bobby vinton
+Name The Artist: I Love How You Love Me*bobby vinton
+Name The Artist: I Love You*people
+Name The Artist: I Met Her in Church*the box tops
+Name The Artist: I Say a Little Prayer*aretha franklin
+Name The Artist: I Thank You*sam & dave
+Name The Artist: I Wanna Live*glen campbell
+Name The Artist: I Will Always Think About You*the new colony six
+Name The Artist: I Wish It Would Rain*the temptations
+Name The Artist: I Wonder What She's Doing Tonight*tommy boyce & bobby hart
+Name The Artist: I'm a Midnight Mover*wilson pickett
+Name The Artist: I'm Gonna Make You Love Me*madeline bell
+Name The Artist: I'm Gonna Make You Love Me*the supremes & the temptations
+Name The Artist: I've Gotta Get A Message To You*bee gees
+Name The Artist: I've Never Found a Girl (to Love Me Like You Do)*eddie floyd
+Name The Artist: If I Can Dream*elvis presley
+Name The Artist: If I Could Build My Whole World Around You*marvin gaye & tammi terrell
+Name The Artist: If I Were a Carpenter*four tops

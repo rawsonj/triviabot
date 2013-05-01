@@ -1,0 +1,816 @@
+KAOS: Books of the Bible*Genesis*Matthew*Mark*Luke*John*Job*Revelations*Deuteronomy*Corinthians*Isaiah
+KAOS: Types Of Balls (include Ball)*Tennis Ball*Football*Softball*Lacrosse Ball*Soccer Ball*Baseball*Basketball*Volleyball*Ping Pong Ball*Cue Ball
+KAOS: Internal Organs*Stomach*Intestines*Colon*Bowel*Appendix*Kidney*Heart*Liver*Lungs*Bladder
+KAOS: Men's Cologne*Stetson*Brut*Eternity*Joop*CK*Canoe*Polo*Obsession*Drakkar Noir*English Leather
+KAOS: Women's Perfume*Ici*Incognito*White Diamonds*Windsong*Chanel No. 5*Gloria Vanderbilt*Obsession*Poison*Chantilly*White Shoulders
+KAOS: Magazine Titles*Time*Life*Woman's Day*People*Cosmopolitan*GQ*NewsWeek*McLain's*Glamour*Vanity Fair
+KAOS: Adult Magazines*Playboy*Penthouse*Hustler*Forum*Playgirl*Cheri*Easy Rider*Kink*Swank*Paradise
+KAOS: Famous Blondes, natural or otherwise*Courtney Love*Hiya Cheryl*Marlon Brando*Eva Peron*Brad Pitt*Pamela Anderson*Marilyn Monroe*Jan Brady*Robert Redford*Jayne Mansfield
+KAOS: Fashion Accessories*Earrings*watch*necklace*Purse*Tie clip*cuff links*Hat*Hankerchief*Scarf*Bracelet
+KAOS: X-Men, (past and present)*Wolverine*Cyclops*Storm*Iceman*Beast*Morph*Jean Grey*Phoenix*Dazzler*Rogue
+KAOS: Wind Instruments*Piccolo*Trombone*Oboe*French Horn*Bassoon*Flute*Trumpet*Saxophone*Clarinet*Cornet
+KAOS: Things, people, places associated with tennis*tennis racquet*billie jean king*net*ball boy*wimbledon*bjorn borg*clay court*prince*andre aggasi*deuce
+KAOS: Characters, Actors, (FULL NAME) and Places from All My Children*Susan Lucci*Skye Chandler*Tad Martin*Tempo*Dimitri Marick*Kim Delaney*Angie Hubbard*Liza Chandler*The Goalpoast*Trevor Dillon
+KAOS: Celebs with Alternative Lifestyles (full name)*Rock Hudson*Jimmy Dean*Talullah Bankhead*Ellen Degeneres*Rosie O'Donnell*Noel Coward*Anne Heche*Elton John*kd lang*Chastity Bono
+KAOS: Bad habits -- For Shame!*Smoking*Drinking*Drug Abuse*Nose Picking*nail biting*driving too fast*oversleeping*overeating*overspending*slouching
+KAOS: Mexican (and tex-mex) Dishes -- yummy!*Tacos*Carne Asada*Enchiladas*Chiles Rellano*Menudo*Elotes*sopas*churros*nachos*quesadillas
+KAOS: Chicago -- people, places, things*Al Capone*Oprah Winfrey*Michael Jordan*Chicago Sun Times*Mayor Daley*John Belushi*Pizza*Lake Shore Drive*Magnificent Mile*Lake Michigan
+KAOS: Chicago, people, places & things*Oprah Winfrey*Navy Pier*Chicago Tribune*Smashing Pumpkins*Rush Street*White Sox*BlackHawks*Sears Tower*Jesse Jackson*Blues
+KAOS: Vancouver, BC -- people, places, things*Nanaimo Bars*Peeler bars*Granville Street*Seabus*West Van*North Van*Doll and Penny's*The X-files*William Shatner*Pamela Anderson
+KAOS: Killers -- serial and otherwise -- full names*Charles Manson*Ted Bundy*John Wayne Gacy*Jeffrey Dahmer*Richard Speck*John Hinckley*Sirhan Sirhan*John Wilkes Booth*Jack the Ripper*Andrew Cunanan
+KAOS: What's in Christina's purse*Wallet*hairbrush*driver's license*change*tampons*condom*cigarettes*cellular phone*money*receipts
+KAOS: Stuff you put in, on or serve with chili*cayenne pepper*oregano*ground beef*cumin*pinto beans*kidney beans*onions*green peppers*tomatoes*cilantro
+KAOS: Ian Fleming Books (author of James Bond series)*Thunderball*On Her Majesty's Secret Service*Goldfinger*Dr. No*Chitty-Chitty-bang-bang*Live and Let Die*From Russia With Love*You Only Live Twice*The Spy Who Loved Me*The Man With The Golden Gun
+KAOS: Places with an "X" - cities, countries, etc.*Texas*Mexico*Oaxaca*Planet X*Biloxi*Lexington*Oxford*Sussex*Essex*New Lennox
+KAOS: Stupid Dog Tricks*Sit*Shake*Roll over*Lay Down*Stay*Beg*Speak*Fetch*attack*come*dance
+KAOS: Hair Styling Stuff*Gel*Mousse*Blow Dryer*Curling Iron*Brush*Comb*Crimper*Hot Rollers*hair Spray*Conditioner
+KAOS: Watches - Brand names*Longines*Bulova*Rolex*Patek-Phillipe*Baume and Mercier*Swatch*Timex*Casio*Tag*Fossil
+KAOS: Underwear Brands, mens/womens*Joe Boxer*Victoria's Secret*Bali*Hanes*Calvin Klein*Fruit of the Loom*Frederick's of Hollywood*Halston*Liz Claiborne*Christian Dior
+KAOS: Divas -- music goddesses past & present*Barbra Streisand*Liza Minelli*Elton John*Maria Callas*Beverly Sills*Bette Midler*Whitney Houston*Tina Turner*Celine Dion*Judy Garland
+KAOS: Famous Pick-up lines*What sign are you?*Don't I know you from somewhere?*Wow, you sure are tall.*Can I buy you a drink?*Is this seat taken?*Come here often?*Are you here alone?*Hey baby!*Wanna dance?*You look just like my ex-wife!*Can I see some ID?
+KAOS: Household paper products (include paper)*toilet paper*paper towels*paper napkins*paper plates*newspaper*wrapping paper*shelf paper*paper bags*wallpaper*waxed paper*tissue paper
+KAOS: Broadway Musicals*Miss Saigon*Oklahoma*Sound of Music*Les Miserables*Phantom of the Opera*West Side Story*Oh Calcutta*Hair*Camelot*Cats
+KAOS: Broadway Musicals*Pippin*Brigadoon*Chess*Starlight Express*42nd Street*Peter Pan*Hello Dolly*Carousel*Oliver*Grease
+KAOS: Kitchen utensils used for stirring*Fork*Spoon*Blender*Wooden Spoon*Spatula*Whisk*Stir Stick*Electric Beaters*Broom Handle*Soup Ladle
+KAOS: What you'd find on or in a computer desk*Computer*Floppy diskettes*Cables*Magazines*Paper*Pencils*Pens*Cigarettes*Zip Disks*Calendar
+KAOS: What you'd find on or in a computer desk*Ashtray*Empty Can*Coffee Mug*Map*Dictionary*Aspirin*Air Filter*Powerbar*Scissors*Bic Lighter
+KAOS: Livingroom furniture*Sofa*End Table*Coffee Table*Lamp*Television*Bookcase*Easy Chair*Entertainment Center*Futon*Magazine Rack
+KAOS: Canadian and American Brands of Cigarettes*Rothmans*Benson and Hedges*Camel*DuMaurier*Players*Salem*Kool*Winston*Old Gold
+KAOS: Television shows/series or movies filmed in BC*X-files*Highlander*Jump Street*Macgyver*Outer Limits*Roxeanne*Millenium*Poltergeist*Canadian Bacon*Due South*Stakeout
+KAOS: Comfort food when we are feeling the blues*Chocolate*Chicken Noodle Soup*Jello*Pudding*Peanut Butter Sandwich*Tea*Ice Cream*Pickles*Potato Chips*French Fries With Gravy
+KAOS: Action verbs or acronyms that we use in IRCs*Hugs*Kick*Kiss*Bite Me*ROTFL*Sigh*Scream*LYB*CYA*Perk
+KAOS: Words starting with the letter "p" and ending with "e"*People*Porthole*Pate*Pace*Parse*Pale*Paste*Pole*Pane*Pare
+KAOS: One-term (or less) presidents (last name only)*Harrison*Ford*Carter*Bush*Adams*Van Buren*Polk*Hayes*Hoover*Taft
+KAOS: Words starting with the letter "p" and ending with "e"*Parse*Pale*Paste*Pole*Pane*Pare*Pore*Pose*Posse*Pine
+KAOS: Sports that do not use a ball or vehicle (keep it clean!)*Badminton*Horseshoes*Hockey*Ice Skating*Water Skiing*Downhill Skiing*Biathalon*Running*Speed Skating*Gymnastics
+KAOS: Things/people associated with Canada*Hockey*Maple Leaf*Moose*Toque*French*Salmon Wars*Nanaimo Bars*Provinces*Alanis Morissette*John Candy*Over the counter codiene
+KAOS: Favourite Pizza toppings*Mozzarella Cheese*Tomato Sauce*Bacon*Pineapple*Pepperoni*Salami*Green Pepper*Shrimp*Mushrooms*Olives
+KAOS: Oxymorons*Yard Sale*True Gossip*Black Light*Dress Pants*Casual Intimacy*Plastic Glasses*Dry Wine*Fresh Frozen*Evaporated Milk*Small Fortune
+KAOS: Things found in a desert*Sand*Camels*Cactus*Oasis*Sun*Nomads*Snakes*Scorpions*Abandoned Cars*Skeletons
+KAOS: Breakfast items/entrees*Scrambled Eggs*Bacon*Toast*Jam*Marmalade*Quiche*Sausage*Ham*Bagels*Cream Cheese
+KAOS: Breakfast Items*Lox*Oatmeal*Cereal*Milk*Orange Juice*French Toast*Croissant*Butter*Coffee*Poached Eggs
+KAOS: Professions, Occupations starting with the letter "T"*Teacher*Tax Auditor*Train Conductor*Tennis Player*Telephone Operator*Telephone Repairman*Television Repairman*Talking Book Author*Tree Doctor*Tooth Fairy
+KAOS: Things associated with the first day of school*New Shoes*New Teacher*Notebook*3-Ring Binder*Colored Pencils*Crayolas*Apple*Pen*Eraser*Haircut
+KAOS: Things associated with the First day of School*Haircut*Lunchbox*Gym Bag*Gym Shorts*Name Tags*New Friends*Compass*Roll Call*Terror*School Bus
+KAOS: Things, places associated with dating*Money*Condoms*Movies*Restaurants*Nerves*New Clothes*Theater*Coffee*Phone Numbers*Being Stood Up
+KAOS: Things, places associated with dating*Exchanging Email Addresses*Concert*Back Seat*Curfew*Bar*Coffee House*Kisses*Bad hair day*Watching the Sunset*Counting Stars
+KAOS: Different kinds of pies (omit "pie")*Apple*Rhubarb*Chicken*Steak and Kidney*Coconut Cream*Chocolate*Key Lime*Cherry*Shepherds*Lemon Meringue
+KAOS: Different kinds of pies (omit pie)*French Silk*Boston Cream*Shoofly*Pecan*Blueberry*Blackberry*Pizza*Peach*Deep Dish*Dutch Apple
+KAOS: Types of Currency*Dollar*Penny*Loonie*Ruble*Yen*Shilling*Pound*Franc*Lire*Quarter
+KAOS: Types of Currency*Dollar*Penny*Loonie*Ruble*Yen*Shilling*Pound*Franc*Lire*Quarter
+KAOS: Types of Currency*Mark*Drachma*pesata*zloty*dinero*dime*nickel*pfennig*rupee*doubloon
+KAOS: Countries, Cities, Places with a "Z" real or fictional*Zaire*Zimbabwe*Zuider Zee*zoo*oz*new zealand*Gaza*La Paz*swaziland*switzerland
+KAOS: Top Ten Tools in Christina's toolbox (handy things)*Duct Tape*Allen wrench*tweezers*solder sucker*needle nose pliers*adjustable wrench*vise grip*micro screwdriver*phillips screwdriver*cordless screwdriver
+KAOS: Top ten things Women look for in a Man*Money*Butt*Brains*Car*House*Job*Hair*Sense of Humor*Computer*Shoe Size
+KAOS: Shoes! Fashionable Women's shoe types*Stiletto Heels*Spike heels*platforms*wedgies*thongs*joggers*earth shoes*pumps*mary janes*loafers
+KAOS: Coffee -- Coffee drinks & types (omit coffee)*Americano*Espresso*macchiato*latte*capuccino*turkish*drip*french press*instant*mocha
+KAOS: Tea! Tea types - omit "tea"*Mint*Earl Grey*Jasmine*Formosa*Oolong*Darjeeling*Rose Hip*Chamomile*Yerba Mate*Instant
+KAOS: Gossip periodicals, tabloids or magazines*National Enquirer*The Globe*The Star*Weekly World News*Vanity Fair*People*Us*Soap Opera Digest*Rolling Stone*Entertainment Weekly
+KAOS: Horsie Colors -- colors of horses, of course! 10*Palomino*Roan*Chestnut*Bay*piebald*silver*black*dappled*white*skewbald
+KAOS: Musical Instruments*Organ*Clarinet*Piccolo*Banjo*Cymbals*Cello*Oboe*Harmonica*Tambourine*Xylophone
+KAOS: Mexican (and Tex-Mex) dishes - yummy! - 10*carne asada*flautas*flan*frijoles refrito*Burrito*tamales*chili con carne*tostada*churro*escabeche*gazpacho*chimichanga
+KAOS: Chicago, people, places and things*Chicago Fire*Mrs. O'Leary's Cow*Cabrini Green*WaterTower Place*United Center*Bulls*Bears*Cubs*Kingston Mines*Second City
+KAOS: Chicago, people, places and things*Gary Sinise*John Malkovich*Scottie Pippin*Phil Jackson*Oprah Winfrey*Chicago River*Art Institute*Field Museum*University of Chicago*Chicago Symphony Orchestra
+KAOS: Vancouver, people, places and things*Bryan Adams*salmon*Hiya Cheryl*Lion's Gate Bridge*Stanley Park*English Bay*Tea House*Metro theater*Kim Campbell*Joe Average
+KAOS: What's in Christina's purse*lint*gum wrappers*lipstick*blush*perfume*sunglasses*keys*floppy disks*pepper spray*airline tickets
+KAOS: Stuff you put in, on or serve with chili*cheese*rice*black olives*chorizo*black pepper*lettuce*round steak*tomato sauce*salsa*chili powder
+KAOS: Hair styling stuff*hair pins*rubber bands*head band*hat*spray-on hair*hot rollers*hot comb*clipper*crew cut wax*barrettes
+KAOS: Famous Lies*I am not a crook*the check is in the mail*it's on the truck*of course I love you*I'll pull out*I don't know what you're talking about*we're just friends*no one will notice*you look great*I love bald men
+KAOS: Baldies real and fictional (shaved, balding or bald) full names*Sinead O'Connor*Michael Jordan*Charles Barkley*Ted Danson*Sean Connery*Yul Brynner*Curly*Jean-Luc Picard*Mr. Clean*President Eisenhower
+KAOS: Famous Women we love to hate (full names if appropriate)*Courtney Love*Leona Helmsley*Madonna*Erica Kane*Hilary Clinton*Tammy Faye Bakker*Joan Crawford*Jackie Collins*Melanie Griffith*Tori Spelling
+KAOS: Famous Men we love to hate (full names if appropriate)*Dennis Rodman*Mike Tyson*Marv Albert*Bill Clinton*Newt Gingrich*Ted Kennedy*Beavis*Butthead*Prince Charles*Sean Penn
+KAOS: Things to do on a lazy Sunday*Watch football*Read Paper*Eat brunch*sleep*Watch TV*nothing*go for a drive*write email*watch old movies*make love
+KAOS: Movies with dogs in major roles*Cujo*Old Yeller*101 Dalmations*Lady and the Tramp*Beethoven*Benji*Lassie Come Home*The Thin Man*Annie*The Wizard of Oz
+KAOS: Starts with Z*zed*zipper*zither*zaftig*zaire*zoo*zesty*zap*zen*zone
+KAOS: Things People Do During a Heatwave (10)*Jump in the pool*Sweat*Take off clothing*Use air conditioner*Sit in front of fan*Eat ice cream*Take a cold shower*Stand in front of the freezer*Stay indoors*Go to the beach
+KAOS: Cities in FL with "Beach" in their name (include Beach) 10*West Palm Beach*Miami Beach*Pompano Beach*Deerfield Beach*Cocoa Beach*Boynton Beach*Delray Beach*Fort Walton Beach*Daytona Beach*Vero Beach
+KAOS: Movies Brad Pitt has appeared in (10)*Legends of the Fall*Interview with the Vampire*The Devil's Own*Seven*Sleepers*Cool World*Kalifornia*True Romance*A River Runs Through It*Johnny Suede
+KAOS: NFL teams (names not cities)*Bengals*Jets*Jaguars*Patriots*Colts*Bears*Packers*Browns*Saints*Vikings
+KAOS: Country Singers (full name)*Crystal Gale*Rick Trevino*Johnny Cash*Trisha Yearwood*Roseanne Cash*June Carter*Minnie Pearl*Patsy Cline*Tammy Wynette*Dolly Parton
+KAOS: Detectives (full names)*sherlock holmes*sam spade*dick tracy*remington steele*columbo*hercule poirot*travis mcgee*nancy drew*jim rockford*fox mulder
+KAOS: famous Dwarves*ross perot*billy barty*sleepy*herve villechaise*michael j. fox*dopey*doc*bashful*grumpy*happy
+KAOS: Words with "ox", (i.e. oxygen, lox),10*oxymoron*proxy*epoxy*fox*toxic*pox*xerox*oxen*biloxi*box
+KAOS: Words with "ox", (i.e. oxygen, lox),10*oxygen*lox*nontoxic*noxious*obnoxious*ox*vox*oxygenate*boxing*moxie
+KAOS: Words that start and end with "d" (ie dead),10*denied*dread*dad*drifted*drained*destroyed*drafted*did*dud*dunked
+KAOS: Famous Blondes -- real or fake, full name or nick*Mae West*Goldie Hawn*Christina G*Princess Diana*Harpo Marx*Sharon Stone*Tammy Faye Bakker*Charo*Hilary Clinton*Gerald Ford
+KAOS: Places with an "X" - cities, countries, etc.*Taxco*New Mexico*Xanadu*Exeter*Dixon*Wexford*Mexico*Saxony*Apomattox*Paxton
+KAOS: Marlon Brando Movies*Mutiny on the Bounty*Last Tango in Paris*A Streetcar Named Desire*Guys and Dolls*Julius Caesar*On the Waterfront*Apocalypse Now*One-Eyed Jacks*The Wild One*Reflections in a Golden Eye
+KAOS: Mixed Drinks/Cocktails*Martini*Manhattan*Rob Roy*Margarita*Screwdriver*Pina Colada*Mimosa*Fuzzy Navel*Sloe Screw*Cuba Libre
+KAOS: Mixed Drinks/Cocktails*Whiskey Sour*Manhattan*Daiquiri*Tequila Sunrise*Sea Breeze*Pina Colada*Bloody Mary*Fuzzy Navel*Gin and Tonic*Mai Tai
+KAOS: Types of dancers (leave out "dancer")*go go*can can*tap*ballet*break*fan*table*tango*salsa*hip hop
+KAOS: Kitchen Appliances*microwave*blender*food processor*toaster*coffee maker*juicer*bread machine*waffle iron*freezer*espresso machine
+KAOS: Male Sex Symbols, old & new*Brad Pitt*James Coburn*Sean Connery*Cary Grant*Mel Gibson*Marlon Brando*James Dean*Antonio Banderas*Don Johnson*Humphrey Bogart
+KAOS: Male Sex Symbols, old & new*Brad Pitt*Despayre*Dennis Quaid*Paul Newman*Kevin Costner*Harrison Ford*Frank Sinatra*Yul Brynner*Sean Penn*Johhny Depp
+KAOS: ComicBook SuperVillians*Apocalypse*The Joker*Cat Woman*The Penguin*Lex Luthor*Brainiac*Mr. Freeze*Poison Ivy*The Riddler
+KAOS: Emoticons and Acronyms online*WTB*AFK*IMHO*OTOH*GMTA*RTFM*:x*;)*<g,r,d>*ROTFL
+KAOS: Monopoly (tm) Properties*Marvin Gardens*Ventnor*North Carolina*Boardwalk*Park Place*Jail*Free Parking*Short Line*Reading*St. James
+KAOS: PMS symptoms*sleepy*crying*nagging*eating*munchies*edgy*cramps*backache*depression*cravings
+KAOS: Computer manufacturers*Epson*Sparc*Digital*NEC*Sun*Samsung*Dell*Umax*Motorola*Tandem
+KAOS: U.S. Presidents*Eisenhower*Johnson*Polk*Fillmore*Arthur*Ford*Johnson*Kennedy*Reagan*Bush
+KAOS: Board games, old & new*Mouse Trap*Trivial Pursuit*Password*Mystery Date*Risk*Parcheesi*Go*Checkers*Operation*Scrabble
+KAOS: Books of the Bible*Peter*Paul*Exodus*Leviticus*Numbers*Psalms*Ecclesiastes*Judges*Ezekial*Galatians
+KAOS: Books of the Bible*Acts*Romans*Matthew*Mark*Luke*Job*Psalms*John*Genesis*Numbers
+KAOS: Women's perfume*Joy*Gio*Halston*Giorgio*Fendi*Gianfranco Ferre*Shalimar*Poison*Liz Claiborne*Halston
+KAOS: Magazine Titles*Rolling Stone*George*People*Self*Details*Muscle and Fitness*Hustler*Vogue*Elle*Playboy
+KAOS: X-Men (past & present)*Iceman*Beast*Morph*Jean Grey*Phoenix*Dazzler*Rogue*Gambit*Angel*Colossus
+KAOS: Bad Habits -- for Shame!! 10*nagging*masturbating*smoking*spitting*chewing with mouth open*talking while chewing*gum snapping*nail biting*interrupting*gossipping
+KAOS: Action verbs or acronyms we use in the IRC*Niters*Bye*laters*grin*kick*bbl*wtf*slaps*LMAO*LOL
+KAOS: Favorite Pizza Toppings*Cheddar Cheese*Feta Cheese*Ground Beef*Onions*Garlic*Chicken*Spinach*Mozzarella*Pepperoni*Bacon
+KAOS: Oxymorons*Moral Majority*Small Fortune*Same Difference*Dry Beer*Jumbo Shrimp*Civil Servant*Customer Service*Extra Large Mini Skirt*Peacekeeping Troops*Friendly Fire
+KAOS: Rolling Stone's Songs*Angie*Heart of Stone*Time is on my side*Mother's Little Helper*Sympathy for the Devil*Dance Little Sister*Hot Stuff*Brown Sugar*You Can't Always get What You Want*Start Me Up
+KAOS: Sports with balls*Football*Basketball*Croquet*Baseball*Rugby*Tennis*Cricket*water polo*Field hockey*whiffle ball
+KAOS: Western United States*Montana*Utah*North Dakota*Hawaii*Oregon*Washington*California*Texas*Arizona*Oklahoma
+KAOS: Musicals old & new*Carousel*Singin' in the Rain*Chicago*Guys and Dolls*West Side Story*A Chorus Line*Pippen*South Pacific*Annie Get Your Gun*Funny Girl
+KAOS: Musicals old & new*Funny Lady*Fiddler on the Roof*The King and I*My Fair Lady*Phantom of the Opera*The Wiz*Godspell*Joseph and the Amazing Technicolor Dreamcoat*Mary Poppins*Grease
+KAOS: Bodies Of Water*Lake Michigan*Lake Huron*Lake Superior*Lake Erie*Lake Ontario*Red Sea*Dead Sea*Great Salt Lake*Gulf of Mexico*Caribbean Sea
+KAOS: Bodies Of Water*Lake Michigan*Lake Huron*Lake Superior*Lake Erie*Lake Ontario*Red Sea*Dead Sea*Great Salt Lake*Gulf of Mexico*Caribbean Sea
+KAOS: US, Canada and Other Holidays*New Year's Day*Memorial Day*Boxing Day*Victoria Day*Yom Kippur*Hannukah*Kwanzaa*President's Day*Halloween*Fourth Of July
+KAOS: NBA Teams (ie, Bulls)*Lakers*Pistons*Nets*Spurs*Hornets*Suns*Knicks*Rockets*Magic*Jazz
+KAOS: NHL teams (just the name, not the city)*Redwings*Canadiens*Flames*Rockies*Bruins*Oilers*Canucks*Panthers*Lightning*Islanders
+KAOS: Beers Around the World (brand names)*Tecate*Samuel Adams*Molson*Budweiser*Michelob*Heineken*Watney's*Grolsch*St. Pauli Girl*Old Milwaukee
+KAOS: Beers Around the World (brand names)*Leinenkugel*Olympia*Guiness*Fosters*Pike Place*Red Hook*Black Dog*Amstel*Bass*Hamms
+KAOS: Words That Start With "Z"*Zither*Zorro*Zaftig*Zany*Zed*Zoo*Zaire*Zephyr*Zit*Zap
+KAOS: Colours*Chartreuse*Rose*Maroon*Orange*Beige*Turquoise*Peach*Russet*White*Blue
+KAOS: Sesame Street Characters*Big Bird*Bert*Ernie*Oscar*Cookie Monster*Miss Piggy*Cookie Monster*Kermit*The Count*Grover
+KAOS: Saturday Night Live Stars*Eddie Murphy*Jane Curtin*Chevy Chase*Adam Sandler*John Belushi*Gilda Radner*Jan Hooks*Rob Schneider*Dan Aykroyd*Jon Lovitz
+KAOS: Things you find in a Bathroom*Toilet Paper*Hair Dryer*Curling Iron*Dirty Clothes*Sink*Soap*Shampoo*Conditioner*Bathtub*Tampons
+KAOS: Things you find in a Bathroom*Band-aids*Q-tips*Aftershave*Window*Tile*Soap*Shampoo*Conditioner*Bathtub*Tampons
+KAOS: Kid's Songs*London Bridges*I love You*The Wheels on the Bus*Frere Jacques*Pop Goes The Weasel*Five Little Monkies*Twinkle, Twinkle, Little Star*Hokey-Pokey*This Old Man*Mary Had a Little Lamb
+KAOS: Breakfast Cereals,10*Corn Pops*Fruity Pebbles*Cinnamon Toast Crunch*Shedded Wheat*Mueslix*Special K*Total*Apple Jacks*Frosted Flakes*Booberry
+KAOS: Breakfast Cereals,10*Alphabits*Cookie Crisp*Oatmeal*Cream Of Wheat*Golden Grahams*Special K*Total*Apple Jacks*Frosted Flakes*Life
+KAOS: Things you Can Order From McDonalds*Sundae*Apple Pie*Pizza*Salad*McNuggets*Hash Browns*Orange Juice*Egg McMuffin*Coffee*Tea
+KAOS: Things you Can Order From McDonalds*Quarterpounder*Big Mac*Pizza*Salad*McNuggets*Milkshake*Cookies*Ice Cream Cone*McLean Deluxe*Happy Meal
+KAOS: NBA Stars (Past or Present)*Clyde Drexler*Dikembe Mutombo*Gary Payton*Grant Hill*Chris Webber*Magic Johnson*Larry Bird*Kareem Abdul-Jabbar*Julius Irving*Bryant Reeves
+KAOS: Tennis Players (past and present, last name only)*Graf*Seles*Vicario*Ashe*Novotna*Ivanisevic*Sabatini*Agassi*King*Riggs*Baseball Teams (name, no city)*Cubs*Orioles*Dodgers*Padres*Rangers*Mets*Red Sox*Athletics*Brewers*Expos
+KAOS: Harrison Ford Movies*Mosquito Coast*Sabrina*Working Girl*Regarding Henry*Presumed Innocent*Frantic*Crusade*Witness*American Graffiti*Blade Runner
+KAOS: Arnold Schwarzenegger Movies*Terminator*Red Sonja*Pumping Iron*Kindergarten Cop*Twins*Running Man*Predator*Total Recall*Last Action Hero*Junior
+KAOS: Things you find in a Kitchen*Spoons*Bowls*Glasses*Cups*Blender*Can opener*Spatula*Sink*Garbage Can*Dishwasher
+KAOS: Things you find in a Kitchen*Cupboards*Toaster*Mixer*Blender*Knife Rack*Crock Pot*Rice Cooker*Broiler*Fan*Juicer
+KAOS: Famous Duo's (fictional or real)*Holmes and Watson*Lewis and Martin*Clinton and Gore*Lucy and Ethel*Wondertwins*Laverne and Shirley*Pamela Anderson*Abbott and Costello*Despayre and stasia*Burns and Allen
+KAOS: Vegetables*Eggplant*Kale*Romaine lettuce*Celery*Rutabaga*Turnip*Green Peas*Snow Peas*Radicchio*Okra
+KAOS: Articles Of Clothing*Coat*Vest*Teddy*Corset*Sweater*Blazer*Bow tie*Nylons*Garter belt*Thong
+KAOS: Articles Of Clothing*G-string*Bikini*Briefs*Shorts*Skirt*Dress*Suit*Turtleneck*Pantyhose*Mittens
+KAOS: Common numbers (ie11)*411*86*69*800*900*5-0*911*666*360*10
+KAOS: Men's Cologne*Old Spice*Paco Rabanne*Obsession*Black Tie*English Leather*CK 1*Polo*Nautica*Canoe*Safari*
+Kaos: Canadian Provinces*Newfoundland and Labrador*New Brunswick*Nova Scotia*Prince Edward Island*Quebec*Ontario*Manitoba*Alberta*Saskatchewan*British Columbia
+Kaos: Canadian Capitals*St. John's*St. John*Halifax*Charlettown*Quebec City*Ottawa*Edmonton*Saskatoon*Victoria*Winnipeg
+Kaos: Santa Claus' Reindeer*donner*cupid*comet*blitzen*dasher*prancer*dancer*Vixen*rudolph
+Kaos: Kids Favourite Pokemon*Pikachu*Charmander*Charizard*Squirtle*Mew*MewTwo*Blastoise*Jigglypuff*Chansey*Butterfree
+Kaos: Seven Wonders(Ancient)*The Great Pyramid Of Giza*The Hanging Gardens of babylon*The Statue of Zeus At Olympia*The Temple of Artemis at Ephesus*The Mausoleum of Halicarnassus*The Colossus of Rhodes*The Lighthouse of Alexandria
+Kaos: Angelina Jolie Movies*Gia*Girl Interrupted*Bone Collector*Hackers*Tomb Raider*Girl Fight*Pushing Tin*Gone in 60 Seconds*Cyborg 2*Playing God
+Kaos: Charlize Theron Movies*Reindeer Games*Mighty Joe Young*The Astronaut's Wife*Men Of Honor*The Yards*Trial and Error*Hollywood Confidential*Sweet November*15 Minutes*2 Days in the Valley
+Kaos: Ashley Judd Movies*Kuffs*Natural Born Killers*Smoke*A time to kill*Kiss the Girls*Eye of the Beholder*Double Jeopardy*Where the Heart is*Someone like you*Normal Life
+Kaos: Jaime Pressly Movies*Poisony Ivy 3*Against the Law*Ringmaster*Can't hardly wait*Trash*Coyote moon*100 girls*Poor white trash*Not another teen movie*Joe dirt*Tomcats
+Kaos: Mira Sorvino Movies*quiz Show*Amongst Friends*Mighty Aphrodite*Tarantella*Beautiful Girls*Sweet Nothing*Mimic*Romy and Michelle*Replacement Killers*Summer of Sam
+Kaos: Friends Characters*Phoebe*Chandler*Monica*Joey*Ross*Racheal*Ursula*Gunther*Richard*Janice
+Kaos: Madonna Songs*Bedtime Story*Like a virgin*Ray of Light*Holiday*Human Nature*Music*Lucky Star*Secret*Vogue*Cherish*
+Kaos: Acid's Favourite Movies*The Fast and The Furious*Swordfish*Hackers*The Score*Gone in 60 seconds*The One*Kiss of the dragon
+Kaos: Quick !All of the numbers on your keyboard!!*1*2*3*4*5*6*7*8*9*0
+Kaos: Words that are palindromes*radar*otto*dad*mom*pop*
+Kaos: Well known places (start with A)*amsterdam*Australia*austria*Alamo*athens*
+MUSIC: Who has a new album out June 2002, titled Heathen*David Bowie
+MUSIC: Name of David Bowies album released June 2002*Heathen
+MUSIC: With whom did David Bowie work on his album Scarey Monsters and Super creeps*Pete Townshend
+MUSIC: David Bowies album released in 1980*Scarey monsters and super creeps
+GENERAL KNOWLEDGE: Sir Paul Mcartneys photographer daughter*Mary Mcartney
+GENERAL KNOWLEDGE: Who is Lady Haden-Guest better known as*Jamie Lee Curtis
+MUSIC: Whose 1974 album was called Sneakin' Sally through the Alley*Robert Palmer
+MUSIC: Whose 1975 album was called Pressure Drop*Robert Palmer
+MUSIC: Whose first full length album was called All over the Place*The Bangles
+TV: Who plays buffy the vampire slayer*Sarah Michelle Gellar
+TV: Who plays spike from buffy the vampire slayer*James Masters
+TV: Who plays Xander from buffy the vampire slayer*Nicholas Brendon
+TV: Who plays willow from buffy the vampire slayer*Alyson Hannigan
+TV: Who plays Tara from buffy the vampire slayer*Amber Benson
+TV: Who plays Anya from buffy the vampire slayer*Emma Caulfield
+TV: Who plays dawn from buffy the vampire slayer*Michelle Trachtenberg
+TV: Who played Giles from buffy the vampire slayer*Anthony Stewart head
+TV: Who played faith from buffy the vampire slayer*Eliza Dushku
+TV: Who played Oz from buffy the vampire slayer*Seth Green
+TV: Who played Riley from buffy the vampire slayer*Marc Blucas
+TV: Which character left buffy and now has his own hit T.V show of the same name*Angel
+TV: Who plays Angel from buffy the vampire slayer and angel*David Boreanaz
+TV: Which female character left buffy the vampire slayer and is now a main character in angel*Cordelia Chase
+TV: Who plays Cordelia Chase from buffy the vampire slayer and angel*Charisma Carpenter
+TV: Which watcher from buffy the vampire slayer now stars in Angel*Wesley Price
+TV: Who plays Wesley from Angel*Alexis Denisof
+TV: Which Angel character lived in a cave for 5 years in Pylea*Fred
+TV: Who plays Fred from Angel*Amy Acker
+TV: Who played Darla from Buffy the vampire slayer and Angel*Julie Benz
+TV: Who plays Gunn from Angel*J august Richards
+TV: In Angel, he and Darla had a baby, what is that baby’s name*Conner
+TV: In buffy the vampire slayer what was the name of the hell god out to kill dawn*Glory
+TV: In buffy the vampire slayer what is dawn*The key
+TV: After buffy’s death which character brought her back to life*Willow
+TV: What was the name of the first vampire to appear in buffy*Darla
+TV: What does Angel have that other vampires don’t*A soul
+TV: In angel Cordelia has visions, who gave them to her*Doyle
+TV: How did Doyle give Cordelia the visions*He kissed her
+TV: Who played Doyle*Glen Quinn
+TV: When Buffy died what did it say at the bottom of her gravestone*She saved the world a lot
+TV: Who played the original buffy the vampire slayer in the film*Kirsty Swanson
+TV: Where is Angel set*Los Angeles
+TV: Where is buffy set*Sunnydale  
+SPORT: Which owners first winner under National Hunt rules was Monaveen in the Queen Elizabeth Chase at Hurst Park in 1950*The Queen Mother
+SPORT: Sir Alf Ramsey lost his first match in charge of England against which country in 1963*France
+SPORT: Which three England players scored penalties in the famous penalty shoot out against West Germany in the semi final of the 1990 World Cup*Gary Lineker*Peter Beardsley*David Platt
+SPORT: Which horse that won the 1977 St Leger fir the Queen has the same name aa a town in scotland*Dunfermline
+SPORT: Which star Portuguese footballer has a tattoo of a little devil on his right ankle*Luis figo
+SPORT: Which three american venues have staged the Winter Olympics*Lake Placid*Squaq Valley*Salt Lake City
+SPORT: Which Nationwide football league club  was formed by the amalgamation of west Herts FC and St Marys FC*Watford
+SPORT: The All-England club at Wimbledon is often referred to by its post code, what is it?*S W 19
+SPORT: Which Frenchman was defeated by Pete Sampras in the singles final at Wimbledon in 1997*Cedric Pioline
+KAOS: Sport, which 5 clubs have won European Cup finals at Wembley*AC Milan*Ajax*Liverpool*Barcelona*Manchester United*
+SPORT: Which greek football club who play in black and white stripes reached the quarter finals of the European cup winners cup in 1974*PAOK Salonica
+SPORT: Which horse race, run over two and threequarter miles on the last day of Royal ascot each year is the longest flat race in Britain*Queen Alexandra Stakes
+GENERAL KNOWLEDGE: Which language does flemish most closely resemble*dutch
+GEOGRAPHY: What is Uraguays chief port*Montevideo
+FILM: What was the name of Diana Dors' actor husband*Alan Lake
+GENERAL KNOWLEDGE: Who was mortally wounded in the heel by an arrow from Paris*Achilles
+ANIMALS:What kind of animal is a snow shoe rabbit*Hare
+HISTORY: The derrick crane was named after Dick Derrick, what was his occupation*hangman
+LITERATURE: Which is the longest part written by Shakespeare, at 11,610 words*Hamlet
+LITERATURE: Which Noel Coward play features Elyot and Amanda*Private Lives
+GENERAL KNOWLEDGE: Dalcroze, Professor of Harmony at the Geneva Conservatoire, conceived of which form of exercise*eurhythmics
+GENERAL KNOWLEDGE: Who believe that the City of God will be founded in the USA*The Mormons
+GEOGRAPHY: What was built on the site of the old Waldorf Astoria hotel in New York*The Empire State Building
+LITERATURE: Name of a barrister in Dickens Pickwick Papers*Serjeant Buzfuz
+SPORT: Golf, what is the American name for an albatross*double eagle
+MUSIC: Which pop singer has compiled a book of equine anecdotes*Alvin Stardust
+SCIENCE: What is the antimatter equivalent of the electron*positron
+GENERAL KNOWLEDGE: Whose portrait appears on the back of a £50.00 note*Sir Christopher Wren
+GENERAL KNOWLEDGE: Who did Achilles kill and drag three times around the walls of Troy*Hector
+SPORT: Who won the mens shot put at the 1974 Commonwealth Games*Geoff Capes
+FILM: In which year did James Dean die*1955
+GENERAL KNOWLEDGE: In which year was th eold age pension introduced*1909
+GENERAL KNOWLEDGE: Where is Charles Darwin buried*Westminster Abbey
+GENERAL KNOWLEDGE: Who was Helen of Troys husband*Menelaus
+SPORT: Who play football at Goodison Park*Everton
+HISTORY: Which famous Indian is buried at Gravesend in Kent*Pocahontas
+GENERAL KNOWLEDGE: An organ built in the 10th century was so powerful that it needed 70 men to pump it, where was it*Winchester Cathedral
+ANIMALS: What are fingerlings*baby salmon
+GENERAL KNOWLEDGE: What is french for honey*Le miel
+SPORT: From which famous bridge does the boat race start*Putney
+HISTORY: Which one time "fauve" decorated the interior of a chapel in Venice*Matisse
+SCIENCE: By what name is acetyl-salicylic acid better known*aspirin
+HISTORY: Who opened the worls first full scale atomic generating plant*Queen Elizabeth ii
+HISTORY: Which revolt took place in 1381*The Peasants revolt
+GEOGRAPHY: Which French town is known for its glove making*Grenoble
+LITERATURE: Which classic of English Literature centres around theGordon riots of 1780*Barnaby Rudge
+SPORT: In which weight category did John Conteh fight*Light heavyweight
+FILM: Who produced the original film of Scarface*Howard Hughes
+GENERAL KNOWLEDGE: Who were the "Mormon Mafia" hired to protect from outside contamination*Howard Hughes
+SCIENCE: Counting outwards from the sun which is the third planet in our solar system*the earth
+HISTORY: London in the 18th century,what was Kitty Fishers profession*prostitute
+GEOGRAPHY: Which canal links the Mediterranean sea with the Red Sea*The suez canal
+LITERAURE: Who is the fourth Musketeer*D'Artagnan
+FILM: Who played Marco  Polo in the 1962 film*Gary Cooper
+MUSIC: Who wrote the Hungarian Rhapsody*Liszt
+ANIMALS: Totally useless fact: If a rabbits front teeth were not worn down by eating, to what length could they grow*ten feet
+GENERAL KNOWLEDGE: Where would you find a Juttock Plate*ships mast
+HISTORY: 1933, Mrs Klarius Mikkelson was the first woman to set foot where*The Antarctic
+LITERATURE: Who is the hero of Captain W E Johns best known stories*Biggles
+SPORT: Which English footballer joined Hambury FC in 1977*Kevin Keegan
+MUSIC: Which was Tchaikovskys first ballet*Swan Lake
+GENERAL KNOWLEDGE: What is French for Saturday*samedi
+HISTORY: Who did Louis XVI give the Hope Diamond to*Marie Antoinette
+HISTORY: Although his remains were found to be missing in 1864, where was Voltaire buried*The Pantheon,Paris
+LITERATURE: According to the Brothers Grimm, how tall was Tom Thumb*five and a half inches
+SPORT: How many Olympic gold medals has Mark Spitz won*nine
+GENERAL KNOWLEDGE: Where in Germany are the Passion Plays held*Oberammergau
+GENERAL KNOWLEDGE: What is the interval between Passion Plays held at Oberammergau in Germany*ten years
+MUSIC: Who has a new album out June 2002, titled Heathen*David Bowie
+MUSIC: Name of David Bowies album released June 2002*Heathen
+MUSIC: With whom did David Bowie work on his album Scarey Monsters and Super creeps*Pete Townshend
+MUSIC: David Bowies album released in 1980*Scarey monsters and super creeps
+GENERAL KNOWLEDGE: Sir Paul Mcartneys photographer daughter*Mary Mcartney
+GENERAL KNOWLEDGE: Who is Lady Haden-Guest better known as*Jamie Lee Curtis
+MUSIC: Whose 1974 album was called Sneakin' Sally through the Alley*Robert Palmer
+MUSIC: Whose 1975 album was called Pressure Drop*Robert Palmer
+MUSIC: Whose first full length album was called All over the Place*The Bangles
+TV: Who plays buffy the vampire slayer*Sarah Michelle Gellar
+TV: Who plays spike from buffy the vampire slayer*James Masters
+TV: Who plays Xander from buffy the vampire slayer*Nicholas Brendon
+TV: Who plays willow from buffy the vampire slayer*Alyson Hannigan
+TV: Who plays Tara from buffy the vampire slayer*Amber Benson
+TV: Who plays Anya from buffy the vampire slayer*Emma Caulfield
+TV: Who plays dawn from buffy the vampire slayer*Michelle Trachtenberg
+TV: Who played Giles from buffy the vampire slayer*Anthony Stewart head
+TV: Who played faith from buffy the vampire slayer*Eliza Dushku
+TV: Who played Oz from buffy the vampire slayer*Seth Green
+TV: Who played Riley from buffy the vampire slayer*Marc Blucas
+TV: Which character left buffy and now has his own hit T.V show of the same name*Angel
+TV: Who plays Angel from buffy the vampire slayer and angel*David Boreanaz
+TV: Which female character left buffy the vampire slayer and is now a main character in angel*Cordelia Chase
+TV: Who plays Cordelia Chase from buffy the vampire slayer and angel*Charisma Carpenter
+TV: Which watcher from buffy the vampire slayer now stars in Angel*Wesley Price
+TV: Who plays Wesley from Angel*Alexis Denisof
+TV: Which Angel character lived in a cave for 5 years in Pylea*Fred
+TV: Who plays Fred from Angel*Amy Acker
+TV: Who played Darla from Buffy the vampire slayer and Angel*Julie Benz
+TV: Who plays Gunn from Angel*J august Richards
+TV: In Angel, he and Darla had a baby, what is that baby’s name*Conner
+TV: In buffy the vampire slayer what was the name of the hell god out to kill dawn*Glory
+TV: In buffy the vampire slayer what is dawn*The key
+TV: After buffy’s death which character brought her back to life*Willow
+TV: What was the name of the first vampire to appear in buffy*Darla
+TV: What does Angel have that other vampires don’t*A soul
+TV: In angel Cordelia has visions, who gave them to her*Doyle
+TV: How did Doyle give Cordelia the visions*He kissed her
+TV: Who played Doyle*Glen Quinn
+TV: When Buffy died what did it say at the bottom of her gravestone*She saved the world a lot
+TV: Who played the original buffy the vampire slayer in the film*Kirsty Swanson
+TV: Where is Angel set*Los Angeles
+TV: Where is buffy set*Sunnydale  
+SPORT: Which owners first winner under National Hunt rules was Monaveen in the Queen Elizabeth Chase at Hurst Park in 1950*The Queen Mother
+SPORT: Sir Alf Ramsey lost his first match in charge of England against which country in 1963*France
+SPORT: Which three England players scored penalties in the famous penalty shoot out against West Germany in the semi final of the 1990 World Cup*Gary Lineker*Peter Beardsley*David Platt
+SPORT: Which horse that won the 1977 St Leger fir the Queen has the same name aa a town in scotland*Dunfermline
+SPORT: Which star Portuguese footballer has a tattoo of a little devil on his right ankle*Luis figo
+SPORT: Which three american venues have staged the Winter Olympics*Lake Placid*Squaq Valley*Salt Lake City
+SPORT: Which Nationwide football league club  was formed by the amalgamation of west Herts FC and St Marys FC*Watford
+SPORT: The All-England club at Wimbledon is often referred to by its post code, what is it?*S W 19
+SPORT: Which Frenchman was defeated by Pete Sampras in the singles final at Wimbledon in 1997*Cedric Pioline
+KAOS: Sport, which 5 clubs have won European Cup finals at Wembley*AC Milan*Ajax*Liverpool*Barcelona*Manchester United*
+SPORT: Which greek football club who play in black and white stripes reached the quarter finals of the European cup winners cup in 1974*PAOK Salonica
+SPORT: Which horse race, run over two and threequarter miles on the last day of Royal ascot each year is the longest flat race in Britain*Queen Alexandra Stakes
+GENERAL KNOWLEDGE: Which language does flemish most closely resemble*dutch
+GEOGRAPHY: What is Uraguays chief port*Montevideo
+FILM: What was the name of Diana Dors' actor husband*Alan Lake
+GENERAL KNOWLEDGE: Who was mortally wounded in the heel by an arrow from Paris*Achilles
+ANIMALS:What kind of animal is a snow shoe rabbit*Hare
+HISTORY: The derrick crane was named after Dick Derrick, what was his occupation*hangman
+LITERATURE: Which is the longest part written by Shakespeare, at 11,610 words*Hamlet
+LITERATURE: Which Noel Coward play features Elyot and Amanda*Private Lives
+GENERAL KNOWLEDGE: Dalcroze, Professor of Harmony at the Geneva Conservatoire, conceived of which form of exercise*eurhythmics
+GENERAL KNOWLEDGE: Who believe that the City of God will be founded in the USA*The Mormons
+GEOGRAPHY: What was built on the site of the old Waldorf Astoria hotel in New York*The Empire State Building
+LITERATURE: Name of a barrister in Dickens Pickwick Papers*Serjeant Buzfuz
+SPORT: Golf, what is the American name for an albatross*double eagle
+MUSIC: Which pop singer has compiled a book of equine anecdotes*Alvin Stardust
+SCIENCE: What is the antimatter equivalent of the electron*positron
+GENERAL KNOWLEDGE: Whose portrait appears on the back of a £50.00 note*Sir Christopher Wren
+GENERAL KNOWLEDGE: Who did Achilles kill and drag three times around the walls of Troy*Hector
+SPORT: Who won the mens shot put at the 1974 Commonwealth Games*Geoff Capes
+FILM: In which year did James Dean die*1955
+GENERAL KNOWLEDGE: In which year was th eold age pension introduced*1909
+GENERAL KNOWLEDGE: Where is Charles Darwin buried*Westminster Abbey
+GENERAL KNOWLEDGE: Who was Helen of Troys husband*Menelaus
+SPORT: Who play football at Goodison Park*Everton
+HISTORY: Which famous Indian is buried at Gravesend in Kent*Pocahontas
+GENERAL KNOWLEDGE: An organ built in the 10th century was so powerful that it needed 70 men to pump it, where was it*Winchester Cathedral
+ANIMALS: What are fingerlings*baby salmon
+GENERAL KNOWLEDGE: What is french for honey*Le miel
+SPORT: From which famous bridge does the boat race start*Putney
+HISTORY: Which one time "fauve" decorated the interior of a chapel in Venice*Matisse
+SCIENCE: By what name is acetyl-salicylic acid better known*aspirin
+HISTORY: Who opened the worls first full scale atomic generating plant*Queen Elizabeth ii
+HISTORY: Which revolt took place in 1381*The Peasants revolt
+GEOGRAPHY: Which French town is known for its glove making*Grenoble
+LITERATURE: Which classic of English Literature centres around theGordon riots of 1780*Barnaby Rudge
+SPORT: In which weight category did John Conteh fight*Light heavyweight
+FILM: Who produced the original film of Scarface*Howard Hughes
+GENERAL KNOWLEDGE: Who were the "Mormon Mafia" hired to protect from outside contamination*Howard Hughes
+SCIENCE: Counting outwards from the sun which is the third planet in our solar system*the earth
+HISTORY: London in the 18th century,what was Kitty Fishers profession*prostitute
+GEOGRAPHY: Which canal links the Mediterranean sea with the Red Sea*The suez canal
+LITERAURE: Who is the fourth Musketeer*D'Artagnan
+FILM: Who played Marco  Polo in the 1962 film*Gary Cooper
+MUSIC: Who wrote the Hungarian Rhapsody*Liszt
+ANIMALS: Totally useless fact: If a rabbits front teeth were not worn down by eating, to what length could they grow*ten feet
+GENERAL KNOWLEDGE: Where would you find a Juttock Plate*ships mast
+HISTORY: 1933, Mrs Klarius Mikkelson was the first woman to set foot where*The Antarctic
+LITERATURE: Who is the hero of Captain W E Johns best known stories*Biggles
+SPORT: Which English footballer joined Hambury FC in 1977*Kevin Keegan
+MUSIC: Which was Tchaikovskys first ballet*Swan Lake
+GENERAL KNOWLEDGE: What is French for Saturday*samedi
+HISTORY: Who did Louis XVI give the Hope Diamond to*Marie Antoinette
+HISTORY: Although his remains were found to be missing in 1864, where was Voltaire buried*The Pantheon,Paris
+LITERATURE: According to the Brothers Grimm, how tall was Tom Thumb*five and a half inches
+SPORT: How many Olympic gold medals has Mark Spitz won*nine
+GENERAL KNOWLEDGE: Where in Germany are the Passion Plays held*Oberammergau
+GENERAL KNOWLEDGE: What is the interval between Passion Plays held at Oberammergau in Germany*ten years
+NEWS 2002: Which tv company went into receivership after its £178.5million deal with the Football League hit trouble*ITV Digital
+GENERAL KNOWLEDGE: Which member of the Royal Family has a daughter called Gabriella Windsor*Princess Michael of Kent
+NEWS 2002: What is the Queen celebrating this year*Golden Jubilee
+NEWS 2002: Name of the TV presenter caught "distracting" the England Football coach Sven-Goran Eriksson in the run up to the world cup*Ulrika jonsson
+NEWS 2002: Which French politician caused shock waves across Europe by coming second in the first round of the French Presidential elections*Jean-Marie Le Pen
+NEWS 2002: Name of the defeated French Prime Minister who announced his retirement from politics following the success of the far-right in the presidential elections*Lionel Jospin
+NEWS 2002: Who succeeded William Hague as leader of the Conservative party*Iain Duncan Smith
+TV: Who plays Samantha in Sex and the City*Kim Cattrall
+MUSIC: Gallagher brothers single The Hindu Times is taken from which albu*Heathen Chemistry
+SPORT: Who stepped in as England captain whilst david Beckham was resting his broken foot*Michael Owen
+PLANTS: Plants with thick stems and fleshy leaves*succulents
+GENERAL KNOWLEDGE: The art of moving quietly and with extreme  care*stealth
+PLANTS: Aromatic plant, leaves of which are used to flavour salads*tarragon
+LITERATURE: English dramatist and poet famous for plays such as Tamburlaine the Great, Dr Faustus*Christopher Marlowe
+GENERAL KNOWLEDGE: A volunteer cavalry force merged into the Territorial army in 1907*Yeomanry
+GENERAL KNOWLEDGE: A member of an ancient Greek school of philosophy founded by Zeno*stoic
+GENERAL KNOWLEDGE: A cuban dance in slow duple time or a piece of music composed for this dance*habanera
+MUSIC: A printed form of a composition showing vocal and instrumental parts on separate staves*score
+SCIENCE: The point on the celestial sphere diametrically opposite the zenith*nadir
+GENERAL KNOWLEDGE: Formerly in India a term of respect used for European married women*memsahib
+GENERAL KNOWLEDGE: A light umbrella used to give shade*parasol
+SPORT: In billiards a shot that is pocketed after striking another ball*in-off
+ANIMALS: One that feeds off the flesh of its own species*cannibal
+GENERAL KNOWLEDGE: The mythical transformation of a person into a wolf*lycanthropy
+GENERAL KNOWLEDGE: Admit a person into a society or club through a secret ceremony*initiate
+GENERAL KNOWLEDGE: Spectacles protecting the eyes from harm*goggles
+ANIMALS: Large marine diving ducks with long narrow hooked bills with serrated edges*mergansers
+GENERAL KNOWLEDGE: Rooms or places of total privacy*sanctums
+GENERAL KNOWLEDGE: An addition modifying a will*codicil
+GENERAL KNOWLEDGE: Give approval or sanctin to something*endorse
+GEOGRAPHY: A small violent tropical storm or cyclone in the China seas*typhoon
+PLANTS: Purple-reddish fruit named after the American judge and horticulturalist who first grew them*loganberry
+SCIENCE: Alkaloid obtained from the plant nux vomica used as a tonic although poisonous*strychnine
+GENERAL KNOWLEDGE: An adjustable type of spanner*wrench
+ANIMALS: Australian egg laying mammal with webbed feet*duck-billed platypus
+GENERAL KNOWLEDGE: Having a surface which curves inwards*concave
+SCIENCE: What is the common name for the scapula*shoulder blade
+TV: Who fronted and devised the show Its a square world*Michael Bentine
+SPORT: What is Daley Thomsons first name*Francis
+MUSIC: Who had hits with Can the Can and Devil Gate Drive*Suzi Quatro
+HISTORY: Code name for D Day*Operation Overlord
+HISTORY: Which British city was the first to erect a statue of Nelson*Glasgow
+GEOGRAPHY: On which river does Canterbury stand*Stour
+HISTORY: Which monarch wrote the casket letters*Mary,Queen of Scots
+GENERAL KNOWLEDGE: What name is given to a planes automatic pilot*George
+FILM: Which Oscar winning film of the 1980s was directed by Hugh Hudson*Chariots of FirE
+HISTORY: Which chief led the resistance against the Romans in 43AD*Caractacus
+HISTORY: Which people were the first to drink cocoa*the Aztecs
+GEOGRAPHY: In which American State is the Garden of the Gods*Colorado
+SPORT: Which British football team is known as The Bhoys*Celtic
+LITERATURE: A book entitled The Contemplative mans recreation is concerned with which pastime*angling
+GENERAL KNOWLEDGE: Who devised the package tour*Thomas Cook
+TV: Who played the lead role in the series Sorry*Ronnie Corbett
+MUSIC: Which group had albums called Fireball and Machine Head*Deep Purple
+FILM: Who played the title role in the film The Pride of Miss Jean Brodie*Maggie Smith
+QUOTES: Who wrote " The female of the species is more deadly than the male"*Kipling
+HISTORY: What was the nickname of the British 7th Armoured Division in WWii*Desert Rats
+HISTORY: Which type of bullet was outlawed in 1899*Dum Dum
+MUSIC: Which instrument is associated with Jacqueline Du Pre*Cello
+GENERAL KNOWLEDGE: Which readio programme was presented by Roy Plomley from 1942 to 1985*Desert Island Discs
+FILM: Who played the Jackal in the film The day of the Jackal*Edward Fox
+GENERAL KNOWLDGE: With what is the society called concerned*euthanasia
+ALIASES: Who is Terry Nelhams better known as*Adam Faith
+LITERATURE: In the Famous Five books, what is the name of the dog*Timmy
+GENERAL KNOWLEDGE: Which hampshire airshow is held biennially*Farnborough
+NEWS 2002: Name the first man to appear on the cover of Marie Claire*David Beckham
+MUSIC: Jenny Frost,Liz McClarnon and Natasha Hamilton make up which successful UK group*Atomic Kitten
+FILM: Name of Steven Spielbergs studio*Dreamworks
+TV: Series set in Honolulu starring Jack Lord as tough cop Steve McGarrett*Hawaii Five-O
+GEOGRAPHY: The divorce capital of the world*Reno,Nevada
+HISTORY: The name of the first "Space tourist"*Dennis Tito
+NEWS 2002: The arts, Name of the autobiographical musical by Boy George*Taboo
+SPORT: Sheffield venue for snooker*The Crucible Theatre
+HISTORY: From the 14th century to 1830 the eldest sons of French kings were known by which name*dauphin
+GEOGRAPHY: In which city was Europes first hard paste porcelain made*Dresden
+MUSIC: Who had no. 1 hits with Tired of waiting for you and Sunny afternoon*Kinks
+LITERATURE: Who wrote the book Schindlers Ark*Thomas kenneally
+MUSIC: Name of the bass tuba that wraps around the players body*sousaphone
+GEOGRAPHY: Largest of the English national parks*The Peak District
+HISTORY: Who was king of France at the time of the French Revolution*Louis xvi
+SCIENCE: The body, which acid builds up in the muscles during strenuous exercise*lactic acid
+GENERAL KNOWLEDGE: Name given to a person who will eat no food of animal origin*vegan
+SCIENCE: Which element is found in bones, teeth and shells*calcium
+MUSIC: Which pop star played the title role in the film Tommy*Roger Daltrey
+GENERAL KNOWLEDGE: What is a booby*Tropical bird
+GEOGRAPHY: How long is the Great Wall of China*1450 miles
+QUOTES: Who said "A week is a long time in politics"*Harold Wilson
+FOOD: Which carbohydrate makes jam a gel*pectin
+MUSIC: Who had top ten hits in the 1960s with Calendar Girl and I  go ape*Neil Sadaka
+SCEINCE: A manometer measures the pressure of what*liquids
+GEOGRAPHY: Which river flows for 1500 miles through Venezuela and forms the border with Colombia*Orinoco
+GENERAL KNOWLEDGE: What would you use if you practiced ikebana*flowers
+LITERATURE: What type of novels were written by Zane Grey*westerns
+ANIMALS: What were dachshunds originally bred to hunt*badgers
+TV: Who played the witch wife in Bewitched*Elizabeth Montgomery
+GENERAL KNOWLEDGE: Which many headed monsters blood killed Hercules*hydra
+GENERAL KNOWLEDGE: What is th ecollective name for rain,snow, hail and sleet*precipitation
+GEOGRAPHY: In which city is Michelangelos statue of David*Florence
+HISTORY: Which famous Americans 2 year old son was kidnapped and murdered in 1932*Charles Lindburgh
+MUSIC: Who had a 1966 hit with Good Vibrations*beach Boys
+GENERAL KNOWLEDGE: "Women and children first"  name the lifeboat drill*Birkenhead Drill
+SCIENCE: Name of the medical device invented to preserve female patients modesty*stethoscope
+SCIENCE: Name of the inventor of the stethoscope*Dr Rene Laennec
+SCEINCE: The Body, what contains the choroid,sclera and fovea*the eye
+THE BIBLE: What is the fifth book of the New Testament*Acts of the Apostles
+FOOD: Which flavouring is added to brandy and egg to make advocaat*vanilla
+SCIENCE: The body, what is affected by osteomyelitis*the bones
+GENERAL KNOWLEDGE: what is a durmast*oak tree
+GEOGRAPHY: What is the name of Polands largest river*Vistula
+ALIASES: By which name was the boxer Walker Smith better known*Sugar Ray Robinson
+FILM: What was the first Harry Palmer film*The Ipcress File
+GEOGRAPHY: In which city did Anne Frank write her diary*Amsterdam
+LITERATURE: Who set stories in the imaginary county of Barsetshire*Anthony Trollope
+GENERAL KNOWLEDGE: What is the family name of the Dukes of Northumberland*Percy
+THE ARTS: which artist painted 62 self portraits*Rembrandt
+GENERAL KNOWLEDGE: which writer created The Saint*Leslie Charteris
+GENERAL KNOWLEDGE: What is xerography*photocopying
+THE BIBLE: Who was King Solomons mother*Bathsheba
+HISTORY: Which war began June 25th 1950*Korean
+FILM: Who played the police chief in Jaws*Roy Scheider
+HISTORY: When was the wearing of seat belts made compulsory in England*1983
+SCIENCE: What is the lightest known substance*hydrogen
+LITERATURE: Whom did Sherlock Holmes refer to as THE Woman*Irene Adler
+THE BIBLE: What took place at Golgotha*Christ's crucifixion
+MUSIC: 1985, whose album Born in the USA was a massive bestseller*Bruce Springsteen
+ANIMALS: Which animal was traditionally called Russell*fox
+HISTORY: Who was the last prisoner held in the Tower of London*Rudolf Hess
+LITERATURE: In which book did people find Shangri-La*The Lost horizon
+GENERAL KNOWLEDGE: Which amber globe was named after a 1930s minister of transport*Belisha Beacon
+HISTORY: What did baker John Faynors carelessness cause*The Fire of London
+GEOGRAPHY: Where is the famous colony of macaque monkeys*Gibraltar
+FILM: Who palyed M in the Bond movie Goldeneye*Judi Dench
+ALIASES: Punk musician, Simon Ritchie, by what name is he better known*Sid Vicious
+LITERATURE: From whom did the animals seize the farm in Animal farm*Mr Jones
+ANIMALS: Which animals latin name is bufo bufo*toad
+SPORT What is the correct name for the high jump event in showjumping*puissance
+HISTORY: Which ship sent the first SOS*Titanic
+GENERAL KNOWLEDGE: What is a VLCC*oil tanker
+GENERAL KNOWLEDGE: What is a belvedere*viewing turret
+GENERAL KNOWLEDGE: What is the common name for the psychological Rorschasch test*ink blot test
+TV: In Dad'd army what was Private Frasers day time job*undertaker
+FOOD: What wine is flavoured with pine resin*retsina
+SPORT: Which horse won the Derby,St Leger and 2000 Guineas in 1970*Nijinsky
+LITERATURE: Which characters main opponent was Von Stalheim*Biggles
+ANIMALS: Which proboscis has 40,000 muscles*elephants trunk
+LITERATURE: Which Tolstoy heroine threw herself under a train*Anna Karenina
+GENERAL KNOWLEDGE: In medieval art what did the dog signify*fidelity
+GENERAL KNOWLEDGE: Allegedly, whose last words were "I'va had 18 straight whiskies, I think thats a record"*Dylan Thomas
+LITERATURE: Which British poet is revered as a hero in Greece*Byron
+GENERAL KNOWLEDGE: Mythology, who blinded Polyphemus*Ulysses
+GENERAL KNOWLEDGE: What does a philogynist like*women
+GEOGRAPHY: Which Island merged with Tanganyika to form a new country in 1964*Zanzibar
+TV: Who presented This is your life in 1995*Michael Aspel
+MUSIC: Whose catchphrase was "You aint heard nothing yet"*Al Jolson
+HISTORY: 2002, which republic currently exists in France*The fifth
+GEOGRAPHY: Tupamaros are guerrilas in which country*Uruguay
+HISTORY: After India became independent, dispute over which state led to a war with Pakistan*Kashmir
+SPORT: What was Christopher Deans job before he became a professional ice skater*policeman
+SPORT: In which sport would you go to a basho*sumo wrestling
+GENERAL KNOWLEDGE: what does the prefix "crypto" mean*secret
+GEOGRAPHY Which countrys international car registration letters are PL*poland
+ANIMALS: Name for the dirt covered clump of wool on a sheeps rear end (Nice!)*daglock
+HISTORY: Which gangster was shot dead by the FBI on 22nd July 1934 as he came out of the Biograph Cinema in Chicago*John Dillinger
+LITERATURE: Who wrote To the lighthouse and Mrs dalloway*Virginia Woolf
+SPORT: Who captained Spurs when they did the double in 1961*Danny Blanchflower
+GENERAL KNOWLEDGE: what is the legal name for a spoken or written insult against religious belief or sacred objects*blasphemy
+MUSIC: What was Bing Crosbys first name*harry
+HISTORY: What was banned in the uSA by the 18th amendment*alcohol
+TV; Where was Geoff Hamiltons BBc gardens*Barnsdale
+GEOGRAPHY: Which Canadian city was devastated in 1917 when an ammunition ship blew up in its harbour*Halifax
+GEOGRAPHY: In which country did the 1976 Jonestown massacre occur*Guyana
+HISTORY: Who led the Junta which seized the Falklands in 1982*Galtieri
+GEOGRAPHY: In which county is Romney marsh*Kent
+GEOGRAPHY: On which Island is Mount Suribachi*Iwo Jima
+FILM: Who played King Feisal of Iraq in the film Lawrence of Arabia*Alec Guinness
+HISTORY: During wwii Norman Shelley was enlisted to imitate whom in radio broadcasts*Winston Churchill
+HISTORY; Which Englishman was shot outside the Dakota building in New York in 1980*John Lennon
+HISTORY: 1963, what was the subject of the Beeching Report*the railways
+LITERATURE: Who wrote the Forsyte Saga*john Galsworthy
+HISTORY Which MP said "I married beneath me, all women do"*Nancy Astor
+GENERAL KNOWLEDGE: What is a gulag*prison camp
+ANIMALS: What is the correct collective name for a litter of piglets*farrow
+SPORT: In which city are the US football team The Redskins based*washington
+GENERAL KNOWLEDGE: What denotes a clean pollution-free beach*blue flag
+LITERATURE: Which duo first appeared in The man with two left feet*Bertie Wooster and Jeeves
+SPORT: In which sport did Phil Read win many World Championships*motor cycling
+GENERAL KNOWLEDGE; What is the correct name for larceny froma consecrated building*sacrilege
+HISTORY: Of what did Prince Albert die*Typhoid Fever
+GEOGRAPHY: By what name is British Honduras now known*Belize
+GENERAL KNOWLEDGE: What nationality was Boutros Boutros Ghali,Secretary General to the UN*Egyptian
+Tv/Movies:SciFi:What did HAL say would fail in 2001, A Space Odyssey*antenna
+Tv/Movies:SciFi:Who attemted to fix the antenna in 2001, A Space Odyssey*Poole
+Tv/Movies:Drama:What 1993 movie told the storyof jailed Irishman Gerry Conlon*In the Name of The Father
+Tv/Movies:Drama:In the movie In the Name of The Father what was the Father's Name*Guiseppe Conlon
+Tv/Movies:War:What was Humprey Bogart's Character's name in 1954's The Caine Mutiny*Captain Queeg
+Tv/Movies:One word:Complete the film titles ----- Frankenstein, ----- Doctor's in Love & ----- Guns*young
+Tv/Movies:Biography:Born 1951 Director father. Was a succesful model before returning to film. Won Supporting Actress Oscar in Prizzi's Honor*Anjelica Huston
+Tv/Movies:Sequels:What was the 1980 sequel to 1977's Oh God!*Oh God! Book ii
+Tv/Movies:Sequels:What was the third film in the Oh God series called*Oh God!You Devil
+Tv/Movies:Oscars:Who won Best Director accolades for the film All Quiet on the Western Front*Lewis Milestone
+Tv/Movies:SciFi:What scary 1979 film co-starred Sigourney Weaver,Tom Skerrit and John Hurt*Alien
+Tv/Movies:Comedy:What 1995 film co-starred Nicole Kidman as a murderous TV weatherperson*To Die For
+Tv/Movies:Action/Adventure:In 1990's Bird on a Wire, Goldie Hawn drove a ---*BMW
+Tv/Movies:Famous Lines:"He's not as tough as he thinks." Neither are we" What film*The Sting
+Tv/Movies:Stars:Who has played an inventor, a musketeer and a break dancing grandfather*Don Ameche
+Tv/Movies:Sequels:What, in 1973, was the last sequel to the Planet of the Apes*Battle for the Planet of the Apes
+Tv/Movies:Oscarlink:What do James Dean,Spencer Tracy and Peter Finch have in common*Posthumously nominated for Best Actor
+Tv/Movies:Fantasy:Which film features a group going down a really big hole to find Arne Saknussem*Journey to the Center of the Earth
+Tv/Movies:Drama:Who played lee Harvey Oswold in 1991's JFK*Gary Oldman
+Tv/Movies:Drama:Who played Jim Garrison in the 1991 film JFK*Kevin Costner
+Tv/Movies:Drama:Name Kevin Costner's character in the 1991 film JFK*Jim Garrison
+Tv/Movies:Action/Adventure: Who played the terrorist leader in 1992's Passenger 57*Bruce Payne
+Tv/Movies:Musical:What 1957 film co-starred Fred Astaire and Cyd Charisse*Silk Stockings
+Tv/Movies:Triple Play:What Native-American has been played bye Victor Mature,Anthony Quinn and Iron Eyes Cody*Crazy Horse
+Tv/Movies:Directors:Who directed the 1953 film Stalag 17*Billy Wilder
+Tv/Movies:Directors:Who directed the 1954 film Sabrina	*Billy Wilder
+Tv/Movies:Directors:Who Directed the 1957 film The Spirit of St. Louis*Billy Wilder
+Tv/Movies:Oscars:What event postponed the Oscar ceremony in 1980*Attempted Assassination of Ronald Reagan
+Tv/Movies:Toons:What 1986 animated feature was produced by Steven Spielberg*An American Tail
+Tv/Movies:Toons:What 1986 animated feature was directed by Don Bluth*An American Tail
+Tv/Movies:Comedy:Who played 'the holy goat and the holy spigot' vicar in he 1994 film Four Weddings and a funeral*Rowan Atkinson
+Tv/Movies:Action/Adventure:In what 1954 film did we meet Ned Land,Professor Aronnax and his assistant Conseil*20,000 Leagues Under the Sea*Twenty thousand Leagues Under the Sea
+Tv/Movies:Musical:What 1983 film co-starred Robert Duvall, Tess Harper and Ellen Barkin*Tender Mercies
+Tv/Movies:Biography:Born January 23rd, 1899 in NYC. Won Best Actor Oscar in 1953, Died in 1957*Humphrey Bogart
+Tv/Movies:Studios:What Studio produced Silly Symphonies*Disney
+Tv/Movies:Studios:What Studio produced Merrie Melodies*Warner Brothers
+Tv/Movies:Oscars:Who won Best Actress in 1947*Loretta Young
+Tv/Movies:Oscars:Loretta Young won best actress oscar in 1947 for her role in what movie*The Farmer's Daughter
+Tv/Movies:Comedy:What was the subtitle of the third movie in 'The Naked Gun' series*The Final Insult
+Tv/Movies:Comedy:What was the headline of Frank Drebin's newspaper at the beginning of the Third 'Naked Gun' series*Dyslexia For Cure Found
+Tv/Movies:Action/Adventure:Tyrone swashes his buckle through this 1942 bird titled adventure*The Black Swan
+Tv/Movies:Action/Adventure:In the 1942 film The Black Swan who played Tyrone's Girl*Maureen O'Hara
+Tv/Movies:Musical:Who played the pinball wizard in the 1975 'Tommy'*Elton John
+Tv/Movies:Legends:What links Marilyn Monroe's roles in the following films. Right Cross (1950),O Henry's Full House (1952) and The Seven Year Itch (1955)*Your never told her name
+Tv/Movies:Grossing:How much money did the 1987 film Beverly Hills Cop 2 earn*$80.8 million
+Tv/Movies:Grossing:How much money did the 1987 film Three Men and a Baby earn*$81.3 million
+Tv/Movies:Grossing:How much money did the 1987 film Fatal Attraction earn*70.0 million
+Tv/Movies:Oscars:What film won Best Picture in 1952*The Greatest Show on Earth
+Tv/Movies:Toons:What toon superstar did Bob Clampett create*Bugs Bunny
+Tv/Movies:Toons:Who created toon superstar Bugs Bunny*Bob Clampett
+Tv/Movies:Comedy:Who played Alvy Singer in 1977 film Annie Hall*Woody Allen
+Tv/Movies:Thriller:What Hitchcock film featured sisters Marion and Lila Crane*Psycho
+Tv/Movies:Thriller:In the movie Psycho what did they use for blood in the shower scene*chocolate sauce
+Tv/Movies:Starline:Who was Howard Hughes describing when he said "There are two good reasons why men will want to see her."*Jane Russell
+Tv/Movies:Stars:Which 1968 Film was Goldie Hawn's debut*The One and Only Genuine Family Band
+Tv/Movies:Past-Times:What film used 250,000 extras for a funeral scene*Gandhi
+Tv/Movies:Oscars:What was unusual about the Oscar presented to ventriloquist Edgar Bergen for his outstanding comic creation*It was made of wood
+Tv/Movies:Toons:Who was the model for the sorcerer, Yensid, in the Sorcer's Apprentice segment of the 1940's Fantasia*Walt Disney
+Tv/Movies:Comedy:What 1991 film co-starred Anjelica Huston, Christopher Llyod and Raul Julia*The Addams Family
+Tv/Movies:Western:In what 1953 film did Alan Ladd's character beat teh gunfighter Wilson to the draw*Shane
+Tv/Movies:Triple Play:What historical character has been portrayed by Trevor Howard, Charles Laughton and Anthony Hopkins*Captain William Bligh
+Tv/Movies:The Biz:What director was responsible for the top grossing film of the 60's*Robert Wise
+Tv/Movies:Directors:Who directed the 1965 film 'The Sound of Music*Robert Wise
+Tv/Movies:Oscars:What 1972 film saw the whole cast nominated for the Oscars*Sleuth
+Tv/Movies:Oscars:Who starred in the 1972 film Sleuth*Michael Caine
+Tv/Movies:Oscars:Who starred in the 1972 film Sleuth*Laurence Olivier
+Tv/Movies:Fantasy:Name one of the 3 prospective bodies for Joe Pendleton in 1978's Heaven Can Wait*tightrope walker*Grand Prix driver*football player
+Tv/Movies:Comedy:What Multi re-made 1940 film starred Cary Grant, Rosalind Russell and Ralph Bellamy*His Girl Friday
+Tv/Movies:Action/Adventure:Where type of dwelling did the Swiss Family Robinson live in*A Tree House
+Tv/Movies:Action/Adventure:What did Mrs. Robinson (Swiss Family Robinson) say the island lacked*Girls
+Tv/Movies:Filmlines:What 1981 film featured the line "Who was that masked man?"*Legend of the Lone Ranger
+Tv/Movies:Stars:Who is the granddaughter of playwright Eugene O'Neill*Geraldine Chaplin
+Tv/Movies:Past-Times:Which film fetures Four of the Queen's guys taking on Four of the Cardinal's guys*The Three Musketeers
+Tv/Movies:Oscars:Which film won the Best Picture Oscar in 1979*Kramer vs. Kramer
+Tv/Movies:Directors:Who directed Star Trek 2*Leonard Nimoy
+Tv/Movies:Directors:Who directed Star Trek 3*Leonard Nimoy
+Tv/Movies:Directors:Who directed Star Trek 5*William Shatner
+Tv/Movies:Drama:What 1990 film found Campbell Scott and cast in an emotional examination of AIDS*Longtime Companion
+Tv/Movies:War:John Wayne starred in this 1968 Vietnam War film*The Green Berets
+Tv/Movies:Filmlines:In what Francis Ford Coppola film did we hear, "Peggy, you know what a penis is- stay away from it"*Peggy Sue Got Married
+Tv/Movies:Directors:Who directed Peggy Sue Got Married*Francis Ford Coppola
+Tv/Movies:Namegame:Whos film characters included Joe Bella,Tommy Five Tone and Jack Ruby*Danny Aiello
+Tv/Movies:Remake:Which 1969 Bob Fosse musical is based on 1957's Nights of Cabiria*Sweet Charity
+Tv/Movies:Oscars:Who won best supporting actress in 1993*Anna Paquin
+Tv/Movies:Fantasy:Who played the clergyman in 'The Bishop's Wife'*David Niven
+Tv/Movies:Drama:In what 1990 movie did Tom Cochran try to 'get even' with Tiburon Mendez*Revenge
+Tv/Movies:Drama:In the Revenge who played the woman Tom Cochran and Tiburon Mendez fought over*Madeleine Stowe
+Tv/Movies:Action/Adventure:In the 1950 Disney adaptation of Treasure Island where did Jim Hawkins live*The Admiral Benbow
+Tv/Movies:Action/Adventure:In the 1950 Disney adaptation of Treasure Island what was the name of the captain who lodged at the inn*Captain Billy Bones
+Tv/Movies:Books:What 1938 film is based on a 1937 short story in Colliers magazine titled Stage To Lordsburg*Stagecoach
+Tv/Movies:Legends:What comic genius' wives were 16,16,20 &17 years old at the time of their marriages*Charlie Chaplin
+Tv/Movies:Legends:What was the first name of Charlie Chaplin's last wife*Oona
+Tv/Movies:Grossing:How much money did the 1980 film The Empire Strikes back earn*$141.6 million
+Tv/Movies:Grossing:How much money did the 1980 film 9 to 5 earn?*59.1 million
+Tv/Movies:Grossing:How much money did the 1980 film Stir Crazy earn*$58.4 million
+Tv/Movies:Oscars:In 1936 who won the Best Actor Oscar*Paul Muni
+Tv/Movies:Stars:Who was the star of the 1936 film 'The Story of Louis Pasteur'*Paul Muni
+Tv/Movies:SciFi:What important part did Canadian Douglas Rain play in the 1968 film 2001, A Space Odyssey*The voice of HAL
+Tv/Movies:Comedy:In the 1989 film When Harry Met Sally, what song did the lead characters sing on a store's karaoke machine*Surrey with the Fringe on Top
+Tv/Movies:Action/Adventure:In what 1994 film did bus #2525 play a pivotal role*Speed
+Tv/Movies:Comedy Filmline:"We find the defendants incredibly guilty."*The Guilty
+Tv/Movies:Stars:Who has played a Beverly Hills hustler, a Navy cadet and a very wealthy Beverly Hills 'john'*richard gere
+Tv/Movies:Directors:Who did John Ford come to blows with in the making of 1955's Mister Roberts*Henry Fonda
+Tv/Movies:Oscars:1946 Who won Best Actor for his part in the film The Best Years of Our Lives*Fredric March
+Tv/Movies:SciFi:What 1956 low budget classic co-starred Kevin McCarthy and Dana Wynter*Invasion of the Body Snatchers
+Tv/Movies:SciFi:Who directed the film Invasion of the Body Snatchers*Don Siegel
+Tv/Movies:Drama In what 1990 film did Jeremy Irons play Klaus von Burlow*Reversal of Fortune
+Tv/Movies:Action/Adventure:Firefox was what type of aircraft in the 1982 film of the same name*Supersonic fighter aircraft
+Tv/Movies:One Word:Complete the film titles -------Goes to the Races,------- in the Navy & ------- in the Haunted House*Francis
+Tv/Movies:Nicknames:Who was known as 'The Platinum Blond'*Jean Harlow
+Tv/Movies:Stars:Who was the first actress to appear on the cover of Life Magazine in May 1937*Jean Harlow
+Tv/Movies:Remake:What was the title of the 1984 remake of the 1938 A Yank at Oxford*Oxford Blues
+Tv/Movies:Oscars:Name either of the two films Oliver Stone won the Best Director Oscar for*Born on the Fourth of July*Platoon
+Tv/Movies:Toons:What former TV M.A.S.H. alumnus was the voice of cogsworth in the 1991 Beauty and the Beast*David Ogden Stiers
+Tv/Movies:Comedy:Who played Terry in the Steve Martin film All of Me*Victoria Tennant
+Tv/Movies:Action/Adventure:What 1971 motorcycle flick co-starred Dennis Hopper and Peter Fonda*Easy Rider
+Tv/Movies:Musical:Who played the Scarecrow in the 1978 film The Wiz*Michael Jackson
+Tv/Movies:RealNames:What 1933 film was the first to co-star Frederick Austerlitz and Virginia McMath*Flying Down to Rio
+Tv/Movies:Movielink:What do Dr. Elrich's Magic Bullet (1938), Panic in the Street (1950) & Longtime Companion(1990) have in common*Diseases were the theme
+Tv/Movies:Oscars:Greer Garson was nominated for Best Actress in 1942,1943,1944 for films with womens names as titles Name one of the 3*Mrs. Parkington*Mrs. Miniver*Madame Curie
+Tv/Movies:Fantasy:What 1981 Film co-starred Harry Hamlin, Laurence Olivier and Maggie Smith*Clash of the Titans
+Tv/Movies:Drama:What 1954 naval court room drama co-starred Humphrey Bogart,Jose Ferrer and Van Johnson*The Caine Mutiny
+Tv/Movies:Action/Adventure:What 1975 film co-starred Clint Eastwood,George Kennedy and ted Cassidy*The Eiger Sanction
+Tv/Movies:Books:What 1979 film used Joseph Conrad's Heart of Darkness as a plot basis*Apocalypse Now
+Tv/Movies:Stars:Who has played a hit man, the devil and a humorous super villain*Jack Nicholson
+Tv/Movies:Sequels:What was the title of the 1978 sequel to the 1961 The Guns of Navarone*Force 10 from Navarone
+Tv/Movies:Oscars:What film won the Oscar for Best Picture in 1970*Love Story
+Tv/Movies:Toons:What famous conductor participated in Disney's 1940 classic Fantasia*Leopold Stokowski
+Tv/Movies:Drama:Who played Bob Woodward in the 1976 film All the President's Men*Robert Redford
+Tv/Movies:Crime:Who played Elliot Ness in the 1987 film The Untouchables*Kevin Costner
+Tv/Movies:Filmline: Which 1969 Western featured the line "I wont watch you die. I'll miss that scene if you don't mind."*Butch Cassidy and the Sundance Kid
+Tv/Movies:Stars:Who appeared in Doc Hollywood (1991) Singles (1992) & Point of No Return (1993)*Bridget fonda
+Tv/Movies:On Location:What 1970 'disaster' film was filmed partially at Minneapolis-St Paul international Airport*Airport
+Tv/Movies:Oscars:What sad distinction does Peter Finch Hold*Only person to win Posthumously
+Tv/Movies:Oscars:For his role in which movie did Peter Finch win the Best Actor Oscar for posthumously*Network
+Category: Religion : Who is the Linux operating system named after*linus torvalds
+Category: Religion : Who is the Norse Watchman of the Gods*heimdall
+Category: Religion : Who is the Norse god of justice*forseti
+Category: Religion : Who is the Norse god of poetry*bragi
+Category: Religion : Who is the Norse god of poetry*bragi
+Category: Religion : Who is the Norse god of the sky and thunder*thor
+Category: Religion : Who is the Norse god of the sky and thunder*thor
+Category: Religion : Who is the greek equivalent of the roman god Cupid*eros
+Category: Religion : Who is the greek equivalent of the roman god Diana*artemis
+Category: Religion : Who is the greek equivalent of the roman god Discordia*eris
+Category: Religion : Who is the greek equivalent of the roman god Juno*hera
+Category: Religion : Who is the greek equivalent of the roman god Jupiter*zeus
+Category: Religion : Who is the greek equivalent of the roman god Mars*ares
+Category: Religion : Who is the greek equivalent of the roman god Mercury*hermes
+Category: Religion : Who is the greek equivalent of the roman god Minerva*athena
+Category: Religion : Who is the greek equivalent of the roman god Neptune*poseidon
+Category: Religion : Who is the greek equivalent of the roman god Pluto*hades
+Category: Religion : Who is the greek equivalent of the roman god Venus*aphrodite
+Category: Religion : Who is the greek equivalent of the roman god Vesta*hestia
+Category: Religion : Who is the greek equivalent of the roman god Vulcan*hephaistos
+Category: Sports : Where were the 1896 Olympics held*athens, greece
+Category: Sports : Where were the 1900 Olympics held*paris, france
+Category: Sports : Where were the 1906 Olympics held*athens, greece
+Category: Sports : Where were the 1908 Olympics held*london, england
+Category: Sports : Where were the 1912 Olympics held*stockholm, sweden
+Category: Sports : Where were the 1920 Olympics held*antwerp, belgium
+Category: Sports : Where were the 1924 Olympics held*paris, france
+Category: Sports : Where were the 1928 Olympics held*amsterdam, the netherlands
+Category: Sports : Where were the 1936 Olympics held*berlin, germany
+Category: Sports : Where were the 1948 Olympics held*london, england
+Category: Sports : Where were the 1952 Olympics held*helsinki, finland
+Category: Sports : Where were the 1956 Olympics held*melbourne, australia
+Category: Sports : Where were the 1960 Olympics held*rome, italy
+Category: Sports : Where were the 1964 Olympics held*tokyo, japan
+Category: Sports : Where were the 1968 Olympics held*mexico city, mexico
+Category: Sports : Where were the 1972 Olympics held*munich, west germany
+Category: Sports : Where were the 1980 Olympics held*moscow, u.s.s.r
+Category: Sports : Where were the 1988 Olympics held*seoul, south korea
+Category: Sports : Where were the 1992 Olympics held*barcelona, spain
+Category: "Computer Science" : That big square thing you're staring at right now is called a _______*monitor
+Category: "Geography" : True Or False:  The Easter Bunny is from Easter Island.*false
+Category: "Geography" : True Or False:  There are only virgins on the Virgin Islands.*false
+Category: "History" : Those big black CD's that you see at garage sales that people call "albums" are made of _____.*vinyl
+Category: "Literature" : What's Penthouse's sister publication for women*viva
+Category: "Mathematics" : A U.S. dime is worth ___ cents.*10
+Category: "Mathematics" : The square root of 1 is*1
+Category: "Meteorology" : If the groundhog sees his shadow on Feb. 2, there will be how many more weeks of bad weather*six
+Category: Americanisms : Britains say 'tarmac'; Americans say ________.*runway
+Category: Anatomy : Your ____ holds your head to your shoulders.*neck
+Category: Arts : In what field of study would you find "flying buttresses"*architecture
+Category: Arts : The study of building design is ________.*architecture
+Category: Arts : This statue was found on the Greek island of Melos in 1820.*venus de milo
+Category: Arts : Three main types of Greek columns are Doric, Ionic, and __________.*corinthian
+Category: Arts : What Dutch master painted 64 self-portraits*rembrandt
+Category: Arts : Where is the Louvre located*paris
+Category: Arts : Who painted the Mona Lisa*leonardo da vinci
+Category: Astrology : Our galaxy is commonly known called _________.*milky way
+Category: Astrology : What is the only sign in the zodiac which doesn't represent a living thing*libra
+Category: Astrology : Which month has a diamond as a birthstone*april
+Category: Astronomy : A heavenly body moving under the attraction of the Sun and consisting of a nucleus and a tail is a(n) _______.*comet
+Category: Astronomy : Does Uranus have an aurora*yes
+Category: Astronomy : From 1979 until 2000 the most distant planet from the earth was ________.*neptune
+Category: Astronomy : If you're in the northern hemisphere, Polaris, the North Star, can be found by looking which direction*north
+Category: Astronomy : Name the largest planet in the solar system.*jupiter
+Category: Astronomy : Name the second-largest planet in the solar system.*saturn
+Category: Astronomy : The Big Dipper is part of what constellation*ursa major
+Category: Astronomy : The North Star is also known as ________.*polaris
+Category: Astronomy : The fourth planet from the sun is _______.*mars
+Category: Astronomy : The name for the group of stars which form a hunter with a club and shield is ________.*orion
+Category: Astronomy : The planet closest to the sun is _________.*mercury
+Category: Astronomy : The spiral galaxy nearest ours is the ________.*andromeda
+Category: Astronomy : The tides on the earth's oceans are actually created by gravitational pull from the ____*moon
+Category: Astronomy : There are _ planets in this solar system.*9
+Category: Astronomy : This cluster of stars is also known as the Seven Sisters.*pleiades
+Category: Astronomy : This comet appears every 76.3 years.*halley
+Category: Astronomy : This planet's diameter is most equal to that of the earth's.*venus
+Category: Astronomy : What does "Ursa Major" mean in everyday English*big bear
+Category: Astronomy : What is the name for a group of stars*constellation
+Category: Astronomy : What is the name for the theoretical end-product of the gravitational collapse of a massive star*black hole
+Category: Astronomy : What is the name used to describe the "minor planets"*asteroid
+Category: Astronomy : What is the ocean of air around the earth called*atmosphere
+Category: Astronomy : What is the proper name for falling stars*meteors
+Category: Astronomy : What is the term for the path followed by a body in space*orbit
+Category: Astronomy : What phenomenon is caused by the gravitational attraction of the moon*tide
+Category: Astronomy : What planet boasts the Great Red Spot*jupiter
+Category: Bet you don't know ;-) : The two sexes of humans are male and ______*female
+Category: Biochemistry : This poisonous, oily liquid occurs in tobacco leaves.*nicotine
+Category: Biochemistry : This protein makes the blood red in color.*hemoglobin
+Category: Biology : Every human has one of these on their tummies.*navel
+Category: Biology : How many large holes are in your head*7
+Category: Biology : This complex substance makes up all living things.*protoplasm
+Category: Biology : What is normal body temperature for an adult human*98f
+Category: Botany : The practice of joining the parts of two plants to make them grow as one is called ________.*grafting
+Category: Botany : These flowerless plants grow on bare rocks and tree stumps.*lichen
+Category: Botany : This fruit has its seeds on the outside.*strawberry
+Category: Botany : This term means 'cone-bearing trees'.*conifers
+Category: Botany : What fruit is "Citrus grandis"*grapefruit
+Category: Bursery Rhymes : Jack and Jill went up a ____ to fetch a pail of water*hill
+Category: Callendar : How many days where there in 1976*366
