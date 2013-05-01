@@ -5,3 +5,5 @@ Sci-fi: What was the name of the Russian film director who made a sci-fi film th
 Sci-fi: What was the female precog's name in Minority Report?`agatha
 Sci-fi: How many years were the replicants in Blade Runner programmed to live for?`4
 Sci-fi: What is the animal Dr. Tyrell keeps a robotic version of?`owl
+Sci-fi: What was the name of the test given in Blade Runner to test for replicants?`The Voight-Kampff test
+Sci-fi: What was the name of the book Blade Runner was based on?`Do Androids Dream Of Electric Sheep?
