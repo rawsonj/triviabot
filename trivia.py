@@ -69,20 +69,16 @@ class triviabot(irc.IRCClient):
         self._questions_dir = Q_DIR
         self._lc = LoopingCall(self._play_game)
         self._load_game()
-        self.linerate = 1
 
     def _get_nickname(self):
         return self.factory.nickname
 
-    @property
-    def _running(self):
-        return self.factory.running
-
-    @_running.setter
-    def _running(self, value):
-        self.factory.running = value
-
     nickname = property(_get_nickname)
+
+    def _get_linerate(self):
+        return self.factory.linerate
+
+    linerate = property(_get_linerate)
 
     def _play_game(self):
         '''
@@ -126,7 +122,7 @@ class triviabot(irc.IRCClient):
         self.join(self._game_channel)
         self.msg('NickServ','identify '+IDENT_STRING)
         print("Signed on as %s." % (self.nickname,))
-        if self._running:
+        if self.factory.running:
             self._start()
         else:
             self.msg(self._game_channel,
@@ -283,7 +279,7 @@ class triviabot(irc.IRCClient):
             return
         else:
             self._lc.start(WAIT_INTERVAL)
-            self._running = True
+            self.factory.running = True
 
     def _stop(self,*args):
         '''
@@ -302,7 +298,7 @@ class triviabot(irc.IRCClient):
             self.msg(self._game_channel,
                     '''Scores have been saved, and see you next game!''')
             self._save_game()
-            self._running = False
+            self.factory.running = False
 
     def _save_game(self,*args):
         '''
@@ -423,6 +419,7 @@ class ircbotFactory(ClientFactory):
     def __init__(self,nickname='trivia'):
         self.nickname = nickname
         self.running = False
+        self.linerate = 1
 
     def clientConnectionLost(self, connector, reason):
         print("Lost connection (%s)" % (reason,))
