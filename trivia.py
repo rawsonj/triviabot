@@ -126,11 +126,14 @@ class triviabot(irc.IRCClient):
         self.join(self._game_channel)
         self.msg('NickServ','identify '+IDENT_STRING)
         print("Signed on as %s." % (self.nickname,))
-        self.msg(self._game_channel,
-                '''Welcome to '''+self._game_channel+'''!\n'''
-                '''Have an admin start the game when you are ready.\n'''
-                '''For how to use this bot, just say ? help or\n'''
-                +self.nickname+' help.')
+        if self._running:
+            self._start()
+        else:
+            self.msg(self._game_channel,
+                    '''Welcome to '''+self._game_channel+'''!\n'''
+                    '''Have an admin start the game when you are ready.\n'''
+                    '''For how to use this bot, just say ? help or\n'''
+                    +self.nickname+' help.')
 
     def joined(self, channel):
         '''
