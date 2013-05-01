@@ -123,7 +123,7 @@ class triviabot(irc.IRCClient):
         self.msg('NickServ','identify '+IDENT_STRING)
         print("Signed on as %s." % (self.nickname,))
         if self.factory.running:
-            self._start()
+            self._start(None,None,None)
         else:
             self.msg(self._game_channel,
                     '''Welcome to '''+self._game_channel+'''!\n'''
