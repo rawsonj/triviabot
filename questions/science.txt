@@ -22,4 +22,4 @@ Science: What modern-day country did the asteroid that killed the dinosaurs stri
 Science: What planet did the sci-fi movie Event Horizon take place closest to?`neptune
 Science: What planet's atmosphere has the most ammonia?`neptune
 Science: Which rocky planet is the largest?`earth
-Science: How many moons does Mars have? (numberal, not word)`2
+Science: How many moons does Mars have? (numeral, not word)`2
