@@ -1917,7 +1917,7 @@ In 1932 Mark---------- , raconteur, born. `russell
 In 1934 ---------- Eden (in Arizona), actor (I dream of Jeannie), born. `barbara
 In 1934 Barbara ---------- (in Arizona), actor (I dream of Jeannie), born. `eden
 In 1934 Barbara Eden (in Arizona), actor (---------- ), born. `i dream of jeannie
-In 1944 ---------- liberated from Nazi occupation (Romanian National Day). `rumania
+In 1944 ---------- liberated from Nazi occupation (Romanian National Day). `romania
 In 1949 ---------- Long (in Fort Wayne, IN), actor, born. `shelley
 In 1949 Shelley ---------- (in Fort Wayne, IN), actor, born. `long
 In 1957 ---------- Equipment Corp. founded. `digital

@@ -53,7 +53,7 @@ which german city is famed for producing scent`cologne
 what is dagwood's dog's name`daisy
 what did percy shaw invent`cat's eyes
 who invented cat's eyes`percy shaw
-where is transylvania`rumania
+where is transylvania`romania
 what herb is usually on a pizza base`oregano
 the first academy awards were presented in 1927, 1930 or 1941`1927
 who is shroeder's favourite composer`beethoven
@@ -1443,7 +1443,7 @@ which is the only mammal with four knees`elephant
 who consumes 25% of the world's energy`united states
 on what side of the road do the japanese drive`left
 through which english city does the prime meridian pass`greenwich
-of which country is constanta the major port city`rumania
+Of which country is Constanta a major port city?`romania
 in greek mythology, who is 'the dioscuri'`castor and pollux
 what is the belief in the existence of a god or gods`theism
 in the witwatersrand in 1886, near where were massive gold deposits discovered`johannesburg
@@ -6046,7 +6046,6 @@ in which film did matthew modine play a schizophrenic war veteran`birdy
 sociophobia is a fear of ______`society
 somniphobia is a fear of ______`sleep
 what is spain's biggest source of income`tourism
-germany's allies in wwii were japan, italy, hungary, bulgaria, finland, libya and ______`rumania
 spacephobia is a fear of ______`outer space
 in the nursery rhyme, who were the three men in a tub`butcher, baker, candlestick maker
 what is the capital of iran`teheran
@@ -6903,7 +6902,6 @@ who was the first person to win the indianapolis 500 four times`aj foyt
 what us state includes the telephone area code 706`georgia
 who was the first united states secretary of state`thomas jefferson
 who opened for the monkees on their 1968 american tour`jimi hendrix
-In which country are the Transylvanian Alps`rumania
 What's a microchip made of`silicon
 Music: Who recorded the 1962 hit song "Only Love Can Break a Heart"`gene pitney
 Which is the largest planet in our solar system`jupiter
@@ -7144,7 +7142,6 @@ What magazine did feminist expert Shere Hite pose for in 1971`playboy
 Somewhere Out There is a song from what movie`an american tail
 Who was the pop-up figure in the fun house in The Man With the Golden Gun`al capone
 Music Artists: Who did "Cheap Sunglasses" in 1979`zz top
-in which country are the transylvanian alps`rumania
 what's a microchip made of`silicon
 music: who recorded the 1962 hit song "only love can break a heart"`gene pitney
 which is the largest planet in our solar system`jupiter
