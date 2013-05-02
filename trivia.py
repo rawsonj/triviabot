@@ -49,6 +49,7 @@ SAVE_DIR = './savedata/'
 IDENT_STRING = 'oicu812'
 WAIT_INTERVAL = 30
 COLOR_CODE = '\0038,1 '
+LINE_RATE = 0.4
 
 class triviabot(irc.IRCClient):
     '''
@@ -419,7 +420,7 @@ class ircbotFactory(ClientFactory):
     def __init__(self,nickname='trivia'):
         self.nickname = nickname
         self.running = False
-        self.lineRate = 0.2
+        self.lineRate = LINE_RATE
 
     def clientConnectionLost(self, connector, reason):
         print("Lost connection (%s)" % (reason,))

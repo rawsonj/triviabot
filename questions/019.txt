@@ -2276,19 +2276,19 @@ Who made his first appearance as Sherlock Holmes in the 1939 film The Hound of t
 In the cartoon series, what is the name of Bart Simpson's dog`santa's little helper
 Who dies in every episode of the cartoon series South Park`Kenny
 What is a group of this animal called: Antelope`herd
-What is a group of this animal called: Ant`colony*army
+What is a group of this animal called: Ant`army
 What is a group of this animal called: Ape`shrewdness
-What is a group of this animal called: Donkey`herd*pace
+What is a group of this animal called: Donkey`pace
 What is a group of this animal called: Baboons`troop
 What is a group of this called: Bacteria`culture
 What is a group of this animal called: Badger`cete
-What is a group of this animal called: Bear`sleuth*sloth
+What is a group of this animal called: Bear`sloth
 What is a group of this animal called: Beaver`colony
-What is a group of this animal called: Bee`swarm*grist*hive
-What is a group of this animal called: Bird`flock*flight*congregation*volery
+What is a group of this animal called: Bee`hive
+What is a group of this animal called: Bird`flock
 What is a group of this animal called: Boar`sounder
 What is a group of this animal called: Buffalo`herd
-What is a group of this animal called: Buck`brace*clash
+What is a group of this animal called: Buck`clash
 What is a group of this animal called: Caterpillar`army
 What is a group of this animal called: Cat`clowder*clutter
 What is a group of this animal called: Cattle`herd*drove
@@ -2299,7 +2299,7 @@ What is a group of this animal called: Cobra`quiver
 What is a group of this animal called: Colt`rag
 What is a group of this animal called: Cow`kine
 What is a group of this animal called: Coyote`band
-What is a group of this animal called: Crane`sedge*siege
+What is a group of this animal called: Crane`sedge
 What is a group of this animal called: Crocodile`float
 What is a group of this animal called: Crow`murder
 What is a group of this animal called: Cub`litter
