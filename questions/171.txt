@@ -1,4 +1,3 @@
-&001tvmovies3.lst Unknown Subject`Unknown Author*Unknown Origin
 TV/ Movies: First Class Flicks: Chance the gardener finds himself as presidential advisor thru accident.`being there
 TV/ Movies: First Class Flicks: Con artist & his young pal formulate elaborate swindle.`the sting
 TV/ Movies: First Class Flicks: Eliot Ness & crew clean up Chicago.`the untouchables
@@ -68,11 +67,9 @@ TV/ Movies: Get Smart: Famous Hawaiian detective impeccably dressed in white sui
 TV/ Movies: Get Smart: His first name is Ludwig.`siegfried
 TV/ Movies: Get Smart: In Smart's apartment, the phone is hidden inside this`phone
 TV/ Movies: Get Smart: Kaos executioner & Smart's nemesis.`siegfried
-TV/ Movies: Get Smart: KAOS stands for this`nothing
-TV/ Movies: Get Smart: Said "I'd give anything to be cooped up in anything as big as a small room."`thirteen*13
-TV/ Movies: Get Smart: Said "People hate; robots love."`hymie
-TV/ Movies: Get Smart: Said "Would you believe ... "`smart
-TV/ Movies: Get Smart: Smart calls this Chinese KAOS agent "The Craw".`the claw
+TV/ Movies: Get Smart: Who said "I'd give anything to be cooped up in anything as big as a small room."`Agent 13
+TV/ Movies: Get Smart: Who said "People hate; robots love."`hymie
+TV/ Movies: Get Smart: Who said "Would you believe ... "`smart
 TV/ Movies: Get Smart: Smart's call number.`86
 TV/ Movies: Get Smart: Spoof of the James Bond movie _Dr. No_.`dr yes
 TV/ Movies: Get Smart: The chief's bumbling secretary.`larabee
@@ -120,17 +117,17 @@ TV/ Movies: Hollywood: Musical superstar played a saloon pianist in South Sea Si
 TV/ Movies: Hollywood: Name of Brooke Shields' mother.`teri
 TV/ Movies: Hollywood: Richard Chamberlain's first name.`george
 TV/ Movies: Hollywood: TV/Casino star who wrote much poetry, including Touch Me, & Touch Me Again.`suzanne somers
-TV/ Movies: How long did "i love lucy" run`six seasons*6 seasons
+TV/ Movies: How many seasons did "I Love Lucy" run?`6
 TV/ Movies: How many '58 Plymouth Furys were used to make the movie "christine"`9
-TV/ Movies: How many episodes were there in the original star trek series`seventy five*75
-TV/ Movies: How many james bond movies did sean connery star in`seven*7
-TV/ Movies: How many southpark episodes have there been that kenny didnt get killed`one*1
+TV/ Movies: How many episodes were there in the original star trek series`75
+TV/ Movies: How many james bond movies did sean connery star in`7
+TV/ Movies: During the first 5 seasons, in how many South Park episodes kenny did NOT get killed`5
 TV/ Movies: How many St. Bernards were used in the movie "cujo"`5
-TV/ Movies: How many stories did the towering inferno have`one hundred & thirty eight*138
-TV/ Movies: How many westerns were directed by a woman`one*1
+TV/ Movies: How many stories did the towering inferno have`138
+TV/ Movies: How many westerns were directed by a woman`1
 TV/ Movies: How many years of life did the klingon empire have left to it`fifty years
 TV/ Movies: How much would contestants win if you could not "make me laugh" on tv`one dollar per minute
-TV/ Movies: How old was Sally Field when she starred in Gidget`eighteen*18
+TV/ Movies: How old was Sally Field when she starred in Gidget`18
 TV/ Movies: How was the virus transmitted in the movie 'Outbreak'`through the air
 TV/ Movies: Howdy Doody had how many freckles`48
 TV/ Movies: If norm could have any woman in the world, who would it be`jill eikenberry
@@ -165,7 +162,7 @@ TV/ Movies: In the cartoons who was hokie wolf's sidekick`dingaling
 TV/ Movies: In the episode "trilogy part 3", who did sam leap into`larry stanton
 TV/ Movies: In the film "bringing up baby", the baby is what`leopard
 TV/ Movies: In the film '101 dalmatians', what animal is sergeant tibbs`cat
-TV/ Movies: In the film 'hackers', how old was 'zero_kool' when he was first arrested`eleven*11
+TV/ Movies: In the film 'hackers', how old was 'zero_kool' when he was first arrested`11
 TV/ Movies: In the film 'star trek first contact', when picard shows lilly she is orbiting earth, australia & papua new guinea are clearly visible, but which country is missing`new zealand
 TV/ Movies: In the movie "annie", who played daddy warbucks`albert finney
 TV/ Movies: In the movie "the manchurian candidate", how many people are feared dead in the hurricane`20
@@ -275,7 +272,7 @@ TV/ Movies: Mickey mouse's ears are always turned which way, no matter which dir
 TV/ Movies: Miss Moneypenny adores this figure.`james bond
 TV/ Movies: Monty Python: Lancelot's servant `concord
 TV/ Movies: Monty Python: Name of the kid who falls out of window `herbert
-TV/ Movies: Monty Python: The deformed knight had this many heads.`three*3
+TV/ Movies: Monty Python: The deformed knight had this many heads.`3
 TV/ Movies: Monty Python: The enchanter's name`tim
 TV/ Movies: Monty Python: What was the name of the scholary knight at the witch trial `sir bedivere
 TV/ Movies: Moronic Duo 1: (Easy one!) The network that airs B&B:`mtv
@@ -450,14 +447,14 @@ TV/ Movies: Older Movies: Katherine Hepburn was a socialite flirting with report
 TV/ Movies: Older Movies: Silly comedy with Dudley Moore & Liza Minelli (freebie):`arthur
 TV/ Movies: On "charlie's angels", who was the voice of charlie`john forsythe
 TV/ Movies: On Captain Midnight, what was Ichabod Mudd's nickname`icky
-TV/ Movies: On 'gilligan's island' mrs. Howell's maiden name was what`wentworth*
+TV/ Movies: On 'gilligan's island' mrs. Howell's maiden name was what`wentworth
 TV/ Movies: On 'Mad About You', Paul & Jamie's baby was named Mabel. What does it stand for`mothers always bring extra love
 TV/ Movies: On mork & mindy, what was mindy's last name`mcconnell
 TV/ Movies: On mork & mindy, who was the leader of the friends of venus`exidor
 TV/ Movies: On Porter Waggoner's show, who was his first singing partner `norma jean
 TV/ Movies: On 'southpark' what usually happens to kenny`he gets killed
 TV/ Movies: On the cartoon show 'the jetsons', how old is judy`15
-TV/ Movies: On 'the flintstones' who is barney & betty rubble's son`bambam*bam bam
+TV/ Movies: On 'the flintstones' who is barney & betty rubble's son`bamm-bamm
 TV/ Movies: On the set of Jaws what was the nickname given to the shark`bruce
 TV/ Movies: On tvs gilligans island, what characters real name was roy hinkley`the professor
 TV/ Movies: On tv's the love boat, what was adam bricker's job on the ship`doctor
@@ -606,7 +603,6 @@ TV/ Movies: Star Wars: Original owner of C3PO and R2D2.`biggs
 TV/ Movies: Star wars: what actor supplied the voice for darth vader`james earl jones
 TV/ Movies: Star wars: what is the name of the fake rebel base which princess leia gives`dantooine
 TV/ Movies: Star Wars: What was Luke Skywalker's nickname on Tatooine`wormie
-TV/ Movies: Star wars: who was one of three imperial officers mentioned in star wars, other than darth vader`tarkin*motti
 TV/ Movies: Startrek:who played captain james tkirk`william shatner
 TV/ Movies: Steve martin's cyrano was in love with this woman whose name was also the movie title. Name her`roxanne
 TV/ Movies: Sweeney sisters medleys always included: "Clang Clang Clang Goes --- -------"`the trolley
@@ -686,7 +682,7 @@ TV/ Movies: This movie had mira sorvino playing the role of a callgirl, in which
 TV/ Movies: This movie hero was a defender of the weak, champion of justice`lone ranger
 TV/ Movies: This movie is about the migration of poor workers from the dust bowl to the californian fruit valleys`the grapes of wrath
 TV/ Movies: This movie starring marlon brando won the best picture award in 1972`the godfather
-TV/ Movies: This movie starring sam neill won best movie in the 1993 cannes film festival`piano*
+TV/ Movies: This movie starring sam neill won best movie in the 1993 cannes film festival`piano
 TV/ Movies: This producer of dynasty was inducted into the 1983 guinness book of world records as the most prolific tv producer`aaron spelling
 TV/ Movies: This tv show performer was known as 'the shnozz' & ended every show with 'goodnight mrs. Calabash, wherever you are'`jimmy durante
 TV/ Movies: This was the first 3 d film`bwana devil
@@ -849,7 +845,7 @@ TV/ Movies: What Film: Pierce Brosnan, Leslie Anne Down, Adam Ant`nomads
 TV/ Movies: What georgia town did scarlett o'hara condemn as being full of pushy people`atlanta
 TV/ Movies: What Glenn Close movie did critic andrea Shaw describe as "the one night stand who won't go away"`fatal attraction
 TV/ Movies: What happened on screen for the first time in India in 1977`screen kiss
-TV/ Movies: What Hollywood starlet's pinup graced the most GI barracks in World War II`betty grable's*betty grables*betty grable
+TV/ Movies: What Hollywood starlet's pinup graced the most GI barracks in World War II`betty grable
 TV/ Movies: What host won emmy's for being the quizmaster on the $100,000 Pyramid`dick clark
 TV/ Movies: What housewife once portrayed a deep throated nurse`linda lovelace
 TV/ Movies: What is Cornelius Mcgillicuddy's stage name`connie mack
@@ -921,7 +917,7 @@ TV/ Movies: What pint sized italian actor once played guitar for joey dee & the 
 TV/ Movies: What plane crash movie had night talk show hosts cracking cannibalism jokes`alive
 TV/ Movies: What popular youth oriented actor made a cameo appearance in Star Trek VI: The Undiscovered Country`christian slater
 TV/ Movies: What 'pretty baby' star failed to prevent playboy press from releasing nude photos`brooke shields
-TV/ Movies: What private eye hangs out at the Kamehameha Club`thomas magnum*magnum
+TV/ Movies: What private eye hangs out at the Kamehameha Club`thomas magnum
 TV/ Movies: What profession was charlie brown's father`barber
 TV/ Movies: What quiz program was hosted by Groucho Marx`you bet your life
 TV/ Movies: What quiz show did Merv Griffin emcee in 1960`endoscope
@@ -935,7 +931,7 @@ TV/ Movies: What series did chris carter produce after his wildly successful x f
 TV/ Movies: What short lived series starred Ice Cube`the watcher
 TV/ Movies: What show did abc air when the earthquake stopped the world series`roseanne
 TV/ Movies: What show/game has characters such as bulbasaur & pikachu`pokemon
-TV/ Movies: What show's characters wrecked over 300 cars during its TV run`the dukes of hazzard*dukes of hazzard
+TV/ Movies: What show's characters wrecked over 300 cars during its TV run`dukes of hazzard
 TV/ Movies: What sitcom character was once named Toxic Waste Handler of the Month`homer simpson
 TV/ Movies: What sitcom popularized the line, "up your nose with a rubber hose"`welcome back, kotter
 TV/ Movies: What smash sitcom did lisa kudrow make her tv debut on, in 1982`cheers
@@ -949,7 +945,7 @@ TV/ Movies: What Sylvester Stallone movie was hyped: " His whole life was a mill
 TV/ Movies: What syndicated show sometimes goes by the title E T`entertainment tonight
 TV/ Movies: What Texan slammed back more bourbon & branch water than any character in tv history`j. r. ewing
 TV/ Movies: What thrill flick master died at 80 in 1980`alfred hitchcock
-TV/ Movies: What transporter room aboard the Enterprise is Chief O'brien's favorite`three*3
+TV/ Movies: What transporter room aboard the Enterprise is Chief O'brien's favorite`3
 TV/ Movies: What trivia fact about mel blanc (voice of bugs bunny) is most ironic`he was allergic to carrots
 TV/ Movies: What TV comedian with no ID card was asked to give a Tarzan yell to verify her identity, at Bergdorf Goodman`carol burnett
 TV/ Movies: What tv series did Dirk Benedict star in`battlestar galactica
@@ -982,7 +978,7 @@ TV/ Movies: What was mary ann's last name off of gilligans island`summers
 TV/ Movies: What was mickey mouse almost called`mortimer
 TV/ Movies: What was Mickey Mouse's first known as`mortimer mouse
 TV/ Movies: What was Mr. Spock's blood type`x positive
-TV/ Movies: What was Napoleon Solo's badge number in the "Man From Uncle" program`eleven*11
+TV/ Movies: What was Napoleon Solo's badge number in the "Man From Uncle" program`11
 TV/ Movies: What was Npoleon Solos boss's name`mr waverley
 TV/ Movies: What was one of the 5 movies nominated for best motion picture in 1955`mister roberts
 TV/ Movies: What was one of the 5 movies nominated for best picture in 1989`field of dreams
@@ -1037,7 +1033,7 @@ TV/ Movies: What was the name of the oil company that bought Jed Clampett's oil 
 TV/ Movies: What was the name of the old fireman on "leave it to beaver"`gus
 TV/ Movies: What was the name of the ranch in bonanza`ponderosa
 TV/ Movies: What was the name of the ranch on the Roy Rogers show`double r bar ranch
-TV/ Movies: What was the number of Gunther Toody's patrol car`fifty four*54
+TV/ Movies: What was the number of Gunther Toody's patrol car`54
 TV/ Movies: What was the principal setting location in "Young At Heart"`tashmoo prison, pa
 TV/ Movies: What was the real name of john wayne`marion morrison
 TV/ Movies: What was the real name of the dolphin that played flipper in the movie`mitzi
@@ -1056,14 +1052,14 @@ TV/ Movies: What's Ace Ventura's occupation`pet detective
 TV/ Movies: What's the favorite movie of rose bud`citizen kane
 TV/ Movies: Whats the first name of batmans butler`alfred
 TV/ Movies: What's the first video game to become a television show `pacman
-TV/ Movies: What's the name of the team Coach coaches on "Coach"`the screaming eagles*screaming eagles
+TV/ Movies: What's the name of the team Coach coaches on "Coach"`screaming eagles
 TV/ Movies: What's the name of the voice over actor who played Fred Flintstone`daws butler
 TV/ Movies: Whats the number on "herbie" the love bug`53
 TV/ Movies: When going on stage, actors consider it bad luck to be wished what `good luck
 TV/ Movies: When the students in 'dead poets' society' stood on their desks & said 'o captain! My captain', who were they quoting`walt whitman
 TV/ Movies: When was the show Leave It To Beaver first aired`october 4, 1957
 TV/ Movies: Where did clark kent attend college`metropolis university
-TV/ Movies: Where did Maxwell Smart hide his telephone`his right shoe*right shoe
+TV/ Movies: Where did Maxwell Smart hide his telephone`his right shoe
 TV/ Movies: Where did mighty mouse get his superpowers`the supermarket
 TV/ Movies: Where did robin hood supposedly live`sherwood forest
 TV/ Movies: Where did the kids sit on tvs howdy doody time`the peanut gallery
@@ -1122,7 +1118,7 @@ TV/ Movies: Who appeared in 'st. Elmo's fire', 'the scarlett letter' & 'striptea
 TV/ Movies: Who collaborated with U B Lwerks in the creation of Mickey Mouse`walt disney
 TV/ Movies: Who cooked for the Cartwrights on the Ponderosa`hop sing
 TV/ Movies: Who created "rocky & bullwinkle"`jay ward
-TV/ Movies: Who created Maudie Frickett`jonathan winters*winters
+TV/ Movies: Who created Maudie Frickett`jonathan winters
 TV/ Movies: Who did charlie becker play in 'the wizard of oz'`the mayor of the munchkins
 TV/ Movies: Who did Pat Sajak play on the soapie 'Days Of Our Lives'`kevin hathaway
 TV/ Movies: Who directed "anatomy of a murder"`otto preminger
@@ -1202,7 +1198,7 @@ TV/ Movies: Who played lulu hogg on dukes of hazzard`pearl shear
 TV/ Movies: Who played Major Pappy Boyington in the war drama Baa Baa Black Sheep`robert conrad
 TV/ Movies: Who played pauline porizkova's alibi in the movie "her alibi"`tom selleck
 TV/ Movies: Who played pontius pilate in "the last days of pompeii"`basil rathbone
-TV/ Movies: Who played private detective philip marlowe in the 1946 film "the big sleep`"*humphrey bogart
+TV/ Movies: Who played private detective philip marlowe in the 1946 film "the big sleep"`humphrey bogart
 TV/ Movies: Who played quint the shark hunter in jaws`robert shaw
 TV/ Movies: Who played richie cunningham in the tv show happy days`ron howard
 TV/ Movies: Who played richie in happy days`ron howard
@@ -3129,7 +3125,7 @@ TV/ Movies: Who was E.T.'s best friend`elliot
 TV/ Movies: What British pop star appeared in the 1970 film Performance`mick jagger
 TV/ Movies: What was Barbra Streisands first film`funny girl
 TV/ Movies: Whose figure did Walt Disney use as a model for Tinkerbell`marilyn monroe
-TV/ Movies: How many of the canoeing party survived in Deliverance`three*3
+TV/ Movies: How many of the canoeing party survived in Deliverance`3
 TV/ Movies: Which film returned Love is All Around to the charts`four weddings and a funeral
 TV/ Movies: Which Bond theme was sung by Nancy Sinatra`you only live twice
 TV/ Movies: What was the sequel to Gentlemen Prefer Blondes`gentlemen marry brunettes
@@ -3454,7 +3450,7 @@ TV/ Movies: 2000, This Movie was Released on January 1, ---------- `fantasia 200
 TV/ Movies: Who starred in the film Richie Rich`macaulay culkin
 TV/ Movies: What kind of hats did laurel and Hardy wear`bowler hats
 TV/ Movies: Who played Robin in the film Batman Forever`chris o'donnell
-TV/ Movies: Useless Space Trivia: What movie do all cosmonaughts watch before they go into space`beloye solntse pustinny*white sun of the desert
+TV/ Movies: Useless Space Trivia: What movie do all cosmonaughts watch before they go into space`white sun of the desert
 TV/ Movies: Who won the Oscar for best ACTRESS in a Leading Role in 1993 66th Academy Awards for the Movie THE PIANO`holly Hunter
 TV/ Movies: Who won the Oscar for best ACTRESS in a Leading Role in 1992 65th Academy Awards for the Movie HOWARDS END`emma thompson
 TV/ Movies: Who won the Oscar for best ACTRESS in a Leading Role in 1991 64th Academy Awards for the Movie THE SILENCE OF THE LAMBS`jodie foster
@@ -3637,8 +3633,8 @@ TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting role in 1959 32nd
 TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting role in 1958 31st Academy Awards for the Movie SEPARATE TABLES`wendy hiller
 TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting role in 1957 30th Academy Awards for the Movie SAYONARA`miyoshi umeki
 TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting role in 1956 29th Academy Awards for the Movie WRITTEN ON THE WIND`dorothy malone
-TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting role in 1955 28th Academy Awards`fleet - east of eden*jo Van
-TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting role in 1954 27th Academy Awards`saint - on the WATERFRONT*eva marie
+TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting role in 1955 28th Academy Awards for the movie EAST OF EDEN`jo Van fleet
+TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting role in 1954 27th Academy Awards for the movie ON THE WATERFRONT`eva marie saint
 TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting role in 1953 26th Academy Awards for the Movie FROM HERE TO ETERNITY`donna reed
 TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting role in 1952 25th Academy Awards for the Movie THE BAD AND THE BEAUTIFUL`gloria grahame
 TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting role in 1951 24th Academy Awards for the Movie A STREETCAR NAMED DESIRE`kim hunter
