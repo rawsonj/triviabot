@@ -290,14 +290,14 @@ In which war were the battles of Bull Run & Gettysburg`American civil war
 Who was the first British monarch to travel by train`Queen Victoria
 In which war did the poet Wilfred Owen fight`World War one
 Which Disney movie was based on a novel by French writer Victor Hugo`The Hunchback of Notre Dame
-The expression checkmate comes from the Arabic expression “shah mat”, what does it mean`The king is dead
+The expression checkmate comes from the Arabic expression 'shah mat', what does it mean`The king is dead
 Roughly how many stone slabs are there in the Great Pyramid`two million
 What is the arrow of a crossbow called`a bolt
 In which country did Ned Kelly become an outlaw`Australia
 What was special about the Heinkel He-178 plane, first flown in 1939`first jet plane
 What name was given to the Celtic priests`druids
 What kind of letters made up the Viking alphabet`runes
-That did a man named Dunlop invent in the 1880’s`pneumatic tyre*pneumatic tire
+That did a man named Dunlop invent in the 1880's`pneumatic tire
 With what is the inventor Charles Babbage linked`computers
 Who recorded a best selling album called Thriller`Michael Jackson
 Who were the first people to make paper`the Chinese
@@ -307,7 +307,7 @@ Which empire was conquered by Pizarro`inca empire
 What kind of boats did Polynesians use for ocean voyages`outrigger canoes
 Of which people was Genghis Kahn a war leader`The Mongols
 In which country did the ancient Olmecs live`Mexico
-Between which two countries does Offa’s Dyke run`England & Wales
+Between which two countries does Offa's Dyke run`England & Wales
 Which Polish astronomer proposed that the Earth was not the centre of the Universe`Copernicus
 What is the name of the religious wars fought against the Turks`the crusades
 Where did Vasco da Gama sail to in 1498`India
@@ -494,7 +494,6 @@ ANIMALS: What type of creature is a colobus`monkey
 SCIENCE: Which physicist was in charge of the Manhattan Project at Los Alamos to develop the atomic bomb and subsequently promoted the peaceful use of atomic energy`robert oppenheimer
 TV: What was Coronation Stret originally going tobe called until it was realised that it sounded like a loo cleaner`florizel street
 SCIENCE: Which Scottish chemist and physicist invented the vacuum flask`james dewar
-GENERAL KNOWLEDGE: Before he carved the heads at Mount Rushmore, who had the sculptor been asked to carve into Stone Mountain in Georgia`robert lee*stonewall jackson*jefferson davis
 GENERAL KNOWLEDGE: Who carved the heads at Mount Rushmore`Gutzon Borglum
 GENERAL KNOWLEDGE: Name of the indigenous  people of Jamaica`arawaks
 GENERAL KNOWLEDGE: Which Derbyshire born aeronautical engineer designed the R100 airship,the bouncing bomb and the first swing wing aircraft`Sir barnes neville wallis
@@ -521,7 +520,6 @@ THE BODY: What name is given to the bodys 24 hour cycle of sleeping, waking`circ
 THE BODY: Which acid is produced in the muscles during exercise`lactic acid
 GENERAL KNOWLEDGE: According to Louis Macneice in his poem Sunday Morning, what part of a man expands to tinker with his car`his heart
 GENERAL KNOWLEDGE: What kind of representation of the human body is given to the name ecorche`skin removed
-KAOS: The cranial nerves ( clue! -OOOTTAFAGVAH)`olfactory*optic*oculomotor*trochlear*trigeminal*abducens*facial*auditory*glossopharyngeal*vagus*accessory*hypoglossal
 SPORT: Which football clubs recording of Blue is the Colour reached no 5 in the charts in 1972`Chelsea
 SPORT: Which was the first British team to win European Cup`celtic
 SPORT: In 1983-4 who was the first British footballer to win the european Golden Boot`ian rush
@@ -596,7 +594,7 @@ Which vegetable is the emblem of Wales`leek
 Which flower is the emblem of Scotland`thistle
 In which building did the funeral of Princess Diana take place`westminster abbey
 What would you do with a John Collins`drink it
-For what do the letters www stand`world wide web*world wide wait
+For what do the letters www stand`world wide web
 In transport, what do the letters HGV stand for`heavy goods vehicle
 Ultramarine is a shade of what colour`blue
 Sienna is a shade of what colour`brown
@@ -613,7 +611,7 @@ What do the letters HB stand for on a pencil`hard black
 Which 3 colours are on the Dutch flag`red, white & blue
 In 1961, who was the first man to travel in space`yuri gagarin
 Which Briton, in 1987, made the first transatlantic flight by balloon`richard branson
-Which product is measured by its octane rating`petrol*gasoline
+Which product is measured by its octane rating?`gasoline
 Is talcum powder animal, mineral or vegetable`mineral
 Who was Jane Torvill's ice-skating partner`christopher dean
 Which rock star is known as The Groover From Vancouver`bryan adams
@@ -630,7 +628,7 @@ What is a kinkajou`An animal
 Which is the largest county in Ireland`Cork
 Which of these is not one of the Corrs-Andrea,Colleen,Sharon`Colleen
 Who played the 'Man With No Name` in the  film A Fistful of Dollars`Clint Eastwood
-What are the only two poisonous lizards in the world`Gila Monster*The Beaded Lizard
+What are the only two poisonous lizards in the world`Gila Monster & Beaded Lizard
 In which village does Postman Pat live`Greendale
 What was the name of the eagle that famously escaped from London Zoo in 1965`Goldie
 Who preceded John Paul II as Pope`John Paul I
@@ -675,14 +673,13 @@ In 1159 ---------- only English pope (1154-59), dies`adrian iv
 In 1557 ---------- Cartier French explorer, dies`jacques
 In 1557 Jacques ---------- French explorer, dies`cartier
 In 1715 ---------- the great, king of France (1643-1715), dies at 76`louis xiv
-In 1715 Louis XIV the great, king of France (1643-1715), dies, what age was he`seventy six*76
 In 1859 1st observation of solar flare is made by whom (2 scientists)`carrington & hodgson
 In 1870 Napoleon III captured at----------`sedan
 In 1875 ---------- Rice Burroughs, novelist (Tarzan, John Carter Of Mars Saga), born`edgar
 In 1914 ---------- , Russia changes name to Petrograd`st petersburg
 In 1914 St Petersburg, Russia changes name to----------`petrograd
 In 1922  atVancouver BC, actress Lily Munster in the Munsters, born`yvonne de carlo
-In 1923 heavyweight champion boxer (1952-56), born`*rocky marciano
+In 1923 heavyweight champion boxer (1952-56), born`rocky marciano
 In 1928 ---------- becomes a kingdom, with Zogu I as king`albania
 In 1939 Physical Review publishes 1st paper to deal with----------`black holes
 In 1939 WW II starts, Germany invades Poland, takes----------`danzig
@@ -732,12 +729,9 @@ In 1596 ---------- Amati, Italy, violin maker (Stradivari and Guarneri), born`ni
 In 1596 Nicolo---------- , Italy, violin maker (Stradivari and Guarneri), born`amati
 In 1596 Nicolo Amati, Italy, violin maker (---------- and Guarneri), born`stradivari
 In 1596 Nicolo Amati, Italy, violin maker (Stradivari and---------- ), born`guarneri
-In 1658 ---------- king of England (1603-25), dies at 92`james i
-In 1658 James I king of England (1603-25), dies at----------`ninety two*92
+In 1658 King _____ _ of England (1603-25), dies at 92`james i
 In 1658 Lord ---------- Cromwell British king (1653-58), dies at 59`oliver
 In 1658 Lord Oliver ---------- British king (1653-58), dies at 59`cromwell
-In 1658 Lord Oliver Cromwell British king (1653-58), dies at----------`fifty nine*59
-Gregorian Calendar People riot thinking the govt stole ---------- days of their lives`eleven*11
 In 1757---------- , Versailles, France, Duke of Prussia, born`charles x
 In 1757 Charles X, Versailles, ---------- , Duke of Prussia, born`france
 In 1757 Charles X, Versailles, France, Duke of---------- , born`prussia
@@ -752,14 +746,13 @@ In 1939 Britain declares war on Germany France follows 6 hours later quickly joi
 In 1940 ---------- Collins, London England, actress (Shirley Valentine), born`pauline
 In 1940 Pauline---------- , London England, actress (Shirley Valentine), born`collins
 In 1940 Pauline Collins, London England, actress (---------- ), born`shirley valentine
-In 1940 US gives Britain ---------- destroyers in exchange for Newfoundland base lease`fifty*50
+In 1940 US gives Britain ---------- destroyers in exchange for Newfoundland base lease`fifty
 In 1940 US gives Britain 50 destroyers in exchange for ---------- base lease`newfoundland
 In 1943 ---------- invade Italy`allies
 In 1943 Allies invade----------`italy
 In 1945 Japanese forces in the ---------- surrender to Allies`philippines
 In 1954 Pope ---------- canonized a saint`pius x
 In 1962 E E ---------- poet, dies at 67`cummings
-In 1962 E E Cummings poet, dies at----------`sixty seven*67
 In 1965 ---------- Sheen, actor (Wall St, Platoon), born`charlie
 In 1965 Charlie---------- , actor (Wall St, Platoon), born`sheen
 In 1965 Charlie Sheen, actor (---------- , Platoon), born`wall st
@@ -770,7 +763,6 @@ In 1969 Ho Chi ---------- North Vietnamese president, dies`minh
 In 1991 ---------- Capra director (It's a Wonderful Life), dies at 94`frank
 In 1991 Frank ---------- director (It's a Wonderful Life), dies at 94`capra
 In 1991 Frank Capra director (---------- ), dies at 94`it's a wonderful life
-In 1991 Frank Capra director (It's a Wonderful Life), dies at----------`ninety four*94
 In 0476 ---------- Augustulus, last Roman emperor in west, is deposed`romulus
 In 0476 Romulus---------- , last Roman emperor in west, is deposed`augustulus
 In 1609 Navigator ---------- Hudson discovered the island of Manhattan`henry

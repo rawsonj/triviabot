@@ -2052,7 +2052,6 @@ What is the Capital of: Virgin Islands `charlotte amalie
 What is the Capital of: Wallis and Futuna `mata-utu
 What is the Capital of: Yemen `sanaa
 What is the Capital of: Zambia `lusaka
-What is the Capital of: Zimbabwe `harare
 Who initiated the works of the Bible `king solomon
 Who invented analytic geometry`descartes
 Who invented Coca Cola`dr john pemberton

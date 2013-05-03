@@ -42,14 +42,7 @@ import json
 
 from lib.answer import Answer
 
-GAME_CHANNEL = '#trivia'
-ADMINS = ['nameless']
-Q_DIR = './questions/'
-SAVE_DIR = './savedata/'
-IDENT_STRING = 'oicu812'
-WAIT_INTERVAL = 30
-COLOR_CODE = '\0038,1 '
-LINE_RATE = 0.4
+from config import *
 
 class triviabot(irc.IRCClient):
     '''
@@ -129,7 +122,7 @@ class triviabot(irc.IRCClient):
             self.msg(self._game_channel,
                     COLOR_CODE+'''Welcome to '''+self._game_channel+'''!\n'''
                     +COLOR_CODE+'''Have an admin start the game when you are ready.\n'''
-                    +COLOR_CODE+'''For how to use this bot, just say ? help or\n'''
+                    +COLOR_CODE+'''For how to use this bot, just say ?help or\n'''
                     +COLOR_CODE+self.nickname+' help.')
 
     def joined(self, channel):
@@ -384,8 +377,11 @@ class triviabot(irc.IRCClient):
         TODO: order them.
         '''
         self.msg(user,COLOR_CODE+"The current trivia standings are: ")
-        for name in self._scores.keys():
-            self.msg(user,COLOR_CODE+name+": "+str(self._scores[name]))
+        sorted_scores = sorted(self._scores.iteritems(), key=lambda (k,v):
+                               (v,k), reverse=True)
+        for rank, (player, score) in enumerate(sorted_scores, start=1):
+            formatted_score = "%s: %s: %s" % (rank,player,score)
+            self.msg(user,COLOR_CODE + str(formatted_score))
 
     def _give_clue(self,args,user,channel):
         if not self._lc.running:
@@ -420,7 +416,7 @@ class triviabot(irc.IRCClient):
 class ircbotFactory(ClientFactory):
     protocol = triviabot
 
-    def __init__(self,nickname='trivia'):
+    def __init__(self, nickname = DEFAULT_NICK):
         self.nickname = nickname
         self.running = False
         self.lineRate = LINE_RATE
@@ -436,6 +432,6 @@ class ircbotFactory(ClientFactory):
     
 if __name__ == "__main__":
     # these two lines do the irc connection over ssl.
-    reactor.connectSSL('irc.cat.pdx.edu',6697,ircbotFactory(),ssl.ClientContextFactory())
+    reactor.connectSSL(SERVER, SERVER_PORT, ircbotFactory(),ssl.ClientContextFactory())
     reactor.run()
 

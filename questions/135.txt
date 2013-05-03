@@ -129,7 +129,7 @@ What is the main ingredient in glass`Sand
 What is the main ingredient of risotto`rice
 What is the marseillaise`french national anthem
 What is the maximum distance between the moon and the earth`253,000 miles
-What is the maximum length permitted for the blade of a goalies hockey stick`fifteen and a half inches*15 and a half inches
+What is the maximum length permitted for the blade of a goalies hockey stick`15.5 inches
 What is the maximum number of clubs a golfer may use in a round`fourteen
 What is the maximum number of degrees in an acute angle`eighty nine degrees
 What is the meaning of the mercedes benz motto 'das beste oder nichts'`the
@@ -482,14 +482,11 @@ TV: Where is Angel set`Los Angeles
 TV: Where is buffy set`Sunnydale  
 SPORT: Which owners first winner under National Hunt rules was Monaveen in the Queen Elizabeth Chase at Hurst Park in 1950`The Queen Mother
 SPORT: Sir Alf Ramsey lost his first match in charge of England against which country in 1963`France
-SPORT: Which three England players scored penalties in the famous penalty shoot out against West Germany in the semi final of the 1990 World Cup`Gary Lineker*Peter Beardsley*David Platt
 SPORT: Which horse that won the 1977 St Leger fir the Queen has the same name aa a town in scotland`Dunfermline
 SPORT: Which star Portuguese footballer has a tattoo of a little devil on his right ankle`Luis figo
-SPORT: Which three american venues have staged the Winter Olympics`Lake Placid*Squaq Valley*Salt Lake City
 SPORT: Which Nationwide football league club  was formed by the amalgamation of west Herts FC and St Marys FC`Watford
 SPORT: The All-England club at Wimbledon is often referred to by its post code, what is it?`S W 19
 SPORT: Which Frenchman was defeated by Pete Sampras in the singles final at Wimbledon in 1997`Cedric Pioline
-KAOS: Sport, which 5 clubs have won European Cup finals at Wembley`AC Milan*Ajax*Liverpool*Barcelona*Manchester United*
 SPORT: Which greek football club who play in black and white stripes reached the quarter finals of the European cup winners cup in 1974`PAOK Salonica
 SPORT: Which horse race, run over two and threequarter miles on the last day of Royal ascot each year is the longest flat race in Britain`Queen Alexandra Stakes
 GENERAL KNOWLEDGE: Which language does flemish most closely resemble`dutch
@@ -767,7 +764,7 @@ SPORT: Steve Hislop won which trophy several times on a Honda`Isle of Man TT tro
 TV: With which programme would you associate Zippy,George and Bungle`Rainbow
 GENERAL KNOWLEDGE: Which famous military group has its HQ at Aubagne near Marseilles`foreign legion
 FILM: Which actress was stabbed in the shower in Psycho`Janet Leigh
-GENERAL KNOWLEDGE`The t-34,M-4 and PZ iii were all what*tanks
+GENERAL KNOWLEDGE: The t-34,M-4 and PZ iii were all what`tanks
 LITERATURE: Which New Zealand writer created Roderick Alleyn of Scotland Yard`Ngaio Marsh
 GENERAL KNOWLEDGE: What is the trade name for the construction kits introduced in 1907 consisting of metal strips with hoels,screws, nuts and bolts`meccano
 GENERAL KNOWLEDGE: What is the name of the magical kingdom in The LIon the witch and the wardrobe`Narnia
