@@ -409,7 +409,7 @@ class triviabot(irc.IRCClient):
 class ircbotFactory(ClientFactory):
     protocol = triviabot
 
-    def __init__(self,nickname='trivia'):
+    def __init__(self, nickname = DEFAULT_NICK):
         self.nickname = nickname
         self.running = False
         self.lineRate = 0.2
@@ -425,6 +425,6 @@ class ircbotFactory(ClientFactory):
     
 if __name__ == "__main__":
     # these two lines do the irc connection over ssl.
-    reactor.connectSSL('irc.cat.pdx.edu',6697,ircbotFactory(),ssl.ClientContextFactory())
+    reactor.connectSSL(SERVER, SERVER_PORT, ircbotFactory(),ssl.ClientContextFactory())
     reactor.run()
 
