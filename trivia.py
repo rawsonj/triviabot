@@ -373,8 +373,11 @@ class triviabot(irc.IRCClient):
         TODO: order them.
         '''
         self.msg(user,COLOR_CODE+"The current trivia standings are: ")
-        for name in self._scores.keys():
-            self.msg(user,COLOR_CODE+name+": "+str(self._scores[name]))
+        sorted_scores = sorted(self._scores.iteritems(), key=lambda (k,v):
+                               (v,k), reverse=True)
+        for rank, (player, score) in enumerate(sorted_scores, start=1):
+            formatted_score = "%s: %s: %s" % (rank,player,score)
+            self.msg(user,COLOR_CODE + str(formatted_score))
 
     def _give_clue(self,args,user,channel):
         if not self._lc.running:
