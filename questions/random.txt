@@ -10642,12 +10642,9 @@ TV/ Movies: Get Smart: Control had a branch office here, but lost it`las vegas
 TV/ Movies: Get Smart: Famous Hawaiian detective impeccably dressed in white suit and hat.`harry hoo
 TV/ Movies: Get Smart: His first name is Ludwig.`siegfried
 TV/ Movies: Get Smart: In Smart's apartment, the phone is hidden inside this`phone
-TV/ Movies: Get Smart: Kaos executioner & Smart's nemesis.`siegfried
-TV/ Movies: Get Smart: KAOS stands for this`nothing
 TV/ Movies: Get Smart: Said "I'd give anything to be cooped up in anything as big as a small room."`thirteen`13
 TV/ Movies: Get Smart: Said "People hate; robots love."`hymie
 TV/ Movies: Get Smart: Said "Would you believe ... "`smart
-TV/ Movies: Get Smart: Smart calls this Chinese KAOS agent "The Craw".`the claw
 TV/ Movies: Get Smart: Smart's call number.`86
 TV/ Movies: Get Smart: Spoof of the James Bond movie _Dr. No_.`dr yes
 TV/ Movies: Get Smart: The chief's bumbling secretary.`larabee
@@ -14237,7 +14234,6 @@ TV/ Movies: Category: Flicks: Spielberg movie about a group of kids who go looki
 TV/ Movies: Category: Flicks: Suicidal cop is partnered with reluctant aging cop. Fight drug runners`lethal weapon
 TV/ Movies: Category: Get Smart: In Smart's _apartment_, the phone is hidden inside this.`phone
 TV/ Movies: Category: Get Smart: Siegfried's faithful sidekick and dummkopf.`shtarker
-TV/ Movies: Category: Get Smart: Smart calls this Chinese KAOS agent "The Craw".`the claw
 TV/ Movies: Category: Get Smart: Smart's call number.`86
 TV/ Movies: Category: Get Smart: This actor plays Smart and also provides the voice of Inspector Gadget.`don adams
 TV/ Movies: Category: Grease: Frenchy dropped out of beauty school after tinting her hair this color`pink
