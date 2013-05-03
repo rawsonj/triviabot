@@ -202,7 +202,6 @@ Geography : What is the capital of New Zealand`wellington
 Geography : What is the capital of Washington state`olympia
 Geography : What is the capital of West Virginia`charleston
 Geography : What is the capital of Wisconsin`madison
-Geography : What is the capital of Zimbabwe`salisbury
 Geography : What is the capital of the United Arab Emirates`abu dhabi
 Geography : What is the current name for south-west Africa`namibia
 Geography : What is the highest mountain in Canada`mt. logan

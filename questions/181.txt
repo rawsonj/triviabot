@@ -1,4 +1,3 @@
-&009tvmovies2.lst Unknown Subject`Unknown Author*Unknown Origin
 TV/ Movies: Born May 7, 1901, He Starred In This Movie: Blowing Wild - 1953`gary cooper
 TV/ Movies: Born May 7, 1901, He Starred In This Movie: Springfield Rifle - 1952`gary cooper
 TV/ Movies: Born May 7, 1901, He Starred In This Movie: High Noon - 1952`gary cooper
@@ -339,7 +338,7 @@ TV/ Movies: Category: Star Trek Next Generation: Characters: Transporter Chief w
 TV/ Movies: Category: Star Trek Next Generation: Characters: Who is the Chief of Engineering?`laforge
 TV/ Movies: Category: Star Trek Next Generation: Characters: Worf's son's name?`alexander
 TV/ Movies: Category: Star Trek Next Generation: Tech: In the Warp engine core, matter-antimatter annihilation is regulated by this`dilithium crystal
-TV/ Movies: Category: Star Trek Next Generation: Tech: Level _ Diagnostic is the most comprehensive type of system diagnostics`one*1
+TV/ Movies: Category: Star Trek Next Generation: Tech: Level _ Diagnostic is the most comprehensive type of system diagnostics`1
 TV/ Movies: Category: Star Trek Next Generation: Tech: This crystal is the only material known to be nonreactive with antimatter`dilithium crystal
 TV/ Movies: Category: Star Trek Next Generation: Tech: This small device is used for voice communications and transporter lock-ons`personal communicator
 TV/ Movies: Category: Star Trek Next Generation: Tech: This type of electronics is used in computer systems and networks`optical electronics
@@ -1805,7 +1804,7 @@ TV/ Movies:  What show/game has characters such as Bulbasaur & Pikachu`pokemon
 TV/ Movies:  What U K actress starred in "To The Manor Born"`penelope keith
 TV/ Movies:  What U K actress starred in the comedy series "Executive Decision"`penelope keith
 TV/ Movies:  What U K comedy series was a spin off from "Man About The House"`george & mildred
-TV/ Movies:  What U K comedy series was centred around Grace Bros department store`are you being served*are you being served
+TV/ Movies:  What U K comedy series was centred around Grace Bros department store`are you being served
 TV/ Movies:  What was Archie Bunkers wife's name`edith
 TV/ Movies:  What was Barbara Streisand's first film`funny girl
 TV/ Movies:  What was Ben Stiller's character called in 'Mystery Men'`mr furious
@@ -1850,7 +1849,7 @@ TV/ Movies:  whats the number on "herbie" the love bug`53
 TV/ Movies:  when the students in 'dead poets' society' stood on their desks & said 'o captain! My captain', who were they quoting`walt whitman
 TV/ Movies:  where did dorothy's house land in 'the wizard of oz'`on the wicked witch of the west
 TV/ Movies:  where do the simpsons live`springfield
-TV/ Movies:  which 2 famous actors both starred in "apollo13" & "forest gump"`tom hanks & gary sinise*gary sinise & tom hanks
+TV/ Movies:  which 2 famous actors both starred in "Apollo 13" & "forest gump"`tom hanks & gary sinise
 TV/ Movies:  which actor played the title role in the mad max series of films`mel gibson
 TV/ Movies:  which famous actor is emilio estevez's brother`charlie sheen
 TV/ Movies:  which famous actor is emilio estevez's father`martin sheen
@@ -1869,11 +1868,11 @@ TV/ Movies:  which famous actress starred in "the rocky horror picture movie sho
 TV/ Movies:  which famous singer played opposite kevin costner in "the bodyguard"`whitney houston
 TV/ Movies:  which hollywood actor combined gibraltar & a river to create his name`rock hudson
 TV/ Movies:  which monkee was in "circus boy"`mickey dolenz
-TV/ Movies:  which movie did cher, michelle pfeiffer & susan sarandon star together in`witches of eastwick*the withches of eastwick
+TV/ Movies:  which movie did cher, michelle pfeiffer & susan sarandon star together in`witches of eastwick
 TV/ Movies:  which movie did michelle pfeifer & george clooney star together in`one fine day
 TV/ Movies:  which movie starred both john travolta & olivia newton john`grease
 TV/ Movies:  which of the four monkees was marcia in love with (brady bunch)`davey jones
-TV/ Movies:  which peanuts character plays the piano`schroder*schroeder
+TV/ Movies:  which peanuts character plays the piano`schroeder
 TV/ Movies:  which tv series was david cassidy in`partridge family
 TV/ Movies:  who co starred opposite leonardo di caprio in the movie "titanic"`kate winslet
 TV/ Movies:  who co starred with eddie albert in the tv series "greenacres"`zsa zsa gabor
@@ -1899,7 +1898,7 @@ TV/ Movies:  who is shirley mclean's brother`warren beatty
 TV/ Movies:  who is the main character in 'touched by an angel'`monica
 TV/ Movies:  who is warren beatty's sister`shirley mclaine
 TV/ Movies:  who lived downstairs in the uk comedy "man about the house"`george & mildred
-TV/ Movies:  who lives next door to the flintstones`the rubbles*rubbles
+TV/ Movies:  what family lives next door to the flintstones`the rubbles
 TV/ Movies:  who owns the licensing rights to all star wars merchandise`george lucas
 TV/ Movies:  who play frank spencer in "some mothers do have them"`michael crawford
 TV/ Movies:  who played "daniel boone"`fess parker
@@ -1907,7 +1906,7 @@ TV/ Movies:  who played "snake" in "escape from new york"`kurt russell
 TV/ Movies:  who played "the flying nun"`sally field
 TV/ Movies:  who played "the six million dollar man"`lee majors
 TV/ Movies:  who played "wonder woman"`linda carter
-TV/ Movies:  who played alex keating in "family ties"`michael j. fox*michael j fox
+TV/ Movies:  who played alex keating in "family ties"`michael j. fox
 TV/ Movies:  who played alexis carrington in the tv series 'dynasty'`joan collins
 TV/ Movies:  who played arthur fonzarelli in 'happy days'`henry winkler
 TV/ Movies:  who played beaver in "leave it to beaver"`jerry mathers
@@ -1920,7 +1919,7 @@ TV/ Movies:  who played garth in wayne's world`dana carvey
 TV/ Movies:  who played george costanza on 'seinfeld'`jason alexander
 TV/ Movies:  who played god in 'oh god, book ii'`george burns
 TV/ Movies:  Who played Jack Crabbe, survivor of Custer's Last Stand, in Little Big Man`dustin hoffman
-TV/ Movies:  who played jeannie in "i dream of jeannie"`barbra eden*barbara eden
+TV/ Movies:  who played jeannie in "i dream of jeannie"`barbara eden
 TV/ Movies:  who played jim morrison's girlfriend in "the doors"`meg ryan
 TV/ Movies:  who played 'johnny mnemonic'`keanu reeves
 TV/ Movies:  who played lestat in 'interview with the vampire'`tom cruise
@@ -1964,7 +1963,7 @@ TV/ Movies:  who plays dana scully in "the x files"`gillian anderson
 TV/ Movies:  who plays fox mulder in "the x files"`david duchovny
 TV/ Movies:  who plays kelly in "married with children"`christina applegate
 TV/ Movies:  who plays many voices, such as dr nick, & moe on 'the simpsons'`hank azaria
-TV/ Movies:  who plays monica in "friends"`courtney cox arquette*courtney cox
+TV/ Movies:  who plays monica in "friends"`courteney cox
 TV/ Movies:  who plays rachel in "friends"`jennifer aniston
 TV/ Movies:  who sang the title song to 'goldfinger'`shirley bassey
 TV/ Movies:  who shot j.r. ewing in the tv series 'dallas'`kristin shepard
@@ -1994,9 +1993,9 @@ TV/ Movies:  who was the movie star in "gilligans island"`ginger
 TV/ Movies:  Who was the only person the new owners didn't fire, on The Mary Tyler Moore Show`ted baxter
 TV/ Movies:  who were lucy & ricky's next door neighbours & best friends`fred & ethel
 TV/ Movies:  who wrote & performed "year of the cat"`al stewart
-TV/ Movies:  who wrote the classic thriller 'the birds'`alfred hitchcock*hitchcock
+TV/ Movies:  who wrote the classic thriller 'the birds'`alfred hitchcock
 TV/ Movies:  who wrote the vampire series that featured lestat as the main character`anne rice
-TV/ Movies:  Whose biography was titled The Other Side of the Rainbow`judy garland*judy garland's*judy garlands
+TV/ Movies:  Whose biography was titled The Other Side of the Rainbow`judy garland
 TV/ Movies:  whose legs were shown in place of julia roberts' legs in 'pretty woman'`goldie hawn
 TV/ Movies:  whose neighbors were frank & irene lorenzo`archie bunker's
 TV/ Movies: "A Black Sheriff`blazing saddles
@@ -2110,10 +2109,14 @@ TV/ Movies: Actor peter fonda was once arrested for slashing a sign that said`fe
 TV/ Movies: Actor whose real name is Ramon Estevez (full name)`martin sheen
 TV/ Movies: Actor whose real name was Marion Morrison`john wayne
 TV/ Movies: Actor: ________ bacon`kevin
-TV/ Movies: Actor: ________ douglas`michael*kirk
-TV/ Movies: Actor: ________ ford`harrison*glen
+TV/ Movies: Actor: ________ douglas`michael
+TV/ Movies: Actor: ________ douglas`kirk
+TV/ Movies: Actor: ________ ford`harrison
+TV/ Movies: Actor: ________ ford`glen
 TV/ Movies: Actor: ________ hackman`gene
-TV/ Movies: Actor: ________ reeves`keannu*christopher*george
+TV/ Movies: Actor: ________ reeves`keannu
+TV/ Movies: Actor: ________ reeves`christopher
+TV/ Movies: Actor: ________ reeves`george
 TV/ Movies: Actor: ________ york`michael
 TV/ Movies: Actor: __________ nimoy`leonard
 TV/ Movies: Actor: __________ savalas`telly
@@ -2141,7 +2144,7 @@ TV/ Movies: Actress In The Role: The Color of Money ---> Carla`mary elizabeth ma
 TV/ Movies: Actress In The Role: Unnecessary Roughness ---> the placekicker`kathy ireland
 TV/ Movies: Alfred hitchcock didn't have what`belly button
 TV/ Movies: Alfred hitchcock was born in _____`1899
-TV/ Movies: Ally McBeal: Ally's imaginary, dancing baby was called  (two words)`ugachacka baby*brush away
+TV/ Movies: Ally McBeal: Ally's imaginary, dancing baby was called`ugachacka baby
 TV/ Movies: Amazing actress who won for _The Prime of Miss Jean Brodie_`maggie smith
 TV/ Movies: Among animation aficionados, what is generally considered to be Chuck Jones best animated short film`one froggy evening
 TV/ Movies: An alien creature in a funny hat has opposed both Bugs Bunny & Daffy Duck.where is he from`mars
@@ -2239,7 +2242,7 @@ TV/ Movies: Category: 1996-1997 Movies: This trilogy was restored and re-release
 TV/ Movies: Category: 2001: HAL's name is (Clarke says unintentionally) similar to this acronym.`ibm
 TV/ Movies: Category: 2001: He was the next person to walk on the moon after the movie was made.`neil armstrong
 TV/ Movies: Category: 2001: Name of the ship going to Jupiter.`discovery i
-TV/ Movies: Category: 2001: Number of monolith scenes in the film.`four*4
+TV/ Movies: Category: 2001: Number of monolith scenes in the film.`4
 TV/ Movies: Category: 2001: This actor played Dr. Haywood Floyd`william sylvester
 TV/ Movies: Category: 50s Flicks: Which 1957 film had the whistled "Colonel Bogey" as its theme`the bridge on the river kwai
 TV/ Movies: Category: 50s Flicks: Which actress starred in _From Here to Eternity_ & _The King and I_`deborah kerr
@@ -2344,7 +2347,7 @@ TV/ Movies: Category: Batman: Batman really doesn't like this superhero, and wou
 TV/ Movies: Category: Batman: Bruce's loyal and witty, if often sardonic, butler and mentor`alfred
 TV/ Movies: Category: Batman: Selena Kyle's alter-identity, now with her own series`catwoman
 TV/ Movies: Category: Batman: The man who shot Thomas and Martha Wayne (Careful!, it wasn't the Joker!)`joe chill
-TV/ Movies: Category: Batman: There have been this many Robins`three*3
+TV/ Movies: Category: Batman: There have been this many Robins`3
 TV/ Movies: Category: Blazing Saddles: A particularly gross scene involved cowboys eating lots of what`beans
 TV/ Movies: Category: Blazing Saddles: What did people keep calling Hedley Lamarr`hetty lamarr
 TV/ Movies: Category: Blazing Saddles: What did the sheriff disguise himself as to infiltrate the bad guys`a ku klux klansman
@@ -2674,7 +2677,7 @@ TV/ Movies: Wizard Of Oz: The actor originally slated to play the tin man.`buddy
 TV/ Movies: Wizard Of Oz: The famous actress who played Dorothy.`judy garland
 TV/ Movies: Wizard Of Oz: The words the wicked witch wrote in the sky above the Emerald City.`surrender dorothy
 TV/ Movies: Zorro was the secret identity of what wealthy landowner`don diego de la vega
-TV/ Movies: Zsa Zsa Gabor has been married how many times`eight*8
+TV/ Movies: Zsa Zsa Gabor has been married how many times`8
 TV : Movies: What movie gave Humphrey Bogart the line: "I remember every detail.  The Germans wore gray.  You wore blue."`casablanca
 TV/ Movies: Commander Sisko loves what sport`baseball
 TV/ Movies: 'Dances With Wolves' won the best picture Oscar in 1990, 1991, or 1993`1990
@@ -2780,7 +2783,7 @@ TV/ Movies: "There's only one thing; he doesn't like my hat."`the unbearable lig
 TV/ Movies: 1953: won Best Picture, Director, and Supp Actor and Supp Actress`from here to eternity
 TV/ Movies: Amazing actress who won for _The Prime of Miss Jean Brodie_`maggie smith
 TV/ Movies: Category: 1980s GrabBag: Tom Brokaw and this network anchor made their debuts in 1983`peter jennings
-TV/ Movies: Category: 50s Flicks: Which film of J.M. Barrie's book was described as "a painful travesty"`peter pan*lois and clark
+TV/ Movies: Category: 50s Flicks: Which Walt Disney film of J.M. Barrie's book was described as "a painful travesty"`peter pan
 TV/ Movies: Category: 90210: From what state did the Walshes move to Beverly Hills`minnesota
 TV/ Movies: Category: 90210: What is the nightclub Valerie runs called`peach pit after dark
 TV/ Movies: Category: 90210: What two characters became related by the marriage of their parents (- and -)`kelly and david
@@ -3722,8 +3725,6 @@ TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting Role in 1959 32nd
 TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting Role in 1958 31st Academy Awards for the Movie SEPARATE TABLES`wendy hiller
 TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting Role in 1957 30th Academy Awards for the Movie SAYONARA`miyoshi umeki
 TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting Role in 1956 29th Academy Awards for the Movie WRITTEN ON THE WIND`dorothy malone
-TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting Role in 1955 28th Academy Awards`fleet - east of eden*jo Van
-TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting Role in 1954 27th Academy Awards`saint - on the WATERFRONT*eva marie
 TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting Role in 1953 26th Academy Awards for the Movie FROM HERE TO ETERNITY`donna reed
 TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting Role in 1952 25th Academy Awards for the Movie THE BAD AND THE BEAUTIFUL`gloria grahame
 TV/ Movies: Who won the Oscar for best ACTRESS in a Supporting Role in 1951 24th Academy Awards for the Movie A STREETCAR NAMED DESIRE`kim hunter

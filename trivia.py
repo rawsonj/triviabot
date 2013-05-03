@@ -42,11 +42,11 @@ import json
 
 from lib.answer import Answer
 
-GAME_CHANNEL = '#trivia'
-ADMINS = ['nameless']
+GAME_CHANNEL = '#bajrpit'
+ADMINS = ['bajr']
 Q_DIR = './questions/'
 SAVE_DIR = './savedata/'
-IDENT_STRING = 'oicu812'
+IDENT_STRING = 'thing'
 WAIT_INTERVAL = 30
 COLOR_CODE = '\0038,1 '
 
@@ -128,7 +128,7 @@ class triviabot(irc.IRCClient):
             self.msg(self._game_channel,
                     COLOR_CODE+'''Welcome to '''+self._game_channel+'''!\n'''
                     +COLOR_CODE+'''Have an admin start the game when you are ready.\n'''
-                    +COLOR_CODE+'''For how to use this bot, just say ? help or\n'''
+                    +COLOR_CODE+'''For how to use this bot, just say ?help or\n'''
                     +COLOR_CODE+self.nickname+' help.')
 
     def joined(self, channel):
