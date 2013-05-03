@@ -1,3 +1,4 @@
+config.py
 savedata/*
 __pycache__/*
 *.pyc
