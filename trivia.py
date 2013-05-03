@@ -41,14 +41,7 @@ from twisted.internet.task import LoopingCall
 import json
 
 from lib.answer import Answer
-
-GAME_CHANNEL = '#trivia'
-ADMINS = ['nameless']
-Q_DIR = './questions/'
-SAVE_DIR = './savedata/'
-IDENT_STRING = 'oicu812'
-WAIT_INTERVAL = 30
-COLOR_CODE = '\0038,1 '
+from config import *
 
 class triviabot(irc.IRCClient):
     '''
