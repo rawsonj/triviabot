@@ -7,3 +7,5 @@ WAIT_INTERVAL = 30
 COLOR_CODE = '\0038,1 '
 LINE_RATE = 0.4
 DEFAULT_NICK = 'triviabot'
+SERVER = 'irc.freenode.net'
+SERVER_PORT = '6667'
