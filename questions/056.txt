@@ -251,7 +251,6 @@ What is the Capital of: Virgin Islands`charlotte amalie
 What is the Capital of: Wallis and Futuna`mata-utu
 What is the Capital of: Yemen`sanaa
 What is the Capital of: Zambia`lusaka
-What is the Capital of: Zimbabwe`harare
 Who initiated the works of the Bible`king solomon
 Who invented analytic geometry`descartes
 Who invented Coca Cola`dr john pemberton
@@ -805,7 +804,6 @@ Baseball star Joe Dimaggio married which actress`marilyn monroe
 Which year were the 'Jesse Owens' olympic games`1936
 When was the first Australian cricket tour to England`1868
 Where is the Nep stadium`budapest
-With what sport is the Zimbabwean Heath Streak associated`cricket
 What is the name of the stick used in hurling`hurley
 How long does a game of ice hockey last`sixty minutes
 In which sport would you see a dolphin bent knee, a walk over front and a catalina`synchronized swimming
