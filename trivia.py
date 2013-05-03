@@ -146,8 +146,11 @@ class triviabot(irc.IRCClient):
         user,temp = user.split('!')
         print(user+" : "+channel+" : "+msg)
     # need to strip off colors if present.
-        while not msg[0].isalnum() and not msg[0] == '?':
-            msg = msg[1:]
+	try:
+	    while not msg[0].isalnum() and not msg[0] == '?':
+		msg = msg[1:]
+	except IndexError:
+	    pass
 
     # parses each incoming line, and sees if it's a command for the bot.
 	try:
