@@ -6,7 +6,7 @@ Misc: What was Mohammed Ali's original name?`Cassius Clay
 Misc: What instrument does an organ grinder play?`Hurdy Gurdy
 Misc: What make of car is a 'Thunderbird'?`Ford
 Misc: What is the most widely used seasoning?`Salt
-Misc: Earth'souterlayer ofsurface soil or crust iscalled the?`Lithosphere
+Misc: Earth's outer layer of surface soil or crust is called the _____.`Lithosphere
 Misc: What does the C stand for in the equation E=mc2?`Speed of light
 Misc: What's a Funambulist?`Tightrope walker
 Misc: What's the better-known name of the card game Twenty-One?`Blackjack
@@ -24,7 +24,7 @@ Misc: What does 'Semper Idem' mean?`Always the same
 Misc: What is the symbol for iron?`fe
 Misc: What is the symbol for copper?`cu
 Misc: What is the symbol for gold?`au
-Misc: What is the symbol for led?`pb
+Misc: What is the symbol for lead?`pb
 Misc: What is the symbol for silver?`ag
 Misc: What system do the blind use for reading?`Braille
 Misc: What does S.O.S stand for?`Save Our Souls
@@ -40,10 +40,10 @@ Misc: What is the birthstone for May?`Emerald
 Misc: What is the birthstone for September?`Sapphire
 Misc: What does 'karate' mean?`Open hand
 Misc: How many Air Force One(s) are there?`Two
-Misc: As close as two ______ in a pod?`Peas
+Misc: As close as two ______ in a pod.`Peas
 Misc: What is the best score in Blackjack?`Twenty one
-Misc: Hell hath no fury like ______?`A woman scorned
-Misc: A bird in the hand is worth ______?`Two in the bush
+Misc: Hell hath no fury like ______.`A woman scorned
+Misc: A bird in the hand is worth ______.`Two in the bush
 Misc: Where are the headquarters for the C.I.A?`Langley, Virginia
 Misc: Who wrote the vampire series that featured Lestat as the main character?`Anne Rice
 Misc: Who wrote the 'Dragonriders of Pern' series?`Anne Mcaffrey
