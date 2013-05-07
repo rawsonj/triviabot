@@ -208,12 +208,12 @@ class triviabot(irc.IRCClient):
         except:
             self.msg(user,
                 COLOR_CODE+'''I'm nameless's trivia bot.\n'''
-                +COLOR_CODE+'''Commands: score, standings, giveclue, help, source''')
+                +COLOR_CODE+'''Commands: score, standings, giveclue, help, next, source''')
             return
         self.msg(user,
             COLOR_CODE+'''I'm nameless's trivia bot.\n'''
-            +COLOR_CODE+'''Commands: score, standings, giveclue, help, source\n'''
-            +COLOR_CODE+'''Admin commands: die, set <user> <score>, next, start,\n'''
+            +COLOR_CODE+'''Commands: score, standings, giveclue, help, next, source\n'''
+            +COLOR_CODE+'''Admin commands: die, set <user> <score>, skip, start,\n'''
             +COLOR_CODE+'''stop, save''')
 
     def _show_source(self,args,user,channel):
@@ -247,7 +247,7 @@ class triviabot(irc.IRCClient):
                                  }
         priviledged_commands = { 'die' : self._die,
                                  'set' : self._set_user_score,
-                                 'next': self._next_question,
+                                 'skip': self._next_question,
                                  'start': self._start,
                                  'stop': self._stop,
                                  'save': self._save_game,
@@ -278,6 +278,10 @@ class triviabot(irc.IRCClient):
         Need to keep track of who voted, and how many votes.
         
         '''
+	if not self._lc.running:
+	    self.msg(_game_channel,COLOR_CODE+'''We aren't playing right'''
+		    ''' now.''')
+	    return
         try:
             self._voters.index(user)
             self.msg(self._game_channel,COLOR_CODE+'''You already voted, '''
@@ -288,7 +292,8 @@ class triviabot(irc.IRCClient):
         except:
             if self._votes < 2:
                 self._votes += 1
-                self._voters += user
+                self._voters.append(user)
+		print self._voters
                 self.msg(self._game_channel,COLOR_CODE+user+
                         ''', you have voted. '''+str(3-self._votes)+
                         ''' more votes needed to skip.''')
