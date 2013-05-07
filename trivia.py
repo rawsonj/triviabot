@@ -86,6 +86,8 @@ class triviabot(irc.IRCClient):
                    3 : 1
                  }
         if self._clue_number == 0:
+	    self._votes = 0
+	    self._voters = []
             self._get_new_question()
             self._current_points = points[self._clue_number]
             self.msg(self._game_channel,'')
