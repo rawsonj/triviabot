@@ -54,6 +54,7 @@ class triviabot(irc.IRCClient):
     '''
     def __init__(self):
         self._answer = Answer()
+        self._alt_answers = []
         self._question = ''
         self._scores = {}
         self._clue_number = 0
@@ -163,7 +164,13 @@ class triviabot(irc.IRCClient):
 		return
 	    # if not, try to match the message to the answer.
 	    else:
-		if msg.lower().strip() == self._answer.answer.lower():
+                correct = False
+		if (msg.lower().strip() == self._answer.answer.lower()):
+                    correct = True
+                for alt_answer in self._alt_answers:
+                    if alt_answer.strip().lower() == msg.lower().strip():
+                        correct = True
+                if (correct == True):
 		    self._winner(user,channel)
 		    self._save_game()
 	except:
@@ -444,11 +451,13 @@ class triviabot(irc.IRCClient):
             fd.close()
             try:
                 self._question, temp_answer = myline.split('`')
+                temp_answers = temp_answer.split('*')
             except ValueError:
                 print "Broken question:"
                 print myline
                 continue
-            self._answer.set_answer(temp_answer.strip())
+            self._answer.set_answer(temp_answers[0].strip())
+            self._alt_answers = temp_answers[1:]
             damaged_question = False
 
 class ircbotFactory(ClientFactory):
