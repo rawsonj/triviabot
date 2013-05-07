@@ -177,7 +177,7 @@ class triviabot(irc.IRCClient):
 	if channel != self._game_channel:
 	    self.msg(channel, "I'm sorry, answers must be given in the game channel.")
 	    return
-        self.msg(channel,COLOR_CODE+user.upper()+" GUESSED IT!")
+        self.msg(channel,COLOR_CODE+user.upper()+" GOT IT!")
         try:
             self._scores[user] += self._current_points
         except:
