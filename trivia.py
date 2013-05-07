@@ -63,6 +63,8 @@ class triviabot(irc.IRCClient):
         self._questions_dir = Q_DIR
         self._lc = LoopingCall(self._play_game)
         self._load_game()
+        self._votes = 0
+        self._voters = []
 
     def _get_nickname(self):
         return self.factory.nickname
@@ -240,7 +242,8 @@ class triviabot(irc.IRCClient):
                                    'help' : self._help,
                                    'source' : self._show_source,
                                    'standings' : self._standings,
-                                   'giveclue' : self._give_clue
+                                   'giveclue' : self._give_clue,
+                                   'next' : self._next_vote
                                  }
         priviledged_commands = { 'die' : self._die,
                                  'set' : self._set_user_score,
@@ -268,6 +271,29 @@ class triviabot(irc.IRCClient):
             unpriviledged_commands[command](args, user, channel)
         else:
             self.describe(channel,COLOR_CODE+'looks at '+user+' oddly.')
+
+    def _next_vote(self, args, user, channel):
+        '''Implements user voting for the next question.
+
+        Need to keep track of who voted, and how many votes.
+        
+        '''
+        try:
+            self._voters.index(user)
+            self.msg(self._game_channel,COLOR_CODE+'''You already voted, '''
+                    +user+''', give someone else a chance to hate this'''
+                    ''' question.'''
+                    )
+            return
+        except:
+            if self._votes < 2:
+                self._votes += 1
+                self._voters += user
+                self.msg(self._game_channel,COLOR_CODE+user+
+                        ''', you have voted. '''+str(3-self._votes)+
+                        ''' more votes needed to skip.''')
+            else:
+                self._next_question(None,None,None)
             
     def _start(self, args, user, channel):
         '''
