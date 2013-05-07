@@ -293,6 +293,8 @@ class triviabot(irc.IRCClient):
                         ''', you have voted. '''+str(3-self._votes)+
                         ''' more votes needed to skip.''')
             else:
+                self._votes = 0
+                self._voters = []
                 self._next_question(None,None,None)
             
     def _start(self, args, user, channel):
