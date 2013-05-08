@@ -403,7 +403,8 @@ class triviabot(irc.IRCClient):
         if not self._lc.running:
             self.msg(self._game_channel, COLOR_CODE+"We are not playing right now.")
             return
-        self.msg(self._game_channel,COLOR_CODE+"Question has been skipped.")
+        self.msg(self._game_channel,COLOR_CODE+"Question has been skipped. "
+        +"The answer was: " + self._answer.answer)
         self._clue_number = 0
         self._lc.stop()
         self._lc.start(WAIT_INTERVAL)
