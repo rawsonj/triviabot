@@ -282,7 +282,7 @@ get smart: his first name is ludwig.`siegfried
 get smart: in smart's apartment, the phone is hidden inside this`phone
 get smart: kaos executioner & smart's nemesis.`siegfried
 get smart: kaos stands for this`nothing
-get smart: said "i'd give anything to be cooped up in anything as big as a small room."`thirteen*13
+get smart: said "i'd give anything to be cooped up in anything as big as a small room."`thirteen
 get smart: said "people hate; robots love."`hymie
 get smart: said "would you believe ... "`smart
 get smart: smart calls this chinese kaos agent "the craw".`the claw
@@ -335,15 +335,15 @@ hollywood: richard chamberlain's first name.`george
 hollywood: tv/casino star who wrote much poetry, including touch me, & touch me again.`suzanne somers
 how long did "i love lucy" run`six seasons*6 seasons
 how many '58 plymouth furys were used to make the movie "christine"`9
-how many episodes were there in the original star trek series`seventy five*75
-how many james bond movies did sean connery star in`seven*7
-how many southpark episodes have there been that kenny didnt get killed`one*1
+how many episodes were there in the original star trek series`seventy five
+how many james bond movies did sean connery star in`seven
+how many southpark episodes have there been that kenny didnt get killed`one
 how many st. bernards were used in the movie "cujo"`5
-how many stories did the towering inferno have`one hundred & thirty eight*138
-how many westerns were directed by a woman`one*1
+how many stories did the towering inferno have`one hundred & thirty eight
+how many westerns were directed by a woman`one
 how many years of life did the klingon empire have left to it`fifty years
 how much would contestants win if you could not "make me laugh" on tv`one dollar per minute
-how old was sally field when she starred in gidget`eighteen*18
+how old was sally field when she starred in gidget`eighteen
 how was the virus transmitted in the movie 'outbreak'`through the air
 howdy doody had how many freckles`48
 if norm could have any woman in the world, who would it be`jill eikenberry
@@ -378,7 +378,7 @@ in the cartoons who was hokie wolf's sidekick`dingaling
 in the episode "trilogy part 3", who did sam leap into`larry stanton
 in the film "bringing up baby", the baby is what`leopard
 in the film '101 dalmatians', what animal is sergeant tibbs`cat
-in the film 'hackers', how old was 'zero_kool' when he was first arrested`eleven*11
+in the film 'hackers', how old was 'zero_kool' when he was first arrested`eleven
 in the film 'star trek first contact', when picard shows lilly she is orbiting earth, australia & papua new guinea are clearly visible, but which country is missing`new zealand
 in the movie "annie", who played daddy warbucks`albert finney
 in the movie "the manchurian candidate", how many people are feared dead in the hurricane`20
@@ -488,7 +488,7 @@ mickey mouse's ears are always turned which way, no matter which direction his h
 miss moneypenny adores this figure.`james bond
 monty python: lancelot's servant`concord
 monty python: name of the kid who falls out of window`herbert
-monty python: the deformed knight had this many heads.`three*3
+monty python: the deformed knight had this many heads.`three
 monty python: the enchanter's name`tim
 monty python: what was the name of the scholary knight at the witch trial`sir bedivere
 moronic duo 1: (easy one!) the network that airs b&b:`mtv

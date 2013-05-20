@@ -909,7 +909,7 @@ Name this Johnny Depp movie`what's eating gilbert grape
 Famous movie lines "My name is Iago Montoya, you killed my father, prepare to die."`princess bride
 World Cup 2002: Name the England manager`sven goran eriksson
 World Cup 2002: Who is the most capped England player`david seaman
-World Cup 2002: How many "Coles" were selected for the England team`two*2
+World Cup 2002: How many "Coles" were selected for the England team`two
 World Cup 2002: Name the youngest player in the England squad`joe cole
 World Cup 2002: Who is the oldest player in the England squad`david seaman
 World Cup 2002: Who's broken foot kept him out of the England Squad`gary neville

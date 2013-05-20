@@ -800,7 +800,7 @@ In 1666 Great London Fire begins in ---------- Lane. 80% of London is destroyed.
 In 1666 Great London Fire begins in Pudding Lane. ---------- of London is destroyed.`80%
 In 1715 ---------- the great, king of France (1643-1715), dies at 76.`louis xiv
 In 1715 Louis XIV the great, king of ---------- (1643-1715), dies at 76.`france
-In 1715 Louis XIV the great, king of France (1643-1715), dies at---------- .`seventy six*76
+In 1715 Louis XIV the great, king of France (1643-1715), dies at---------- .`seventy six
 In 1859 RC ---------- and R Hodgson make 1st observation of solar flare.`carrington
 In 1859 RC Carrington and R ---------- make 1st observation of solar flare.`hodgson
 In 1859 RC Carrington and R Hodgson make 1st observation of solar---------- .`flare
@@ -851,7 +851,7 @@ In 31 BC Battle of Actium; Octavian defeats ---------- and becomes Emperor Augus
 In 31 BC Battle of Actium; Octavian defeats Mark Antony and becomes Emperor---------- .`augustus
 In 1620 The ---------- sets sail from Plymouth with 102 Pilgrims.`mayflower
 In 1620 The Mayflower sets sail from ---------- with 102 Pilgrims.`plymouth
-In 1620 The Mayflower sets sail from Plymouth with ---------- Pilgrims.`one hundred & two*102
+In 1620 The Mayflower sets sail from Plymouth with ---------- Pilgrims.`one hundred & two
 In 1666 Great Fire of London starts; destroys ---------- Church.`st. paul's
 In 1752 Last day of ---------- calendar in Britain, British colonies.`julian
 In 1804 K. L. ---------- discovers Juno, third known asteroid.`harding
@@ -879,11 +879,11 @@ In 1596 Nicolo---------- , Italy, violin maker (Stradivari and Guarneri), born.`
 In 1596 Nicolo Amati, Italy, violin maker (---------- and Guarneri), born.`stradivari
 In 1596 Nicolo Amati, Italy, violin maker (Stradivari and---------- ), born.`guarneri
 In 1658 ---------- king of England (1603-25), dies at 92.`james i
-In 1658 James I king of England (1603-25), dies at---------- .`ninety two*92
+In 1658 James I king of England (1603-25), dies at---------- .`ninety two
 In 1658 Lord ---------- Cromwell British king (1653-58), dies at 59.`oliver
 In 1658 Lord Oliver ---------- British king (1653-58), dies at 59.`cromwell
-In 1658 Lord Oliver Cromwell British king (1653-58), dies at---------- .`fifty nine*59
-In 1752 This day never happened nor the next 10 days as England adopts Gregorian Calendar. People riot thinking the govt stole ---------- days of their lives.`eleven*11
+In 1658 Lord Oliver Cromwell British king (1653-58), dies at---------- .`fifty nine
+In 1752 This day never happened nor the next 10 days as England adopts Gregorian Calendar. People riot thinking the govt stole ---------- days of their lives.`eleven
 In 1757---------- , Versailles, France, Duke of Prussia, born.`charles x
 In 1757 Charles X, Versailles, ---------- , Duke of Prussia, born.`france
 In 1757 Charles X, Versailles, France, Duke of---------- , born.`prussia
@@ -901,14 +901,14 @@ In 1939 Britain declares war on Germany. France follows 6 hours later quickly jo
 In 1940 ---------- Collins, London England, actress (Shirley Valentine), born.`pauline
 In 1940 Pauline---------- , London England, actress (Shirley Valentine), born.`collins
 In 1940 Pauline Collins, London England, actress (---------- ), born.`shirley valentine
-In 1940 US gives Britain ---------- destroyers in exchange for Newfoundland base lease.`fifty*50
+In 1940 US gives Britain ---------- destroyers in exchange for Newfoundland base lease.`fifty
 In 1940 US gives Britain 50 destroyers in exchange for ---------- base lease.`newfoundland
 In 1943 ---------- invade Italy.`allies
 In 1943 Allies invade---------- .`italy
 In 1945 Japanese forces in the ---------- surrender to Allies.`philippines
 In 1954 Pope ---------- canonized a saint.`pius x
 In 1962 E. E. ---------- poet, dies at 67.`cummings
-In 1962 E. E. Cummings poet, dies at---------- .`sixty seven*67
+In 1962 E. E. Cummings poet, dies at---------- .`sixty seven
 In 1965 ---------- Sheen, actor (Wall St, Platoon), born.`charlie
 In 1965 Charlie---------- , actor (Wall St, Platoon), born.`sheen
 In 1965 Charlie Sheen, actor (---------- , Platoon), born.`wall st
@@ -919,7 +919,7 @@ In 1969 Ho Chi ---------- North Vietnamese president, dies.`minh
 In 1991 ---------- Capra director (It's a Wonderful Life), dies at 94.`frank
 In 1991 Frank ---------- director (It's a Wonderful Life), dies at 94.`capra
 In 1991 Frank Capra director (---------- ), dies at 94.`it's a wonderful life
-In 1991 Frank Capra director (It's a Wonderful Life), dies at---------- .`ninety four*94
+In 1991 Frank Capra director (It's a Wonderful Life), dies at---------- .`ninety four
 In 0476 ---------- Augustulus, last Roman emperor in west, is deposed.`romulus
 In 0476 Romulus---------- , last Roman emperor in west, is deposed.`augustulus
 In 0476 Romulus Augustulus, last ---------- emperor in west, is deposed.`roman
@@ -969,7 +969,7 @@ In 1970 George ---------- releases "My Sweet Lord" single.`harrison
 In 1970 George Harrison releases "---------- " single.`my sweet lord
 In 1972 American swimmer ---------- Spitz becomes the first athlete to win seven olympic gold medals.`mark
 In 1972 American swimmer Mark ---------- becomes the first athlete to win seven olympic gold medals.`spitz
-In 1972 American swimmer Mark Spitz becomes the first athlete to win ---------- olympic gold medals.`seven*7
+In 1972 American swimmer Mark Spitz becomes the first athlete to win ---------- olympic gold medals.`seven
 In 1980 ---------- troops seized Iranian territory in a border dispute.`iraqi
 In 1980 Iraqi troops seized ---------- territory in a border dispute.`iranian
 In 1847 ---------- James Missouri, outlaw, born.`jesse
@@ -986,7 +986,7 @@ In 1958 1st color video recording on ---------- tape presented, Charlotte North 
 In 1958 1st ---------- video recording on magnetic tape presented, Charlotte North Carolina, USA.`color
 In 1960 ---------- Clay captures the olympic light heavyweight gold medal.`cassius
 In 1960 Cassius ---------- captures the olympic light heavyweight gold medal.`clay
-In 1972 ---------- Israeli athletes are slain at Munich Olympics.`eleven*11
+In 1972 ---------- Israeli athletes are slain at Munich Olympics.`eleven
 In 1972 11 ---------- athletes are slain at Munich Olympics.`israeli
 In 1972 11 Israeli athletes are slain at ---------- Olympics.`munich
 In 1990 Iraqi Pres ---------- Hussein urges Arabs to rise against the West.`saddam
@@ -996,5 +996,5 @@ In 1991 US trial of former Panamanian leader ---------- Noriega begins.`manuel
 In 1991 US trial of former Panamanian leader Manuel ---------- begins.`noriega
 In 1701 ---------- king of England (1685-88), dies at 68.`james ii
 In 1701 James II king of ---------- (1685-88), dies at 68.`england
-In 1701 James II king of England (1685-88), dies at---------- .`sixty eight*68
+In 1701 James II king of England (1685-88), dies at---------- .`sixty eight
 In 1901 Pres ---------- McKinley assassinated by Leon Czologosz in Buffalo, New York.`william

@@ -120,7 +120,7 @@ In 1931 James---------- , actor (Rebel Without a Cause), born.`dean
 In 1940 Nick---------- , actor, born.`nolte
 In 1945 Mia ---------- (in Los Angeles, CA), actress, born.`farrow
 In 1968 Gary---------- , actor, born.`coleman
-In 1974 Skylab ---------- 's astronauts land.`four*4
+In 1974 Skylab ---------- 's astronauts land.`four
 In 1984 Soyuz ---------- is launched.`t-10
 In 1670 Christian V became King of ---------- and Norway.`denmark
 In 1904 Russian cruisers ---------- and Korietz sunk off Korean coast by Japanese.`variag
@@ -289,14 +289,14 @@ In 1980 USA beats ---------- and wins the Olympic Gold Medal (4-2).`finland
 In 1986 Voyager 2, first ---------- flyby.`uranus
 In 1989 Funeral for Japan's Emperor ---------- costs his government $80-billion dollars, attracts all major world leaders.`hirohito
 In 1989 United Airlines 747 jet rips open in flight from ---------- to New Zealand, 9 passengers sucked out of plane, many injuries.`honolulu
-In 1838 A London pedestrian walks 20 miles backward and 20 miles forward in ---------- hours.`eight*8
+In 1838 A London pedestrian walks 20 miles backward and 20 miles forward in ---------- hours.`eight
 In 1841---------- , painter, born.`renoir
 In 1873 Enrico ---------- (in Italy), singer, born.`caruso
 In 1933 First aircraft carrier "---------- " launched.`ranger
 In 1943 George---------- , singer (Beatles), born.`harrison
 In 1972 Paul ---------- releases "Give Ireland back to the Irish" single.`mccartney
-In 1977 Soyuz ---------- returns to Earth.`twenty four*24
-In 1979 Soyuz ---------- is launched.`thirty two*32
+In 1977 Soyuz ---------- returns to Earth.`twenty four
+In 1979 Soyuz ---------- is launched.`thirty two
 In 1802 Victor---------- , French author, born.`hugo
 In 1815 Napoleon escapes from ---------- to begin second conquest of France.`elba
 In 1846 William "---------- " Cody (near Davenport, Iowa), frontiersman, born.`buffalo bill
@@ -538,7 +538,7 @@ Which was the first of the National Parks in England and Wales`peak district
 What was the philosophy of Jean Paul Sartre called`existentialism
 Which number psalm begins, 'The Lord is my Shepherd I shall not want'`23rd
 The first Modern Olympics were held in Athens in 1896, where in 1900 were the second games held`paris
-What is the decimal equivalent of binary 1111`fifteen*15
+What is the decimal equivalent of binary 1111`fifteen
 What is the more popular name for the flower, Calendula`marigold
 The name of which element comes from the Greek for 'stranger'`xenon
 In literature who was the wife of Othello`desdemona
@@ -659,7 +659,7 @@ The arrangement of individual characters of a particular typeface into words, se
 The average human produces how many quarts of spit in a lifetime`25,000
 The basis of all scientific agriculture, what involves six essential practices: proper tillage; maintenance of a proper supply of organic matter in the soil; maintenance of a proper nutrient supply; control of soil pollution; maintenance of the correct soil acidity; & control of erosion`soil management
 The blesbok, a South African antelope, is almost the same color as`grapefruit
-The body of an insect is divided into how many sections`three*3
+The body of an insect is divided into how many sections`three
 The Canadian province of ____ ______ leads the world in exporting lobster, wild blueberries, & christmas trees`nova scotia
 The Chinese were using aluminum to make things as early as ___ ad`300
 The chrysanthemum is the flower for what month`november

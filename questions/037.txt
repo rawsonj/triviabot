@@ -218,7 +218,7 @@ What was alanis morissette's first album`jagged little pill
 What was alaska before 1867`russian america
 What was andrew jergens' profession`lumberjack
 What was astronaut edwin aldrin's nickname`buzz
-What was Babe Ruth's uniform number`three*3
+What was Babe Ruth's uniform number`three
 What was barbara streisand's first film`funny girl
 What was Beaver Cleaver's first name`theodore
 What was ben stiller's character called in 'mystery men'`mr furious
@@ -554,7 +554,7 @@ What's sporting field is 78 feet long`tennis court
 What's the 1st name of Wayne Gretzky's father`walter
 What's the ancient greek word for "great city"`megalopolis
 What's the apparent gap between saturn's a and b rings called`cassini
-What's the average annual temperature worldwide (Fahrenheit)`fifty eight*58
+What's the average annual temperature worldwide (Fahrenheit)`fifty eight
 What's the basic unit for measuring electric energy`joule
 What's the better-known name of the card game Twenty-One`Blackjack
 What's the better-known name of the card game Twenty-One`Blackjack
@@ -700,7 +700,7 @@ When was julius caesar murdered`ides of march
 When was nelson mandela released from prison`1990
 When was nelson mandela released from robben island`1990
 When was the Alaskan Highway officially opened`november 21, 1942*11/21/42
-When was the Berlin Wall erected, and when was it dismantled`1961 1990*1961
+When was the Berlin Wall erected, and when was it dismantled`1961 1990
 When was the date of the christian festival easter fixed by the council of nicaea`325 ad
 When was the earthquake in tulbach`september 29, 1969
 When was the first black mayor of chicago elected`1983

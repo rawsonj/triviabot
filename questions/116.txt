@@ -469,7 +469,7 @@ Case #: x 1.10 111993 had the code name _____`fallen angel
 2001: HAL's name is (Clarke says unintentionally) similar to this acronym.`ibm
 2001: He was the next person to walk on the moon after the movie was made.`neil armstrong
 2001: Name of the ship going to Jupiter.`discovery i
-2001: Number of monolith scenes in the film.`four*4
+2001: Number of monolith scenes in the film.`four
 2001: This actor played Dr. Haywood Floyd`william sylvester
 50s Flicks: Which 1957 film had the whistled "Colonel Bogey" as its theme`the bridge on the river kwai
 50s Flicks: Which actress starred in _From Here to Eternity_ & _The King and I_`deborah kerr
@@ -574,7 +574,7 @@ Batman: Batman really doesn't like this superhero, and would love to punch him`s
 Batman: Bruce's loyal and witty, if often sardonic, butler and mentor`alfred
 Batman: Selena Kyle's alter-identity, now with her own series`catwoman
 Batman: The man who shot Thomas and Martha Wayne (Careful!, it wasn't the Joker!)`joe chill
-Batman: There have been this many Robins`three*3
+Batman: There have been this many Robins`three
 Blazing Saddles: A particularly gross scene involved cowboys eating lots of what`beans
 Blazing Saddles: What did people keep calling Hedley Lamarr`hetty lamarr
 Blazing Saddles: What did the sheriff disguise himself as to infiltrate the bad guys`a ku klux klansman
@@ -903,7 +903,7 @@ Wizard Of Oz: The actor originally slated to play the tin man.`buddy ebsen
 Wizard Of Oz: The famous actress who played Dorothy.`judy garland
 Wizard Of Oz: The words the wicked witch wrote in the sky above the Emerald City.`surrender dorothy
 Zorro was the secret identity of what wealthy landowner`don diego de la vega
-Zsa Zsa Gabor has been married how many times`eight*8
+Zsa Zsa Gabor has been married how many times`eight
 TV : Movies: What movie gave Humphrey Bogart the line: "I remember every detail. The Germans wore gray. You wore blue."`casablanca
 Commander Sisko loves what sport`baseball
 'Dances With Wolves' won the best picture Oscar in 1990, 1991, or 1993`1990

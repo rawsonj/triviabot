@@ -11,7 +11,7 @@ What is the atomic number of tungsten`74
 What is the average lifespan of a tastebud`ten days*10 days
 What is the back boundry line in tennis called`baseline
 What is the ball on top of a flagpole called`truck
-What is the best score in blackjack`twenty one*21
+What is the best score in blackjack`twenty one
 What is the best selling personal computer game of all time`myst
 What is the biggest bay on the north American continent`hudson bay
 What is the birthstone for may`emerald
@@ -69,7 +69,7 @@ What is the common name for the aurora borealis`northern lights
 What is the common name for the larynx`voice box
 What is the common name for tinea, a fungal skin condition, when it attacks the feet`athlete's foot
 What is the common name for white soft limestone`chalk
-What is the cube root of 64`four*4
+What is the cube root of 64`four
 What is the currency of venezuela`bolivar
 What is the current vat rate in south africa`14%
 What is the current vat rate in the uk `17.5%
@@ -289,7 +289,7 @@ What is the only word in the English language that ends in the letters 'mt'`drea
 What is the paint remover that is made from pine resin`turpentine
 What is the part of the sole between the heel & the ball of the foot`shank
 What is the point to which rays of light converge`focus
-What is the point value of the 'f' in scrabble `four*4
+What is the point value of the 'f' in scrabble `four
 What is the pope's pontificial ring`fisherman's ring
 What is the pound or number symbol on the telephone`octothorpe
 What is the principal mountain chain in Romania`the carpatians
@@ -329,7 +329,7 @@ What is the speed of light`186,000 miles per second
 What is the spiral galaxy nearest ours`andromeda
 What is the square root of 64`8*eight
 What is the square root of the sum of 55+65+24`12
-What is the square root of zero`zero*0
+What is the square root of zero`zero
 What is the standard time for boiling a soft boiled egg`three minutes*3 minutes
 What is the standard unit of measure for weighing gems`carat
 What is the state bird of Nebraska`western meadowlark
@@ -524,13 +524,13 @@ What northern country Helsinki the capital of`finland
 What note is placed on the centre line of a treble clef`b
 What not so hep disease had its virus finally identified in 1984`hepatitis
 What number did Levi Strauss affix to the first pair of jeans sold`501
-What number does a heart denote on a Moroccan bank note`five*5
-What number does VII mean in roman numerals`seven*7
-What number is at 6 oclock on a dartboard`three*3
-What number is on the opposite side of the 'five' on dice`two*2
-What number lies between 1 & 5 on a dart board`twenty*20
-What number on the Richter scale, does an earthquake have to reach to be considered major`seven*7
-What number stays the same when you square it or cube it`one*1
+What number does a heart denote on a Moroccan bank note`five
+What number does VII mean in roman numerals`seven
+What number is at 6 oclock on a dartboard`three
+What number is on the opposite side of the 'five' on dice`two
+What number lies between 1 & 5 on a dart board`twenty
+What number on the Richter scale, does an earthquake have to reach to be considered major`seven
+What number stays the same when you square it or cube it`one
 What numbers can be found on the back of the U S $5 dollar bill in the bushes at the base of the Lincoln Memorial`172
 What nursery rhyme character sang for his supper`little tommy tucker
 What oath do doctors take`hippocratic
@@ -580,8 +580,8 @@ What peninsula does Denmark occupy`jutland
 What peninsula does Mexico occupy`yucatan peninsula*yucatan
 What people were the first to use the rounded arch`romans
 What percent of the world's water is potable (drinkable)`one percent*1%
-What percentage of a peanut is fat `fourty seven*47
-What percentage of your weight is water   30, 50 or 70 percent`seventy*70
+What percentage of a peanut is fat `fourty seven
+What percentage of your weight is water   30, 50 or 70 percent`seventy
 What phenomenon is caused by the gravitational attraction of the moon`tides
 What phrase did the nazi adopt in the 1920s to label their new order`the third reich
 What phrase is associated with the happy face`have a nice day
@@ -647,7 +647,7 @@ What science deals specifically with plant & animal life in the sea`marine biolo
 What science is celebrated on mole day, every october 23rd`chemistry
 What scientific field did John Tebbutt excel at`astronomy
 What scientist developed the modern theory of evolution`charles darwin
-What score is not possible for a cribbage hand`nineteen*19
+What score is not possible for a cribbage hand`nineteen
 What Scottish city does a Glaswegian call home`glasgow
 What sea animal looks like a pin cushion`sea urchin
 What sea is situated between Vietnam & the Philippines`south china sea
@@ -833,7 +833,7 @@ What vitamin is also called ascorbic acid`vitamin c
 What vitamin is most commonly added to milk, becasue it is not found in milk naturally`vitamin d
 What vitamin is sometimes called the 'sunshine vitamin'>`vitamin d
 What volcano destroyed Pompeii`mount vesuvius
-What voltage are most car batteries`twelve*12
+What voltage are most car batteries`twelve
 What war was fought by the houses of York & Lancaster`war of the roses
 What was 1990s most populous U S state`california
 What was Adolf Hitler's religion`roman catholic
@@ -850,8 +850,8 @@ What was first sold at the 1904 St Louis worlds fair`ice cream cones
 What was first used as a medical treatment in 2700 bc by Chinese emperor Shen Nung`acupuncture
 What was George Washington's favorite horse's name`lexington
 What was H.G. Wells' first novel`the time machine
-How many Great Lakes do not border Michigan`one*1
-How many men have walked on the moon`twelve*12
+How many Great Lakes do not border Michigan`one
+How many men have walked on the moon`twelve
 How many years did Hitler predict the Third Reich would reign`one thousand*1,000*1000*a thousand
 How many years long is a quinquennium`five*5*five years*5 years*5 yrs
 What 1902 children's book continues to sell over 50,000 copies per year`the tale of peter rabbit
@@ -929,7 +929,7 @@ What organ will most often suffer permanent damage if you have amoebic dysentery
 What organization's launch was FDR preparing to attend when he died`the united nations*united nations
 What outfit merged with Time Warner in 1996 to form the world's largest entertainment company`turner broadcasting systems
 What part of an eatery do some restaurant owners call "the cancer ward"`the smoking section*smoking section
-What percentage of Earth's circumference does the Great Wall span`ten*10
+What percentage of Earth's circumference does the Great Wall span`ten
 What river snakes through Germany, Austria, Slovakia, Hungary, Serbia, Romania, & Bulgaria`the danube*danube*danube river*the danube river
 What rock makes the cheapest, softest form of sandpaper`flint
 What sexually ambigious prisonmate was often dubbed "Mrs. Hitler"`rudolf hess
@@ -1734,7 +1734,7 @@ Which Daniel Defoe character was born in Newgate Prison`moll flanders
 Which species of bird gave Darwin his theory of evolution`finch
 Which 3 olympic events restrain throwers in a circle`shot, hammer & discus
 Which European country has the largest percentage of forest and woodland`finland
-How many hearts has an octopus`three*3
+How many hearts has an octopus`three
 What did Sandy Fowler invent for drinkers that had he patented it would have made him millions`tea bag
 Which word describing chaos first appeared in Milton's Paradise Lost`pandemonium
 What are knackers to a Norwegian`crisp bread
@@ -1762,7 +1762,7 @@ In which sport might you see a googly`cricket
 Which ancient ship was brought up from the sea in 1982`the mary rose
 Which region of Spain has Barcelona as its capital`catalonia
 Which biblical character had 12 sons`jacob
-How many hurdles are there in a 400 metres hurdle race`ten*10
+How many hurdles are there in a 400 metres hurdle race`ten
 What animals name is Aboriginal for "no drink"`koala
 Who married Marie Louise of Austria because he wanted an heir`napoleon
 What was landscape gardener Lancelot Brown's nickname`capability
@@ -1781,7 +1781,7 @@ Whats the worlds largest church`st peters, vatican city
 What country's entire population was condemned to death by the Spanish inquisition`netherlands
 Which side of a book are the even numbered pages usually on`left
 Whats the highest mountain in the Alps`mont blanc
-How many days were the american hostages held in Iran`four hundred & forty four*444
+How many days were the american hostages held in Iran`four hundred & forty four
 What sea does the Danube river flow into`black sea
 What is consumption otherwise known as`tuberculosis
 What is the former name of Istanbul`constantinople
@@ -1799,12 +1799,12 @@ What language is klutz an insult in`yiddish
 Who was the 4th US president to be assassinated in office`john f. kennedy
 What was the fat boy's nickname in Lord of the Flies`piggy
 Whats the international radio code word for the letter O`oscar
-Whats the point value of the bullseye outer on a dartboard`twenty five*25
+Whats the point value of the bullseye outer on a dartboard`twenty five
 What country is home to Sabena airlines`belgium
 What country would you have to visit to see the ruins of Troy`turkey
 Who wrote 'across the river and into the trees'`ernest hemmingway
 What peace treaty ended WWI`treaty of versailles
-How many horses are there on a polo team`four*4
+How many horses are there on a polo team`four
 What country was formerly called Ceylon`sri lanka
 Whats the best known artificial international language`esperanto
 What fabric are harris, lewis and donegal examples of`tweed
@@ -1889,7 +1889,7 @@ Whats the worlds largest sea`mediterranean
 Who solves the crime in Death on the Nile`hercule poirot
 Superstition says that this birds feathers should never be inside a house`peacock
 What countrys national flower is the wattle`australia
-How many sides does a heptagon have`seven*7
+How many sides does a heptagon have`seven
 Whats the name of the large wooded area in which Robin Hood was supposed to have lived`sherwood forest
 What type of creature lives in a sett`badger
 Which british colony was returned to the Chinese in 1997`hong kong
@@ -1988,7 +1988,7 @@ In 1856 Peter Henry---------- , 1st to promote photography as an independent art
 In 1888 Brazil abolishes---------- .`slavery
 In 1907 Daphne du ---------- novelist (Rebecca, The Parasites), born.`maurier
 In 1912 Royal Flying Corps established in---------- .`england
-In 1913 1st ----------  engine aircraft built & flown (Igor Sikorsky-Russia).`four*4
+In 1913 1st ----------  engine aircraft built & flown (Igor Sikorsky-Russia).`four
 In 1931 Jim Jones, reverend, poisoned over 100 in---------- , born.`guyana
 In 1941 Ritchie---------- , singer (Donna, La Bamba), born.`valens
 In 1950 Peter---------- , rocker (Genesis-Against All Odds), born.`gabriel
@@ -2186,10 +2186,10 @@ What is the official language of Mozambique`portuguese
 Who wrote the autobiography 'Managing My Life'`sir alex ferguson
 What is the official language of Liberia`english
 Which actor/singer wrote the autobiography 'Parcel Arrived Safely, Tied With String'`michael crawford
-How many laps make up the Indianapolis 500`two hundred*200
+How many laps make up the Indianapolis 500`two hundred
 Who formed Microsoft with Bill Gates`paul allen
 Whose 1986 hit was 'Walk Like an Egyptian'`the bangles
-How many individual bets make up a Yankee`eleven*11
+How many individual bets make up a Yankee`eleven
 Which competition was organised by Mecca Ltd. to coincide with the 1951 Festival of Britain`miss world
 Which group's 1986 hit was 'Waiting for the Ghost Train'`madness
 What company was formed by the Swede, Ingvar Kamprad`ikea
@@ -2575,7 +2575,7 @@ Name The Year: Kahlil Gibran, philosopher, born.`1883
 Name The Year: Austrian Archduke Maximilian became emperor of Mexico.`1864
 Name The Year: American Society for the Prevention of Cruelty to Animals organized.`1866
 Name The Year: RMS Titanic sets sail for its first and last voyage.`1912
-Name The Year: Harry Morgan (in Detroit, MI), actor (Dragnet, M`A*S*H), born.*1915
+Name The Year: Harry Morgan (in Detroit, MI), actor (Dragnet, M`A*S*H), born.
 Name The Year: First professional golf tournament held.`1916
 Name The Year: Chuck Connors, actor (The Rifleman), born.`1924
 Name The Year: Max von Sydow, actor, born.`1929
@@ -3821,7 +3821,7 @@ Name The Year: William Seward Burroughs inventor (recording adding machine), bor
 Name The Year: Jackson Pollack abstract artist (Lavender Mist), born.`1912
 Name The Year: Christopher Hornsrud chosen PM of Norway at age 101.`1928
 Name The Year: Susan Sontag NYC, author/film director (1966 Pol Award), born.`1933
-Name The Year: Alan Alda NYC, actor (Hawkeye Pierce-M`A*S*H), born.*1936
+Name The Year: Alan Alda NYC, actor (Hawkeye Pierce-M`A*S*H), born.
 Name The Year: William Butler Yeats Irish poet, dies in France at 73.`1939
 Name The Year: Construction began on 1st private thorium-uranium nuclear reactor.`1958
 Name The Year: Republic of Rwanda proclaimed.`1961
@@ -4412,7 +4412,7 @@ Name The Year: St Pius X, 257th Roman Catholic pope (1903-14), born.`1835
 Name The Year: P.T. Barnum & his circus begin 1st tour of US.`1835
 Name The Year: Thomas Hardy, England, poet/novelist (Mayor of Casterbridge), born.`1840
 Name The Year: John Weissmuller, actor (Tarzan)/100m swimmer (Olympic-gold-1924, 28), born.`1904
-Name The Year: Sally Kellerman, Long Beach Cal, actress (M`A*S*H, Back to School), born.*1936
+Name The Year: Sally Kellerman, Long Beach Cal, actress (M`A*S*H, Back to School), born.
 Name The Year: Marvin Hamlisch, US composer/pianist (The Sting, Chorus Line), born.`1944
 Name The Year: Italian people chooses republic over monarchy (National Day).`1946
 Name The Year: Jerry Mathers, Sioux City Iowa, actor (Beaver-Leave It To Beaver), born.`1948

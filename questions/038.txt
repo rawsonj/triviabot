@@ -1,10 +1,10 @@
 How many names did the first telephone book ever issued contain`fifty
 How many numbers are on the spinner in 'the game of life'`ten
-How many of the 150 psalms are attributed to moses`one - psalm 90*one*1
+How many of the 150 psalms are attributed to moses`one - psalm 90*one
 How many of the islands of hawaii are inhabited`eight
 How many of the u.s states have similar names (like virginia and west virginia)`six
 How many olypmic medals has mark spitz won`nine
-How many organizational levels are there in the human body`four*4
+How many organizational levels are there in the human body`four
 How many ounces of orange juice contains the minimum daily requirement for vitamin c`six ounces
 How many people did andrew cunanan kill before killing gianni versace`four
 How many people were killed in the battle of lexington`eight
@@ -21,7 +21,7 @@ How many seams are there on an american football`four
 How many seconds comprise a day`86,400
 How many segments for the number 8 on a digital clock`seven
 How many semihemidemisemiquavers are there in a breve`256
-How many sheets of paper are there in a ream`five hundred*500
+How many sheets of paper are there in a ream`five hundred
 How many sides does a baseball homeplate have`five
 How many sides does a dodecagon have`twelve
 How many sides does a snowflake have`six
@@ -31,7 +31,7 @@ How many spokes does an umbrella have`eight
 How many squares on shogi (japanese chess) board`eighty one
 How many stars are on the paramount film studio logo`twenty two
 How many stars are there on the new zealand flag`four
-How many states joinded the confederacy`eleven*11
+How many states joinded the confederacy`eleven
 How many steps are there to the top of the eiffel tower`one thousand seven
 How many stitches are on a regulation baseball`one hundred and eight
 How many stories did enid blyton publish in 1959`fifty nine
@@ -42,10 +42,10 @@ How many teeth does a walrus have`eighteen
 How many tentacles does a squid have`ten
 How many throwing events are there in a decathlon`three
 How many times did peter deny jesus`three
-How many times have the olympic games been cancelled due to war`three*3
+How many times have the olympic games been cancelled due to war`three
 How many times its own length can the average flea jump`one hundred and
 How many times was johnny carson married`four
-How many top ten digit hits came from Lionel Richie's LP "Can't Slow Down"`five*5
+How many top ten digit hits came from Lionel Richie's LP "Can't Slow Down"`five
 How many tunnels under the mersey link liverpool to the wirral`two
 How many volumes were in abdul kassem ismael's library`one hundred and
 How many westerns were directed by a woman`one
@@ -74,7 +74,7 @@ How old was julius caesar when he was killed`fifty eight
 How old was leann rhimes when she became a country music star`fourteen
 How old was leann rhimes when she recorded her first album`eleven
 How old was michelangelo when he died`eighty eight
-How old was roy roger's horse trigger when he died`thirty three*33
+How old was roy roger's horse trigger when he died`thirty three
 How old was sarah when she had a child`ninety
 How old was the world's oldest man`one hundred and forty one
 How tall are the bearskins worn by the guards at buckingham palace`twenty

@@ -243,7 +243,7 @@ Whose likeness is displayed on the purple heart medal`george washington
 Whose military autobiography was titled Crusade in Europe`dwight d eisenhower
 Whose motto is "we learn by doing"`the 4 h club
 Whose name did God change to Israel`jacob
-Whose porridge did Goldilocks eat`three bears*3
+Whose porridge did Goldilocks eat`three bears
 Whose porridge did Goldilocks eat`three bears*3 bears
 Whose record did Babe Ruth break when he hit 60 home runs in 1927`his own*babe ruth*babe ruth's*his
 Whose shrewish wife was named Xantippe`socrates
@@ -299,7 +299,7 @@ Words containing pot or pan: This membrane in the ear derives its name from the 
 Words containing pot or pan: Tyrant`despot*despotic*potentate
 Words containing pot or pan:What Marcel Marceau does`pantomime
 Words containing 'ten': a choice cut of meat`tenderloin
-Worker ants may live up to how many years`seven*7
+Worker ants may live up to how many years`seven
 Worlds largest numismatic publication is....`coinage
 Year Martin Luther was born`1483
 Year of the first manned space flight`1961
@@ -311,7 +311,7 @@ Your nares are your .....`nostrils
 "retro" is latin for what`backward
 What was Dr. Zhivago's first name`yuri
 What symbol appeared in green on white flags flown by U.S. relief ships during the Irish potato famine`shamrock
-How many legs do crabs, lobsters & shrimp each have`ten*10
+How many legs do crabs, lobsters & shrimp each have`ten
 What was the world's principal Christian city before it fell to the Ottoman Turks in 1453`constantinople
 What automaker bought Rolls Royce in 1998`volkswagen
 What republic would a Finn reach by paddling due south from Helsinki`estonia
@@ -326,7 +326,7 @@ What is the general term for all chemical substances produced by the endocrine g
 What does a mosque's mihrab indicate the direction to`mecca
 What literary work gave Geoffrey Chaucer something to do from 1387 to 1400`the canterbury tales*canterbury tales
 What serious umderwater ailment was named after a Victorian notion of chic posture`the bends*bends
-How many birthday candles were Michael Jackson & Madonna each obliged to blow out in 1998`forty*fourty*40
+How many birthday candles were Michael Jackson & Madonna each obliged to blow out in 1998`forty*fourty
 What body parts are oversized in a man suffering from gynecomastia`breasts
 What country is headed by King Fahd Ibn Abdul Iziz, one of 44 sons sired by a 22 wife dad`saudi arabia
 What is the term for the brain's nerve cells`neurons*neuron
@@ -337,13 +337,13 @@ What book did a Mississippi man try to sue in 1994, claiming it was based on "op
 What is the highest point in China`mount everest*mt everest*mt. everest
 What country officially limits women to one child`china
 What did physicist Lord Rutherford discover inside the nucleus of the atom`protons
-What uniform number was worn by Larry Bird & Kareem Abdul Jabbar`thirty three*thirty three*33
+What uniform number was worn by Larry Bird & Kareem Abdul Jabbar`thirty three*thirty three
 What remote region of Russia borders China, Kazakhstan & Mongolia`siberia
 What Broadway show went through 2,488 pounds of yak hair between 1982 & 1995`cats
 What word did Dan Quayle devote an entire chapter to, in his book of memoirs`potato
 What did Alexander Graham Bell muffle to keep it from interrupting his work`his telephone*the telephone*telephone
 What country controls access to the North Sea from the rivers Schelde, Meuse & Rhine`netherlands
-How many peas grace the average pod`eight*8
+How many peas grace the average pod`eight
 What human organ houses your amygdala & thalamus`the brain*brain*your brain
 What is the world's largest desert, as determined by the least amount of precipitation`the antarctic*antarctic
 Who did Christina Onassis grudgingly give $25 million to, in 1977`jacqueline onassis*jackie onassis
@@ -359,8 +359,8 @@ What country boasts the Chrysanthemum Dynasty`japan
 What did Paul Benier leave in his locked getaway car while he robbed a bank in Swansea, Massachusetts`his car keys*car keys*the car keys
 What sport was obligatory for Kennedy males during Hyannis Port weekends`touch football
 According to Hindu myth, what river once flowed through heaven`the ganges*ganges
-How many continents must a sport be played on before the IOC will consider making it an Olympic event for men`four*4
-How many karats is pure, unalloyed gold`twenty four*twenty four*24
+How many continents must a sport be played on before the IOC will consider making it an Olympic event for men`four
+How many karats is pure, unalloyed gold`twenty four*twenty four
 Music: What singer songwriter had five albums in the Billboard Top 200 in 1977`barry manilow
 What amphibians do you raise if you run a ranarium`frogs
 What are the sacred Hindu texts called`vedas
@@ -434,7 +434,7 @@ What is the process of splitting atoms called`fission
 What is the provincial flower of Saskatchewan`tiger lilly
 What is the unabomber's real name`ted kaczynski
 What movie starred Lee Marvin as twins Kid Shelleen & Tim Strawn`cat ballou
-What percentage of alcohol is contained in a 100 proof mixture`fifty*50
+What percentage of alcohol is contained in a 100 proof mixture`fifty
 What Philippine volcano erupted in 1991`mt pinatubo
 What publication was subtitled the what's new magazine`popular science
 What returned in 1985 that is pictured on the Bayeux tapestry`halley's comet
@@ -470,7 +470,7 @@ Every person generates approximately 3.5 pounds of rubbish a day, most of it bei
 Excluding man, what is the longest lived land mammal`elephant
 Fromage is french for`cheese
 How long is an Olympic swimming pool`50 metres
-How many ring are there on the olympic flag`five*5
+How many ring are there on the olympic flag`five
 How much jelly fills a proper dunkin donuts' munchkin`one half ounce*1/2 ounce
 How was the mausoleum at Halicarnassus destroyed`earthquake
 In 1985, as what did 'people magazine' name Mel Gibson`sexiest man of the year
@@ -495,7 +495,7 @@ Shbat is Arabic for what month`february
 Sociophobia is a fear of ______`society
 Teichi Igarashi climbed what mountain at the age of 99`mount fuji
 The Gorbals is a district of which city`glasgow
-The prefix tetra, used in such words as tetrach, tetrapod, & tetrameter, means what`four*4
+The prefix tetra, used in such words as tetrach, tetrapod, & tetrameter, means what`four
 The Straits of Malacca separate Malaysia from which country`indonesia
 This statue was found on the Greek island of Melos in 1820`venus de milo
 To which planet does the moon Iapetus belong`saturn
@@ -712,7 +712,7 @@ Cars: Volvo's chairman resigned in 1993 in protest of a merger with this automak
 1993 The Year: This man became South Korea's first civilian leader.`kim young sam
 What is the speed of light`186,000 miles per second
 Where would you find Queen Maud land`antarctica
-What is 240 minutes in hours`four*4
+What is 240 minutes in hours`four
 What is 3 days and 6 hours in minutes`4,680
 What is 7 days and 10 hours in minutes`10,680
 What is 1 days and 2 hours in hours`26

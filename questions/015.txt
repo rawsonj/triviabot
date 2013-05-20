@@ -1000,9 +1000,9 @@ In 1936 Bruno ---------- , convicted Lindbergh baby killer, executed. `hauptmann
 In 1942 Wayne ---------- , singer, born. `newton
 In 1961 Eddie ---------- , comedian, actor, born. `murphy
 In 1964 US and  ---------- agree to resume diplomatic relations. `panama
-In 1966 Luna ---------- , first lunar orbiter.`ten*10
+In 1966 Luna ---------- , first lunar orbiter.`ten
 In 1968 N. Vietnam agreed to meet US reps to set up preliminary  ---------- talks. `peace
-In 1974 Soyuz  ----------  is launched. `fourteen*14
+In 1974 Soyuz  ----------  is launched. `fourteen
 In 1977 Egyptian Pres Anwar  ---------- first meeting with President Jimmy Carter. `sadat
 In 1982 UN Security Council demanded  ---------- withdraw from Falkland Islands. `argentina
 In 188  ---------- Roman emperor (211-17), born. `caracalla
@@ -1051,17 +1051,17 @@ In 1923 Nguyen  ---------- president of South Vietnam, born. `van thieu
 In 1929 Nigel  ---------- actor (Tartuffe, Pope John Paul II (Sir Humphrey Appleby in Yes Minister), Richard III), born. `hawthorne
 In 1941 Eric  ---------- rocker (Animals-House of the Rising Sun), born. `burdon
 In 1943  ---------- found after being adrift 133 days `poon lim
-In 1943 Poon Lim found after being adrift  ----------  days`one hundred & thirty three*133
+In 1943 Poon Lim found after being adrift  ----------  days`one hundred & thirty three
 In 1951 Julius & Ethel ---------- , atomic spies, sentenced to death `rosenberg
 In 1954 Elvis Presley records his debut single, " ---------- " `that's all right
 In 1955  ---------- resigns as British PM, Anthony Eden succeeds him `winston churchill
 In 1958 Cammie  ---------- LA Calif, Guinness' World Strongest Woman, born. `lusko
 In 1962 NASA civilian pilot Neil A  ---------- takes X-15 to 54,600 m `armstrong
 In 1963 Beatles receive their 1st  ---------- disc (Please Please Me) `silver
-In 1964 Douglas MacArthur US general (Pacific theater-WW II), dies at`eighty four*84
+In 1964 Douglas MacArthur US general (Pacific theater-WW II), dies at`eighty four
 In 1971 Mount  ---------- erupts in Sicily Italy `etna
 In 1976 Harold  ---------- resigns as British PM. `wilson
-In 1976 Howard Hughes reclusive billionaire, dies at`seventy two*72
+In 1976 Howard Hughes reclusive billionaire, dies at`seventy two
 In 1986 Record for a throw-and-return  ---------- toss is set (121m) `boomerang
 In 1987 Fox TV network premiers showing  ---------- & Tracey Ullman `married with children
 In 1989 Solidarity grants  ---------- status in Poland `legal
@@ -1072,11 +1072,11 @@ In 1892 Donald Wills ---------- , founded an aircraft company`douglas
 In 1896 Modern Olympics ---------- . (First modern Olympiad)`anniversary
 In 1906 First animated  ---------- is copyrighted.`cartoon
 In 1917 US declares war on  ---------- (WWI).`germany
-In 1926  ---------- planes take off on first successful around-the-world flight.`four*4
+In 1926  ---------- planes take off on first successful around-the-world flight.`four
 In 1965 Intelsat 1 ("Early Bird") first commercial  ---------- communication satellite.`geosynchronous
 In 1973 Pioneer 11 launched. First spacecraft to flyby`saturn
 In 1975 Nationalist Chinese leader Chiang  ---------- died at the age of 87.`kai-shek
-In 1975 Nationalist Chinese leader Chiang Kai-Shek died at the age of`eighty seven*87
+In 1975 Nationalist Chinese leader Chiang Kai-Shek died at the age of`eighty seven
 In 1984 Eleventh Space Shuttle Mission -  ---------- is launched.`challenger 5
 In 30 Scholars' calculate this as the date that Jesus of Nazareth was crucified by  ---------- troops in Jerusalem.`roman
 In 1860 W. K. ---------- , founded a cereal company`kellogg
@@ -1724,7 +1724,7 @@ In 1931 James---------- , actor (Rebel Without a Cause), born. `dean
 In 1940 Nick---------- , actor, born. `nolte
 In 1945 Mia ---------- (in Los Angeles, CA), actress, born. `farrow
 In 1968 Gary---------- , actor, born. `coleman
-In 1974 Skylab ---------- 's astronauts land. `four*4
+In 1974 Skylab ---------- 's astronauts land. `four
 In 1984 Soyuz ---------- is launched. `t-10
 In 1670 Christian V became King of ---------- and Norway. `denmark
 In 1904 Russian cruisers ---------- and Korietz sunk off Korean coast by Japanese. `variag
@@ -1894,14 +1894,14 @@ In 1980 USA beats ---------- and wins the Olympic Gold Medal (4-2).`finland
 In 1986 Voyager 2, first ---------- flyby.`uranus
 In 1989 Funeral for Japan's Emperor ---------- costs his government $80-billion dollars, attracts all major world leaders.`hirohito
 In 1989 United Airlines 747 jet rips open in flight from ---------- to New Zealand, 9 passengers sucked out of plane, many injuries.`honolulu
-In 1838 A London pedestrian walks 20 miles backward and 20 miles forward in ----------  hours.`eight*8
+In 1838 A London pedestrian walks 20 miles backward and 20 miles forward in ----------  hours.`eight
 In 1841---------- , painter, born.`renoir
 In 1873 Enrico ---------- (in Italy), singer, born.`caruso
 In 1933 First aircraft carrier "---------- " launched.`ranger
 In 1943 George---------- , singer (Beatles), born.`harrison
 In 1972 Paul ---------- releases "Give Ireland back to the Irish" single.`mccartney
-In 1977 Soyuz ----------  returns to Earth.`twenty four*24
-In 1979 Soyuz ----------  is launched.`thirty two*32
+In 1977 Soyuz ----------  returns to Earth.`twenty four
+In 1979 Soyuz ----------  is launched.`thirty two
 In 1802 Victor---------- , French author, born. `hugo
 In 1815 Napoleon escapes from ---------- to begin second conquest of France. `elba
 In 1846 William "---------- " Cody (near Davenport, Iowa), frontiersman, born. `buffalo bill
@@ -2290,7 +2290,7 @@ Which was the first of the National Parks in England and Wales`peak district
 What was the philosophy of Jean Paul Sartre called`existentialism
 Which number psalm begins, 'The Lord is my Shepherd I shall not want'`23rd
 The first Modern Olympics were held in Athens in 1896, where in 1900 were the second games held`paris
-What is the decimal equivalent of binary 1111`fifteen*15
+What is the decimal equivalent of binary 1111`fifteen
 What is the more popular name for the flower, Calendula`marigold
 The name of which element comes from the Greek for 'stranger'`xenon
 In literature who was the wife of Othello`desdemona

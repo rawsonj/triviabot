@@ -62,7 +62,7 @@ In which modern country is the region known as Cappadocia`turkey
 What is the unit of Imperial measure equal to 1/10 of a nautical mile`cable
 In which decade if the 20 century was the first Filofax sold`1920's
 Who is the longest serving Head of State who is not a member of a Royal Family`fidel castro
-How many miles are there in a league`three*3
+How many miles are there in a league`three
 In which 1949 film does Alec Guinness portray 8 members of the D'Ascoyne family`kind hearts and coronets
 Who was the world's first woman Prime Minister`sirimavo bandaranaike
 In which 20th century decade was the first angle-poise lamp sold`1930's
@@ -90,14 +90,14 @@ Of whom was it said by Gerald Ford, 'He doesn't dye his hair - he's just prematu
 Which French artist painted 'The Bridge at Argenteuil', and 'The Magpie'`claude monet
 Who married to Jenny Von Westphalen in 1843`karl marx
 What is the chemical formula for Ozone`o3
-What is the atomic number for oxygen`eight*8
+What is the atomic number for oxygen`eight
 An animal described as ecaudate lacks which physical feature`tail
 In dating agency adverts what does the 'S' represent in the abbreviation 'NSP'`smoker
 An animal described as ecostate lacks which physical feature`ribs
 The Venetian island of Murano is particularly associated with the manufacture of which product`glass
 The US Congress comprises the Senate and which other house or chamber`house of representatives
 Birmingham is flanked by the M6 on the north and M5 on the west, which motorway flanks south & east`m42
-How many senators comprise the US Senate`one hundred*100
+How many senators comprise the US Senate`one hundred
 In which North Italian city is a world renowned opera season held annually in the Roman arena during July and August`verona
 Which motorway is, being developed as a ring motorway round Manchester`m60
 Transylvania is in which present day country`romania
@@ -133,7 +133,7 @@ Who became U.S. president following the assassination of William McKinley in 190
 Europa is a satellite of which planet in the solar system`jupiter
 Brian Lara broke the record for the highest first class cricket innings by scoring 501 not out against which county in 1994`durham
 Who wrote the books on which the television series The Darling lands of May was based`h e bates
-In Imperial measurement, how many pounds are there in one hundredweight`one hundred and twelve*112
+In Imperial measurement, how many pounds are there in one hundredweight`one hundred and twelve
 The British Mediterranean Fleet defeated Italian naval forces at which battle in May 1941`cape matapan
 Who wrote the 1955 play Long Day's Journey into Night`eugene o'neill
 In which sea would you find the island of Bornholm`baltic sea
@@ -538,7 +538,7 @@ TV/ Movies: Category: Star Trek Next Generation: Characters: Transporter Chief w
 TV/ Movies: Category: Star Trek Next Generation: Characters: Who is the Chief of Engineering?`laforge
 TV/ Movies: Category: Star Trek Next Generation: Characters: Worf's son's name?`alexander
 TV/ Movies: Category: Star Trek Next Generation: Tech: In the Warp engine core, matter-antimatter annihilation is regulated by this`dilithium crystal
-TV/ Movies: Category: Star Trek Next Generation: Tech: Level _ Diagnostic is the most comprehensive type of system diagnostics`one*1
+TV/ Movies: Category: Star Trek Next Generation: Tech: Level _ Diagnostic is the most comprehensive type of system diagnostics`one
 TV/ Movies: Category: Star Trek Next Generation: Tech: This crystal is the only material known to be nonreactive with antimatter`dilithium crystal
 TV/ Movies: Category: Star Trek Next Generation: Tech: This small device is used for voice communications and transporter lock-ons`personal communicator
 TV/ Movies: Category: Star Trek Next Generation: Tech: This type of electronics is used in computer systems and networks`optical electronics

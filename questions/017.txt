@@ -9,7 +9,7 @@ In 1640---------- , Emperor of Holy Roman Empire, born. `leopold i
 In 1781 George---------- , inventor (principal RR locomotive), born. `stephenson
 In 1870 Charles---------- , author, dies in England. `dickens
 In 1893 Cole---------- , Indiana U.S.A, composer/lyricist (Anything Goes, Kiss Me Kate), born. `porter
-In 1898 China leases Hong Kong's new territories to Britain for ----------- years`ninety nine*99
+In 1898 China leases Hong Kong's new territories to Britain for ----------- years`ninety nine
 In 1915 Les---------- , Waukesha Wisconsin, U.S.A., guitarist/inventor (Les Paul guitar), born. `paul
 In 1934 Donald---------- , famous fowl, born. `duck
 In 1940 ---------- surrenders to Germany during WW II. `norway
@@ -37,9 +37,9 @@ In 1934 Italy beats Czechoslovakia 2-1 (OT) in soccer's 2nd World Cup at--------
 In 1940 ---------- declares war on France & Britain during WW II. `italy
 In 1940 Italy declares war on ---------- & Britain during WW II. `france
 In 1941 Marcus ---------- dies at 52 in London England. `garvey
-In 1941 Marcus Garvey dies at --------- in London England`fifty two*52
+In 1941 Marcus Garvey dies at --------- in London England`fifty two
 In 1942 Massacre at ---------- (Czechoslovakia) Gestapo kills 173. `lidice
-In 1942 Massacre at Lidice (Czechoslovakia) Gestapo kills---------- `one hundred and seventy three*173
+In 1942 Massacre at Lidice (Czechoslovakia) Gestapo kills---------- `one hundred and seventy three
 In 1957 Harold ---------- becomes British PM. `macmillan
 In 1967---------- , Syria, Jordan, Iraq & Egypt end "6-Day War" with UN help. `israel
 In 1967 Israel, ---------- , Jordan, Iraq & Egypt end "6-Day War" with UN help. `syria
@@ -73,7 +73,7 @@ In 1923 ---------- frees himself from a straitjacket while suspended upside down
 In 1924 George Herbert Walker---------- , former President of the United States, born. `bush
 In 1929 Anne---------- , diarist, born. `frank
 In 1932 Jim---------- , actor (Gomer Pyle, USMC; Mayberry RFD), singer, born. `nabors
-In 1937 USSR executes ------- army leaders as Stalin's purge continued`eight*8
+In 1937 USSR executes ------- army leaders as Stalin's purge continued`eight
 In 1964 ---------- begins a long jail term in South Africa. `nelson mandela
 In 1986 P. W. ---------- declares South African national emergency. `botha
 In 323 B.C. ---------- the Great dies of fever at Babylon`alexander
@@ -99,16 +99,16 @@ In 1900 China's Boxer Rebellion against foreigners and---------- . `christians
 In 1940 ---------- evacuated before the German advance. `paris
 In 1944 Nazi Germany begins ---------- (Fieseler Fi-103) buzz-bomb attacks. `v-1
 In 1980 UN Security Council calls for ---------- to free Nelson Mandela. `south africa
-In 1981 Teenager fires --------- blanks at Queen Elizabeth II`six*6
+In 1981 Teenager fires --------- blanks at Queen Elizabeth II`six
 In 1981 Tom ---------- interviews Charles Manson on "Tomorrow". `snyder
 In 1981 Tom Snyder interviews Charles ---------- on "Tomorrow". `manson
 In 1982 ---------- becomes king of Saudi Arabia when King Khalid dies at 69. `fahd
 In 1982 Fahd becomes king of ---------- when King Khalid dies at 69. `saudi arabia
 In 1982 Fahd becomes king of Saudi Arabia when King ---------- dies at 69. `khalid
-In 1982 Fahd becomes king of Saudi Arabia when King Khalid dies at -------------`sixty nine*69
+In 1982 Fahd becomes king of Saudi Arabia when King Khalid dies at -------------`sixty nine
 In 1986 Benny ---------- the clarinet playing King of Swing, dies in NY at 77. `goodman
 In 1986 Benny Goodman the ---------- playing King of Swing, dies in NY at 77. `clarinet
-In 1986 Benny Goodman the clarinet playing King of Swing, dies in NY at `seventy seven*77
+In 1986 Benny Goodman the clarinet playing King of Swing, dies in NY at `seventy seven
 In 1892 Basil ---------- Johannesburg S Africa, actor (Sherlock Holmes), born. `rathbone
 In 1893 Dorothy L ---------- England, novelist (9 Taylors), born. `sayers
 In 1971 Broderick ---------- Sydney Australia (7 of 9 survived infancy), born. `nonuplets
@@ -133,7 +133,7 @@ In 1951 1st commercial computer, ---------- , enters service at Census Bureau `u
 In 1961 Boy---------- , androgynous rock musician (Culture Club), born. `george
 In 1967 Launch of ---------- for Venus fly-by `mariner v
 In 1967 USSR launches ---------- for observation of Sun from Earth orbit `kosmos 166
-In 1982 Argentina surrenders to Britain on Falkland Is, ends --------------day conflict`seventy four*74
+In 1982 Argentina surrenders to Britain on Falkland Is, ends --------------day conflict`seventy four
 In 1985 Lebanese ---------- Moslem gunmen hijack TWA 847 after Athens' takeoff `shiite
 In 1985 Lebanese Shiite ---------- gunmen hijack TWA 847 after Athens' takeoff `moslem
 In 1985 ---------- Shiite Moslem gunmen hijack TWA 847 after Athens' takeoff `lebanese
@@ -146,11 +146,11 @@ In 1215 King ---------- signs Magna Carta at Runnymede, England.`john
 In 1215 King John signs Magna Carta at---------- , England.`runnymede
 In 1330 ---------- the black prince, prince of Wales (1343-1376), born.`edward
 In 1649 Margaret ---------- of Charlestown became the first person tried and executed for witchcraft in colonial Massachusetts. `jones
-In 1785 ---------- French balloonists die in world's 1st fatal aviation accident.`two*2
+In 1785 ---------- French balloonists die in world's 1st fatal aviation accident.`two
 In 1843 Edvard---------- , Bergen Norway, composer, born.`grieg
 In 1851 Jacob---------- , Baltimore dairyman, sets up 1st ice-cream factory.`fussell
 In 1869 Celluloid patented by John Wesley---------- , Albany, NY.`hyatt
-In 1924 Ford Motor Company manufactures its ---------- millionth automobile.`ten*10
+In 1924 Ford Motor Company manufactures its ---------- millionth automobile.`ten
 In 1940 French fortress of ---------- captured by Germans.`verdun
 In 1954 Jim---------- , Chicago Ill, comedian (Sat Night Live, Trading Places), born.`belushi
 In 1960 Argentina complains to UN about Israeli illicit transfer of---------- .`eichman
@@ -161,7 +161,7 @@ In 1982 Riots in ---------- after Falklands/Malvinas defeat.`argentina
 In 1985 En route to Halley's Comet, USSR's ---------- drops lander on Venus.`vega 2
 In 1986 ---------- announces high-level Chernobyl staff fired for stupidity.`pravda
 In 1989 Ronald ---------- is knighted by Queen Elizabeth.`reagan
-In 1216 Innocent III pope, dies at ---------`fifty four*54
+In 1216 Innocent III pope, dies at ---------`fifty four
 In 1567 Mary Queen of ---------- thrown into Lochleven Castle prison. `scots
 In 1567 Mary Queen of Scots thrown into ---------- Castle prison. `lochleven
 In 1879 Gilbert & Sullivan's "---------- " debuts at Bowery Theatre NYC. `hms pinafore
@@ -259,13 +259,13 @@ In 1936 Harry ---------- dives 110 m from airship into Bodensee & survives.`frob
 In 1941 Germany declares war on ---------- during WW II.`soviet union
 In 1949 Lindsay ---------- LA Ca, actress (Bionic Woman, Paper Chase, Nighthawks), born.`wagner
 In 1949 Meryl ---------- NJ, actress (French Lieutenant's Woman, Sophie's Choice), born.`streep
-In 1965 David O Selznick Gone With the Wind's producer, dies at`sixty three*63
+In 1965 David O Selznick Gone With the Wind's producer, dies at`sixty three
 In 1969 Judy Garland singer/actress, dies in London atforty seven`47
 In 1969 Aretha ---------- arrested in Detroit for creating a disturbance.`franklin
 In 1977 Walt Disney's "---------- " released.`the rescuers
 In 1978 James Christy's discovery of Pluto's moon ---------- announced.`charon
 In 1987 Fred ---------- actor/dancer, dies at Century City Hospital in LA at 88.`astaire
-In 1987 Fred Astaire actor/dancer, dies at Century City Hospital in LA at`eighty eight*88
+In 1987 Fred Astaire actor/dancer, dies at Century City Hospital in LA at`eighty eight
 In 1846 George ---------- inventor (the saxophone), born.`sax
 In 1868 Christopher Latham ---------- patents "Type-writer"`sholes
 In 1894 Alfred ---------- entomologist/sexologist (Kinsey Report), born.`kinsey
@@ -295,7 +295,7 @@ In 1919 First flight Junkers ---------- advanced monoplane airliner. `f13
 In 1929 Pres. ---------- authorizes the building of Boulder Dam (Hoover Dam). `hoover
 In 1941 ---------- declares war on the U.S.S.R. `finland
 In 1942 British RAF staged a ---------- -bomb raid on Bremen Germany (WW II). `thousand
-In 1953 First passenger to fly commercially around the world in less than ---------- hours`one hundred*100
+In 1953 First passenger to fly commercially around the world in less than ---------- hours`one hundred
 In 1963 George ---------- (in England), singer, born. `michael
 In 1973 John ---------- begins testifying before the Senate Watergate Committee. `dean
 In 1483 ---------- usurps English throne. `richard iii
@@ -305,7 +305,7 @@ In 1904 Peter---------- , actor (M, Casablanca, Beast with 5 Fingers, voice over
 In 1909 Col. Tom ---------- Elvis Presley's manager, born. `parker
 In 1940 End of USSR experimental calendar; ---------- readopted 6/27. `gregorian
 In 1941 ---------- enters WW II against Russia. `finland
-In 1945 UN Charter signed by ----------- nations in SF.`fifty*50
+In 1945 UN Charter signed by ----------- nations in SF.`fifty
 In 1948 US denounces ---------- blockade of Berlin. `soviet
 In 1949 Walter Baade discovers asteroid ---------- inside orbit of Mercury. `icarus
 In 1955 Mick ---------- rocker (The Clash, Big Audio Dynamite), born. `jones
@@ -322,7 +322,7 @@ In 1861 Leipzig Observatory discovers short-period (6.2 yrs) Comet---------- .`d
 In 1914 Archduke ---------- & wife Sofia of Austria assassinated (starts WW I).`ferdinand
 In 1914 Archduke Ferdinand & wife ---------- of Austria assassinated (starts WW I).`sofia
 In 1971 Supreme Court overturns ---------- conviction of Muhammad Ali.`draft evasion
-In 1975 Rod Serling writer/host (Twilight Zone, Night Gallery), dies at`sixty*60
+In 1975 Rod Serling writer/host (Twilight Zone, Night Gallery), dies at`sixty
 In 1975 David Bowie releases "---------- ".`fame
 1613 Shakespeare's ---------- Theater burns down.`globe
 1776 Mission ---------- founded by SF Bay.`dolores
@@ -340,8 +340,8 @@ In 1975 David Bowie releases "---------- ".`fame
 1949 South Africa begins implementing---------- ; no mixed marriages.`apartheid
 1958 ---------- beats Sweden 5-2 in soccer's 6th World Cup at Stockholm.`brazil
 1964 1st draft of Star Trek's pilot "---------- " released.`the cage
-1967 Jayne Mansfield actress, dies in a car crash at `thirty four*34
-1978 Bob Crane actor (Hogan's Heroes), murdered at`fifty nine*59
+1967 Jayne Mansfield actress, dies in a car crash at `thirty four
+1978 Bob Crane actor (Hogan's Heroes), murdered at`fifty nine
 1893 ---------- diamond (blue-white 995 carats) discovered.`excelsior
 1894 Korea declares independence from---------- , asks for Japanese aid.`china
 1908 Giant fireball impacts in Central ---------- (Tunguska Event).`siberia
@@ -382,12 +382,12 @@ In 1967 Beatles' "---------- ", goes #1 for 15 weeks. `sgt. pepper's lonely hear
 In 1978 ---------- Territory of Australia becomes self-governing. `northern
 In 1983 R ---------- Fuller inventor/philosopher, dies in LA at 87. `buckminster
 In 1983 R Buckminster ---------- inventor/philosopher, dies in LA at 87. `fuller
-In 1983 R Buckminster Fuller inventor/philosopher, dies in LA at`eighty seven*87
+In 1983 R Buckminster Fuller inventor/philosopher, dies in LA at`eighty seven
 In 1990 German Democratic Republic accepts the Deutsche ---------- as its currency. `mark
 In 1991 Michael ---------- actor (Bonanza, Highway to Heaven), dies at 54 from cancer. `landon
 In 1991 Michael Landon actor (---------- , Highway to Heaven), dies at 54 from cancer. `bonanza
 In 1991 Michael Landon actor (Bonanza,---------- ), dies at 54 from cancer. `highway to heaven
-In 1991 Michael Landon actor (Bonanza, Highway to Heaven), dies at ---------- from cancer.`fifty four*54
+In 1991 Michael Landon actor (Bonanza, Highway to Heaven), dies at ---------- from cancer.`fifty four
 In 1991 Michael Landon actor (Bonanza, Highway to Heaven), dies at 54 from ---------- `cancer
 In 1990 In Victoria, helmetless ---------- riding becomes illegal. `bike
 In 1997 ---------- regains sovereignty of Hong Kong. `china
@@ -426,22 +426,22 @@ In 1962 ---------- Revolution against French ends (Algeria gains independence on
 In 1962 Algerian Revolution against ---------- ends (Algeria gains independence on 5th July). `french
 In 1969 Brian ---------- of the Rolling Stones drowns to death at 25. `jones
 In 1969 Brian Jones of the ---------- drowns to death at 25. `rolling stones
-In 1969 Brian Jones of the Rolling Stones drowns to death at ------------`twenty five*25
+In 1969 Brian Jones of the Rolling Stones drowns to death at ------------`twenty five
 In 1971 Jim ---------- rocker (Doors), dies of heart failure in Paris. `morrison
 In 1971 Jim Morrison rocker (---------- ), dies of heart failure in Paris. `doors
 In 1971 Jim Morrison rocker (Doors), dies of ---------- in Paris. `heart failure
 In 1971 Jim Morrison rocker (Doors), dies of heart failure in---------- . `paris
 In 1976 Israel launches rescue of 103 Air France crew and passengers being held at Entebbe Airport in ---------- by pro-Palestinian hijackers. `uganda
 In 1976 ---------- launches rescue of 103 Air France crew and passengers being held at Entebbe Airport in Uganda by pro-Palestinian hijackers. `israel
-In 1976 Israel launches rescue of ---------- Air France crew and passengers being held at Entebbe Airport in Uganda by pro-Palestinian hijackers. `one hundred & three*103
+In 1976 Israel launches rescue of ---------- Air France crew and passengers being held at Entebbe Airport in Uganda by pro-Palestinian hijackers. `one hundred & three
 In 1976 Israel launches rescue of 103 Air France crew and passengers being held at ---------- Airport in Uganda by pro-Palestinian hijackers. `entebbe
 In 1989 ---------- actor (Magoo, Gilligan's Island), dies at 76 of pneumonia. `jim backus
 In 1989 Jim Backus actor (---------- , Gilligan's Island), dies at 76 of pneumonia. `magoo
 In 1989 Jim Backus actor (Magoo,---------- ), dies at 76 of pneumonia. `gilligan's island
 In 1989 Jim Backus actor (Magoo, Gilligan's Island), dies at 76 of---------- . `pneumonia
-In 1989 Jim Backus actor (Magoo, Gilligan's Island), dies at ------------ of pneumonia`seventy six*76
+In 1989 Jim Backus actor (Magoo, Gilligan's Island), dies at ------------ of pneumonia`seventy six
 In 1054 Brightest known super-nova (---------- Nebula) starts shining (23 days). `crab
-In 1054 Brightest known super-nova (Crab Nebula) starts shining (------------ days)`twenty three*23
+In 1054 Brightest known super-nova (Crab Nebula) starts shining (------------ days)`twenty three
 In 1776 Declaration of Independence-US gains independence from ---------- (U.S. Independence Day). `britain
 In 1807 Giuseppe---------- , unified Italy, born. `garibaldi
 In 1807 Giuseppe Garibaldi, unified---------- , born. `italy
@@ -497,7 +497,7 @@ In 1889 Jean ---------- France, writer/artist/film maker (Le Potamak), born. `co
 In 1946 Louis ---------- 's bikini swimsuit design debuts at Paris fashion show. `reard
 In 1962 ---------- gains independence after 132 years of French rule. `algeria
 In 1962 Algeria gains independence after 132 years of ---------- rule. `french
-In 1962 Algeria gains independence after ---------- years of French rule. `one hundred and thirty two*132
+In 1962 Algeria gains independence after ---------- years of French rule. `one hundred and thirty two
 In 1975 ---------- Is gain independence after 500 years of Portuguese rule. `cape verde
 In 1975 Cape Verde Is gain independence after 500 years of ---------- rule. `portuguese
 In 1977 ---------- 's army, led by Gen Mohammad Zia ul-Haq, seizes power. `pakistan
@@ -508,7 +508,7 @@ In 1981 Rajan Mahadevan recites ---------- digits of pi from memory. `31,811
 In 1987 Australian ---------- wins Wimbledon, upsets #1 seed Ivan Lendl. `pat cash
 In 1987 Australian Pat Cash wins Wimbledon, upsets #1 seed---------- . `ivan lendl
 In 1189 ---------- King of England (1154-89), dies at 56. `henry ii
-In 1189 Henry II King of England (1154-89), dies at`fifty six*56
+In 1189 Henry II King of England (1154-89), dies at`fifty six
 In 1483 England's King ---------- crowned. `richard iii
 In 1796 ---------- Russia, Tsar (1825-55), born. `nicholas i
 In 1785 Congress resolves US currency named "---------- " and adopts decimal coinage. `dollar
@@ -528,7 +528,7 @@ In 1946 Sylvester Stallone NYC, actor/director (Rocky, Rambo,---------- ), born.
 In 1964 ---------- (then Nyasaland) gains independence from Britain (Natl Day). `malawi
 In 1966 ---------- becomes a republic. `malawi
 In 1971 Louis "Satchmo" ---------- jazz musician (Hello Dolly), dies at 71. `armstrong
-In 1971 Louis "Satchmo" Armstrong jazz musician (Hello Dolly), dies at -------------`seventy one*71
+In 1971 Louis "Satchmo" Armstrong jazz musician (Hello Dolly), dies at -------------`seventy one
 In 1987 1st of 3 massacres by ---------- extremists takes place in India. `sikh
 In 1987 1st of 3 massacres by Sikh extremists takes place in---------- . `india
 In 1988 Carlos Salinas de ---------- elected president of Mexico. `gortari
@@ -544,10 +544,10 @@ In 1941 US forces land in ---------- to forestall Nazi invasion. `iceland
 In 1946 Mother Frances Xavier ---------- canonized as 1st American saint. `cabrini
 In 1967 Beatles' "---------- " is released. `all you need is love
 In 1973 Veronica ---------- actress, dies at 58`lak
-In 1973 Veronica Lake actress, dies at --------------`fifty eight*58
+In 1973 Veronica Lake actress, dies at --------------`fifty eight
 In 1967 Vivian ---------- Scarlet in Gone with the Wind, dies at 53. `leigh
 In 1967 Vivian Leigh ---------- in Gone with the Wind, dies at 53. `scarlet
-In 1967 Vivian Leigh Scarlet in Gone with the Wind, dies at ---------- `fifty three*53
+In 1967 Vivian Leigh Scarlet in Gone with the Wind, dies at ---------- `fifty three
 In 1976 ---------- goes into orbit around Mars. `viking 2
 In 1976 Viking 2 goes into orbit around---------- . `mars
 In 1978 ---------- gains independence from Britain (National Day). `solomon is
@@ -636,7 +636,7 @@ In 1920 Yul Brynner actor (King and I, 10 Commandments,---------- ), born. `magn
 In 1921 ---------- gains independence from China (National Day). `mongolia
 In 1921 Mongolia gains independence from ---------- (National Day). `china
 In 1937 George ---------- composer (American in Paris), dies at 38. `gershwin
-In 1937 George Gershwin composer (American in Paris), dies at ------------ `thirty eight*38
+In 1937 George Gershwin composer (American in Paris), dies at ------------ `thirty eight
 In 1945 Deborah ---------- singer (Blondie) actress (Videodrome, Hairspray), born. `harry
 In 1945 Deborah Harry singer (---------- ) actress (Videodrome, Hairspray), born. `blondie
 In 1945 Deborah Harry singer (Blondie) actress (---------- , Hairspray), born. `videodrome
@@ -657,7 +657,7 @@ In 1982 Italy beats West Germany 3-1 for soccer's 12th World Cup in---------- . 
 In 1988 Mike ---------- hires Donald Trump as an advisor. `tyson
 In 1988 Mike Tyson hires Donald ---------- as an advisor. `trump
 In 1989 Sir Laurence ---------- acting great, dies at 82. `olivier
-In 1989 Sir Laurence Olivier acting great, dies at---------- . `eighty two*82
+In 1989 Sir Laurence Olivier acting great, dies at---------- . `eighty two
 In 1991 Total ---------- eclipse is seen in Hawaii. `solar
 In 1991 Total solar eclipse is seen in---------- . `hawaii
 In 1543 England's King ---------- weds Catherine Parr (6th and last wife). `henry viii
@@ -690,7 +690,7 @@ In 1942 Harrison Ford actor (Star Wars, Indiana Jones,---------- ), born. `frant
 In 1944 Erno ---------- Budapest, inventor (Rubik's cube), born. `rubik
 In 1973 Lon ---------- Jr actor (Hawkeye, Pistols 'n' Petticoats), dies at 67. `chaney
 In 1973 Lon Chaney Jr actor (---------- , Pistols 'n' Petticoats), dies at 67. `hawkeye
-In 1973 Lon Chaney Jr actor (Hawkeye, Pistols 'n' Petticoats), dies at---------- . `sixty seven*67
+In 1973 Lon Chaney Jr actor (Hawkeye, Pistols 'n' Petticoats), dies at---------- . `sixty seven
 In 1977 NYC experiences 25 hr---------- . `black-out
 In 1978 BBC bans ---------- "No One is Innocent". `sex pistols
 In 1978 BBC bans Sex Pistols "---------- ". `no one is innocent
@@ -869,7 +869,7 @@ In 1972 Jigme ---------- Wangchuck, king of Bhutan, dies. `dori
 In 1972 Jigme Dori---------- , king of Bhutan, dies. `wangchuck
 In 1972 Jigme Dori Wangchuck, king of---------- , dies. `bhutan
 In 1976 1st outbreak of "Legionnaire's Disease" kills 29 in---------- , USA. `philadelphia
-In 1976 1st outbreak of "Legionnaire's Disease" kills ---------- in Philadelphia, USA.`twenty nine*29
+In 1976 1st outbreak of "Legionnaire's Disease" kills ---------- in Philadelphia, USA.`twenty nine
 In 1984 1st documented case of a ---------- killing a human in US. `robot
 In 1990 Pink Floyds' "---------- " is performed where the Berlin Wall once stood. `the wall
 In 1298 ---------- defeat Scots at Battle of Falkirk. `english
@@ -924,13 +924,13 @@ In 1951 Lynda ---------- Phoenix Az, Miss USA/actress (Wonder Woman, Billie Jo).
 In 1951 Lynda Carter Phoenix Az, Miss USA/actress (---------- , Billie Jo).born `wonder woman
 In 1965 Bob Dylan releases "---------- ". `like a rolling stone
 In 1966 Montgomery ---------- actor, dies at 45. `clift
-In 1966 Montgomery Clift actor, dies at---------- . `forty five*45
+In 1966 Montgomery Clift actor, dies at---------- . `forty five
 In 1967 Beatles sign a petition in The Times to legalize---------- . `marijuana
 In 1967 Charles ---------- says 'Vive le Quebec libre! Long live free Quebec!'. `de gaulle
 In 1974 Supreme Court unanimously rules ---------- must turn over Watergate tapes. `nixon
 In 1974 Chris---------- , newscaster, shoots self on air. `chubbock
 In 1980 Peter---------- , comedian and actor, dies at 54. `sellers
-In 1980 Peter Sellers, comedian and actor, dies at ---------`fifty four*54
+In 1980 Peter Sellers, comedian and actor, dies at ---------`fifty four
 In 1593 France's Protestant King ---------- converts to Roman Catholic. `henri iv
 In 1593 France's Protestant King Henri IV converts to---------- . `roman catholic
 In 1799 French-Egyptian forces under ---------- I beat Turks at Battle of Abukir. `napolean
@@ -974,7 +974,7 @@ In 1952 Eva "---------- " Peron Argentina's 1st lady, dies in Buenos Aires at 33
 In 1952 Eva "Evita" ---------- Argentina's 1st lady, dies in Buenos Aires at 33, born. `peron
 In 1952 Eva "Evita" Peron ---------- 's 1st lady, dies in Buenos Aires at 33, born. `argentina
 In 1952 Eva "Evita" Peron Argentina's 1st lady, dies in ---------- at 33, born. `buenos aires
-In 1952 Eva "Evita" Peron Argentina's 1st lady, dies in Buenos Aires at---------- , born. `thirty three*33
+In 1952 Eva "Evita" Peron Argentina's 1st lady, dies in Buenos Aires at---------- , born. `thirty three
 In 1953 Fidel ---------- leads attack on Moncada Barracks, begins Cuban Revolution. `castro
 In 1953 Fidel Castro leads attack on ---------- Barracks, begins Cuban Revolution. `moncada
 In 1956 ---------- seizes Suez Canal. `egypt
@@ -986,7 +986,7 @@ In 1984 Ed "---------- " Gein, dies. `psycho
 In 1984 Ed "Psycho"---------- , dies. `gein
 In 1990 The soapie General Hospital tapes its ---------- th episode. `7,000
 In 1990 Brian---------- , keyboardist (Grateful Dead), dies at 38.`mydland
-In 1990 Brian Mydland, keyboardist (Grateful Dead), dies at---------- .`thirty eight*38
+In 1990 Brian Mydland, keyboardist (Grateful Dead), dies at---------- .`thirty eight
 In 432 St ---------- ends his reign as Catholic Pope. `celestine i
 In 1501 ---------- formally installed as canon of Frauenberg Cathedral. `copernicus
 In 1501 Copernicus formally installed as canon of ---------- Cathedral. `frauenberg
@@ -1007,14 +1007,14 @@ In 1980 Shah ---------- Reza Pahavala of Iran, dies in Cairo at 60. `mohammed
 In 1980 Shah Mohammed ---------- Pahavala of Iran, dies in Cairo at 60. `reza
 In 1980 Shah Mohammed Reza ---------- of Iran, dies in Cairo at 60. `pahavala
 In 1980 Shah Mohammed Reza Pahavala of Iran, dies in ---------- at 60. `cairo
-In 1980 Shah Mohammed Reza Pahavala of Iran, dies in Cairo at---------- . `sixty*60
+In 1980 Shah Mohammed Reza Pahavala of Iran, dies in Cairo at---------- . `sixty
 In 1984 ---------- Mason actor, dies at 75 of a heart attack. `james
 In 1984 James ---------- actor, dies at 75 of a heart attack. `mason
-In 1984 James Mason actor, dies at ---------- of a heart attack. `seventy five*75
+In 1984 James Mason actor, dies at ---------- of a heart attack. `seventy five
 In 1984 James Mason actor, dies at 75 of a---------- . `heart attack
 In 1990 ---------- Gabor begins a 3 day jail sentence for slapping a cop. `zsa zsa
 In 1990 Zsa Zsa ---------- begins a 3 day jail sentence for slapping a cop. `gabor
-In 1990 Zsa Zsa Gabor begins a ---------- day jail sentence for slapping a cop. `three*3
+In 1990 Zsa Zsa Gabor begins a ---------- day jail sentence for slapping a cop. `three
 In 1990 Zsa Zsa Gabor begins a 3 day jail sentence for slapping a---------- . `cop
 In 1540 Thomas ---------- King Henry VIII's chief minister, executed. `cromwell
 In 1540 Thomas Cromwell King ---------- 's chief minister, executed. `henry viii
@@ -1025,9 +1025,9 @@ In 1655 Cyrano de ---------- French dramatist/novelist, dies in Paris. `bergerac
 In 1750 ---------- Sebastian Bach German composer (Art of the Fugue), dies at 65. `johann
 In 1750 Johann ---------- Bach German composer (Art of the Fugue), dies at 65. `sebastian
 In 1750 Johann Sebastian ---------- German composer (Art of the Fugue), dies at 65. `bach
-In 1750 Johann Sebastian Bach German composer (Art of the Fugue), dies at---------- . `sixty five*65
+In 1750 Johann Sebastian Bach German composer (Art of the Fugue), dies at---------- . `sixty five
 In 1794 ---------- and 22 other terrorists executed to thunderous cheers. `robespierre
-In 1794 Robespierre and ---------- other terrorists executed to thunderous cheers. `twenty two*22
+In 1794 Robespierre and ---------- other terrorists executed to thunderous cheers. `twenty two
 In 1821 ---------- declares independence from Spain (National Day). `peru
 In 1821 Peru declares independence from ---------- (National Day). `spain
 In 1830 Revolution in France replaces ---------- with Louis Philippe. `charles x
@@ -1068,17 +1068,17 @@ In 1899 First ---------- race, Manhattan Beach, N.Y. `motorcycle
 In 1900 Italian King ---------- I assassinated. `umberto
 In 1928 Walt Disney's "---------- " is released. (First appearance of Mickey Mouse) `steamboat willie
 In 1958 Pres. ---------- signs into law National Aeronautics and Space Administration (NASA) and Space Act of 1958. `eisenhower
-In 1965 Gemini ---------- returned after 12 days, 7 hours, 11 minutes, 53 seconds `five*5
-In 1965 Gemini 5 returned after ---------- days, 7 hours, 11 minutes, 53 seconds `twelve*12
-In 1965 Gemini 5 returned after 12 days, 7 hours, ---------- minutes, 53 seconds `eleven*11
-In 1965 Gemini 5 returned after 12 days, 7 hours, 11 minutes, ---------- seconds `fifty three*53
-In 1965 Gemini 5 returned after 12 days, ---------- hours, 11 minutes, 53 seconds `seven*7
-In 1978 Pioneer ---------- transmitted images of Saturn and its rings. `eleven*11
+In 1965 Gemini ---------- returned after 12 days, 7 hours, 11 minutes, 53 seconds `five
+In 1965 Gemini 5 returned after ---------- days, 7 hours, 11 minutes, 53 seconds `twelve
+In 1965 Gemini 5 returned after 12 days, 7 hours, ---------- minutes, 53 seconds `eleven
+In 1965 Gemini 5 returned after 12 days, 7 hours, 11 minutes, ---------- seconds `fifty three
+In 1965 Gemini 5 returned after 12 days, ---------- hours, 11 minutes, 53 seconds `seven
+In 1978 Pioneer ---------- transmitted images of Saturn and its rings. `eleven
 In 1978 Pioneer 11 transmitted images of ---------- and its rings. `saturn
 In 1981 The wedding of ---------- and Lady Diana Spencer. `prince charles
 In 1981 The wedding of Prince Charles and---------- . `lady diana spencer
 In 1985 ---------- Space Shuttle Mission - Challenger 8 is launched. `19th
-In 1985 19th Space Shuttle Mission - Challenger ---------- is launched. `eight*8
+In 1985 19th Space Shuttle Mission - Challenger ---------- is launched. `eight
 In 1792 500 Marseillaisian men sing ---------- 's national anthem for 1st time. `france
 In 1818 Emily---------- , novelist (Wuthering Heights), born. `bronte
 In 1863 Henry---------- , Michigan, USA, auto maker (Ford), born. `ford
@@ -1096,7 +1096,7 @@ In 1958 Kate---------- , England, singer/songwriter (Babushka, Running Up That H
 In 1966 ---------- beats West Germany 4-2 for soccer's 8th World Cup in London. `england
 In 1966 England beats ---------- 4-2 for soccer's 8th World Cup in London. `west germany
 In 1966 England beats West Germany 4-2 for soccer's 8th World Cup in---------- . `london
-In 1971 US Apollo ---------- lands on Mare Imbrium on the Moon. `fifteen*15
+In 1971 US Apollo ---------- lands on Mare Imbrium on the Moon. `fifteen
 In 1971 US Apollo 15 lands on ---------- Imbrium on the Moon. `mare
 In 1971 US Apollo 15 lands on Mare ---------- on the Moon. `imbrium
 In 1971 US Apollo 15 lands on Mare Imbrium on the---------- . `moon
@@ -1109,13 +1109,13 @@ In 1556 St. Ignatius of---------- , founder of the Society of Jesus died in Rome
 In 1556 St. Ignatius of Loyola, founder of the Society of Jesus died in---------- . `rome
 In 1588 English fleet attacks the ---------- armada. `spanish
 In 1912 Milton---------- , economist, born. `friedman
-In 1964 US Ranger ---------- transmits the 1st lunar close-up photos before impact. Takes 4,316 pictures before crashing on moon. `seven*7
+In 1964 US Ranger ---------- transmits the 1st lunar close-up photos before impact. Takes 4,316 pictures before crashing on moon. `seven
 In 1964 US Ranger 7 transmits the 1st lunar close-up photos before impact. Takes ---------- pictures before crashing on moon. `4,316
 In 1977 Son of ---------- shot to death 20-year-old Stacy Moskowitz. `sam
 In 1977 Son of Sam shot to death 20-year-old ---------- Moskowitz. `stacy
 In 1977 Son of Sam shot to death 20-year-old Stacy---------- . `moskowitz
-In 1980 Soyuz ---------- crew returns to Earth aboard Soyuz 36. `thirty seven*37
-In 1980 Soyuz 37 crew returns to Earth aboard Soyuz---------- . `thirty six*36
+In 1980 Soyuz ---------- crew returns to Earth aboard Soyuz 36. `thirty seven
+In 1980 Soyuz 37 crew returns to Earth aboard Soyuz---------- . `thirty six
 In 1980 Soyuz 37 crew returns to ---------- aboard Soyuz 36. `earth
 In 1981 Leader of Panama Gen. Omar ---------- killed in a plane crash.`torrijo
 In 10 B.C. ---------- 4th Roman emperor (41-54 AD), born. `claudius
@@ -1129,7 +1129,7 @@ In 1774 Dr. Priestly discovers---------- . `oxygen
 In 1882 ---------- Kendall Australian poet, dies of tuberculosis at 43. `henry
 In 1882 Henry ---------- Australian poet, dies of tuberculosis at 43. `kendall
 In 1882 Henry Kendall Australian poet, dies of ---------- at 43. `tuberculosis
-In 1882 Henry Kendall Australian poet, dies of tuberculosis at---------- . `forty three*43
+In 1882 Henry Kendall Australian poet, dies of tuberculosis at---------- . `forty three
 In 1889 Dr ---------- F Mahoney developed pencillin treatment of syphillis, born. `john
 In 1889 Dr John F ---------- developed pencillin treatment of syphillis, born. `mahoney
 In 1889 Dr John F Mahoney developed ---------- treatment of syphillis, born. `pencillin
@@ -1210,7 +1210,7 @@ In 1971 Paul McCartney announces the formation of his group---------- . `wings
 In 1983 ---------- Jones actress (Morticia-Addams Family), dies at 54 of cancer. `carolyn
 In 1983 Carolyn ---------- actress (Morticia-Addams Family), dies at 54 of cancer. `jones
 In 1983 Carolyn Jones actress (Morticia-Addams Family), dies at 54 of---------- . `cancer
-In 1983 Carolyn Jones actress (Morticia-Addams Family), dies at ---------- of cancer. `fifty four*54
+In 1983 Carolyn Jones actress (Morticia-Addams Family), dies at ---------- of cancer. `fifty four
 In 1181 Supernova seen in---------- . `cassiopia
 In 1265 ---------- de Montfort, English baron, dies in battle. `simon
 In 1265 Simon de---------- , English baron, dies in battle. `montfort
@@ -1261,7 +1261,7 @@ In 1945 Atom Bomb dropped on Hiroshima by the '----------  (Pacific Time). `enol
 In 1945 ---------- dropped on Hiroshima by the 'Enola Gay' (Pacific Time). `atom bomb
 In 1962 ---------- Monroe dies at age 36. `marilyn
 In 1962 Marilyn ---------- dies at age 36. `monroe
-In 1962 Marilyn Monroe dies at age---------- . `thirty six*36
+In 1962 Marilyn Monroe dies at age---------- . `thirty six
 In 1963 Nuclear ---------- Ban Treaty signed. `test
 In 1966 ---------- release "Revolver" album. `beatles
 In 1966 Beatles release "---------- " album. `revolver
@@ -1319,7 +1319,7 @@ In 1882 Feud between the ---------- family of southern West Virginia and the McC
 In 1882 Feud between the Hatfield family of southern West ---------- and the McCoys of eastern Kentucky broke out. About 100 either killed or wounded. `virginia
 In 1882 Feud between the Hatfield family of southern West Virginia and the ---------- of eastern Kentucky broke out. About 100 either killed or wounded. `mccoys
 In 1882 Feud between the Hatfield family of southern West Virginia and the McCoys of eastern ---------- broke out. About 100 either killed or wounded. `kentucky
-In 1882 Feud between the Hatfield family of southern West Virginia and the McCoys of eastern Kentucky broke out. About ---------- either killed or wounded. `one hundred*100
+In 1882 Feud between the Hatfield family of southern West Virginia and the McCoys of eastern Kentucky broke out. About ---------- either killed or wounded. `one hundred
 In 1888 ---------- Van Kannel of Philadelphia receives a patent for his revolving door -- described as a storm door structure. `theophilus
 In 1888 Theophilus Van ---------- of Philadelphia receives a patent for his revolving door -- described as a storm door structure. `kannel
 In 1888 Theophilus Van Kannel of ---------- receives a patent for his revolving door -- described as a storm door structure. `philadelphia
@@ -1595,7 +1595,7 @@ In 1432 Luigi---------- , Italian poet (Morgante), born. `pulci
 In 1432 Luigi Pulci, Italian ---------- (Morgante), born. `poet
 In 1620 ---------- sets sail from Southampton with 102 Pilgrims. `mayflower
 In 1620 Mayflower sets sail from ---------- with 102 Pilgrims. `southampton
-In 1620 Mayflower sets sail from Southampton with ---------- Pilgrims. `one hundred & two*102
+In 1620 Mayflower sets sail from Southampton with ---------- Pilgrims. `one hundred & two
 In 1688 ---------- William I, king of Prussia, born. `frederick
 In 1688 Frederick---------- , king of Prussia, born. `william i
 In 1688 Frederick William I, king of---------- , born. `prussia
@@ -1617,7 +1617,7 @@ In 1945 South Korea liberated from ---------- rule. (Liberation Day in South Kor
 In 1947 ---------- and Pakistan granted independence within British Commonwealth after some 200 years of `indi
 In 1947 India and ---------- granted independence within British Commonwealth after some 200 years of `pakista
 In 1947 India and Pakistan granted independence within ---------- Commonwealth after some 200 years of `britis
-In 1947 India and Pakistan granted independence within British Commonwealth after some ---------- years of British rule. `two hundred*200
+In 1947 India and Pakistan granted independence within British Commonwealth after some ---------- years of British rule. `two hundred
 In 1948 Republic of ---------- (South Korea) proclaimed (National Day). `korea
 In 1950 Princess ---------- of England, born. `anne
 In 1960 ---------- (Brazzaville) gains independence from France (Nat'l Day). `congo
@@ -1670,7 +1670,7 @@ In 1946 Leslie ---------- Warren (in New York City), actor, born. `ann
 In 1946 Leslie Ann ---------- (in New York City), actor, born. `warren
 In 1948 Baseball legend ---------- died in New York at the age of 53. `babe ruth
 In 1948 Baseball legend Babe Ruth died in ---------- at the age of 53. `new york
-In 1948 Baseball legend Babe Ruth died in New York at the age of---------- . `fifty three*53
+In 1948 Baseball legend Babe Ruth died in New York at the age of---------- . `fifty three
 In 1958 ---------- (Ciccone) (in Bay City, MI), singer, actor?, born. `madonna
 In 1958 Madonna (---------- ) (in Bay City, MI), singer, actor?, born. `ciccone
 In 1960 ---------- Hutton, actor, born. `timothy
@@ -1684,7 +1684,7 @@ In 1970 ---------- launched by USSR for soft landing on Venus. `venera 7
 In 1970 Venera 7 launched by USSR for soft landing on---------- . `venus
 In 1977 ---------- Presley, dies of heart ailment at Graceland at age 42 . . . or goes into hiding. (Your Choice.) `elvis
 In 1977 Elvis---------- , dies of heart ailment at Graceland at age 42 . . . or goes into hiding. (Your Choice.) `presley
-In 1977 Elvis Presley, dies of heart ailment at Graceland at age---------- . . . or goes into hiding. (Your Choice.) `forty two*42
+In 1977 Elvis Presley, dies of heart ailment at Graceland at age---------- . . . or goes into hiding. (Your Choice.) `forty two
 In 1987 Astrological Harmonic Convergence -- Dawn of---------- . `new age
 In 1987 Flight 255 out of Metro Airport in ---------- crashes just miniutes after take off, killing all but one small child. `detroit
 In 682 St ---------- begins his reign as Catholic Pope. `leo ii
@@ -1727,11 +1727,11 @@ In 1962 East German border guards shot and kill Peter---------- , 18, attempting
 In 1983 ---------- Gershwin, lyricist, dies in Beverly Hills, Cal, at 86. `ira
 In 1983 Ira---------- , lyricist, dies in Beverly Hills, Cal, at 86. `gershwin
 In 1983 Ira Gershwin, lyricist, dies in---------- , Cal, at 86. `beverly hills
-In 1983 Ira Gershwin, lyricist, dies in Beverly Hills, Cal, at---------- . `eighty six*86
+In 1983 Ira Gershwin, lyricist, dies in Beverly Hills, Cal, at---------- . `eighty six
 In 1987 ---------- Hess, Nazi, dies at 93, after 46 years in Spandau Prison. `rudolph
 In 1987 Rudolph---------- , Nazi, dies at 93, after 46 years in Spandau Prison. `hess
-In 1987 Rudolph Hess, Nazi, dies at---------- , after 46 years in Spandau Prison. `ninety three*93
-In 1987 Rudolph Hess, Nazi, dies at 93, after ---------- years in Spandau Prison. `forty six*46
+In 1987 Rudolph Hess, Nazi, dies at---------- , after 46 years in Spandau Prison. `ninety three
+In 1987 Rudolph Hess, Nazi, dies at 93, after ---------- years in Spandau Prison. `forty six
 In 1987 Rudolph Hess, Nazi, dies at 93, after 46 years in ---------- Prison. `spandau
 In 1988 ---------- Zia Ul-Haq, Pakistani president and US ambassador killed in plane crash. `mohammed
 In 1988 Mohammed ---------- Ul-Haq, Pakistani president and US ambassador killed in plane crash. `zia
@@ -1774,7 +1774,7 @@ In 1952 Patrick Swayze Houston Tx, actor/dancer (Dirty Dancing,---------- ), bor
 In 1957 ---------- -Manuel Fangio, wins his last auto World Championship at 46. `juan
 In 1957 Juan-----------  Fangio, wins his last auto World Championship at 46. `manuel
 In 1957 Juan-Manuel---------- , wins his last auto World Championship at 46. `fangio
-In 1957 Juan-Manuel Fangio, wins his last auto World Championship at---------- . `forty six*46
+In 1957 Juan-Manuel Fangio, wins his last auto World Championship at---------- . `forty six
 In 1958 ---------- Castro makes a speech on Cuban pirate radio Rebelde. `fidel
 In 1958 Fidel ---------- makes a speech on Cuban pirate radio Rebelde. `castro
 In 1958 Fidel Castro makes a speech on Cuban pirate radio---------- . `rebelde
@@ -1809,7 +1809,7 @@ In 1960 ---------- carries 3 dogs into orbit (later recovered alive). `sputnik 5
 In 1960 Sputnik 5 carries 3 ---------- into orbit (later recovered alive). `dogs
 In 1977 ---------- Marx, died in Los Angeles at the age of 86. `groucho
 In 1977 Groucho---------- , died in Los Angeles at the age of 86. `marx
-In 1977 Groucho Marx, died in Los Angeles at the age of---------- . `eighty six*86
+In 1977 Groucho Marx, died in Los Angeles at the age of---------- . `eighty six
 In 1778 ---------- O'Higgins, won independence for Chile, born. `bernardo
 In 1778 Bernardo---------- , won independence for Chile, born. `o'higgins
 In 1860 ---------- Poincar, French prime minister (1912), president, born. `raymond
@@ -1845,7 +1845,7 @@ In 1960 ---------- gains independence from France. `senegal
 In 1960 Senegal gains independence from---------- . `france
 In 1964 ---------- signs an anti-poverty measure totaling nearly $1 billion. `lbj
 In 1968 Russia and Warsaw Pact nations invaded ---------- crushing the "Prague Spring" liberalization drive of Alexander Dubcek. A small force of about 650,000 Soviet-block troops was used. `czechoslovakia
-In 1986 A mail carrier in Edmond, Okla., shot ---------- fellow workers dead. `fourteen*14
+In 1986 A mail carrier in Edmond, Okla., shot ---------- fellow workers dead. `fourteen
 In 1165 ---------- Augustus 1st great Capetian king of France (1179-1223), born. `philip ii
 In 1165 Philip II ---------- 1st great Capetian king of France (1179-1223), born. `augustus
 In 1165 Philip II Augustus 1st great ---------- king of France (1179-1223), born. `capetian
@@ -1872,8 +1872,8 @@ In 1986 Volcanic eruption in ---------- releases poison gas, killing 2,000. `cam
 In 1986 Volcanic eruption in Cameroon releases poison gas, killing---------- . `two thousand*2,000
 In 1988 Cease fire between ---------- and Iraq takes effect after 8 years of war. `iran
 In 1988 Cease fire between Iran and ---------- takes effect after 8 years of war. `iraq
-In 1988 Cease fire between Iran and Iraq takes effect after ---------- years of war. `eight*8
-In 1991 Communist coup is crushed in USSR in ---------- days. `two*2
+In 1988 Cease fire between Iran and Iraq takes effect after ---------- years of war. `eight
+In 1991 Communist coup is crushed in USSR in ---------- days. `two
 In 1485 ---------- slain at Bosworth Field - Last of the Plantagenets. `richard iii
 In 1485 Richard III slain at ---------- - Last of the Plantagenets. `bosworth field
 In 1851 ---------- fields discovered in Australia. `gold
@@ -1881,14 +1881,14 @@ In 1851 Gold fields discovered in---------- . `australia
 In 1862 ---------- Debussy (in France), composer (La Mer, Clair de lune), born. `claude
 In 1862 Claude ---------- (in France), composer (La Mer, Clair de lune), born. `debussy
 In 1864 ---------- Convention signed, by 12 nations. `geneva
-In 1864 Geneva Convention signed, by ---------- nations. `twelve*12
+In 1864 Geneva Convention signed, by ---------- nations. `twelve
 In 1904 ---------- Xiao Peng, Chinese leader, born. `deng
 In 1904 Deng ---------- Peng, Chinese leader, born. `xiao
 In 1904 Deng Xiao---------- , Chinese leader, born. `peng
 In 1920 ---------- Bradbury, science fiction author (Fahrenheit 451), born. `ray
 In 1920 Ray---------- , science fiction author (Fahrenheit 451), born. `bradbury
 In 1927 Babe Ruth hits ---------- of 60 homers. `40th
-In 1927 Babe Ruth hits 40th of ---------- homers. `sixty*60
+In 1927 Babe Ruth hits 40th of ---------- homers. `sixty
 In 1929 ---------- Blackman (in London, England), actor (The Avengers), born. `honor
 In 1929 Honor ---------- (in London, England), actor (The Avengers), born. `blackman
 In 1929 Honor Blackman (in London, England), actor (---------- ), born. `the avengers
@@ -1902,7 +1902,7 @@ In 1948 ---------- Williams (in Van Nuys, CA), actor (Laverne and Shirley), born
 In 1948 Cindy ---------- (in Van Nuys, CA), actor (Laverne and Shirley), born. `williams
 In 1948 Cindy Williams (in Van Nuys, CA), actor (---------- ), born. `laverne and shirley
 In 1961 Maris hits his ---------- of 61 homers. `50th
-In 1961 Maris hits his 50th of ---------- homers. `sixty one*61
+In 1961 Maris hits his 50th of ---------- homers. `sixty one
 In 1963 ---------- Walker in X-15 test plane reaches 106 km (67 miles), straight up. `joe
 In 1963 Joe ---------- in X-15 test plane reaches 106 km (67 miles), straight up. `walker
 In 1617 The first one-way streets are established -- in---------- . `london
@@ -1955,7 +1955,7 @@ In 1609 Galileo demonstrates his 1st telescope to ---------- lawmakers. `venetia
 In 1822 ---------- Herschel discovered Uranus, dies at 85. `william
 In 1822 William ---------- discovered Uranus, dies at 85. `herschel
 In 1822 William Herschel discovered---------- , dies at 85. `uranus
-In 1822 William Herschel discovered Uranus, dies at---------- . `eighty five*85
+In 1822 William Herschel discovered Uranus, dies at---------- . `eighty five
 In 1825 ---------- declares independence from Brazil (National Day). `uruguay
 In 1825 Uruguay declares independence from ---------- (National Day). `brazil
 In 1830 ---------- revolts against Netherlands. `belgium
@@ -1967,7 +1967,7 @@ In 1900 Friedrich ---------- philosopher, dies in Weimar, Germany. `nietzsche
 In 1900 Friedrich Nietzsche philosopher, dies in---------- , Germany. `weimar
 In 1901 ---------- Maass army nurse sacrificied her life at 25 to prove that the mosquito carries yellow fever. `clara
 In 1901 Clara ---------- army nurse sacrificied her life at 25 to prove that the mosquito carries yellow fever. `maass
-In 1901 Clara Maass army nurse sacrificied her life at ---------- to prove that the mosquito carries yellow fever. `twenty five*25
+In 1901 Clara Maass army nurse sacrificied her life at ---------- to prove that the mosquito carries yellow fever. `twenty five
 In 1901 Clara Maass army nurse sacrificied her life at 25 to prove that the ---------- carries yellow fever. `mosquito
 In 1918 ---------- Bernstein conductor/composer/pianist/egotist, born. `leonard
 In 1918 Leonard ---------- conductor/composer/pianist/egotist, born. `bernstein
@@ -2018,7 +2018,7 @@ In 1973 University of Texas at ---------- becomes the first accredited school to
 In 1973 Women's ---------- Day. `equality
 In 1974 ---------- Lindbergh, died at his home in Hawaii at the age of 72. `charles
 In 1974 Charles---------- , died at his home in Hawaii at the age of 72. `lindbergh
-In 1974 Charles Lindbergh, died at his home in Hawaii at the age of---------- . `seventy two*72
+In 1974 Charles Lindbergh, died at his home in Hawaii at the age of---------- . `seventy two
 In 1974 ---------- carries 2 cosmonauts to space station Salyut 3. `soyuz 15
 In 1974 Soyuz 15 carries 2 cosmonauts to space station---------- . `salyut
 In 1978 Cardinal ---------- Luciani of Venice becomes Pope John Paul I. `albino
@@ -2044,7 +2044,7 @@ In 1912 Edgar Rice ---------- ' publishes "Tarzan". `burroughs
 In 1912 Edgar Rice Burroughs' publishes "---------- ". `tarzan
 In 1928 ---------- -Briand Pact, where 60 nations agreed to outlaw war. `kellogg
 In 1928 Kellogg-----------  Pact, where 60 nations agreed to outlaw war. `briand
-In 1928 Kellogg-Briand Pact, where ---------- nations agreed to outlaw war. `sixty*60
+In 1928 Kellogg-Briand Pact, where ---------- nations agreed to outlaw war. `sixty
 In 1939 ---------- Warsitz makes first jet-propelled flight (in a Heinkel He-178). `erich
 In 1939 Erich ---------- makes first jet-propelled flight (in a Heinkel He-178). `warsitz
 In 1929 ---------- Levin, author (Rosemary's Baby, Sleuth, This Perfect Day) `ira
@@ -2089,7 +2089,7 @@ In 1975 Star in ---------- goes nova becoming 4th brightest in sky. `cygnus
 In 1987 ---------- Marvin dies in Tucson, Ariz at 63. `lee
 In 1987 Lee ---------- dies in Tucson, Ariz at 63. `marvin
 In 1987 Lee Marvin dies in---------- , Ariz at 63. `tucson
-In 1987 Lee Marvin dies in Tucson, Ariz at---------- . `sixty three*63
+In 1987 Lee Marvin dies in Tucson, Ariz at---------- . `sixty three
 In 1990 Saddam Hussein declares America can't beat---------- . `iraq
 In 1993 Galileo passes within 600 miles of asteroid---------- . `ida
 In 30 BC ---------- and most famous queen of Egypt, commits suicide. `cleopatra 7th
@@ -2172,7 +2172,7 @@ The Guggenheim Museum in New York is the work of which architect`frank lloyd wri
 In which region of France is the wine Chablis produced`burgundy
 Who composed the opera 'Boris Godunov' `modeste mussorgsky
 What name is given to the staff or crook of a bishop`crozier
-How many tricks must be won to make game in 'No trumps' in Contract Bridge`nine*9
+How many tricks must be won to make game in 'No trumps' in Contract Bridge`nine
 Which fast food chain did Chris Waddle, Stuart Pearce and Gareth Southgate promote in TV adverts`pizza hut
 In which North-West town or city is Rylands Library`manchester
 Who composed the opera 'Eugene Onegin'`tchaikovsky
@@ -2331,7 +2331,7 @@ The American word 'suspenders' is used for which accessory in Britain`braces
 Which is the only mammal capable of true flight`bat
 Who was the fictional inhabitant of Skull Island`king kong
 Which girl's name links Stephen King novel, Cliff Richard single and Princess Leia in 'Star Wars'`carrie
-Which number results if you add the number of Apostles to the number of sides in a decagon`twenty two*22
+Which number results if you add the number of Apostles to the number of sides in a decagon`twenty two
 Which Agatha Christie title comes from a nursery rhyme involving a mouse`hickory dickory dock
 Which day of the week links an Easybeats single, a killer called Jason and Robinson Crusoe`friday
 What is the name of Morticia's husband in TV's 'Addams Family'`gomez

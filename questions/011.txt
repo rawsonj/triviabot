@@ -5,7 +5,7 @@ Animal Trivia: Communication within the prairie dog community is crucial to the 
 Animal Trivia: Ostriches live about 75 years and can reproduce for ----------`*fifty years*50 years
 Animal Trivia: In England, the most commonly used guide dog for the blind is the Yellow ----------`labrador retriever
 Animal Trivia: In Korea, the deer is a symbol of long life, and is often portrayed in the company of ----------`immortals
-Animal Trivia: Cougars can kill animals ---------- times their size`eight*8
+Animal Trivia: Cougars can kill animals ---------- times their size`eight
 Animal Trivia: Cows have four stomachs. Often, when a calf is born, the farmer will make it swallow a magnet. This is to attract the various nails, staples, bits of wire, and so on, that the cow may ingest while grazing. This odd hunger is known as ----------`hardware disease
 Animal Trivia: The venom of the king cobra is so deadly that one gram of it can kill ----------. Just to handle the substance can put one in a coma.`150 people
 Animal Trivia: The Virginia opossum is the only marsupial (pouched mammal) indigenous to North America. They will play dead when threatened, and contrary to folklore, do not sleep hanging by their tails. They have a litter size of up to 22, but only a maximum of 13 offspring live. Their babies stay in the pouch for the first ----------`60 days
@@ -24,9 +24,9 @@ Animal Trivia: A baby ---------- is about six feet tall at birth.`giraffe
 Animal Trivia: A baby gray ---------- drinks enough milk to fill more than 2,000 bottles a day.`whale
 Animal Trivia: A bear in hibernation loses up to 25 percent of its ----------`body weight
 Animal Trivia: A bird "chews" with its stomach. Since most birds do not have teeth, a bird routinely swallows small pebbles and gravel. These grits become vigorously agitated in the bird's stomach and serve to grind food as it passes through the ----------`digestive system
-Animal Trivia: The world's largest mammal, the blue whale, weighs 50 tons at birth. Fully grown, it weighs as much as ---------- tons`one hundred and fifty*150
+Animal Trivia: The world's largest mammal, the blue whale, weighs 50 tons at birth. Fully grown, it weighs as much as ---------- tons`one hundred and fifty
 Animal Trivia: A bird sees everything at once in total focus. Whereas the human eye is globular and must adjust to varying distances, the bird's eye is flat and can take in everything at once in a ----------`single glance
-Animal Trivia: The world's largest rodent is the Capybara. An Amazon water hog that looks like a guinea pig, it can weigh more than ---------- pounds.`one hundred*100
+Animal Trivia: The world's largest rodent is the Capybara. An Amazon water hog that looks like a guinea pig, it can weigh more than ---------- pounds.`one hundred
 Animal Trivia: The male ---------- will mate for life, and if the female dies, he remains single for the rest of his life. However, if the male dies, the female will hook up with a new mate.`fox
 Animal Trivia: There are 1,600 known species of ---------- in the world.`starfishes
 Animal Trivia: The male house ---------- builds several nests as part of his courtship ritual. Once the nests are completed, his potential bride looks them all over, then selects one as her preferred choice for the laying of her eggs.`wren
@@ -107,7 +107,7 @@ Animal Trivia: The electric eel is the most shocking animal on Earth - no other 
 Animal Trivia: Since white tigers have pigmented stripes and blue eyes, they are not ----------`albinos
 Animal Trivia: There are some 50 different species of ----------, and all of them are venomous. They thrive in abundance along the coast from the Persian Gulf to Japan and around Australia and Melanesia. Their venom is ten times as virulent as that of the cobra. Humans bitten by them have died within two-and-a-half hours.`sea snakes
 Animal Trivia: The once popular dog name ---------- is from Latin and means "fidelity."`fido
-Animal Trivia: The electric eel lives in the Amazon River and its tributaries in South America. The rivers churn up a lot of mud and the eels cannot see well in them. Two less powerful electric fish are the electric catfish and ray. Electric rays live in warm ocean water, and they can give off a charge of sufficient force to stun a human. The biggest electric ray, the Atlantic torpedo ray, can weigh ---------- pounds.`two hundred*200
+Animal Trivia: The electric eel lives in the Amazon River and its tributaries in South America. The rivers churn up a lot of mud and the eels cannot see well in them. Two less powerful electric fish are the electric catfish and ray. Electric rays live in warm ocean water, and they can give off a charge of sufficient force to stun a human. The biggest electric ray, the Atlantic torpedo ray, can weigh ---------- pounds.`two hundred
 Animal Trivia: Sir Walter Raleigh's black greyhound was named ----------`hamlet
 Animal Trivia: The only country in the world that has a Bill of Rights for Cows is ----------`india
 Animal Trivia: The electric eel's shocking power is so great that it can overtake its victims while ----------`15 feet away
@@ -255,12 +255,12 @@ Animal Trivia: The underwater mating song of the ---------- is so loud that some
 Animal Trivia: Wildlife biologists estimate that as many as five out of six fawns starve to death during a hard winter in ----------`vermont
 Animal Trivia: With few exceptions, birds do not sing while on the ground. They sing during flight or while sitting on an object off the ----------`ground
 Animal Trivia: With only a four-week gestation period, a cottontail ---------- can produce 5 to 7 litters, and as many as 35 offspring per year.`rabbit
-Animal Trivia: Within the hawk, or birds of prey, family, there are ---------- species - eagles, hawks, kites, and Old World vultures, which are found nearly worldwide.`two hundred and eight*208
+Animal Trivia: Within the hawk, or birds of prey, family, there are ---------- species - eagles, hawks, kites, and Old World vultures, which are found nearly worldwide.`two hundred and eight
 Animal Trivia: Wolf packs could be found in all the forests of Europe, and in 1420 and 1438, wolves roamed the streets of ----------`paris
 Animal Trivia: ---------- are freeze-tolerant and spend winters frozen on land, only to thaw in the spring and begin their breeding process in vernal ponds.`wood frogs
 Animal Trivia: You can identify a ---------- bear's mark by the sign of five claws. A black bear will lacerate a tree trunk with four claws.`grizzly
 Animal Trivia: You can tell the sex of a horse by its teeth. Most males have 40, females have ----------`thirty six*36*
-Animal Trivia: You could milk about ---------- cows per hour by hand, but with modern machinery, you can milk up to 100 cows per hour.`six*6
+Animal Trivia: You could milk about ---------- cows per hour by hand, but with modern machinery, you can milk up to 100 cows per hour.`six
 Animal Trivia: Young birds such as ducks, geese, and shore birds are born with their ----------`eyes open
 Animal Trivia: ----------, like other equids, have three gaits: the walk, the trot, and the gallop.`zebras
 Animal Trivia: Zebus are humped cattle found in India, China, and northern Africa. Zebubs are tsetse-like flies found in ----------`ethiopia
@@ -294,14 +294,14 @@ Animal Trivia: A good milking cow will give nearly 6,000 quarts of ---------- ev
 Animal Trivia: A group of bees can be called either a hive, a swarm, or a ----------`grist
 Animal Trivia: A group of foxes is called a ----------`skulk
 Animal Trivia: A wild cat, known as "the fishing cat" actually swims to catch fish. Called the Bengali Mach-Bagral, nature gave this cat extra-long claws, which it uses like fishhooks. The fishing cat is found in Nepal, Burma, Southern China and parts of ----------`india
-Animal Trivia: A wolf's odor detecting ability is ---------- times greater than man's.`one hundred*100
+Animal Trivia: A wolf's odor detecting ability is ---------- times greater than man's.`one hundred
 Animal Trivia: A woodchuck breathes only ten times per hour while ----------, while an active woodchuck breathes 2,100 times an hour.`hibernating
 Animal Trivia: A young male fur ---------- that is kept from the breeding grounds by the older males is called a bachelor.`seal
 Animal Trivia: A young pigeon that has not yet flown is a ----------`squab
 Animal Trivia: About 24 newborn opossums can fit in a teaspoon. They are about .07 ounce at ----------`birth
 Animal Trivia: According to experts, ---------- don't like to head straight for anything. For safety, they may run past and sweep around from the side.`squirrels
 Animal Trivia: According to several studies, less than 3 percent of the ---------- population become man-eaters.`tiger
-Animal Trivia: According to the National Wild Turkey Federation, the number of wild turkeys in the U.S. has increased from an all time low of 30,000 to more than 4 million today. One state park in Iowa now boasts more than ---------- turkeys per square mile.`one hundred*100
+Animal Trivia: According to the National Wild Turkey Federation, the number of wild turkeys in the U.S. has increased from an all time low of 30,000 to more than 4 million today. One state park in Iowa now boasts more than ---------- turkeys per square mile.`one hundred
 Animal Trivia: According to zoology experts, there is no real difference between doves and ----------. The choice of name rests almost altogether on custom and geography, although the smaller of the species is, more often than not, called a dove.`pigeons
 Animal Trivia: A group of owls is called a ----------`parliament
 Animal Trivia: A herd of sixty cows is capable of producing a ton of milk in less than a ----------`day
@@ -312,7 +312,7 @@ Animal Trivia: A hippopotamus has a stomach 10 feet long, capable of holding 6 b
 Animal Trivia: A Holstein cow's spots are like a ---------- or a snowflake; no two cows have exactly the same pattern of spots.`fingerprint
 Animal Trivia: A horse can sleep ----------`standing up
 Animal Trivia: A ---------- focuses its eye by changing the angle of its head, not by changing the shape of the lens of the eye, as humans do.`horse
-Animal Trivia: A horseshoe for a full-grown Clydesdale measures more that ---------- inches from end to end and weighs about five pounds. It is more than two times as long and four times as heavy as a shoe worn by a riding horse.`twenty two*22
+Animal Trivia: A horseshoe for a full-grown Clydesdale measures more that ---------- inches from end to end and weighs about five pounds. It is more than two times as long and four times as heavy as a shoe worn by a riding horse.`twenty two
 Animal Trivia: Adélie ---------- employ yawning as part of their courtship ritual.`penguins
 Animal Trivia: Adult electric eels 5ft to 7ft long produce enough electricity -- 600 volts -- to stun a ----------`horse
 Animal Trivia: Adult polar bears usually eat just the skin and blubber of a seal. They leave the meat for cubs and scavengers. One seal will sustain an adult bear for ----------`11 days
@@ -355,12 +355,12 @@ Animal Trivia: An elephant may consume 500 pounds of hay and 60 gallons of water
 Animal Trivia: A male pig is a boar. A female pig is a sow. A baby pig is a ----------`piglet
 Animal Trivia: A marine catfish can taste with any part of its body. The female marine catfish hatches her eggs in her ----------`mouth
 Animal Trivia: A mated pair of ---------- can produce up to 15,000 babies in one year.`rats
-Animal Trivia: A mole can dig a tunnel ---------- feet long in one night.`three hundred*300
+Animal Trivia: A mole can dig a tunnel ---------- feet long in one night.`three hundred
 Animal Trivia: A mother ---------- often gives birth while standing, so the newborn's first experience outside the womb is a 1.8-meter (6-foot) drop. Ouch!`giraffe
 Animal Trivia: A newborn Chinese water ---------- is so small it can almost be held in the palm of the hand.`deer
 Animal Trivia: A newborn gray whale calf is an average 16 feet long. For reasons unknown, all gray whale calves are born in the warm, shallow lagoons of Baja, ----------`california
 Animal Trivia: A newborn turkey chick has to be taught to eat, or it will starve. Breeders spread feed underfoot, hoping the little ones will peck at it and get the idea. Turkeys tend to look up with their mouths open during rainstorms. As a result, many ----------`drown
-Animal Trivia: A normal cow's stomach has ---------- compartments: the rumen, the recticulum (storage area), the omasum (where water is absorbed), and the abomasum ( the only compartment with digestive juices).`four*4
+Animal Trivia: A normal cow's stomach has ---------- compartments: the rumen, the recticulum (storage area), the omasum (where water is absorbed), and the abomasum ( the only compartment with digestive juices).`four
 Animal Trivia: A ---------- consumes about 33 percent of its body weight in a single meal.`pelican
 Animal Trivia: Despite their finickiness, an average cat consumes about 127,750 calories a year, nearly 28 times their own weight in food and the same amount again in liquids. In case you were wondering, cats cannot survive on a ----------`vegetarian diet
 Animal Trivia: Developed in Egypt about 5,000 years ago, the greyhound breed was known before the ninth century in England, where it was bred by aristocrats to hunt such small game as hares. Today the dog is widely used in ----------`racing
@@ -419,14 +419,14 @@ Animal Trivia: Australia's ---------- is the world's most dangerous jellyfish. I
 Animal Trivia:  are the only truly social cat species, and usually every female in a pride, ranging from 5 to 30 individuals, is closely related.`lions
 Animal Trivia: Elephants, lions, and camels roamed ---------- 12,000 years ago.`alaska
 Animal Trivia: Baby beavers are called kits or ----------`kittens
-Animal Trivia: ---------- chinchillas were brought from the Andes Mountains in South America in the 1930's. All chinchillas presently in North America are descended from these ---------- chinchillas.`eleven*11
+Animal Trivia: ---------- chinchillas were brought from the Andes Mountains in South America in the 1930's. All chinchillas presently in North America are descended from these ---------- chinchillas.`eleven
 Animal Trivia: Baby mink are born blind and remain sightless for a ----------`month
 Animal Trivia: Baby opossums - upon birth when they move to the mother's pouch - are smaller than honeybees. An entire litter can fit in a ----------`teaspoon
-Animal Trivia: A rhinoceros has ---------- toes on each foot.`three*3
+Animal Trivia: A rhinoceros has ---------- toes on each foot.`three
 Animal Trivia: A robin has nearly 3,000 ----------`feathers
 Animal Trivia: A rodent's teeth never stop growing. They are worn down by the animal's constant gnawing on bark, leaves, and other ----------`vegetable matter
-Animal Trivia: A shrimp has ---------- pairs of legs.`five*5
-Animal Trivia: A shrimp has more than a hundred pairs of chromosomes in each cell nucleus. Man has only ----------`twenty three*23
+Animal Trivia: A shrimp has ---------- pairs of legs.`five
+Animal Trivia: A shrimp has more than a hundred pairs of chromosomes in each cell nucleus. Man has only ----------`twenty three
 Animal Trivia: A single ----------, with its razor-sharp teeth, is still dangerous enough when out of water to rip off the flesh, or a finger or toe, from an unwary fisherman.`piranha
 Animal Trivia: A skunk will not ---------- and throw its scent at the same time.`bite
 Animal Trivia: A snail speeding along at three inches per minute would need 15 days to travel ----------`one mile
@@ -529,7 +529,7 @@ Animal Trivia: The average cod deposits between 4 and 6 million eggs at a single
 Animal Trivia: Most cows give more milk when they ----------`listen to music
 Animal Trivia: Gorillas and ---------- sleep about fourteen hours a day.`cats
 Animal Trivia: Bull giraffes forage higher in trees than cow giraffes which reduces food competition between the sexes. Long-legged giraffes walk with the limbs on one side of the body lifted at the same time. This gait is called a pace and allows a longer stride which saves ----------`steps and energy
-Animal Trivia: The average cow produces ---------- glasses of milk each day.`fourty*40
+Animal Trivia: The average cow produces ---------- glasses of milk each day.`fourty
 Animal Trivia: Most ---------- lived to be more than a hundred years old.`dinosaurs
 Animal Trivia: Gorillas do not know how to ----------`swim
 Animal Trivia: By age 6 months, the voracious ---------- will have increased its 3-pound birth weight by 7,000 percent.`pig
@@ -558,7 +558,7 @@ Animal Trivia: The hippopotamus has the world's shortest ----------`sperm
 Animal Trivia: The average life expectancy of a rhinoceros in captivity is ----------`fifteen years*15 years
 Animal Trivia: Mountain ---------- grow luxurious winter coats - more than three inches of cashmere-quality wool, overlaid with long hollow hairs. The hardy animals can endure winter temperatures as low as minus 50 degrees F, and powerful winds up to 100 miles per hour.`goats
 Animal Trivia: The hippopotamus is, next to the elephants, the heaviest of all land mammals. It may weigh as much as 8,000 pounds. It is also a close relative of the ----------`pig
-Animal Trivia: The average minimal speed of birds in order to remain aloft in flight is reported to be about 161/2 feet per second, or about ---------- miles per hour.`eleven*11
+Animal Trivia: The average minimal speed of birds in order to remain aloft in flight is reported to be about 161/2 feet per second, or about ---------- miles per hour.`eleven
 Animal Trivia: Mussels can thrive in ---------- because of an inborn ability to purify bacteria, fungi, and viruses.`polluted water
 Animal Trivia: Guinea pigs were first domesticated by the ----------, who used them for food, in sacrifices, and as household pets.`incas
 Animal Trivia: The Hirudo leech has three jaws with 100 teeth on each jaw - making 300 teeth in all. The ---------- leech uses a different method of sucking blood. They insert a long proboscis into the victim as opposed to biting.`amazon
@@ -577,19 +577,19 @@ Animal Trivia: Hedgehog quills are not barbed or poisonous. Hedgehogs do apply a
 Animal Trivia: Catnip can affect lions and tigers as well as house cats. It excites them because it contains a chemical that resembles an excretion of the dominant female's ----------`urine
 Animal Trivia: The hum of a hummingbird comes from the super-fast beat of the wings. The smallest ones beat their wings the fastest - up to 80 times per second. Even the slower beat of bigger hummingbirds (20 times per second) is so fast you can only see a ----------`blur
 Animal Trivia: The basenji is a mid-sized dog with a silky copper coat. Although they are considered a barkless dog, they are known to ---------- when they are happy.`yodel
-Animal Trivia: Octopi and squid have ---------- hearts. Their main systemic heart pumps blood throughout the circulatory system, and two branchial hearts provide some additional push at each of the paired gills.`three*3
+Animal Trivia: Octopi and squid have ---------- hearts. Their main systemic heart pumps blood throughout the circulatory system, and two branchial hearts provide some additional push at each of the paired gills.`three
 Animal Trivia: Hens do not have to be impregnated to lay eggs. The ---------- is necessary only to fertilize the egg.`rooster
 Animal Trivia: Cats are the only domestic animals that walk directly on their ----------, not on their paws. This method of walking is called "digitigrade". When cats scratch furniture, it isn't an act of malice. They are actually tearing off the ragged edges of the sheaths of their talons to expose the new sharp ones beneath.`claws
 Animal Trivia: The hummingbird is the only bird that can ----------`fly backwards
 Animal Trivia: The bat is the only mammal that can ----------`fly
 Animal Trivia: Of all known forms of animals life ever to inhabit the Earth, only about ---------- still exist today.`ten percent*10%
 Animal Trivia: Hippopotamuses have killed more people in Africa than all the lions, elephants, and water buffalo combined, usually by ----------`trampling
-Animal Trivia: Cats have amazing hearing ability. A cat's ear has ---------- muscles that control the outer ear (by comparison, human ears only have six muscles). These muscles rotate 180 degrees, so the cat can hear in all directions without moving its head.`thirty*30
+Animal Trivia: Cats have amazing hearing ability. A cat's ear has ---------- muscles that control the outer ear (by comparison, human ears only have six muscles). These muscles rotate 180 degrees, so the cat can hear in all directions without moving its head.`thirty
 Animal Trivia: The hummingbird's tiny ----------, 4.2% of its body weight, is proportionately the largest in the bird kingdom.`brain
 Animal Trivia: The ---------- eagle of Africa hunts over a territory of 250 square miles a day.`bateleur
 Animal Trivia: Of the 250-plus known species of shark in the world, only about 18 are known to be ----------`dangerous to man
 Animal Trivia: Horned ---------- eat ants. They wait in areas where ants are working and when one passes by, they flick out their tongue, catch their prey, and swallow without chewing. Apparently their digestive tract is immune to bites and stings.`lizards
-Animal Trivia: Cats have more than one hundred vocal sounds, while dogs only have about ----------`ten*10
+Animal Trivia: Cats have more than one hundred vocal sounds, while dogs only have about ----------`ten
 Animal Trivia: The ---------- whale is often referred to as the "sea canary" because of the birdlike chirping sounds it makes.`beluga
 Animal Trivia: Off the coast of southern California, around 200 ---------- still roam in Catalina Island's hinterlands, descendants of a few brought there in the 1920s for a movie and left there.`bison
 Animal Trivia: Horses shorter than 141/2 hands (58 inches) at the withers (top of the shoulders) are technically ponies. The ----------, around 43 inches tall, is called a pony, not a miniature. Miniatures start 9 inches shorter, and prices go up as size goes down.`shetland
@@ -599,11 +599,11 @@ Animal Trivia: Hummingbirds are the smallest birds - so tiny that one of their e
 Animal Trivia: Cats, not dogs, are now the most common pets in America. Approximately 66 million cats to 58 million dogs are family pets, with parakeets "flying" a distant third at ----------`14 million*14,000,000
 Animal Trivia: Cattle branding in the United States did not originate in the West. It began in ---------- in the mid-19th century, when farmers were required by law to mark all their pigs.`connecticut
 Animal Trivia: The ---------- of a really famished camel may flop over and hang down the side of the body as the fat is used up.`hump
-Animal Trivia: The individual hair of a chinchilla is so fine that ----------of them equal the thickness of a single human hair.`five hundred*500
+Animal Trivia: The individual hair of a chinchilla is so fine that ----------of them equal the thickness of a single human hair.`five hundred
 Animal Trivia: The biggest frog is the appropriately named ---------- frog (Conraua goliath) of Cameroon. They reach nearly 30 cm (a foot) and weigh as much as 3.3 kilograms.`goliath
 Animal Trivia: The jackrabbit is not a rabbit; it is a ----------`hare
 Animal Trivia: The bite of a leech is painless due to its own ----------`anaesthetic
-Animal Trivia: The Jardine River in Australia's Cape York Peninsula is home to Crocodylus porosus, the saltwater or estuarine crocodile. It is the largest and perhaps most dangerous of all ---------- species of crocodilians.`twenty three*23
+Animal Trivia: The Jardine River in Australia's Cape York Peninsula is home to Crocodylus porosus, the saltwater or estuarine crocodile. It is the largest and perhaps most dangerous of all ---------- species of crocodilians.`twenty three
 Animal Trivia: The black bear is not always black. It can be brown, cinnamon, ----------, and sometimes a bluish color.`yellow
 Animal Trivia: On the Baja coast, osprey couples return to the same nests year after year. These birds rebuild their old nest, carefully repairing any damage caused by winds, rain, and age. After years of rebuilding, some osprey nests can reach heights of ----------`four feet*4 feet.*
 Animal Trivia: Hummingbirds cannot glide or soar as other bird do. They are the only bird that can ----------`hover continuously
@@ -615,7 +615,7 @@ Animal Trivia: Cattle branding was practiced 4,000 years ago. Old tomb paintings
 Animal Trivia: The king crab walks ----------`diagonally
 Animal Trivia: The blubber of a male ---------- is considered superior to that of the sperm whale for lubricating machinery.`elephant seal
 Animal Trivia: One Laysan ----------, tracked by biologists at Wake Forest University, flew more than 24,843 miles in flights across the North Pacific to find food for its chick in just 90 days - a flight distance equivalent to circling the globe.`albatross
-Animal Trivia: If they are well treated, camels in captivity can live to the age of ----------`fifty*50
+Animal Trivia: If they are well treated, camels in captivity can live to the age of ----------`fifty
 Animal Trivia: Certain birds of prey (the African serpent eagle and the American kestrel, for example) have ---------- acuity 2.4 to 2.6 times greater than humans. They can see a 1 mm long insect from a treetop 18 meters above ground.`visual
 Animal Trivia: The kinkajou's tail is twice as long as its body. Every night, it wraps itself up in its tail and uses it as a ----------`pillow
 Animal Trivia: The blue whale is maintained by its blubber and can go up to half a year without ----------`eating
@@ -865,7 +865,7 @@ Quotations: "Life would be infinitely happier if we could only be born at the ag
 Quotations: "The -------- of money is the root of all evil."- The apostle Paul`love
 Quotations: "Listen or thy ---------- will keep thee deaf."- American Indian Proverb`tongue
 Quotations: "The luckiest man in the world was Adam - he had no ---------------."- Sholom Aleichem`mother-in-law
-Quotations: "If you live to the age of a -------------- you have made it because very few people die past the age of a hundred."- George Burns`hundred*100
+Quotations: "If you live to the age of a -------------- you have made it because very few people die past the age of a hundred."- George Burns`hundred
 Quotations: "Live as if you were to -----------. Learn as if you were to live forever."- Mohandas K. Ghandi`die tomorrow
 Quotations: "The man who reads nothing at all is better educated than the man who reads nothing but ---------------."- Thomas Jefferson`newspapers
 Quotations: "If you tell the truth you don't have to ------------- anything."- Mark Twain`remember
@@ -896,15 +896,15 @@ Disney: In 1940, Walt Disney's --------- was the first film in history to use st
 Disney: In the scrolling final credits of Disney's --------, the sorcerer's name is listed as "Yensid" (Disney spelt backwards).`fantasia
 Disney: Purely coincidental, Disneyland and Walt Disney World amusement parks are in counties with the same name. The former is in Orange County, California; the latter is in Orange County, ---------`florida
 Disney: ------------ dubbed the voice of the Beast in the 1991 Disney version of Beauty and the Beast.`robby benson
-Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": Over ------------ wigs are worn on stage each night; only three performers use their own hair on stage.`one hundred and fourty*140
+Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": Over ------------ wigs are worn on stage each night; only three performers use their own hair on stage.`one hundred and fourty
 Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": Four characters' wigs are made of -------------: Mrs. Potts, Lumiere, Madame de la Grande Bouche, and the Sugar Bowl from "Be Our Guest."`yak hair
-Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": ------------ pieces of hair are used on stage each night -- including wigs, moustaches, and bangs.`two hundred and fourty eight*248
-Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": The average number of wig changes for each ensemble member is ------------ per show.`eight*8
+Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": ------------ pieces of hair are used on stage each night -- including wigs, moustaches, and bangs.`two hundred and fourty eight
+Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": The average number of wig changes for each ensemble member is ------------ per show.`eight
 Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": The 30-inch length human hair needed to build Belle's wig was specially imported from ------------------`india
-Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": It took 20 pounds of human hair and ------------- man hours to create the first Beast.`four hundred*400
+Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": It took 20 pounds of human hair and ------------- man hours to create the first Beast.`four hundred
 Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": The Beast's tail is made up of seven yards of -----------------`human hair
-Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": There are ----------- pounds of hairpins backstage ready to go at all times.`fifty*50
-Disney: The Brodway version of Disney "The Lion King" uses more than ----------- puppets`two hundred and thirty two*232
+Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": There are ----------- pounds of hairpins backstage ready to go at all times.`fifty
+Disney: The Brodway version of Disney "The Lion King" uses more than ----------- puppets`two hundred and thirty two
 Disney: The ----------- to the picturesque, 77-foot-tall Sleeping Beauty's Castle in Disneyland in southern California, actually works. It was lowered on the opening day of the park, July 17, 1955`drawbridge
 Disney: The first "technology" corporation to move into California's Silicon Valley was Hewlett-Packard, in 1938. Stanford University engineers Bill Hewlett and Dave Packard started their company in a Palo Alto garage with $1,538. Their first product was an audio oscillator bought by Walt Disney Studios for use in the making of ------------`fantasia
 Disney: The first merchandise item to feature Mickey Mouse was a child's school tablet in ---------`1929
@@ -915,55 +915,55 @@ Disney: The two-minute storm in the opening of Disney's -------------------(1989
 Disney: Walt Disney World is home to the largest working wardrobe in the world with over ---------------- costumes in its inventory.`2.5 million
 Disney: Walt Disney's family dog was named ---------. She was a poodle.`lady
 Disney: While creating the movie --------------(1995), the animation team at Pixar Animation Studios perfected the movement of the toy soldiers by gluing some sneakers to a sheet of wood and trying to walk around with them on.`toy story
-Useless Facts: Results of a survey show that 76 percent of women make their bed every day, compared to ------- percent of men.`fourty six*46
-Useless Facts: To pass U.S. Army basic training, young female recruits must do 17 pushups in two minutes. Males must do ------------ pushups in two minutes.`fourty*40
-Useless Facts: Roughly ----------- percent of the population of the under-developed world is under 15 years old.`fourty*40
+Useless Facts: Results of a survey show that 76 percent of women make their bed every day, compared to ------- percent of men.`fourty six
+Useless Facts: To pass U.S. Army basic training, young female recruits must do 17 pushups in two minutes. Males must do ------------ pushups in two minutes.`fourty
+Useless Facts: Roughly ----------- percent of the population of the under-developed world is under 15 years old.`fourty
 Useless Facts: Two objects have struck the earth with enough force to destroy a whole city. Each object, one in 1908 and again in 1947, struck regions of ---------. Not one human being was hurt either time.`siberia
 Useless Facts: Roughly a quarter of the world's people live in `china
 Useless Facts: Scientists at Oxford University's Imperial Cancer Research Fund found that people who eat ------------ daily had 24 percent fewer heart attacks and 32 percent fewer strokes.`fresh fruit
 Useless Facts: Two out of three adults in the United States have `hemorrhoids
-Useless Facts: When a piece of glass cracks, the crack travels faster than --------- miles per hour`three thousand*3000
+Useless Facts: When a piece of glass cracks, the crack travels faster than --------- miles per hour`three thousand
 Useless Facts: You're just as likely to die by falling out of bed then you are to get struck by lightning; each is a 1 in ------------ chance.`2 million*2,000,000
 Useless Facts: You have a 1 in 3,000,000 chance of being killed by a `snake
 Useless Facts: Zip code 12345 is assigned to -------------- in Schenectady, New York.`general electric
-Useless Facts: They call it puppy love: An American Animal Hospital Association poll showed that ----------- percent of dog owners admit that they talk to their dogs on the phone or leave messages on an answering machine while away.`thirty three*33
+Useless Facts: They call it puppy love: An American Animal Hospital Association poll showed that ----------- percent of dog owners admit that they talk to their dogs on the phone or leave messages on an answering machine while away.`thirty three
 Useless Facts: A 1991 Gallup survey indicated that 49 percent of Americans didn't know that white bread is made from `wheat
 Useless Facts: A 1997 Gallup poll found that about one in four American workers - 24 percent - said that if they could do so, they would `fire their boss
 Useless Facts: A broken clock is right at least `twice a day
-Useless Facts: A Dutch study indicated that 50 percent of the adult Dutch population have never flown in an airplane, and ---------------- percent admitted a fear of flying.`twenty eight*28
-Useless Facts: A Harvard study of college drinking showed that more than ---------- percent of students indulge in binge drinking, which is defined as consuming five drinks at one sitting by men or four drinks by women. Of college students who drink, one-third drink to get drunk.`fourty*40
+Useless Facts: A Dutch study indicated that 50 percent of the adult Dutch population have never flown in an airplane, and ---------------- percent admitted a fear of flying.`twenty eight
+Useless Facts: A Harvard study of college drinking showed that more than ---------- percent of students indulge in binge drinking, which is defined as consuming five drinks at one sitting by men or four drinks by women. Of college students who drink, one-third drink to get drunk.`fourty
 Useless Facts: A McDonald's straw will hold ------------------- ml, or just over one-and-a-half teaspoons of whatever you are drinking. This means that it would take 17,000 strawfuls of water to fill up a 34 gallon bathtub.`7.7
 Useless Facts: A poll taken shows that between 74 and 94 percent of workers in the United States and Canada take 5 to 15 minutes daily for a --------------.`morning coffee break
-Useless Facts: A recent Gallup poll shows that -------- percent of Americans believe they will go somewhere after death.`sixty nine*69
-Useless Facts: A recent Gallup Poll Social Audit on gambling showed that ----------- percent of Americans have bought a lottery ticket in the last 12 months, making lotteries by far the favorite choice of gamblers.`fifty seven*57
-Useless Facts: A recent Gallup survey showed that in the United States, 8 percent of kissers kept their eyes open, but more than --------------- percent confessed to an occasional peek. Forty-one percent said they experienced their first serious smooch when they were 13, 14, or 15 years old; 36 percent between the ages of 16 and 21.`twenty*20
+Useless Facts: A recent Gallup poll shows that -------- percent of Americans believe they will go somewhere after death.`sixty nine
+Useless Facts: A recent Gallup Poll Social Audit on gambling showed that ----------- percent of Americans have bought a lottery ticket in the last 12 months, making lotteries by far the favorite choice of gamblers.`fifty seven
+Useless Facts: A recent Gallup survey showed that in the United States, 8 percent of kissers kept their eyes open, but more than --------------- percent confessed to an occasional peek. Forty-one percent said they experienced their first serious smooch when they were 13, 14, or 15 years old; 36 percent between the ages of 16 and 21.`twenty
 Useless Facts: The most memorable kiss in a motion picture was in -------------------, according to 25 percent of those polled.`gone with the wind
 Useless Facts: A recent study conducted by the Shyness Clinic in Menlo Park, California, revealed that almost 90 percent of Americans label themselves as --------`shy
 Useless Facts: A stack of $1 dollar bills one-mile high would be worth more than -------------- dollars.`fourteen million*14,000,000
 Useless Facts: A study by researcher Frank Hu and the Harvard School of Public Health found that women who snore are at an increased risk of high blood pressure and ---------------------`cardiovascular disease
-Useless Facts: A survey revealed that ---------- percent of snowmobilers in Maine are males. Snowmobiling added $226 million to the state's economy in 1996.`eighty seven*87
-Useless Facts: A ten-gallon hat holds 3/4 gallon or ---- quarts.`three*3
+Useless Facts: A survey revealed that ---------- percent of snowmobilers in Maine are males. Snowmobiling added $226 million to the state's economy in 1996.`eighty seven
+Useless Facts: A ten-gallon hat holds 3/4 gallon or ---- quarts.`three
 Useless Facts: About 24 percent of alcoholics die in accidents, falls, fires, and ----------`suicides
 Useless Facts: About 24 percent of American adults say they have participated, at some time or another, in illegal -------------`gambling
-Useless Facts: About --------- percent of all male Americans between the ages of 10 and 15 were "gainfully employed" at the turn of the century. By 1970, so few in that age bracket were employed that the U.S. Census Bureau did not bother to make inquiries about them.`twenty five*25
+Useless Facts: About --------- percent of all male Americans between the ages of 10 and 15 were "gainfully employed" at the turn of the century. By 1970, so few in that age bracket were employed that the U.S. Census Bureau did not bother to make inquiries about them.`twenty five
 Useless Facts: About 60 percent of all American babies are named after -------------`close relatives
-Useless Facts: About ---------------- percent of American households buy yellow mustard every year.`seventy*70
+Useless Facts: About ---------------- percent of American households buy yellow mustard every year.`seventy
 Useless Facts: According to a 1995 poll, 1 out of 10 people admitted that they will buy an outfit intending to wear it once and ------------`return it
 Useless Facts: According to a Gallup poll, 11 percent of the U.S. population believes in --------- and other supernatural entities.`ghosts
-Useless Facts: According to a poll, ------------------ percent of those responding admitted that they had falsely called in sick to get a day off from work.`fifty eight*58
+Useless Facts: According to a poll, ------------------ percent of those responding admitted that they had falsely called in sick to get a day off from work.`fifty eight
 Useless Facts: According to a poll, only 29 percent of married couples agree on most -------------------`political issues
 Useless Facts: According to a recent poll, 39 percent of the people interviewed admitted that they snoop in their host's ----------------`medicine cabinets
-Useless Facts: According to a recent study, there are more than --------------- art galleries in Scottsdale, Arizona, which, surprisingly, exceeds the number in either Los Angeles or San Francisco.`one hundred*100
-Useless Facts: According to a recent survey, --------- percent of people who play the car radio while driving also sing along with it.`seventy five*75
+Useless Facts: According to a recent study, there are more than --------------- art galleries in Scottsdale, Arizona, which, surprisingly, exceeds the number in either Los Angeles or San Francisco.`one hundred
+Useless Facts: According to a recent survey, --------- percent of people who play the car radio while driving also sing along with it.`seventy five
 Useless Facts: ------------ has the highest percentage of cremations of all other U.S. states, with a 60.6 percent preference over burial.`hawaii
-Useless Facts: In 1915, the average annual family income in the United States was $-------- a year.`six hundred and eighty seven*687
+Useless Facts: In 1915, the average annual family income in the United States was $-------- a year.`six hundred and eighty seven
 Useless Facts: In 1918 and 1919, a world epidemic of simple influenza killed 20 million people in the United States and ---------`europe
 Useless Facts: In 1970, only 5 percent of the American population lived in -----------`cities
 Useless Facts: In 1977, according to the American Telephone and Telegraph Company, there were 14.5 telephone calls made for every 100 people in the ---------------------`entire world
 Useless Facts: According to advertising data, nearly 80 percent of Japanese ads use celebrities, the majority being local stars. Of foreign celebrities, the most popular in 1996 were noodle pitchman Arnold Schwarzenegger and whiskey endorser -----------------------`steven spielberg
 Useless Facts: According to Bayer Aspirin(r), over --------- aspirin tablets are taken worldwide each year.`fifty billion*50,000,000,000
 Useless Facts: According to experts, 30 percent of all marriages occur because of -------------`friendship
-Useless Facts: According to Hallmark(r), the average person receives ---------- birthday cards annually.`eight*8
+Useless Facts: According to Hallmark(r), the average person receives ---------- birthday cards annually.`eight
 Useless Facts: According to hospital figures, dogs bite an average of ------------ Americans a year.`one million*1,000,000
 Useless Facts: According to one poll, 60 percent of the men surveyed admitted that they ----- in public.`spit
 Useless Facts: According to one source, about 66 percent of magazines found tossed along U.S. roadsides are ----------------`pornographic
@@ -978,33 +978,33 @@ Useless Facts: According to suppliers, --------- is by far the favorite ink colo
 Useless Facts: According to the Journal of American Medical Association, as of 1998, more than 100,000 Americans die annually from adverse reactions to ------------------`prescription drugs
 Useless Facts: According to the U.S. Food and Drug Administration, two out of five women in America -------------`dye their hair
 Useless Facts: According to the U.S. government, people have tried more than 28,000 different ways to lose ------------`weight
-Useless Facts: Airport security personnel find about ------ weapons a day searching passengers.`six*6
+Useless Facts: Airport security personnel find about ------ weapons a day searching passengers.`six
 Useless Facts: Seventy percent of house dust is made up of dead -----------------------`skin flakes
 Useless Facts: Since 1978, at least 37 people have died as a result of --------------------, in an attempt to get free merchandise. More than 100 have been injured.`shaking vending machines
 Useless Facts: Since its introduction in February 1935, more than 150 million ----------- board games have been sold worldwide.`monopoly
 Useless Facts: Sixty percent of big-firm executives said the -------------- is as important or more important than the résumé itself when you're looking for a new job.`cover letter
-Useless Facts: Soft drinks are American's favorite beverage. Water ranks #2, and milk is #3. The average American drinks about ----------- gallons of soft drinks per year.`fifty two*52
+Useless Facts: Soft drinks are American's favorite beverage. Water ranks #2, and milk is #3. The average American drinks about ----------- gallons of soft drinks per year.`fifty two
 Useless Facts: In the United States, ---------------- have safer driving records than hearing people nationally.`deaf people
 Useless Facts: Statistically speaking, the most dangerous job in the United States is that of ------------------`sanitation worker
-Useless Facts: In the United States, more than 25 percent of women's fashion dollars are spent on sizes ---- and up.`sixteen*16
+Useless Facts: In the United States, more than 25 percent of women's fashion dollars are spent on sizes ---- and up.`sixteen
 Useless Facts: Statistically, traveling by ------ is the safest means of transportation.`air
 Useless Facts: In Wales, there are more --------- than people`sheep
 Useless Facts: Although the United States has just 5 percent of the world's population, it has most of the world's lawyers at 70 percent. The American Bar Association has estimated that by 2000, the U.S. will have ------------------ lawyers.`one million*1,000,000
 Useless Facts: Americans consume about 138 billion ---------------- a year.`cups of coffee
 Useless Facts: Americans spend more money on ------------ every year than they spend on baby food.`dog food
-Useless Facts: America's first minimum wage was ----- cents an hour back in 1938.`twenty five*25
-Useless Facts: An American Animal Hospital Association survey revealed that -------------- percent of dog owners sign letters or cards from themselves and their dogs.`sixty two*62
-Useless Facts: It has been estimated that the typical American will spend an average of -------- years of his/her life reading newspapers.`two*2
-Useless Facts: The average 6-month accumulation of barnacles on the hull of a ship can produce enough drag to force the vessel to burn -------- percent more fuel than normal when cruising.`fourtt*40
+Useless Facts: America's first minimum wage was ----- cents an hour back in 1938.`twenty five
+Useless Facts: An American Animal Hospital Association survey revealed that -------------- percent of dog owners sign letters or cards from themselves and their dogs.`sixty two
+Useless Facts: It has been estimated that the typical American will spend an average of -------- years of his/her life reading newspapers.`two
+Useless Facts: The average 6-month accumulation of barnacles on the hull of a ship can produce enough drag to force the vessel to burn -------- percent more fuel than normal when cruising.`fourtt
 Useless Facts: An average of 51 cars a year overshoot and drive into the canals of -------------`amsterdam
-Useless Facts: Banging your head against a wall can burn up to ----------- calories per hour.`one hundred and fifty*150
+Useless Facts: Banging your head against a wall can burn up to ----------- calories per hour.`one hundred and fifty
 Useless Facts: Based on population, Chinese Mandarin is the most commonly spoken language in the world. --------- follows in second place`spanish
 Useless Facts: The average American will eat 35,000 --------- during their life span.`cookies
-Useless Facts: It is estimated that the average person living in North America opens the fridge ----- times daily.`twenty two*22
+Useless Facts: It is estimated that the average person living in North America opens the fridge ----- times daily.`twenty two
 Useless Facts: The average American's diet today consists of 55 percent -----------`junk food
 Useless Facts: The average bra size sold at Frederick's of Hollywood in 1966 was a 34B. Today, it's a ----`36c
-Useless Facts: It's been estimated that an opera singer burns an average of more than ---- calories per minute during a performance.`two*2
-Useless Facts: Left-handed people are ----- percent more likely to sample a forkful of food from the plates of fellow diners than are right-handed people.`twenty*20
+Useless Facts: It's been estimated that an opera singer burns an average of more than ---- calories per minute during a performance.`two
+Useless Facts: Left-handed people are ----- percent more likely to sample a forkful of food from the plates of fellow diners than are right-handed people.`twenty
 Useless Facts: Chocolate manufacturers use 40 percent of the world's ----------`almonds
 Useless Facts: Each year, approximately 250,000 American husbands are physically attacked and beaten by -----------------`their wives
 Useless Facts: Each year, more than 300,000 American teenagers become afflicted with some form of ---------------`venereal disease
@@ -1013,9 +1013,9 @@ Useless Facts: Monaco boasts the highest per capita ownership of -------------- 
 Useless Facts: Months that begin with a Sunday will always have a `friday the 13th*black friday
 Useless Facts: More people are killed by ------------- annually than are killed in plane crashes.`donkeys
 Useless Facts: More redheads are born in ---------- than in any other country: 11 percent of its population has red hair.`scotland
-Useless Facts: The highest known score for a single word in competition Scrabble is ---------`three hundred and ninety two*392
+Useless Facts: The highest known score for a single word in competition Scrabble is ---------`three hundred and ninety two
 Useless Facts: More than 20 percent of men and 10 percent of women say they've forgotten their ----------------- at least once.`wedding anniversary
-Useless Facts: Fleas can accelerate ------------- times faster than the space shuttle.`fifty*50
+Useless Facts: Fleas can accelerate ------------- times faster than the space shuttle.`fifty
 Useless Facts: Half of all murders are committed with ------------`handguns
 Useless Facts: The population of the entire world in 5000 B.C., according to the National Population Council, was ---------------`five million*5,000,000
 Useless Facts: zzzOf the 15,000-odd known species of orchids in the world, 3,000 of them can be found in ---------`brazil
@@ -1024,16 +1024,16 @@ Useless Facts: There are 170,000,000,000,000,000,000,000,000 ways to play the te
 Useless Facts: There are 6,272,640 square inches in an --------`acre
 Useless Facts: There are 63,360 inches in a ------`mile
 Useless Facts: Per a 1995 poll, 3.9 percent of the women surveyed said they don't wear ------------`underwear
-Useless Facts: There are more than --------- different types of Barbie dolls.`two hundred*200
+Useless Facts: There are more than --------- different types of Barbie dolls.`two hundred
 Useless Facts: Per capita, Canada has more ------------ shops than any other country.`doughnut*donut
-Useless Facts: Cats have over one hundred vocal sounds, dogs only have about`ten*10
+Useless Facts: Cats have over one hundred vocal sounds, dogs only have about`ten
 Useless Facts: Our eyes are always the same size from birth, but our ____ and _____ never stop growing`nose & ears
 Useless Facts: In every episode of Seinfeld there is a _______ somewhere`superman
 Useless Facts: If Barbie were life-size her measurements would be 39-23-33. She would stand _____ feet, _____ inches tall and have a neck twice the length of a norma human's neck`seven two
 Useless Facts: Feb 1865 is the only month in recorded history not to have a`fullmoon
 Useless Facts: No word in the English language rhymes with`month
 Useless Facts: The cruise liner, Queen Elizabeth II, moves only _________ for each gallon of diesel that it burns`six inches
-Useless Facts: There are ____ credit cards for every person in the United States`two*2
+Useless Facts: There are ____ credit cards for every person in the United States`two
 Useless Facts: Cat's urine glows under a _____ light`black
 Useless Facts: Leonardo Da Vinci invented the`scissors
 Useless Facts: In the last 4000 years, no new animals have been`domesticated
@@ -1045,8 +1045,8 @@ Useless Facts: One of the reasons marijuana is illegal today is because cottongr
 Useless Facts: Only one person in _________ will live to be 116 or older`two billion
 Useless Facts: If you yelled for 8 years, 7 months and 6 days, you would have produced enough sound energy to heat`one cup of coffee
 Useless Facts: If you fart consistently for 6 years and 9 months, enough gas is produced to create the energy of an`atomic bomb
-Useless Facts: The human heart creates enough pressure when it pumps out to the body to squirt blood _______ feet`thirty*30
-Useless Facts: Banging your head against a wall uses _________ calories an hour. WHERE'S THE CLOSEST WALL!!`one hundred and fifty*150
+Useless Facts: The human heart creates enough pressure when it pumps out to the body to squirt blood _______ feet`thirty
+Useless Facts: Banging your head against a wall uses _________ calories an hour. WHERE'S THE CLOSEST WALL!!`one hundred and fifty
 Useless Facts: Humans and dolphins are the only species that have sex for`pleasure
 Useless Facts: On average, people fear spiders more than they do`death
 Useless Facts: You can't kill yourself by holding your`breath
@@ -1614,7 +1614,7 @@ Confuscious Say: Man who fight with wife all day, get no ------ at night.`piece
 Confuscious Say: Virginity like -------, one prick, all gone.`balloon
 Confuscious Say: Girls who rides -------, peddles ass all over town.`bicycle
 Confuscious Say: He who ------ in church, sits in own pew.`farts
-Confuscious Say: Baseball all wrong--man with ----- balls can't walk.`four*4
+Confuscious Say: Baseball all wrong--man with ----- balls can't walk.`four
 Confuscious Say: Man who live in ----------, dress in basement.`glass house
 Confuscious Say: Man who drop watch in --------, bound to have shitty time.`toilet
 Confuscious Say: Man who go to bed with sex on mind wake up with ------- in hand`solution
@@ -1692,7 +1692,7 @@ Useless Facts: ------------------- lost 41 of his 98-men crew to scurvy (a lack 
 Useless Facts: -----------, Illinois was originally named Fort Dearborn, Indian Territory.`chicago
 Useless Facts: ------------------ set sail for the New World on a Friday in 1492.`christopher columbus
 Useless Facts: Cologne water, a mildly perfumed toilet water also known as eau de Cologne, has been made in -----------, West Germany since 1709.`cologne
-Useless Facts: Columbus had three ships on his first American exploration. On his second expedition, --------- ships were under his command.`seventeen*17
+Useless Facts: Columbus had three ships on his first American exploration. On his second expedition, --------- ships were under his command.`seventeen
 Useless Facts: In ancient ------, people committed suicide by eating a pound of salt.`china
 Useless Facts: In ancient ------, the crimes for abduction, armed robbery, treason, and adultery were punished by castration.`china
 Useless Facts: In ancient ------, towns were often arranged in patterns so that if seen from the air, the whole community would resemble an animal or a symbolic design. Some were arranged to resemble snakes, stars, sunbursts, and dragons.`china
@@ -2128,7 +2128,7 @@ In 1958 Charles de ---------- becomes premier of France.`gaulle
 In 1959 Constitution of ---------- promulgated (National Day).`tunisia
 In 1963 King Victor ---------- of Italy, becomes Emperor of Ethiopia.`emmanual iii
 In 1968 ---------- blind & deaf, dies at 87.`helen keller
-In 1968 Helen Keller blind & deaf, dies at ---------.`eighty seven*87
+In 1968 Helen Keller blind & deaf, dies at ---------.`eighty seven
 In 1980 Ted ---------- 's Cable News Network (CNN) begins broadcasting.`turner
 Which Shakespeare play features the characters Demetrius, Lysander, Helena and Hermia`a midsummer night's dream
 What famously happened on 6th August 1945`the atom bomb was dropped on hiroshima
@@ -2162,7 +2162,7 @@ The cooking term "parmentier" indicates which vegetable`potatoes
 Who is said to have brought the Holy Grail from Palestine to England`joseph of arimathea
 Which car manufacturer makes the Xantia model`citroen
 What sort of creature is a Tarantula Hawk`wasp
-How many dice are used in Backgammon`five*5
+How many dice are used in Backgammon`five
 In what year was Greenpeace founded`1971
 What did a Cordwainer make`shoes
 What animal rests in a form`hare
@@ -2242,7 +2242,7 @@ In which modern country is the region known as Cappadocia`turkey
 What is the unit of Imperial measure equal to 1/10 of a nautical mile`cable
 In which decade if the 20 century was the first Filofax sold`1920's
 Who is the longest serving Head of State who is not a member of a Royal Family`fidel castro
-How many miles are there in a league`three*3
+How many miles are there in a league`three
 In which 1949 film does Alec Guinness portray 8 members of the D'Ascoyne family`kind hearts and coronets
 Who was the world's first woman Prime Minister`sirimavo bandaranaike
 In which 20th century decade was the first angle-poise lamp sold`1930's
@@ -2270,14 +2270,14 @@ Of whom was it said by Gerald Ford, 'He doesn't dye his hair - he's just prematu
 Which French artist painted 'The Bridge at Argenteuil', and 'The Magpie'`claude monet
 Who married to Jenny Von Westphalen in 1843`karl marx
 What is the chemical formula for Ozone`03
-What is the atomic number for oxygen`eight*8
+What is the atomic number for oxygen`eight
 An animal described as ecaudate lacks which physical feature`tail
 In dating agency adverts what does the 'S' represent in the abbreviation 'NSP'`smoker
 An animal described as ecostate lacks which physical feature`ribs
 The Venetian island of Murano is particularly associated with the manufacture of which product`glass
 The US Congress comprises the Senate and which other house or chamber`house of representatives
 Birmingham is flanked by the M6 on the north and M5 on the west, which motorway flanks south & east`m42
-How many senators comprise the US Senate`one hundred*100
+How many senators comprise the US Senate`one hundred
 In which North Italian city is a world renowned opera season held annually in the Roman arena during July and August`verona
 Which motorway is, being developed as a ring motorway round Manchester`m60
 Transylvania is in which present day country`romania
@@ -2313,7 +2313,7 @@ Who became U.S. president following the assassination of William McKinley in 190
 Europa is a satellite of which planet in the solar system`jupiter
 Brian Lara broke the record for the highest first class cricket innings by scoring 501 not out against which county in 1994`durham
 Who wrote the books on which the television series The Darling lands of May was based`h e bates
-In Imperial measurement, how many pounds are there in one hundredweight`one hundred and twelve*112
+In Imperial measurement, how many pounds are there in one hundredweight`one hundred and twelve
 The British Mediterranean Fleet defeated Italian naval forces at which battle in May 1941`cape matapan
 Who wrote the 1955 play Long Day's Journey into Night`eugene o'neill
 In which sea would you find the island of Bornholm`baltic sea

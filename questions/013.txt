@@ -345,7 +345,7 @@ In 1917 Desi---------- , famous Cuban, bandleader, born.`arnaz
 In 1923 ---------- magazine first published.`time
 In 1949 First non-stop, ---------- airplane flight completed.`round-the-world
 In 1950 Karen ---------- (in Connecticut), drummer for the Carpenters, singer, born.`carpenter
-In 1978 Soyuz ----------  is launched.`twenty eight*28
+In 1978 Soyuz ----------  is launched.`twenty eight
 In 1991 Arthur---------- , dance instructor, dies at 95. `murray
 In 1847 Alexander ---------- Bell, inventor of the telephone, born.`graham
 In 1851 U.S. Congress authorizes smallest U.S. ---------- coin, the 3-cent piece.`silver
@@ -356,8 +356,8 @@ In 1943 U.S. wins Battle of ---------- Sea over Japan.`bismark
 In 1945 U.S. and ---------- forces recaptured Corregidor.`philippine
 In 1956 ---------- gains its independence.`morocco
 In 1962 Jackie---------- , runner, born.`joyner-kersee
-In 1969 Apollo ----------  is launched.`nine*9
-In 1972 Pioneer ----------  launched. First to traverse asteroid belt, leave system`ten*10
+In 1969 Apollo ----------  is launched.`nine
+In 1972 Pioneer ----------  launched. First to traverse asteroid belt, leave system`ten
 In 1974 David---------- , actor (Married With Children's Bud Bundy), born.`faustino
 In 1985 TV Show "---------- " premieres.`moonlighting
 In 1785 Alessandro---------- , poet, born. `manzoni
@@ -394,7 +394,7 @@ In 1957 The Gold Coast gains independence and takes the name`ghana
 In 1963---------- , Cowboy Copus, and Hawkshaw Hawkins die in a plane crash.`patsy cline
 In 1963 Patsy Cline, ---------- , and Hawkshaw Hawkins die in a plane crash.`cowboy copus
 In 1963 Patsy Cline, Cowboy Copus, and ---------- die in a plane crash.`hawkshaw hawkins
-In 1981 Soyuz ----------  returns to Earth.`thirty nine*39
+In 1981 Soyuz ----------  returns to Earth.`thirty nine
 In 1583 Thomas ---------- Day.`aquinas
 In 1848 In Hawaii, the Great ---------- (division of lands) is signed.`mahele
 In 1875 Maurice ---------- (in Cibourne, France), composer (Bollero), born.`ravel
@@ -436,12 +436,12 @@ In 1888 The ---------- Army of England sends group to U.S. to begin welfare and 
 In 1933 Big earthquake in ---------- (W.C. Fields was making a movie when it struck and the cameras kept running).`long beach
 In 1948 First civilian to exceed ---------- -- H. H. Houver at Edwards Air Force Base, CA`speed of sound
 In 1964 Prince ---------- of England, royalty, born.`edward
-In 1978 Soyuz ----------  returns to Earth.`twenty eight*28
+In 1978 Soyuz ----------  returns to Earth.`twenty eight
 In 1302 According to---------- , this is Romeo and Juliet's wedding day.`shakespeare
 In 1810 Emperor ---------- married by proxy to Archduchess Marie Louise.`napoleon
 In 1847 John ---------- 'Johnny Appleseed' died in Allen County, Ind.`chapman
 In 1867 Great ---------- eruption (volcano in Hawaii).`mauna loa
-In 1888 Blizzard struck the northeastern United States. ---------- people died.`four hundred*400
+In 1888 Blizzard struck the northeastern United States. ---------- people died.`four hundred
 In 1892 First public game of`basketball
 In 1903 Lawrence---------- , bandleader, bubble maker, born.`welk
 In 1916 Harold---------- , former British Prime Minister, born.`wilson
@@ -457,7 +457,7 @@ In 1923 Wally---------- , astronaut, born.`schirra
 In 1925 Chinese revolutionary leader Sun ---------- died.`yat-sen
 In 1925 First ---------- radio broadcast.`transatlantic
 In 1927 Raul---------- , President of Argentina, born.`alfonsin
-In 1930 Mohandas Gandhi began ---------- -mile march protesting British salt tax.`two hundred*200
+In 1930 Mohandas Gandhi began ---------- -mile march protesting British salt tax.`two hundred
 In 1936 FDR conducts his first "----------  Chat".`fireside
 In 1939 Pope ---------- was crowned in ceremonies at the Vatican.`pius xii
 In 1940 Al---------- , singer, born.`jarreau
@@ -477,7 +477,7 @@ In 1781 (England) Planet ---------- was discovered by Sir William Herschel. `ura
 In 1906 American suffragist Susan B. ---------- died. `anthony
 In 1925 ---------- law prohibits teaching of evolution. `tennessee
 In 1957 Dana---------- , actress, born. `delaney
-In 1969 Apollo ----------  returns to Earth`nine*9
+In 1969 Apollo ----------  returns to Earth`nine
 In 1970 Digital Equipment Corp introduces the ---------- minicomputer. `pdp-1
 In 1985 Funeral services held in ---------- for leader Konstantin Chernenko. `moscow
 In 1681 Georg Philipp Telemann, leading ---------- late-baroque composer, born.`german
@@ -498,7 +498,7 @@ In 1964 Jury in ---------- found Jack Ruby guilty of murdering Lee Harvey Oswald
 In 1965 Israel's cabinet approved diplomatic relations with`west germany
 In 1967 Body of ---------- moved from a temporary grave to a permanent memorial.`john kennedy
 In 1975 Susan ---------- dies at age 56.`hayward
-In 1980 Polish airliner crash kills all ----------  aboard (22 are US amateur boxers).`eighty seven*87
+In 1980 Polish airliner crash kills all ----------  aboard (22 are US amateur boxers).`eighty seven
 In 1983 ---------- cut oil prices for the first time in 23 years.`opec
 In 44 B.C. Julius ---------- slain`caesar
 In 1913 Woodrow ---------- holds the first Presidential Press Conference.`wilson
@@ -518,7 +518,7 @@ In 1916 US and ---------- sign the Migratory bird treaty.`canada
 In 1945 US forces defeat ---------- at Iwo Jima.`japanese
 In 1954 Nancy ---------- (in San Francisco, CA), singer (Heart), born.`wilson
 In 1966 Gemini ---------- is launched.`viii
-In 1978 Soyuz ----------  returns to Earth.`twenty six*26
+In 1978 Soyuz ----------  returns to Earth.`twenty six
 In 1985 Journalist Terry ---------- is abducted in Lebanon by pro-Iranian terrorists.`anderson
 In 461 St Patrick - the patron saint of ---------- - died in Saul.`ireland
 In 1753 First official St. ---------- 's Day.`patrick
@@ -596,7 +596,7 @@ In 1851 ---------- Valley is discovered in California.`yosemite
 In 1869 Florenz---------- , of Follies fame, born.`ziegfeld
 In 1891 A Hatfield marries a---------- , ending a long feud in W. VA.`mccoy
 In 1918 During World War I ---------- launched the Somme Offensive,.`germany
-In 1945 During WW II Allied bombers began --------- days of raids over Germany`four*4
+In 1945 During WW II Allied bombers began --------- days of raids over Germany`four
 In 1946 UN set up temporary HQ at ---------- in the Bronx.`hunter college
 In 1956 Timothy---------- , actor, James Bond #4, born.`dalton
 In 1959 Matthew---------- , actor (Project X, Ladyhawk), born.`broderick
@@ -633,12 +633,12 @@ In 1929 First telephone installed in the---------- . `white house
 In 1933 German Reichstag granted ---------- dictatorial powers. `adolf hitler
 In 1956 Pakistan became ---------- within the British Commonwealth. `independent
 In 1965 Gemini 3 launched, first US ---------- space flight. `2-man
-In 1983 First Artificial heart recipient Dr. Barney Clark died after ----------  days.`one hundred & twelve*112
+In 1983 First Artificial heart recipient Dr. Barney Clark died after ----------  days.`one hundred & twelve
 In 1834 William ---------- (in England), artist and poet`morris
 In 1882 German scientist Robert ---------- discovered bacillus cause of TB.`koch
 In 1905 Jules Verne dies in ---------- at 76 years old.`amiens
 In 1905 Jules ---------- dies in Amiens at 76 years old.`verne
-In 1905 Jules Verne dies in Amiens at ----------  years old.`seventy six*76
+In 1905 Jules Verne dies in Amiens at ----------  years old.`seventy six
 In 1934 FDR grants future independence to the`philippines
 In 1944 In occupied ---------- the Nazis executed more than 300 civilians.`rome
 In 1955 First oil drill ---------- rig placed in service.`sea going
@@ -1897,7 +1897,7 @@ What do table tennis rules say you must be able to see when you serve`ball
 Which is the largest and heaviest instrument in a concert orchestra`piano
 Which early type of bicycle had a large front wheel and a small back one`penny farthing
 Which was the first Disney cartoon to show a girls belly button`aladdin
-How many squares are there on one side of a Rubiks cube`nine*9
+How many squares are there on one side of a Rubiks cube`nine
 What is Tuesdays child if Mondays child is fair of face`full of grace
 What colour are most basketballs`orange
 What colour gloves do snooker referees wear`white
@@ -1961,10 +1961,10 @@ In 1970  ---------- stripper/actress, dies at 56.`gypsy rose lee
 In 1974 Landslide in  ---------- Province Peru creates a natural dam.`huancavelica
 In 1982 Argentina surrenders to  ---------- on S Georgia near Falkland Island.`britain
 In 1984 Liverpool's  ---------- Club, the home of the Beatles, reopens.`cavern
-In 1984 Count Basie jazz piano great, dies at`seventy nine*79
+In 1984 Count Basie jazz piano great, dies at`seventy nine
 In 1986  ---------- & Arnold Schwarzenegger marry.`maria shriver
 In 1986 Worst nuclear disaster,  ---------- USSR, 31 die.`chernobyl
-In 1989 Lucille Ball comedienne/actress dies at  ----------  of a massive heart attack.`seventy eight*78
+In 1989 Lucille Ball comedienne/actress dies at  ----------  of a massive heart attack.`seventy eight
 In 4977 -BC- Johannes Kepler's date for creation of`universe
 In 1509 Pope  ---------- excommunicates Italian state of Venice.`julius ii
 In 1521 Ferdinand  ---------- world traveler, killed by Filipino natives.`magellan
@@ -1988,11 +1988,11 @@ In 1953 Coronation of Queen Elizabeth II in---------- .`westminster abbey
 In 1955 Dana---------- , comedian (Sat Night Live, Wayne's World), born.`carvey
 In 1969 Australian aircraft carrier "---------- " slices US destroyer "Frank E Evans" in half, killing 74. (South Vietnam). `melbourne
 In 1969 Australian aircraft carrier "Melbourne" slices US destroyer "---------- " in half, killing 74. (South Vietnam). `frank e evans
-In 1969 Australian aircraft carrier "Melbourne" slices US destroyer "Frank E Evans" in half, killing---------- . (South Vietnam).`seventy four*74
+In 1969 Australian aircraft carrier "Melbourne" slices US destroyer "Frank E Evans" in half, killing---------- . (South Vietnam).`seventy four
 In 1979 John ---------- becomes 1st pope to visit a communist country (Poland).`paul ii
 In 1987 Andres ---------- Spanish guitarist, dies at 94.`segovia
 In 1990 Rex---------- , actor famous for "Doctor Dolittle" and "My Fair Lady", dies at 82 from cancer.`harrison
-In 1990 Rex Harrison, actor famous for "Doctor Dolittle" and "My Fair Lady", dies at ---------- from cancer.`eighty two*82
+In 1990 Rex Harrison, actor famous for "Doctor Dolittle" and "My Fair Lady", dies at ---------- from cancer.`eighty two
 In 1990 Rex Harrison, actor famous for "Doctor Dolittle" and "My Fair Lady", dies at 82 from---------- .`cancer
 In 1539 ---------- claims the US state of Florida for Spain.`hernando de soto
 In 1539 Hernando De Soto claims the US state of ---------- for Spain.`florida
@@ -2099,8 +2099,8 @@ In 1783 ---------- Volcano in southern Iceland begins 8-month eruption. `laki
 In 1783 Laki Volcano in southern ---------- begins 8-month eruption. `iceland
 In 1783 Laki Volcano in southern Iceland begins ---------- eruption. `8-month
 In 1809 Thomas ---------- writer (Age of Reason, Common Sense), dies at 72. `paine
-In 1809 Thomas Paine writer (Age of Reason, Common Sense), dies at ---------. `seventy two*72
-In 1815 ------------German states unite under the Act of Confederation`thirty nine*39
+In 1809 Thomas Paine writer (Age of Reason, Common Sense), dies at ---------. `seventy two
+In 1815 ------------German states unite under the Act of Confederation`thirty nine
 In 1928 1st US-to-----------  flight lands (Sir Charles Kingford-Smith). `australia
 In 1933 Joan ---------- Brooklyn, comedian (The Late Show, Hollywood Squares), born. `rivers
 In 1940 Nancy ---------- Jersey City, singer, (These boots were made for walking), born. `sinatra
@@ -2254,14 +2254,14 @@ On a 'qwerty' keyboard, what is the letter in between the W and the R key`e
 On a 'qwerty' keyboard, what is the letter in between the J and the L key`k
 What temperature reads the same in both the Fahrenheit and Celsius scales`minus forty degrees
 In the ABO system, which blood type is the universal donor`type o
-When measuring a horse, how many inches are there in one 'hand'`four*4
+When measuring a horse, how many inches are there in one 'hand'`four
 What kind of construction is Tower Bridge in London`bascule bridge
 On a 'qwerty' keyboard, what is the extreme left-hand letter on the middle row of letters`a
 In the Bible, who is generally considered responsible for writing most of the Psalms -74 in all`king david
 In the Celsius scale, what is nought degrees Kelvin, to the nearest whole number`minus 273 degrees
 In the ABO system, which blood type is the universal recipient`type ab
 What kind of construction are both the Sydney Harbour and the Runcorn-Widnes bridges`single span steel arch
-In the system of linear measurement, how many yards are there in one chain`twenty two*22
+In the system of linear measurement, how many yards are there in one chain`twenty two
 Which was the last port of call from which the Titanic sailed`queenstown
 Which planet is nearest in size to that of the Earth`venus
 Which is the largest moon in the Solar System`ganymede
@@ -2287,10 +2287,10 @@ Who created the detectives Dalziel and Pascoe`reginald hill
 George Robertson is now Director General of NATO, what was his previous post`defence secretary
 In the Bible, what is the name of the region where Cain went after killing Abel`land of nod
 Who created the Scottish detective, Inspector Rebus`ian rankin
-How many drivers pick up points in a Grand Prix race`six*6
+How many drivers pick up points in a Grand Prix race`six
 Whom did Andrew Motion succeed as Poet Laureate`ted hughes
 What is the name of the rich reddish brown pigment often preceded by the word 'burnt', a reference to its preparation by heat`sienna
-How many singles titles did Martina Navratilova pick up at Wimbledon`nine*9
+How many singles titles did Martina Navratilova pick up at Wimbledon`nine
 Now in modern Tanzania, which port is the historic meeting place of Stanley and Livingstone in 1871`ujiji
 What is the name of the dark reddish-brown pigment obtained from the inky secretion of the cuttlefish`sepia
 Which Poet Laureate wrote about 'Miss Joan Hunter-Dunn and the anthology 'New Bats in Old Belfries`john betjeman
@@ -2334,7 +2334,7 @@ Who is credited with the invention of Bakelite`dr. baekeland
 Which operetta is subtitled 'The Slave of Duty'`pirates of penzance
 Who wrote 'The Ascent of Man'`jacob bronowski
 Who played Meryl Streep's boyfriend in the film 'Silkwood'`kurt russell
-What is the least number of shots with which a player could win a tennis set`twelve*12
+What is the least number of shots with which a player could win a tennis set`twelve
 Which country has won the Eurovision Song Contest most times`ireland
 Which Labour MP faked suicide by a supposed drowning in 1974`john stonehouse
 Which musician is married to Cleo Laine`john dankworth

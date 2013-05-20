@@ -34,19 +34,19 @@ Hockey: The Pittsburgh ··········`Penguins
 Hockey: The St. Louis ··········`Blues
 Hockey: The Toronto ·······`Maple Leafs
 Hockey: The Vancouver ········`Canucks
-How many feet high is a basketball net`ten*10
-How many games must you win to win a normal set in tennis`six*6
-How many minutes is a major penalty in hockey`five*5
-How many minutes is each period of hockey`twenty*20
-How many players are there on a soccer team`eleven*11
-How many players are there on a water polo team`seven*7
-How many players make up a field hockey team`eleven*11
-How many points are awarded for a safety touch in football`two*2
-How many referees work a soccer game`one*1
-How many seams are there on a football`(American)four*4
-How many sides does a home-plate have`five*5
-In pro football a 'sudden death' period lasts how many minutes long`fifteen*15
-In ten-pin bowling, how many points does a perfect game consist of`three hundred*300
+How many feet high is a basketball net`ten
+How many games must you win to win a normal set in tennis`six
+How many minutes is a major penalty in hockey`five
+How many minutes is each period of hockey`twenty
+How many players are there on a soccer team`eleven
+How many players are there on a water polo team`seven
+How many players make up a field hockey team`eleven
+How many points are awarded for a safety touch in football`two
+How many referees work a soccer game`one
+How many seams are there on a football`(American)four
+How many sides does a home-plate have`five
+In pro football a 'sudden death' period lasts how many minutes long`fifteen
+In ten-pin bowling, how many points does a perfect game consist of`three hundred
 In this team sport each player gets a chance to play every position`volleyball
 In what sport is the Heisman trophy awarded`American football
 In which city is the Cotton Bowl played`Dallas
@@ -114,8 +114,8 @@ Who was Chief Marshall of the Mickey Mouse Club`Walt Disney
 Hook, line and ···········`sinker
 '7X' was used to refer to the secret ingredient of which drink`Coca Cola
 A 'pigskin' is another name for a(n) ········`football
-A can of Pepsi holds ·· fluid ounces`twelve*12
-A foot-long ruler is ·· inches long`twelve*12
+A can of Pepsi holds ·· fluid ounces`twelve
+A foot-long ruler is ·· inches long`twelve
 Most men do this each morning, using a razor`shave
 Most people wear a watch on their ···· wrist`left
 Name the implement that removes water from your windshield on your car`wiper
@@ -177,7 +177,7 @@ In 1981 ---------- Sadat assassinated.`anwar
 In 1981 Anwar ---------- assassinated.`sadat
 In 1989 ---------- Davis dies at 81.`bette
 In 1989 Bette ---------- dies at 81.`davis
-In 1989 Bette Davis dies at---------- .`eighty one*81
+In 1989 Bette Davis dies at---------- .`eighty one
 In 1991 ---------- Taylor weds for the 8th time (Larry Fortensky).`elizabeth
 In 1991 Elizabeth ---------- weds for the 8th time (Larry Fortensky).`taylor
 In 1991 Elizabeth Taylor weds for the ---------- time (Larry Fortensky).`8th
@@ -191,7 +191,7 @@ In 1849 ---------- Allen Poe dies in Baltimore at 40.`edgar
 In 1849 Edgar ---------- Poe dies in Baltimore at 40.`allen
 In 1849 Edgar Allen ---------- dies in Baltimore at 40.`poe
 In 1849 Edgar Allen Poe dies in ---------- at 40.`baltimore
-In 1849 Edgar Allen Poe dies in Baltimore at---------- .`forty*40
+In 1849 Edgar Allen Poe dies in Baltimore at---------- .`forty
 In 1885 ---------- Bohr, physicist, expanded quantum physics (Nobel 1922), born.`niels
 In 1885 Niels---------- , physicist, expanded quantum physics (Nobel 1922), born.`bohr
 In 1886 ---------- abolishes slavery in Cuba.`spain
@@ -234,7 +234,7 @@ In 1906 Karl ---------- demonstrates the first 'permanent wave' for hair, in Lon
 In 1906 Karl Nessler demonstrates the first 'permanent wave' for hair, in---------- .`london
 In 1918 Sgt. ---------- York single-handedly kills 25, captures 132 Germans.`alvin
 In 1918 Sgt. Alvin ---------- single-handedly kills 25, captures 132 Germans.`york
-In 1918 Sgt. Alvin York single-handedly kills---------- , captures 132 Germans.`twenty five*25
+In 1918 Sgt. Alvin York single-handedly kills---------- , captures 132 Germans.`twenty five
 In 1920 ---------- Herbert, sci-fi writer (Dune), born.`frank
 In 1920 Frank---------- , sci-fi writer (Dune), born.`herbert
 In 1920 Frank Herbert, sci-fi writer (---------- ), born.`dune
@@ -298,7 +298,7 @@ In 1970 ---------- Republic (Cambodia) declares independence.`khmer
 In 1970 Khmer Republic (---------- ) declares independence.`cambodia
 In 1973 ---------- and Priscilla Presley divorce after 6 years.`elvis
 In 1973 Elvis and ---------- Presley divorce after 6 years.`priscilla
-In 1973 Elvis and Priscilla Presley divorce after ---------- years.`six*6
+In 1973 Elvis and Priscilla Presley divorce after ---------- years.`six
 In 1990 ---------- threatens to hit Israel with a new missile.`saddam
 In 1990 Saddam threatens to hit ---------- with a new missile.`israel
 In 1731 ---------- Cavendish, English physicist, chemist born`henr
@@ -392,7 +392,7 @@ In 1823 Charles Macintosh of Scotland begins selling ---------- (Macs).`raincoat
 In 1870 ---------- E Lee General of the Confederate Army, dies at 63.`robert
 In 1870 Robert E ---------- General of the Confederate Army, dies at 63.`lee
 In 1870 Robert E Lee General of the ---------- Army, dies at 63.`confederate
-In 1870 Robert E Lee General of the Confederate Army, dies at---------- .`sixty three*63
+In 1870 Robert E Lee General of the Confederate Army, dies at---------- .`sixty three
 In 1935 ---------- Pavarotti Moderna Italy, operatic tenor (Oh Giorgio), born.`luciano
 In 1935 Luciano ---------- Moderna Italy, operatic tenor (Oh Giorgio), born.`pavarotti
 In 1935 Luciano Pavarotti Moderna Italy, operatic ---------- (Oh Giorgio), born.`tenor
@@ -411,7 +411,7 @@ In 1984 ---------- bombs hotel where Margaret Thatcher is staying.`ira
 In 1984 IRA bombs hotel where ---------- is staying.`margaret thatcher
 In 54 ---------- Roman Emperor, dies.`claudius
 In 1974 ---------- TV host (Ed Sullivan Show), dies at 73.`ed sullivan
-In 1974 Ed Sullivan TV host (Ed Sullivan Show), dies at---------- .`seventy three*73
+In 1974 Ed Sullivan TV host (Ed Sullivan Show), dies at---------- .`seventy three
 In 1792 ---------- lays cornerstone of the Executive Mansion (White House).`washington
 In 1921 ---------- Montand, France, actor/singer (Z, Napoleon), born.`yves
 In 1921 Yves---------- , France, actor/singer (Z, Napoleon), born.`montand
@@ -449,12 +449,12 @@ In 1944 German Field Marshal ---------- Rommel commits suicide rather than face 
 In 1944 German Field Marshal Erwin ---------- commits suicide rather than face trial for his part in an attempt to overthrow Hitler.`rommel
 In 1947 ---------- Yeager pilots the world's first supersonic flight (Mach 1.015 at 12,800 m) at Muroc, CA.`chuck
 In 1947 Chuck ---------- pilots the world's first supersonic flight (Mach 1.015 at 12,800 m) at Muroc, CA.`yeager
-In 1949 ---------- US Communist Party leaders convicted of sedition.`fourteen*14
+In 1949 ---------- US Communist Party leaders convicted of sedition.`fourteen
 In 1949 14 US Communist Party leaders convicted of---------- .`sedition
 In 1965 ---------- Engle in X-15 reaches 80 km.`joe
 In 1965 Joe ---------- in X-15 reaches 80 km.`engle
 In 1965 Joe Engle in ---------- reaches 80 km.`x-15
-In 1965 Joe Engle in X-15 reaches ---------- km.`eighty*80
+In 1965 Joe Engle in X-15 reaches ---------- km.`eighty
 In 1976 ---------- launched to Salyut 6, but return without docking.`soyuz 23
 In 1976 Soyuz 23 launched to---------- , but return without docking.`salyut
 In 1977 ---------- Crosby dies in Madrid, Spain.`bing
@@ -536,7 +536,7 @@ In 1916 Margaret Sanger opens the first public ---------- control clinic (Brookl
 In 1923 ---------- Co. founded.`disney
 In 1927 ---------- Grass, German novelist, poet (The Tin Drum) born`gunter
 In 1927 Gunter---------- , German novelist, poet (The Tin Drum) born`grass
-In 1946 ---------- Nazi leaders hanged as war criminals after Nuremberg trials.`ten*10
+In 1946 ---------- Nazi leaders hanged as war criminals after Nuremberg trials.`ten
 In 1946 Ten Nazi leaders hanged as war criminals after ---------- trials.`nuremberg
 In 1964 ---------- becomes world's 5th nuclear power.`china
 In 1964 China becomes world's ---------- nuclear power.`5th
@@ -559,7 +559,7 @@ In 1978 Polish Cardinal Karol Wojtyla elected supreme pontiff-Pope---------- .`j
 In 1981 ---------- 's General Moshe Dayan dies at 66.`israel
 In 1981 Israel's General ---------- Dayan dies at 66.`moshe
 In 1981 Israel's General Moshe ---------- dies at 66.`dayan
-In 1981 Israel's General Moshe Dayan dies at---------- .`sixty six*66
+In 1981 Israel's General Moshe Dayan dies at---------- .`sixty six
 In 1982 Mt ---------- Observatory first to detect Halley's comet on 13th return.`palomar
 In 1982 Mt Palomar Observatory first to detect Halley's comet on ---------- return.`13th
 In 1982 ---------- warns US will withdraw from UN if they vote to exclude Israel.`shultz
@@ -569,8 +569,8 @@ In 1984 Anglican Bishop ---------- Tutu named Nobel Peace Prize winner.`desmond
 In 1984 Anglican Bishop Desmond ---------- named Nobel Peace Prize winner.`tutu
 In 1987 18-month-old Jessica McClure is rescued 58 hours after she fell 22 feet into a well shaft in Midland,---------- .`texas
 In 1987 18-month-old ---------- is rescued 58 hours after she fell 22 feet into a well shaft in Midland, TX.`jessica mcclure
-In 1987 18-month-old Jessica McClure is rescued ---------- hours after she fell 22 feet into a well shaft in Midland, TX.`fifty eight*58
-In 1987 18-month-old Jessica McClure is rescued 58 hours after she fell ---------- feet into a well shaft in Midland, TX.`twenty two*22
+In 1987 18-month-old Jessica McClure is rescued ---------- hours after she fell 22 feet into a well shaft in Midland, TX.`fifty eight
+In 1987 18-month-old Jessica McClure is rescued 58 hours after she fell ---------- feet into a well shaft in Midland, TX.`twenty two
 In 1987 175-kph winds cause blackout in---------- , much of southern England.`london
 In 1990 Jazz drummer ---------- Blakey dies.`art
 In 1990 Jazz drummer Art ---------- dies.`blakey
@@ -597,7 +597,7 @@ In 1921 Tom---------- , comedian, actor (Newhart), born.`poston
 In 1931 ---------- Capone convicted of tax evasion, sentenced to 11 years in prison.`al
 In 1931 Al ---------- convicted of tax evasion, sentenced to 11 years in prison.`capone
 In 1931 Al Capone convicted of---------- , sentenced to 11 years in prison.`tax evasion
-In 1931 Al Capone convicted of tax evasion, sentenced to ---------- years in prison.`eleven*11
+In 1931 Al Capone convicted of tax evasion, sentenced to ---------- years in prison.`eleven
 In 1933 ---------- Einstein arrives in the US, a refugee from Nazi Germany.`albert
 In 1933 Albert ---------- arrives in the US, a refugee from Nazi Germany.`einstein
 In 1933 ---------- A. Anders, astronaut (Apollo 8), born.`william
@@ -617,7 +617,7 @@ In 1949 George Wendt, actor (---------- ), born.`cheers
 In 1967 ---------- Knight in X-15 reaches 85 km about Earth.`pete
 In 1967 Pete ---------- in X-15 reaches 85 km about Earth.`knight
 In 1967 Pete Knight in ---------- reaches 85 km about Earth.`x-15
-In 1967 Pete Knight in X-15 reaches ---------- km about Earth.`eighty five*85
+In 1967 Pete Knight in X-15 reaches ---------- km about Earth.`eighty five
 In 1969 ---------- returns to Earth.`soyuz 7
 In 1973 The ---------- oil embargo begins. It will last until March, 1974.`arab
 In 1973 The Arab oil embargo begins. It will last until---------- , 1974.`march
@@ -625,16 +625,16 @@ In 1977 ---------- commandos storm a hijacked Lufthansa airliner in Mogadishu, S
 In 1977 West German commandos storm a hijacked ---------- airliner in Mogadishu, Somalia, freeing all 86 hostages aboard and killing three of the four hijackers.`lufthansa
 In 1977 West German commandos storm a hijacked Lufthansa airliner in---------- , Somalia, freeing all 86 hostages aboard and killing three of the four hijackers.`mogadishu
 In 1977 West German commandos storm a hijacked Lufthansa airliner in Mogadishu, ---------- , freeing all 86 hostages aboard and killing three of the four hijackers.`somalia
-In 1977 West German commandos storm a hijacked Lufthansa airliner in Mogadishu, Somalia, freeing all ---------- hostages aboard and killing three of the four hijackers.`eighty six*86
-In 1977 West German commandos storm a hijacked Lufthansa airliner in Mogadishu, Somalia, freeing all 86 hostages aboard and killing ---------- of the four hijackers.`three*3
-In 1977 West German commandos storm a hijacked Lufthansa airliner in Mogadishu, Somalia, freeing all 86 hostages aboard and killing three of the ---------- hijackers.`four*4
+In 1977 West German commandos storm a hijacked Lufthansa airliner in Mogadishu, Somalia, freeing all ---------- hostages aboard and killing three of the four hijackers.`eighty six
+In 1977 West German commandos storm a hijacked Lufthansa airliner in Mogadishu, Somalia, freeing all 86 hostages aboard and killing ---------- of the four hijackers.`three
+In 1977 West German commandos storm a hijacked Lufthansa airliner in Mogadishu, Somalia, freeing all 86 hostages aboard and killing three of the ---------- hijackers.`four
 In 1979 Mother ---------- of India was awarded the Nobel Peace Prize.`teresa
 In 1979 Mother Teresa of ---------- was awarded the Nobel Peace Prize.`india
 In 1989 ---------- is hit by an earthquake (Richter 6.9) at 5:05 p.m. Over 1/2 mile of the upper deck of the Nimitz freeway collapses crushing hundreds of cars. When it was over, 62 people had died and $6 billion in damage had occured.`san francisco
 In 1989 San Francisco is hit by an ---------- (Richter 6.9) at 5:05 p.m. Over 1/2 mile of the upper deck of the Nimitz freeway collapses crushing hundreds of cars. When it was over, 62 people had died and $6 billion in damage had occured.`earthquake
 In 1989 San Francisco is hit by an earthquake (Richter---------- ) at 5:05 p.m. Over 1/2 mile of the upper deck of the Nimitz freeway collapses crushing hundreds of cars. When it was over, 62 people had died and $6 billion in damage had occured.`6.9
 In 1989 San Francisco is hit by an earthquake (Richter 6.9) at 5:05 p.m. Over 1/2 mile of the upper deck of the ---------- freeway collapses crushing hundreds of cars. When it was over, 62 people had died and $6 billion in damage had occured.`nimitz
-In 1989 San Francisco is hit by an earthquake (Richter 6.9) at 5:05 p.m. Over 1/2 mile of the upper deck of the Nimitz freeway collapses crushing hundreds of cars. When it was over, ---------- people had died and $6 billion in damage had occured.`sixty two*62
+In 1989 San Francisco is hit by an earthquake (Richter 6.9) at 5:05 p.m. Over 1/2 mile of the upper deck of the Nimitz freeway collapses crushing hundreds of cars. When it was over, ---------- people had died and $6 billion in damage had occured.`sixty two
 In 1989 San Francisco is hit by an earthquake (Richter 6.9) at 5:05 p.m. Over 1/2 mile of the upper deck of the Nimitz freeway collapses crushing hundreds of cars. When it was over, 62 people had died and ---------- in damage had occured.`$6 billion
 In 1016 ---------- defeat Saxons at Battle of Assandun (Ashingdon).`danes
 In 1016 Danes defeat ---------- at Battle of Assandun (Ashingdon).`saxons
@@ -653,7 +653,7 @@ In 1908 Belgium annexes ---------- Free State.`congo
 In 1909 ---------- de Lambert of France sets airplane altitude record of 300 m.`comte
 In 1909 Comte ---------- of France sets airplane altitude record of 300 m.`de lambert
 In 1909 Comte de Lambert of ---------- sets airplane altitude record of 300 m.`france
-In 1909 Comte de Lambert of France sets airplane altitude record of ---------- m.`three hundred*300
+In 1909 Comte de Lambert of France sets airplane altitude record of ---------- m.`three hundred
 In 1922 British Broadcasting Corporation (---------- ) established.`bbc
 In 1926 ---------- Berry, St Louis, USA, rocker (Roll over Beethoven), born.`chuck
 In 1926 Chuck---------- , St Louis, USA, rocker (Roll over Beethoven), born.`berry
@@ -662,7 +662,7 @@ In 1931 ---------- Alva Edison inventor, dies in West Orange, NJ, at 84.`thomas
 In 1931 Thomas ---------- Edison inventor, dies in West Orange, NJ, at 84.`alva
 In 1931 Thomas Alva ---------- inventor, dies in West Orange, NJ, at 84.`edison
 In 1931 Thomas Alva Edison inventor, dies in---------- , NJ, at 84.`west orange
-In 1931 Thomas Alva Edison inventor, dies in West Orange, NJ, at---------- .`eighty four*84
+In 1931 Thomas Alva Edison inventor, dies in West Orange, NJ, at---------- .`eighty four
 In 1944 ---------- troops invade Czechoslovakia during WW II.`soviet
 In 1944 Soviet troops invade ---------- during WW II.`czechoslovakia
 In 1951 ---------- Dawber Detroit, actress (Mindy-Mork and Mindy), born.`pam
@@ -719,7 +719,7 @@ In 1963 ---------- record "I Want to Hold Your Hand".`beatles
 In 1963 Beatles record "---------- ".`i want to hold your hand
 In 1967 ---------- makes fly-by of Venus.`mariner 5
 In 1967 Mariner 5 makes fly-by of---------- .`venus
-In 1987 US warships destroy ---------- Iranian oil platforms in Persian Gulf.`two*2
+In 1987 US warships destroy ---------- Iranian oil platforms in Persian Gulf.`two
 In 1987 US warships destroy 2 ---------- oil platforms in Persian Gulf.`iranian
 In 1987 US warships destroy 2 Iranian oil platforms in---------- .`persian gulf
 In 1988 Britain bans broadcast interviews with ---------- members.`ira
@@ -750,11 +750,11 @@ In 1953 ---------- Petty, Florida, USA, singer, born.`tom
 In 1953 Tom---------- , Florida, USA, singer, born.`petty
 In 1963 ---------- begins trial of Nelson Mandela and 8 others on conspiracy.`south africa
 In 1963 South Africa begins trial of ---------- and 8 others on conspiracy.`nelson mandela
-In 1963 South Africa begins trial of Nelson Mandela and ---------- others on conspiracy.`eight*8
+In 1963 South Africa begins trial of Nelson Mandela and ---------- others on conspiracy.`eight
 In 1964 ---------- Hoover 31st president of US, dies in NY at 90.`herbert
 In 1964 Herbert ---------- 31st president of US, dies in NY at 90.`hoover
 In 1964 Herbert Hoover ---------- president of US, dies in NY at 90.`31st
-In 1964 Herbert Hoover 31st president of US, dies in NY at---------- .`ninety*90
+In 1964 Herbert Hoover 31st president of US, dies in NY at---------- .`ninety
 In 1968 ---------- Kennedy marries Aristotle Onassis.`jacqueline
 In 1968 Jacqueline ---------- marries Aristotle Onassis.`kennedy
 In 1968 Jacqueline Kennedy marries ---------- Onassis.`aristotle
@@ -762,7 +762,7 @@ In 1968 Jacqueline Kennedy marries Aristotle---------- .`onassis
 In 1972 ---------- Shapley discoverer of the Sun's position in the galaxy, dies.`harlow
 In 1972 Harlow ---------- discoverer of the Sun's position in the galaxy, dies.`shapley
 In 1990 3 members of 2 Live Crew acquitted on obsenity charges in---------- .`florida
-In 1990 Antiwar protest marches begin in ---------- US cities (US-Iraq).`twenty*20
+In 1990 Antiwar protest marches begin in ---------- US cities (US-Iraq).`twenty
 In 1772 ---------- Taylor Coleridge (in England), poet, born.`samuel
 In 1772 Samuel ---------- Coleridge (in England), poet, born.`taylor
 In 1772 Samuel Taylor ---------- (in England), poet, born.`coleridge
@@ -806,7 +806,7 @@ In 1960 JFK and ---------- clashed in 4th and final pres debate.`nixon
 In 1960 JFK and Nixon clashed in ---------- and final pres debate.`4th
 In 1967 ---------- Hertzsprung, Danish astrophysicist dies at 94.`ejnar
 In 1967 Ejnar---------- , Danish astrophysicist dies at 94.`hertzsprung
-In 1967 Ejnar Hertzsprung, Danish astrophysicist dies at---------- .`ninety four*94
+In 1967 Ejnar Hertzsprung, Danish astrophysicist dies at---------- .`ninety four
 In 1967 Thousands opposing Vietnam War tried to storm the---------- .`pentagon
 In 1975---------- , first craft to orbit the planet Venus launched.`venera
 In 1975 Venera 9, first craft to orbit the planet ---------- launched.`venus
@@ -850,7 +850,7 @@ In 1968 ---------- returns to Earth.`apollo 7
 In 1973 Security Council Resol 338 - a cease fire to the ---------- War.`yom kippur
 In 1975 Soviet spacecraft ---------- lands on Venus.`venera 9
 In 1979 Deposed Shah of ---------- arrived in NY for medical treatment.`iran
-In 1979 Walt Disney World's ---------- -millionth guest.`one hundred*100
+In 1979 Walt Disney World's ---------- -millionth guest.`one hundred
 In 1752 ---------- Appert, inventor of food canning, bouillon tablet, born.`nicolas
 In 1752 Nicolas---------- , inventor of food canning, bouillon tablet, born.`appert
 In 1752 Nicolas Appert, inventor of---------- , bouillon tablet, born.`food canning
@@ -882,7 +882,7 @@ In 1977 By 2/3 majority, Panamanians vote to approve the new ---------- treaties
 In 1980 Soviet Premier ---------- Kosygin resigns, due to illness.`alexei
 In 1980 Soviet Premier Alexei ---------- resigns, due to illness.`kosygin
 In 1983 241 US Marines and sailors die in a terrorist suicide attack on their barracks in---------- .`beriut
-In 1989 ---------- years after Soviet tanks crushed the Prague Spring, Hungary declares itself a republic.`thirty three*33
+In 1989 ---------- years after Soviet tanks crushed the Prague Spring, Hungary declares itself a republic.`thirty three
 In 1989 33 years after Soviet tanks crushed the Prague Spring, ---------- declares itself a republic.`hungary
 In 1537 ---------- Seymour, third wife of Henry VIII, dies.`jane
 In 1537 Jane---------- , third wife of Henry VIII, dies.`seymour
@@ -913,9 +913,9 @@ In 1964 Zambia (N. Rhodesia) gains independence from ---------- (National Day).`
 In 1970 Salvador ---------- Gossens elected president of Chile.`allende
 In 1970 Salvador Allende ---------- elected president of Chile.`gossens
 In 1970 Salvador Allende Gossens elected president of---------- .`chile
-In 1973 Yom Kippur War ends - Israel ---------- miles from Cairo, 26 from Damascus.`sixty five*65
+In 1973 Yom Kippur War ends - Israel ---------- miles from Cairo, 26 from Damascus.`sixty five
 In 1973 Yom Kippur War ends - Israel 65 miles from---------- , 26 from Damascus.`cairo
-In 1973 Yom Kippur War ends - Israel 65 miles from Cairo, ---------- from Damascus.`twenty six*26
+In 1973 Yom Kippur War ends - Israel 65 miles from Cairo, ---------- from Damascus.`twenty six
 In 1973 Yom Kippur War ends - Israel 65 miles from Cairo, 26 from---------- .`damascus
 In 1976 The first ---------- film and TV festival.`jewish
 In 1400 Author ---------- Chaucer dies in London.`geoffrey
@@ -969,7 +969,7 @@ In 1955 ---------- proclaims Vietnam a republic with himself as president.`ngo d
 In 1957 USSR fires defense minister, Marshal Georgi ---------- (Zhukov lead USSR into Berlin during WW2).`zhukov
 In 1962 ---------- Elwes, actor (Glory, Princess Bride, Robin Hood - Men In Tights), born.`cary
 In 1962 Cary---------- , actor (Glory, Princess Bride, Robin Hood - Men In Tights), born.`elwes
-In 1967 Shah of Iran crowns himself after ---------- years on Peacock Throne.`twenty six*26
+In 1967 Shah of Iran crowns himself after ---------- years on Peacock Throne.`twenty six
 In 1972 Guided tours of ---------- (by Park Service) begin.`alcatraz
 In 1975 ---------- Sadat became 1st Egyptian president to officially visit the US.`anwar
 In 1975 Anwar ---------- became 1st Egyptian president to officially visit the US.`sadat

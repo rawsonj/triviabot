@@ -216,7 +216,7 @@ tv/ movies: what sylvester stallone movie was hyped: " his whole life was a mill
 tv/ movies: what syndicated show sometimes goes by the title e t`entertainment tonight
 tv/ movies: what texan slammed back more bourbon & branch water than any character in tv history`j. r. ewing
 tv/ movies: what thrill flick master died at 80 in 1980`alfred hitchcock
-tv/ movies: what transporter room aboard the enterprise is chief o'brien's favorite`three*3
+tv/ movies: what transporter room aboard the enterprise is chief o'brien's favorite`three
 tv/ movies: what trivia fact about mel blanc (voice of bugs bunny) is most ironic`he was allergic to carrots
 tv/ movies: what tv comedian with no id card was asked to give a tarzan yell to verify her identity, at bergdorf goodman`carol burnett
 tv/ movies: what tv series did dirk benedict star in`battlestar galactica
@@ -249,7 +249,7 @@ tv/ movies: what was mary ann's last name in gilligans island`summers
 tv/ movies: what was mickey mouse almost called`mortimer
 tv/ movies: what was mickey mouse's first known as`mortimer mouse
 tv/ movies: what was mr. spock's blood type`x positive
-tv/ movies: what was napoleon solo's badge number in the "man from uncle"`eleven*11
+tv/ movies: what was napoleon solo's badge number in the "man from uncle"`eleven
 tv/ movies: what was napoleon solos boss's name`mr waverley
 tv/ movies: what was one of the 5 movies nominated for best picture in 1989`field of dreams
 tv/ movies: what was pat brady's jeep named on the roy rogers show`nellybelle
@@ -302,7 +302,7 @@ tv/ movies: what was the name of the oil company that bought jed clampett's oil 
 tv/ movies: what was the name of the old fireman on "leave it to beaver"`gus
 tv/ movies: what was the name of the ranch in bonanza`ponderosa
 tv/ movies: what was the name of the ranch on the roy rogers show`double r bar ranch
-tv/ movies: what was the number of gunther toody's patrol car`fifty four*54
+tv/ movies: what was the number of gunther toody's patrol car`fifty four
 tv/ movies: what was the principal setting location in "young at heart"`tashmoo prison
 tv/ movies: what was the real name of john wayne`marion morrison
 tv/ movies: what was the real name of the dolphin that played flipper in the movie`mitzi

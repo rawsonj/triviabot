@@ -152,12 +152,12 @@ in romeo and juliet, who gave a long monologue about queen mab`mercutio
 in roulette, what number is green`zero
 in rugby, what is the equivalent of a hockey face-off`scrum
 in september of 1994, 852 people died when the ferry estonia sank in what sea`baltic sea
-in showjumping, how many points are incurred for knocking down a fence`four*4
+in showjumping, how many points are incurred for knocking down a fence`four
 in siberia in 1994, a container full of what was discovered in the 2,000 year old grave of a scythian princess and priestess`marijuana
 in terms of tons of cargo handled, which is europe's busiest port`rotterdam
 in the 'james bond' books, to who is miss moneypenny secretary`m
 in the 'james bond' books, who is m's secretary`miss moneypenny
-in the 'twelve days of christmas', how many items in total are sent by 'my true love'`seventy eight*78
+in the 'twelve days of christmas', how many items in total are sent by 'my true love'`seventy eight
 in the 15th century, what was the war between the houses of lancaster and york`war of the roses
 in the 1700s, european women achieved a pale complexion by eating 'complexion wafers' which were actually what poison`arsenic
 in the 1951 movie the desert fox who played rommel`james mason
@@ -187,7 +187,7 @@ in the film 'star trek first contact', when picard shows lilly she is orbiting e
 in the film 'star wars', what species is chewbacca`wookie
 in the film 'the day of the jackal', who played the jackal`edward fox
 in the film 'the jerk' whose character was 'born a poor black child'`steve
-in the film 'the lovebug', what number was painted on the side of 'herbie' the vw bug`fifty three*53
+in the film 'the lovebug', what number was painted on the side of 'herbie' the vw bug`fifty three
 in the first part of 'hard to kill', what did steven seagal use to kill the mobster`credit card
 in the galapagos islands, what has an upturned shell at its neck`tortoise
 in the game 'banjo-kazooie' what is the witch's name`gruntilda
@@ -447,7 +447,7 @@ knife, clown and pencil are types of`tropical fish
 what member of ac/dc died in 1980`bon scott
 kuala lumpur is the capital of ______`malaysia
 kuwait is the capital of ______`kuwait
-l is the roman numeral for what number`fifty*50
+l is the roman numeral for what number`fifty
 label for person whose i.q is 110-120`superior
 lack of vitamin d causes which disease`rickets
 lack of what makes albinos`pigment
@@ -553,7 +553,7 @@ motorphobia is a fear of ______`automobiles
 movies: who played andy thompson in the headmaster`andy griffith
 movies: who played wilson in 'wilson'`alexander knox
 movies: who was the ringo kid in 'stagecoach'`john wayne
-moving anti-clockwise on a dartboard, what is the number next to '4'`eighteen*18
+moving anti-clockwise on a dartboard, what is the number next to '4'`eighteen
 music artists: who did 'come together' in 1969`beatles
 music artists: who did 'fool for your loving' in 1980`whitesnake
 music artists: who did 'fool to cry' in 1976`rolling stones
@@ -771,7 +771,7 @@ branch of mathematics concerned with the study of such concepts as the rate of c
 heavier-than-air craft that derives its lift not from fixed wings like those of conventional airplanes, but from a power-driven rotor or rotors, revolving on a vertical axis above the fuselage`helicopter
 what latin word is used for information of little use`trivia
 of sin, cos or tan, which graph is not differentiable at all points`tan
-of the 266 popes, how many died violently`thirty three*33
+of the 266 popes, how many died violently`thirty three
 with what acid do nettles cause irritation`formic acid
 common name for the family comprising a peculiar group of spiny, fleshy plants native to america`cactus
 of what are an arc, radius and sector a part`circle
@@ -821,7 +821,7 @@ of who was eva braun the mistress`adolf hitler
 of who were castor and pollux the twin sons`zeus and leda
 off what coast was 'prison island'`french guiana
 what is the name of the film in which steven segal's character dies`executive decision
-how many british officers were forced by indian troops into the black hole of calcutta`one hundred and forty six*146
+how many british officers were forced by indian troops into the black hole of calcutta`one hundred and forty six
 old trek: who is above and below scotty in the enterprise's chain of command`spock sulu*spock and sulu
 olfactophobia is a fear of ______`smells
 ombrophobia is a fear of ______`rain
@@ -830,8 +830,8 @@ on 'southpark' what usually happens to kenny`he gets killed
 on 'the lucy show', who played vivian bagley`vivian vance
 on 'the roseanne show', as what was david jacob known`d.j
 on 'the roseanne show', who was d.j`david jacob
-on a dartboard, what number is on top`twenty*20
-on a darts board what number is directly opposite 10`fourteen*14
+on a dartboard, what number is on top`twenty
+on a darts board what number is directly opposite 10`fourteen
 on a monopoly board, what lies between st charles place and states ave`electric company
 on a ship, what is the plimsoll line`loading line
 on airwolf, what instrument does hawke play`cello
@@ -846,8 +846,8 @@ on november 26, 1941, what did president roosevelt declare will always be celebr
 on the 11th day of christmas, my true love gave to me`eleven pipers piping
 on the banks of which river is the taj mahal`river jumna
 on the bullwinkle show, what was boris's last name`badenov
-on the cartoon show 'the jetsons', how old is judy`fifteen*15
-on the fahrenheit scale, how many degrees are there between freezing point and boiling point`one hundred and eighty*180
+on the cartoon show 'the jetsons', how old is judy`fifteen
+on the fahrenheit scale, how many degrees are there between freezing point and boiling point`one hundred and eighty
 on the fahrenheit scale, there are 180 degrees between boiling point and ______`freezing point
 on the fahrenheit scale, there are 180 degrees between freezing point and ______`boiling point
 on the london underground, which station has a different name on two of its platforms`bank and monument
@@ -863,8 +863,8 @@ on what is an 'octothorpe' found`telephone
 on what is an espadrille worn`foot
 on what island is pearl harbor`oahu
 on what island is the blue grotto`capri
-on what number is the decimal system based`ten*10
-on what number is the sexagesimal system based`sixty*60
+on what number is the decimal system based`ten
+on what number is the sexagesimal system based`sixty
 on what part of the body are campers prone to being bitten by vampire bats`big toe
 on what river is rome built`tiber
 on what river will you find kew gardens`thames
