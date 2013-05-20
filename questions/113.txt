@@ -995,6 +995,6 @@ Which movie was NOT directed by Inoshiro Honda`A.Godzilla, King of Monsters. B.L
 What is the name of the cape at the southernmost tip of Africa`Cape Agulhas
 How many cows does it take to supply the NFL in footballs for one year`3,0003000
 What was the name of the first steam-powered warship`Demologos
-How many men who signed the Declaration of Independence in 1776 later became US presidents`two*2
-How many bones are there in the inner ear`three*3
+How many men who signed the Declaration of Independence in 1776 later became US presidents`two
+How many bones are there in the inner ear`three
 What was the code name of the D-Day invasion`Operation OVERLORD

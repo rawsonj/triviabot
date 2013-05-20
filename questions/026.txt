@@ -1962,7 +1962,7 @@ Category: Trivia : With which sport is Muhammad Ali associated`boxing
 Category: Trivia : With which sport is Pele associated`soccer
 Category: Trivia : Songwriter, Bernie Taupin wrote songs for which well know musician`elton john
 Category: Trivia : Johann Gutenberg was famous for inventing what in 1455`the printing press
-Category: Trivia : How many gold medals did Jesse Owens win in the 1936 Berlin Olympics`four*4
+Category: Trivia : How many gold medals did Jesse Owens win in the 1936 Berlin Olympics`four
 Category: Trivia : The Great Pyramid was built as a tomb for which Egyptian Pharaoh`khufu
 Category: Trivia : What is a "roker"`a foot long ruler
 Category: Trivia : What is the capital city of Papua New Guinea`port moresby
@@ -1992,8 +1992,8 @@ Category: Trivia : How long is the Suez canal in kilometers`161.9
 Category: Trivia : What was Citizen Kane's first name`charles
 Category: Trivia : What family pet returns to life in the novel "Pet Sematary" by Stephen King`a cat
 Category: Trivia : What is Sting's real name`gordon sumner
-Category: Trivia : What is a perfect score in a game of 10 pin bowling`three hundred*300
-Category: Trivia : What distance is the Olympic steeplechase contested over (in metres)`three thousand*3000
+Category: Trivia : What is a perfect score in a game of 10 pin bowling`three hundred
+Category: Trivia : What distance is the Olympic steeplechase contested over (in metres)`three thousand
 Category: Trivia : What sport is Frank Nobilo associated with`golf
 Category: Trivia : Amino acids are essential for the formation of what in the body`proteins
 Category: Trivia : What would you use your zygomaticus muscle for`to smile
@@ -2016,7 +2016,7 @@ Category: Trivia : How many feet of tape does the average sixty minute audio cas
 Category: Trivia : What was the job of Mellors in "Lady Chatterley's Lover"`gamekeeper
 Category: Trivia : In which film does Robert De Niro ask "Are you talkin' to me"`taxi driver
 Category: Trivia : The America's Cup left home for the first time to go where`australia
-Category: Trivia : How many gold medals did swimmer Mark Spitz win at the Munich Olympics in 1972`seven*7
+Category: Trivia : How many gold medals did swimmer Mark Spitz win at the Munich Olympics in 1972`seven
 Category: Trivia : In badminton, how many points win a mens singles game`fifteen
 Category: Trivia : What country has international registration letter M`malta
 Category: Trivia : What is the distance between two rails on a track called`gauge
@@ -2034,7 +2034,7 @@ Category: Trivia : What is a sand mason`a worm
 Category: Trivia : What creature can turn it's stomach inside out`starfish
 Category: Trivia : What is the collective term for a group of ravens`unkindness
 Category: Trivia : What is the capital of Bolivia`la paz
-Category: Trivia : After how many years marriage do you celebrate your Emerald wedding anniversary`fifty five*55
+Category: Trivia : After how many years marriage do you celebrate your Emerald wedding anniversary`fifty five
 Category: Trivia : Which day of the week is named after the moon`monday
 Category: Trivia : In what year was the first women's magazine, "The Ladies' Mercury" published`1693
 Category: Trivia : Which horror movie actor's real name was William Pratt`boris karloff
@@ -2060,8 +2060,8 @@ Category: Trivia : What effect causes a siren to change in pitch as it passes by
 Category: Trivia : How many pairs of chromosomes do humans havetwenty three`23
 Category: Trivia : What is the collective term for a group of mules`a barren
 Category: Trivia : What is the state capital of Florida`tallahassee
-Category: Trivia : How many faces did the Romans believe Janus to have`two*2
-Category: Trivia : What height was the model of King Kong used in the making of the film (Answer in inches only!!)`sixteen*16
+Category: Trivia : How many faces did the Romans believe Janus to have`two
+Category: Trivia : What height was the model of King Kong used in the making of the film (Answer in inches only!!)`sixteen
 Category: Trivia : In "Star Trek", what colour was Mr Spock's blood`green
 Category: Trivia : What style of music was pioneered by jazzmen Charlie Parker and Dizzy Gillespie`be bop
 Category: Trivia : Which silent film actor was known as "The Great Stone Face"`buster keaton
@@ -2072,7 +2072,7 @@ Category: Trivia : Which capital is the largest city in Africa`cairo
 Category: Trivia : Where was the decimal system developed`india
 Category: Trivia : What type of creature is a painted lady`butterfly
 Category: Trivia : In what year did social reformer George Williams found the YMCA`1844
-Category: Trivia : How many children did Maria (Julie Andrews) have to look after in "The Sound of Music"`seven*7
+Category: Trivia : How many children did Maria (Julie Andrews) have to look after in "The Sound of Music"`seven
 Category: Trivia : Where is Enclyclopaedia Britannica based and published`chicago
 Category: Trivia : What was the first ever talking film`the jazz singer
 Category: Trivia : In which alpine resort were the first ever Winter Olympics held in 1924`chamonix
@@ -2083,29 +2083,29 @@ Category: Trivia : Which mountain range acts as a physical boundary between Euro
 Category: Trivia : In which state is Mount McKinley, the highest mountain in North America`alaska
 Category: Trivia : Which legendary hero left the ruins of Troy and sailed to Italy to found the city of Rome`aeneas
 Category: Trivia : Which country has international registration letter P`portugal
-Category: Trivia : How many faces has an icosahedron`twenty*20
+Category: Trivia : How many faces has an icosahedron`twenty
 Category: Trivia : In what year were the first dot matrix printers marketed`1957
 Category: Trivia : Which creatures sang "We all stand together"`frogs
-Category: Trivia : How many strings are there on a Spanish Guitar`six*6
+Category: Trivia : How many strings are there on a Spanish Guitar`six
 Category: Trivia : What band recorded the clasic album "Dark Side Of The Moon" in 1973`pink floyd
 Category: Trivia : In tennis, what name is given to a serve which cannot be returned`ace
 Category: Trivia : In sailing, what is a warp`a mooring rope
-Category: Trivia : How many times has Olympics been cancelled due to war in modern times`three*3
+Category: Trivia : How many times has Olympics been cancelled due to war in modern times`three
 Category: Trivia : What is the exterior of the Taj Mahal made from`marble
 Category: Trivia : Where in India is the Golden Temple, centre of the Sikh religion`amritsar
 Category: Trivia : In which US city is the Sears tower`chicago
 Category: Trivia : In which novel is Winston Smith the main character`1984
 Category: Trivia : Jonquil is a shade of which colour`yellow
-Category: Trivia : Chemically pure gold contains how many karats`twenty four*24
-Category: Trivia : What is the surface area inside the average adult human lung (in square feet only)`twelve hundred*1200
+Category: Trivia : Chemically pure gold contains how many karats`twenty four
+Category: Trivia : What is the surface area inside the average adult human lung (in square feet only)`twelve hundred
 Category: Trivia : On which Beatles album does the hit "Ticket to Ride" appear`help!
 Category: Trivia : Who wrote the stories on which Disney's, "Jungle book" is based"`rudyard kipling
 Category: Trivia : What is the significance of the temperature in the title of the 1960's science fiction film "Fahrenheit 451`the temperature at which books burn
 Category: Trivia : Which sport would you practice if you were a toxophilite`archery
-Category: Trivia : How many housing property squares are there on a monopoly board`twenty two*22
-Category: Trivia : In Judo, which Dan is the highest in the grading of black belts`tenth*10
+Category: Trivia : How many housing property squares are there on a monopoly board`twenty two
+Category: Trivia : In Judo, which Dan is the highest in the grading of black belts`tenth
 Category: Trivia : In which state of Australia is the coastal region of Swanland`western australia
-Category: Trivia : How many states (including internal territories) does Australia contain`eight*8
+Category: Trivia : How many states (including internal territories) does Australia contain`eight
 Category: Trivia : Which Australian city hosted its final Formula 1 race in 1995`adelaide
 Category: Trivia : Anzac troops come from which 2 countries`australia and new zealand
 Category: Trivia : What is the collective term for a group of nightingales`a watch
@@ -2113,14 +2113,14 @@ Category: Trivia : Who wrote "A Streetcar Named Desire" in 1947`tennesee william
 Category: Trivia : Which director/producer started his career as a student with the film THX-1138 which he later reworked for his feature-directing debut`george lucas
 Category: Trivia : Which U.S City is the home of the Mowton Record Company`detroit
 Category: Trivia : Which martial art has a name that originates from the Japanese word for "gentle"`jujitsu
-Category: Trivia : In the first modern summer Olympic games in 1896, how many countries competed`thirteen*13
+Category: Trivia : In the first modern summer Olympic games in 1896, how many countries competed`thirteen
 Category: Trivia : What device is normally used to measure wind direction`weather vane
 Category: Trivia : What name is given to the belt of low air pressure that is located at the equator`the doldrums
 Category: Trivia : What type of clouds are also known as thunderheads`cumulonimbus
 Category: Trivia : The depiction of the Mad Hatter in "Alice in Wonderland" reflected a poisoning of 19th century hatmakers from what`mercury
 Category: Trivia : Whose laws first described the motion of the planets round the sun`kepler
 Category: Trivia : What does the red spot on the Japanese flag represent`sincerity and passion
-Category: Trivia : How many years old was the telephone before one was installed on the desk of the President of the United States`fifty one*51
+Category: Trivia : How many years old was the telephone before one was installed on the desk of the President of the United States`fifty one
 Category: Trivia : Which singer went solo after performing with the Commodores`lionel richie
 Category: Trivia : Who said , "Marriage is a wonderful invention - but so is the bicycle repair kit"`laurence olivier
 Category: Trivia : In which athletics event would you perform a "Fosbury flop"`high jump
@@ -2139,7 +2139,7 @@ Category: Trivia : What sport is governed by the rules drafted by the Marquis of
 Category: Trivia : What fraction of a metre is a micron`a millionth
 Category: Trivia : Tuscany is a major wine producing region of which country`italy
 Category: Trivia : Which planet other than mercury does not have moons`venus
-Category: Trivia : In order to satisfy an adults daily nutritional requirements it would be possible to drink 1 glass of orange juice, 2 glasses of milk and how many pints of Guinness`forty seven*47
+Category: Trivia : In order to satisfy an adults daily nutritional requirements it would be possible to drink 1 glass of orange juice, 2 glasses of milk and how many pints of Guinness`forty seven
 Hodophobia is the fear of`road travel
 Homichlophobia is the fear of`fog
 Homilophobia is the fear of`sermons

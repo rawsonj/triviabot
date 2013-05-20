@@ -339,7 +339,7 @@ What novel contains the line: who promoted major major`catch 22
 What novel recounts john blackthorne's adventures in 16th century japan`shogun
 What novel was alexandra ripley hired to pen a sequel to`gone with the wind
 What number is at 12 o'clock on a dartboard`twenty
-What number is used to represent satan`six six six*666
+What number is used to represent satan`six six six
 What numbers does the binary system use`one and zero
 What numerical computer language doesn't have pointer or recursion`fortran
 What ocean current moderates the weather in north-western europe`gulf stream
@@ -683,7 +683,7 @@ What was alanis morissette's first album`jagged little pill
 What was alaska before 1867`russian america
 What was andrew jergens' profession`lumberjack
 What was astronaut edwin aldrin's nickname`buzz
-What was Babe Ruth's uniform number`three*3
+What was Babe Ruth's uniform number`three
 What was barbra streisand's first film`funny girl
 What was Beaver Cleaver's first name`theodore
 What was ben stiller's character called in 'mystery men'`mr furious

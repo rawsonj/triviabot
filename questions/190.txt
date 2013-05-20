@@ -9,7 +9,7 @@ Video Games: Who is the main character from Nintendo's 'Earthbound'?`Ness
 Video Games: The Nintendo 64 was titled under what name during production?`Project Reality
 Video Games: What is a "koopa?"`A turtle*turtle
 Video Games: If you're killing a goomba, what game are you playing?`Super Mario Bros.*Mario
-Video Games: How many fighters are playable in 'Street Fighter II'?`Eight*8
+Video Games: How many fighters are playable in 'Street Fighter II'?`Eight
 Video Games: Which RPG series features a line of inventors of the name "Shaia?"`Lufia
 Video Games: What was the first Arcade game ever released?`Computer Space
 Video Games: What's the first video game ever to contain an "Easter Egg"?`Adventure
@@ -33,7 +33,7 @@ Video Games: What alternate dimension does Link find himself in in Majora's Mask
 Video Games: Which body part is found in Bodley Mansion in 'Castlevania II: Simon's Quest'?`An eye
 Video Games: What do you need to collect 100 of to get an extra life in Super Mario Bros.?`Coins
 Video Games: What was the hybrid pinball/video game in the Pac-Man series?`Baby Pac-Man
-Video Games: How many buttons (excluding the control pad) did the original NES controller have?`Four*4
+Video Games: How many buttons (excluding the control pad) did the original NES controller have?`Four
 Video Games: Who manufactured the first home video game system?`Magnavox
 Video Games: Which company made the original 'Donkey Kong'?`Nintendo
 Video Games: What was the first home console system released by Sega?`Sega Master System
@@ -48,9 +48,9 @@ Video Games: What game takes place on the fantastic island of Koholint?`Link's A
 Video Games: What was the first cartridge that had a battery backed save feature?`The Legend of Zelda
 Video Games: On what non-Nintendo console can you find Zelda games?`Philips CD-I
 Video Games: In Dead or Alive 2, Hayabusa informs you that "If your soul is imperfect," what?`Living will be difficult
-Video Games: How many gears do you have in 'Pole Position'?`Two*2
+Video Games: How many gears do you have in 'Pole Position'?`Two
 Video Games: The Hylians come from what game series?`The Legend of Zelda
-Video Games: In 'Pac-Man' for the Atari 2600, how many points were each pellet worth?`One*1
+Video Games: In 'Pac-Man' for the Atari 2600, how many points were each pellet worth?`One
 Video Games: In Super Mario Bros. 2, how many extra lives do you get for spinning three 7s on the slot machine?`Ten*10*
 Video Games: In which Mega Man game did Mega Man first gain the ability to charge up his shots?`Mega Man 4
 Video Games: Who wrote the song, "Pac-Man Fever?"`Buckner and Garcia

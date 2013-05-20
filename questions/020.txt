@@ -110,7 +110,7 @@ Animal Trivia: In ancient Rome, auburn-haired puppies were sacrificed to ensure 
 Animal Trivia: Ostriches live about 75 years and can reproduce for ----------`*fifty years*50 years
 Animal Trivia: In England, the most commonly used guide dog for the blind is the Yellow ----------`labrador retriever
 Animal Trivia: In Korea, the deer is a symbol of long life, and is often portrayed in the company of ----------`immortals
-Animal Trivia: Cougars can kill animals ---------- times their size`eight*8
+Animal Trivia: Cougars can kill animals ---------- times their size`eight
 Animal Trivia: Cows have four stomachs. Often, when a calf is born, the farmer will make it swallow a magnet. This is to attract the various nails, staples, bits of wire, and so on, that the cow may ingest while grazing. This odd hunger is known as ----------`hardware disease
 Animal Trivia: The venom of the king cobra is so deadly that one gram of it can kill ----------. Just to handle the substance can put one in a coma.`150 people
 Animal Trivia: The largest bird egg in the world today is that of the ostrich. Ostrich eggs are from 6 to 8 inches long. Because of their size and the thickness of their shells, they take 40 minutes to ----------`hard-boil
@@ -128,9 +128,9 @@ Animal Trivia: A baby ---------- is about six feet tall at birth.`giraffe
 Animal Trivia: A baby gray ---------- drinks enough milk to fill more than 2,000 bottles a day.`whale
 Animal Trivia: A bear in hibernation loses up to 25 percent of its ----------`body weight
 Animal Trivia: A bird "chews" with its stomach. Since most birds do not have teeth, a bird routinely swallows small pebbles and gravel. These grits become vigorously agitated in the bird's stomach and serve to grind food as it passes through the ----------`digestive system
-Animal Trivia: The world's largest mammal, the blue whale, weighs 50 tons at birth. Fully grown, it weighs as much as ---------- tons`one hundred and fifty*150
+Animal Trivia: The world's largest mammal, the blue whale, weighs 50 tons at birth. Fully grown, it weighs as much as ---------- tons`one hundred and fifty
 Animal Trivia: A bird sees everything at once in total focus. Whereas the human eye is globular and must adjust to varying distances, the bird's eye is flat and can take in everything at once in a ----------`single glance
-Animal Trivia: The world's largest rodent is the Capybara. An Amazon water hog that looks like a guinea pig, it can weigh more than ---------- pounds.`one hundred*100
+Animal Trivia: The world's largest rodent is the Capybara. An Amazon water hog that looks like a guinea pig, it can weigh more than ---------- pounds.`one hundred
 Animal Trivia: The male ---------- will mate for life, and if the female dies, he remains single for the rest of his life. However, if the male dies, the female will hook up with a new mate.`fox
 Animal Trivia: There are 1,600 known species of ---------- in the world.`starfishes
 Animal Trivia: The male house ---------- builds several nests as part of his courtship ritual. Once the nests are completed, his potential bride looks them all over, then selects one as her preferred choice for the laying of her eggs.`wren
@@ -349,12 +349,12 @@ Animal Trivia: The underwater mating song of the ---------- is so loud that some
 Animal Trivia: Wildlife biologists estimate that as many as five out of six fawns starve to death during a hard winter in ----------`vermont
 Animal Trivia: With few exceptions, birds do not sing while on the ground. They sing during flight or while sitting on an object off the ----------`ground
 Animal Trivia: With only a four-week gestation period, a cottontail ---------- can produce 5 to 7 litters, and as many as 35 offspring per year.`rabbit
-Animal Trivia: Within the hawk, or birds of prey, family, there are ---------- species - eagles, hawks, kites, and Old World vultures, which are found nearly worldwide.`two hundred and eight*208
+Animal Trivia: Within the hawk, or birds of prey, family, there are ---------- species - eagles, hawks, kites, and Old World vultures, which are found nearly worldwide.`two hundred and eight
 Animal Trivia: Wolf packs could be found in all the forests of Europe, and in 1420 and 1438, wolves roamed the streets of ----------`paris
 Animal Trivia: ---------- are freeze-tolerant and spend winters frozen on land, only to thaw in the spring and begin their breeding process in vernal ponds.`wood frogs
 Animal Trivia: You can identify a ---------- bear's mark by the sign of five claws. A black bear will lacerate a tree trunk with four claws.`grizzly
 Animal Trivia: You can tell the sex of a horse by its teeth. Most males have 40, females have ----------`thirty six*36*
-Animal Trivia: You could milk about ---------- cows per hour by hand, but with modern machinery, you can milk up to 100 cows per hour.`six*6
+Animal Trivia: You could milk about ---------- cows per hour by hand, but with modern machinery, you can milk up to 100 cows per hour.`six
 Animal Trivia: Young birds such as ducks, geese, and shore birds are born with their ----------`eyes open
 Animal Trivia: ----------, like other equids, have three gaits: the walk, the trot, and the gallop.`zebras
 Animal Trivia: Zebus are humped cattle found in India, China, and northern Africa. Zebubs are tsetse-like flies found in ----------`ethiopia
@@ -388,14 +388,14 @@ Animal Trivia: A good milking cow will give nearly 6,000 quarts of ---------- ev
 Animal Trivia: A group of bees can be called either a hive, a swarm, or a ----------`grist
 Animal Trivia: A group of foxes is called a ----------`skulk
 Animal Trivia: A wild cat, known as "the fishing cat" actually swims to catch fish. Called the Bengali Mach-Bagral, nature gave this cat extra-long claws, which it uses like fishhooks. The fishing cat is found in Nepal, Burma, Southern China and parts of ----------`india
-Animal Trivia: A wolf's odor detecting ability is ---------- times greater than man's.`one hundred*100
+Animal Trivia: A wolf's odor detecting ability is ---------- times greater than man's.`one hundred
 Animal Trivia: A woodchuck breathes only ten times per hour while ----------, while an active woodchuck breathes 2,100 times an hour.`hibernating
 Animal Trivia: A young male fur ---------- that is kept from the breeding grounds by the older males is called a bachelor.`seal
 Animal Trivia: A young pigeon that has not yet flown is a ----------`squab
 Animal Trivia: About 24 newborn opossums can fit in a teaspoon. They are about .07 ounce at ----------`birth
 Animal Trivia: According to experts, ---------- don't like to head straight for anything. For safety, they may run past and sweep around from the side.`squirrels
 Animal Trivia: According to several studies, less than 3 percent of the ---------- population become man-eaters.`tiger
-Animal Trivia: According to the National Wild Turkey Federation, the number of wild turkeys in the U.S. has increased from an all time low of 30,000 to more than 4 million today. One state park in Iowa now boasts more than ---------- turkeys per square mile.`one hundred*100
+Animal Trivia: According to the National Wild Turkey Federation, the number of wild turkeys in the U.S. has increased from an all time low of 30,000 to more than 4 million today. One state park in Iowa now boasts more than ---------- turkeys per square mile.`one hundred
 Animal Trivia: According to zoology experts, there is no real difference between doves and ----------. The choice of name rests almost altogether on custom and geography, although the smaller of the species is, more often than not, called a dove.`pigeons
 Animal Trivia: A group of owls is called a ----------`parliament
 Animal Trivia: A herd of sixty cows is capable of producing a ton of milk in less than a ----------`day
@@ -406,7 +406,7 @@ Animal Trivia: A hippopotamus has a stomach 10 feet long, capable of holding 6 b
 Animal Trivia: A Holstein cow's spots are like a ---------- or a snowflake; no two cows have exactly the same pattern of spots.`fingerprint
 Animal Trivia: A horse can sleep ----------`standing up
 Animal Trivia: A ---------- focuses its eye by changing the angle of its head, not by changing the shape of the lens of the eye, as humans do.`horse
-Animal Trivia: A horseshoe for a full-grown Clydesdale measures more that ---------- inches from end to end and weighs about five pounds. It is more than two times as long and four times as heavy as a shoe worn by a riding horse.`twenty two*22
+Animal Trivia: A horseshoe for a full-grown Clydesdale measures more that ---------- inches from end to end and weighs about five pounds. It is more than two times as long and four times as heavy as a shoe worn by a riding horse.`twenty two
 Animal Trivia: Adélie ---------- employ yawning as part of their courtship ritual.`penguins
 Animal Trivia: Adult electric eels 5ft to 7ft long produce enough electricity -- 600 volts -- to stun a ----------`horse
 Animal Trivia: Adult polar bears usually eat just the skin and blubber of a seal. They leave the meat for cubs and scavengers. One seal will sustain an adult bear for ----------`11 days
@@ -449,12 +449,12 @@ Animal Trivia: An elephant may consume 500 pounds of hay and 60 gallons of water
 Animal Trivia: A male pig is a boar. A female pig is a sow. A baby pig is a ----------`piglet
 Animal Trivia: A marine catfish can taste with any part of its body. The female marine catfish hatches her eggs in her ----------`mouth
 Animal Trivia: A mated pair of ---------- can produce up to 15,000 babies in one year.`rats
-Animal Trivia: A mole can dig a tunnel ---------- feet long in one night.`three hundred*300
+Animal Trivia: A mole can dig a tunnel ---------- feet long in one night.`three hundred
 Animal Trivia: A mother ---------- often gives birth while standing, so the newborn's first experience outside the womb is a 1.8-meter (6-foot) drop. Ouch!`giraffe
 Animal Trivia: A newborn Chinese water ---------- is so small it can almost be held in the palm of the hand.`deer
 Animal Trivia: A newborn gray whale calf is an average 16 feet long. For reasons unknown, all gray whale calves are born in the warm, shallow lagoons of Baja, ----------`california
 Animal Trivia: A newborn turkey chick has to be taught to eat, or it will starve. Breeders spread feed underfoot, hoping the little ones will peck at it and get the idea. Turkeys tend to look up with their mouths open during rainstorms. As a result, many ----------`drown
-Animal Trivia: A normal cow's stomach has ---------- compartments: the rumen, the recticulum (storage area), the omasum (where water is absorbed), and the abomasum ( the only compartment with digestive juices).`four*4
+Animal Trivia: A normal cow's stomach has ---------- compartments: the rumen, the recticulum (storage area), the omasum (where water is absorbed), and the abomasum ( the only compartment with digestive juices).`four
 Animal Trivia: A ---------- consumes about 33 percent of its body weight in a single meal.`pelican
 Animal Trivia: Despite their finickiness, an average cat consumes about 127,750 calories a year, nearly 28 times their own weight in food and the same amount again in liquids. In case you were wondering, cats cannot survive on a ----------`vegetarian diet
 Animal Trivia: Developed in Egypt about 5,000 years ago, the greyhound breed was known before the ninth century in England, where it was bred by aristocrats to hunt such small game as hares. Today the dog is widely used in ----------`racing
@@ -513,14 +513,14 @@ Animal Trivia: Australia's ---------- is the world's most dangerous jellyfish. I
 Animal Trivia:  are the only truly social cat species, and usually every female in a pride, ranging from 5 to 30 individuals, is closely related.`lions
 Animal Trivia: Elephants, lions, and camels roamed ---------- 12,000 years ago.`alaska
 Animal Trivia: Baby beavers are called kits or ----------`kittens
-Animal Trivia: ---------- chinchillas were brought from the Andes Mountains in South America in the 1930's. All chinchillas presently in North America are descended from these ---------- chinchillas.`eleven*11
+Animal Trivia: ---------- chinchillas were brought from the Andes Mountains in South America in the 1930's. All chinchillas presently in North America are descended from these ---------- chinchillas.`eleven
 Animal Trivia: Baby mink are born blind and remain sightless for a ----------`month
 Animal Trivia: Baby opossums - upon birth when they move to the mother's pouch - are smaller than honeybees. An entire litter can fit in a ----------`teaspoon
-Animal Trivia: A rhinoceros has ---------- toes on each foot.`three*3
+Animal Trivia: A rhinoceros has ---------- toes on each foot.`three
 Animal Trivia: A robin has nearly 3,000 ----------`feathers
 Animal Trivia: A rodent's teeth never stop growing. They are worn down by the animal's constant gnawing on bark, leaves, and other ----------`vegetable matter
-Animal Trivia: A shrimp has ---------- pairs of legs.`five*5
-Animal Trivia: A shrimp has more than a hundred pairs of chromosomes in each cell nucleus. Man has only ----------`twenty three*23
+Animal Trivia: A shrimp has ---------- pairs of legs.`five
+Animal Trivia: A shrimp has more than a hundred pairs of chromosomes in each cell nucleus. Man has only ----------`twenty three
 Animal Trivia: A single ----------, with its razor-sharp teeth, is still dangerous enough when out of water to rip off the flesh, or a finger or toe, from an unwary fisherman.`piranha
 Animal Trivia: A skunk will not ---------- and throw its scent at the same time.`bite
 Animal Trivia: A snail speeding along at three inches per minute would need 15 days to travel ----------`one mile
@@ -622,7 +622,7 @@ Animal Trivia: The average cod deposits between 4 and 6 million eggs at a single
 Animal Trivia: Most cows give more milk when they ----------`listen to music
 Animal Trivia: Gorillas and ---------- sleep about fourteen hours a day.`cats
 Animal Trivia: Bull giraffes forage higher in trees than cow giraffes which reduces food competition between the sexes. Long-legged giraffes walk with the limbs on one side of the body lifted at the same time. This gait is called a pace and allows a longer stride which saves ----------`steps and energy
-Animal Trivia: The average cow produces ---------- glasses of milk each day.`forty*40
+Animal Trivia: The average cow produces ---------- glasses of milk each day.`forty
 Animal Trivia: Most ---------- lived to be more than a hundred years old.`dinosaurs
 Animal Trivia: Gorillas do not know how to ----------`swim
 Animal Trivia: By age 6 months, the voracious ---------- will have increased its 3-pound birth weight by 7,000 percent.`pig
@@ -651,7 +651,7 @@ Animal Trivia: The hippopotamus has the world's shortest ----------`sperm
 Animal Trivia: The average life expectancy of a rhinoceros in captivity is ----------`fifteen years*15 years
 Animal Trivia: Mountain ---------- grow luxurious winter coats - more than three inches of cashmere-quality wool, overlaid with long hollow hairs. The hardy animals can endure winter temperatures as low as minus 50 degrees F, and powerful winds up to 100 miles per hour.`goats
 Animal Trivia: The hippopotamus is, next to the elephants, the heaviest of all land mammals. It may weigh as much as 8,000 pounds. It is also a close relative of the ----------`pig
-Animal Trivia: The average minimal speed of birds in order to remain aloft in flight is reported to be about 161/2 feet per second, or about ---------- miles per hour.`eleven*11
+Animal Trivia: The average minimal speed of birds in order to remain aloft in flight is reported to be about 161/2 feet per second, or about ---------- miles per hour.`eleven
 Animal Trivia: Mussels can thrive in ---------- because of an inborn ability to purify bacteria, fungi, and viruses.`polluted water
 Animal Trivia: Guinea pigs were first domesticated by the ----------, who used them for food, in sacrifices, and as household pets.`incas
 Animal Trivia: The Hirudo leech has three jaws with 100 teeth on each jaw - making 300 teeth in all. The ---------- leech uses a different method of sucking blood. They insert a long proboscis into the victim as opposed to biting.`amazon
@@ -670,19 +670,19 @@ Animal Trivia: Hedgehog quills are not barbed or poisonous. Hedgehogs do apply a
 Animal Trivia: Catnip can affect lions and tigers as well as house cats. It excites them because it contains a chemical that resembles an excretion of the dominant female's ----------`urine
 Animal Trivia: The hum of a hummingbird comes from the super-fast beat of the wings. The smallest ones beat their wings the fastest - up to 80 times per second. Even the slower beat of bigger hummingbirds (20 times per second) is so fast you can only see a ----------`blur
 Animal Trivia: The basenji is a mid-sized dog with a silky copper coat. Although they are considered a barkless dog, they are known to ---------- when they are happy.`yodel
-Animal Trivia: Octopi and squid have ---------- hearts. Their main systemic heart pumps blood throughout the circulatory system, and two branchial hearts provide some additional push at each of the paired gills.`three*3
+Animal Trivia: Octopi and squid have ---------- hearts. Their main systemic heart pumps blood throughout the circulatory system, and two branchial hearts provide some additional push at each of the paired gills.`three
 Animal Trivia: Hens do not have to be impregnated to lay eggs. The ---------- is necessary only to fertilize the egg.`rooster
 Animal Trivia: Cats are the only domestic animals that walk directly on their ----------, not on their paws. This method of walking is called "digitigrade". When cats scratch furniture, it isn't an act of malice. They are actually tearing off the ragged edges of the sheaths of their talons to expose the new sharp ones beneath.`claws
 Animal Trivia: The hummingbird is the only bird that can ----------`fly backwards
 Animal Trivia: The bat is the only mammal that can ----------`fly
 Animal Trivia: Of all known forms of animals life ever to inhabit the Earth, only about ---------- still exist today.`ten percent*10%
 Animal Trivia: Hippopotamuses have killed more people in Africa than all the lions, elephants, and water buffalo combined, usually by ----------`trampling
-Animal Trivia: Cats have amazing hearing ability. A cat's ear has ---------- muscles that control the outer ear (by comparison, human ears only have six muscles). These muscles rotate 180 degrees, so the cat can hear in all directions without moving its head.`thirty*30
+Animal Trivia: Cats have amazing hearing ability. A cat's ear has ---------- muscles that control the outer ear (by comparison, human ears only have six muscles). These muscles rotate 180 degrees, so the cat can hear in all directions without moving its head.`thirty
 Animal Trivia: The hummingbird's tiny ----------, 4.2% of its body weight, is proportionately the largest in the bird kingdom.`brain
 Animal Trivia: The ---------- eagle of Africa hunts over a territory of 250 square miles a day.`bateleur
 Animal Trivia: Of the 250-plus known species of shark in the world, only about 18 are known to be ----------`dangerous to man
 Animal Trivia: Horned ---------- eat ants. They wait in areas where ants are working and when one passes by, they flick out their tongue, catch their prey, and swallow without chewing. Apparently their digestive tract is immune to bites and stings.`lizards
-Animal Trivia: Cats have more than one hundred vocal sounds, while dogs only have about ----------`ten*10
+Animal Trivia: Cats have more than one hundred vocal sounds, while dogs only have about ----------`ten
 Animal Trivia: The ---------- whale is often referred to as the "sea canary" because of the birdlike chirping sounds it makes.`beluga
 Animal Trivia: Off the coast of southern California, around 200 ---------- still roam in Catalina Island's hinterlands, descendants of a few brought there in the 1920s for a movie and left there.`bison
 Animal Trivia: Horses shorter than 141/2 hands (58 inches) at the withers (top of the shoulders) are technically ponies. The ----------, around 43 inches tall, is called a pony, not a miniature. Miniatures start 9 inches shorter, and prices go up as size goes down.`shetland
@@ -692,11 +692,11 @@ Animal Trivia: Hummingbirds are the smallest birds - so tiny that one of their e
 Animal Trivia: Cats, not dogs, are now the most common pets in America. Approximately 66 million cats to 58 million dogs are family pets, with parakeets "flying" a distant third at ----------`14 million*14,000,000
 Animal Trivia: Cattle branding in the United States did not originate in the West. It began in ---------- in the mid-19th century, when farmers were required by law to mark all their pigs.`connecticut
 Animal Trivia: The ---------- of a really famished camel may flop over and hang down the side of the body as the fat is used up.`hump
-Animal Trivia: The individual hair of a chinchilla is so fine that ----------of them equal the thickness of a single human hair.`five hundred*500
+Animal Trivia: The individual hair of a chinchilla is so fine that ----------of them equal the thickness of a single human hair.`five hundred
 Animal Trivia: The biggest frog is the appropriately named ---------- frog (Conraua goliath) of Cameroon. They reach nearly 30 cm (a foot) and weigh as much as 3.3 kilograms.`goliath
 Animal Trivia: The jackrabbit is not a rabbit; it is a ----------`hare
 Animal Trivia: The bite of a leech is painless due to its own ----------`anaesthetic
-Animal Trivia: The Jardine River in Australia's Cape York Peninsula is home to Crocodylus porosus, the saltwater or estuarine crocodile. It is the largest and perhaps most dangerous of all ---------- species of crocodilians.`twenty three*23
+Animal Trivia: The Jardine River in Australia's Cape York Peninsula is home to Crocodylus porosus, the saltwater or estuarine crocodile. It is the largest and perhaps most dangerous of all ---------- species of crocodilians.`twenty three
 Animal Trivia: The black bear is not always black. It can be brown, cinnamon, ----------, and sometimes a bluish color.`yellow
 Animal Trivia: On the Baja coast, osprey couples return to the same nests year after year. These birds rebuild their old nest, carefully repairing any damage caused by winds, rain, and age. After years of rebuilding, some osprey nests can reach heights of ----------`four feet*4 feet.*
 Animal Trivia: Hummingbirds cannot glide or soar as other bird do. They are the only bird that can ----------`hover continuously
@@ -708,7 +708,7 @@ Animal Trivia: Cattle branding was practiced 4,000 years ago. Old tomb paintings
 Animal Trivia: The king crab walks ----------`diagonally
 Animal Trivia: The blubber of a male ---------- is considered superior to that of the sperm whale for lubricating machinery.`elephant seal
 Animal Trivia: One Laysan ----------, tracked by biologists at Wake Forest University, flew more than 24,843 miles in flights across the North Pacific to find food for its chick in just 90 days - a flight distance equivalent to circling the globe.`albatross
-Animal Trivia: If they are well treated, camels in captivity can live to the age of ----------`fifty*50
+Animal Trivia: If they are well treated, camels in captivity can live to the age of ----------`fifty
 Animal Trivia: Certain birds of prey (the African serpent eagle and the American kestrel, for example) have ---------- acuity 2.4 to 2.6 times greater than humans. They can see a 1 mm long insect from a treetop 18 meters above ground.`visual
 Animal Trivia: The kinkajou's tail is twice as long as its body. Every night, it wraps itself up in its tail and uses it as a ----------`pillow
 Animal Trivia: The blue whale is maintained by its blubber and can go up to half a year without ----------`eating
@@ -958,7 +958,7 @@ Quotations: "Life would be infinitely happier if we could only be born at the ag
 Quotations: "The -------- of money is the root of all evil."- The apostle Paul`love
 Quotations: "Listen or thy ---------- will keep thee deaf."- American Indian Proverb`tongue
 Quotations: "The luckiest man in the world was Adam - he had no ---------------."- Sholom Aleichem`mother-in-law
-Quotations: "If you live to the age of a -------------- you have made it because very few people die past the age of a hundred."- George Burns`hundred*100
+Quotations: "If you live to the age of a -------------- you have made it because very few people die past the age of a hundred."- George Burns`hundred
 Quotations: "Live as if you were to -----------. Learn as if you were to live forever."- Mohandas K. Ghandi`die tomorrow
 Quotations: "The man who reads nothing at all is better educated than the man who reads nothing but ---------------."- Thomas Jefferson`newspapers
 Quotations: "If you tell the truth you don't have to ------------- anything."- Mark Twain`remember
@@ -989,11 +989,11 @@ Disney: In 1940, Walt Disney's --------- was the first film in history to use st
 Disney: In the scrolling final credits of Disney's --------, the sorcerer's name is listed as "Yensid" (Disney spelt backwards).`fantasia
 Disney: Purely coincidental, Disneyland and Walt Disney World amusement parks are in counties with the same name. The former is in Orange County, California; the latter is in Orange County, ---------`florida
 Disney: ------------ dubbed the voice of the Beast in the 1991 Disney version of Beauty and the Beast.`robby benson
-Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": Over ------------ wigs are worn on stage each night; only three performers use their own hair on stage.`one hundred and forty*140
+Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": Over ------------ wigs are worn on stage each night; only three performers use their own hair on stage.`one hundred and forty
 Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": Four characters' wigs are made of -------------: Mrs. Potts, Lumiere, Madame de la Grande Bouche, and the Sugar Bowl from "Be Our Guest."`yak hair
-Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": ------------ pieces of hair are used on stage each night -- including wigs, moustaches, and bangs.`two hundred and forty eight*248
-Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": The average number of wig changes for each ensemble member is ------------ per show.`eight*8
+Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": ------------ pieces of hair are used on stage each night -- including wigs, moustaches, and bangs.`two hundred and forty eight
+Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": The average number of wig changes for each ensemble member is ------------ per show.`eight
 Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": The 30-inch length human hair needed to build Belle's wig was specially imported from ------------------`india
-Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": It took 20 pounds of human hair and ------------- man hours to create the first Beast.`four hundred*400
+Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": It took 20 pounds of human hair and ------------- man hours to create the first Beast.`four hundred
 Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": The Beast's tail is made up of seven yards of -----------------`human hair
 Disney: "Hair Facts" from the Broadway version of "Beauty and The Beast": There are ----------- pounds of hairpins backstage ready to go at all times.`fifty*50

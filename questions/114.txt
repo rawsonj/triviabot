@@ -642,10 +642,10 @@ How is the mathematically related structure of beads strung on parallel wires in
 How is the stockmarket collapse of the 24th October 1929 better known`Black Thursday
 How many bits are in a nibble`4four
 How many countries have a population over 130 million`Seven(Pakistan, Russia, Brazil, Indonesia, United States, India and China)
-How many countries have an area less then 10 square miles`Four*4
+How many countries have an area less then 10 square miles`Four
 How many countries joined the United Nations at it's start`51*fifty one
 How many feet are in a nautical mile`6080*six thousand and eighty
-How many herrings are in a Warp`Four*4
+How many herrings are in a Warp`Four
 How many muscles are in a human`639*six hundred and thirty nine
 How many pieces are found in a chess set`32*thirty two
 How many seconds are in a day`86400*eighty six thousand and four hundred
@@ -664,7 +664,7 @@ In ancient Egypt which animal was considered sacred`Cat
 In the 17th century which country started taxing beards`Russia
 In the 1855 Russian War, what were used to transport Torpedos`Kites
 In the 9th century which city had several thousand bookstores`Baghdad
-In the Gregorian calendar after 10,000 years by how many days will the calendar be wrong by`Three*3
+In the Gregorian calendar after 10,000 years by how many days will the calendar be wrong by`Three
 In the kama-sutra the art of which game is recommened for women to study`chess
 In the period 978-1016 England was ruled by which 'Unready' king`Ethelred
 In the year 2000 which companies CEO was the worlds second richest man`Oracle
@@ -704,7 +704,7 @@ The term Sesquincentennial represents how many years`150*one hundred and fifty
 The term Sesquiquadricentennial represents how many years`450*four hundred and fifty
 The term Sesquitercentennial represents how many years`350*three hundred and fifty
 The term Tercentennial represents how many years`300*three hundred
-Thomas Young the Physicist and Egyptologist spoke how many language when he was 14`Twelve*12
+Thomas Young the Physicist and Egyptologist spoke how many language when he was 14`Twelve
 Tic-Tac-Toe is based on which game`Nine men morris
 To which island was Napoleon exiled, after his loss at Waterloo`St Helena
 What are Eastern, Central, Mountain, and Pacific`american Time Zones

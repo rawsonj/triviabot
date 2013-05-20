@@ -18,7 +18,7 @@ what is a fedora`hat
 on what island was the bbc programme castaway 2000 filmed`taransay
 who in shakespeare was the ‘moor of venice’`othello
 whats the capital of chile`santiago
-how many teats does a cow have`four*4
+how many teats does a cow have`four
 what's the theme song for midnight cowboy`everybody's talkin'
 what's the most common colour of topaz`yellow
 what sport did leo seltzer develop from the dance marathons and walkathons of the 1920s and '30s`roller derby
@@ -37,7 +37,7 @@ what team has won the most stanley cup hockey championships`the montreal canadie
 what country has the port of haifa`israel
 who was in the parlour eating bread and honey`the queen
 what uncomely creature inspired sailors' tales of mermaids`the manatee
-how many rounds are there in an olympic boxing match`three*3
+how many rounds are there in an olympic boxing match`three
 where are the famed tivoli gardens`copenhagen
 who had the 1936 miss hungary title taken away from her because she was underage`zsa zsa gabor
 where did israeli agents grab adolf eichmann`argentina
@@ -105,7 +105,7 @@ what was dr. livingstone's first name`david
 what is the world's largest chemical company`dupont
 who k.o'ed joe louis in 1936 and was k.o'ed by him in 1937`max schmeling
 who was dipped in the river styx`achilles
-how many times is the capacity of a pipe increased if the diameter is doubled`four*4
+how many times is the capacity of a pipe increased if the diameter is doubled`four
 what's usually thrown the farthest in a track and field competition`javelin
 what paris restaurant is at 3 rue royal`maxim's
 who wrote man and superman`george bernard shaw
@@ -113,7 +113,7 @@ what's the more common name for the constellation ursa major`great bear
 what are the two basic aids in the sport of orienteering`a map and compass
 what russian spy was exchanged for u-2 pilot francis gary powers in 1962`rudolf abel
 what does a.d. stand for in the christian calendar`anno domini
-how many double-word-score spaces are there on a scrabble board`seventeen*17
+how many double-word-score spaces are there on a scrabble board`seventeen
 what company owns the world's second largest truck fleet`coca cola
 what was the name of the space station restaurant in 2001:a space odyssey`howard johnson's
 what's the winter counterpart to estivation`hibernation
@@ -147,16 +147,16 @@ which is the only one of the seven dwarfs without a beard`dopey
 what two asian countries went to war on july 7, 1937`china and japan*japan and china
 what common ailment can't you catch at the north pole`a cold
 what is the world's smallest mammal`the shrew
-how many games are played in a five-team round-robin tournament`ten*10
+how many games are played in a five-team round-robin tournament`ten
 who's considered the first important native american novelist`james fenimore cooper
 what's the meaning of the zoological term ruminant`cud chewer
 what strength-testing world championship is held every october in petaluma, california`wrist-wrestling
 what are the two kinds of blood corpuscles in vertebrates`white and red*red and white
 what country's capital is tirana`albania
 who did ringo starr marry in 1981`barbara bach
-what’s the square root of 121`eleven*11
+what’s the square root of 121`eleven
 what colour is bianco wine`white
-what is 40 percent of 40`sixteen*16
+what is 40 percent of 40`sixteen
 who played the title role in georgy girl`lynn redgrave
 what's the brightest star in the night sky`sirius
 what falls is near where jimmy angel crashed his plane in 1937`angel falls
@@ -178,7 +178,7 @@ what's the shortest verse in the bible`jesus wept
 what is january's birthstone`garnet
 what's the traditional trade for aspiring spanish bullfighters`bricklaying
 what city is home to the famed manneke pis fountain`brussels
-how many points are there on a maltese cross`eight*8
+how many points are there on a maltese cross`eight
 what's the largest cat in the americas`jaguar
 what is a shark's skeleton made of`cartilage
 whose adventures are told in a book subtitled adventures in a desert island`swiss family robinson
@@ -204,14 +204,14 @@ what's the official language of the most serene republic of san marino`italian
 what singing group felt glad all over`the dave clark five
 what country lifted a ban on aristotle, shakespeare and dickens on feb 11, 1978`china
 name one of the three south american countries that the equator crosses`columbia*brazil*ecuador
-how many stars are there in the big dipper`seven*7
+how many stars are there in the big dipper`seven
 what's the nickname of former oddsmaker jimmy snyder`jimmy the greek
 what's the largest island in the mediterranean sea`sicily
 whose autobiography is titled my wicked, wicked ways`errol flynn
 what are the three winter months in the southern hemisphere`june july august
 what does boardwalk cost on the monopoly board`four hundred dollars*$400
 what country owns the azores`portugal
-how many fiddlers did old king cole have`three*3
+how many fiddlers did old king cole have`three
 what's the women's tennis equivalent to the davis cup`the federation cup
 what jonathan spyri story is about a little alpine lass`heidi
 what's the fahrenheit equivalent of zero degrees centigrade`thirty two degrees*32 degrees
@@ -226,7 +226,7 @@ what are the first six words of dicken's a tale of two cities`it was the best of
 what are you if you're hirsute`hairy
 what is known as the royal game`chess
 what king boycotted prince charles's wedding`juan carlos of spain
-how many varieties of twins are there`five*5
+how many varieties of twins are there`five
 what sport is considered the easiest for gamblers to fix`boxing
 what country was the bridge of san luis rey in`peru
 what thornton wilder play was made into a movie with music by aaron copland`our town
@@ -234,7 +234,7 @@ what was the bridge of san luis rey made of`rope
 what disease was known as the white plague`tuberculosis
 what south american capital is the world's highest`la paz, bolivia
 what's the most sensitive finger on the human hand`the index finger
-how many strokes make up a quadruple bogey on a par five gold hole`nine*9
+how many strokes make up a quadruple bogey on a par five gold hole`nine
 who was awarded the 1973 nobel peace prize along with le duc tho`henry kissinger
 what is november's birthstone`topaz
 what's the better-known name of edson arantes do nascimento`pele
@@ -244,7 +244,7 @@ what french engineer built a tower for the 1889 paris exposition`alexandre eiffe
 who received seven perfect scores in gymnastics at the 1976 montreal olympics`nadia comaneci
 what was suzy parker doing to earn $100,000 in the early 1950s`modeling
 who gained fame as a mind-over-matter spoon-bender`uri geller
-how many witches were burned at the stake in salem, massachusetts`zero*none*0
+how many witches were burned at the stake in salem, massachusetts`zero*none
 what actor was one of the world's top professional bridge players`omar sharif
 who created winne-the-pooh`a a milne
 what game challenges you to double in and double out`darts
@@ -279,7 +279,7 @@ what travels through space at 66,700 miles per hour`planet earth
 what part of the human body is most commonly bitten by insects`the foot
 what fruit does the stackspur golden delicious produce`apples
 what country exports goods through the port of durban`south africa
-how many tenths of the earth's surface lie under water`seven*7
+how many tenths of the earth's surface lie under water`seven
 who played twin sisters in the parent trap`hayley mills
 what novel contains the line: 'who promoted major major?'`catch-22
 what desert has the highest sand dunes`the sahara
@@ -303,15 +303,15 @@ what non-working, stingless bee mates with the queen`a drone
 what drink contains as many types of rum as possible`a zombie
 what country produces the original edam cheese`the netherlands
 who created detective nero wolfe`rex stout
-how many times is a roman numeral's value increased if it has a line over it`one thousand*1000
+how many times is a roman numeral's value increased if it has a line over it`one thousand
 what's the national sport of japan`sumo wrestling
 what astronomer-architect designed the present st. paul's cathedral in london`christopher wren
-how many layers of tobacco are there in a handmade cigar`three*3
+how many layers of tobacco are there in a handmade cigar`three
 what do mc and mac mean when used in surnames`son of
 where in the heck would you find the medulla oblongata`the brain
 who was forced to return his olympic gold medals after it was learned he had played semipro baseball`jim thorpe
 what's the nationality of agatha christie's detective hercule poirot`belgian
-how many eyes does a bat have`two*2
+how many eyes does a bat have`two
 what's the name of the archipelago at the tip of south america`tierra del fuego
 what's the leading female singer in an opera called`the prima donna
 who was the king of england when the american revolution broke out`george iii
@@ -498,7 +498,7 @@ what gold rush was started by skookum jim, tagish charlie and george carmacks`th
 this country contains the greater lengths of the tigris and euphrates rivers`iraq
 peace treaty that signified the end of world war i`the treaty of versailles
 literature: ___________ is the magic phrase in ali baba and the forty thieves`open sesame
-how many horses are there on a polo team`four*4
+how many horses are there on a polo team`four
 what french painter gained renown for his posters`henri de toulouse-lautrec
 what is the tallest piece on a chessboard`the king
 what was the first major us city to present jai-alai`miami
@@ -565,7 +565,7 @@ what do englishmen weigh themselves in`stones
 what are 'snowballs' to a hot-rodder`white-walled tires
 literature: what language is stern magazine published in`german
 what do you get if you add fresh fruit to red wine`sangria
-how many days were there in 1976`three hundred sixty-six*366
+how many days were there in 1976`three hundred sixty-six
 what's the most extensively grown and eaten food`wheat
 what's the other name for the card game patience`solitaire
 what does a gallophobic englishman fear`france
@@ -621,7 +621,7 @@ science, nature: where in the heck is the thyroid gland`the neck
 fun 'n games: what is the horseshoe pitching equivalent of a bullseye`a ringer
 literature: who solves the crime in death on the nile`hercule poirot
 what's considered the most highly-specialized mammal`the whale
-how many balls apart from the cue ball are used in snooker`twenty one*21
+how many balls apart from the cue ball are used in snooker`twenty one
 what is the state flower of alaska`forget-me-not
 what is the only venomous british snake`the adder
 fun 'n games: what world championship is called the bermuda bowl`bridge
@@ -634,7 +634,7 @@ what major island lies 250 miles off the southeastern coast of africa`madagascar
 what are the star of africa and cullinan ii`diamonds
 what element do all organic compounds contain`carbon
 world war ii: who headed up the gestapo`heinrich himmler
-pick a number: how many are there in a gross`one hundred forty four*144
+pick a number: how many are there in a gross`one hundred forty four
 who built frosty the snowman into a 1952 hit`gene autry
 what year did hitler become chancellor of germany`1933
 what jack london novel is about a dreaded sea captain named wolf larsen`the sea wolf
@@ -656,10 +656,10 @@ how much did the first issue of playboy cost`fifty cents
 fore!!!!: which country has the world's highest golf course`peru
 ruling families: which principality has the house of grimaldi ruled since the middle ages`monaco
 literature: who was it that wrote: 'a thing of beauty is a joy forever'`john keats
-fun 'n games: how many properties are there on a monopoly board`twenty eight*28
+fun 'n games: how many properties are there on a monopoly board`twenty eight
 literature: who created nicole in tender is the night`f. scott fitzgerald
 what letters appear over the number two on a telephone dial`a b c
-how many furlongs are there in a mile-and-a-quarter racetrack`ten*10
+how many furlongs are there in a mile-and-a-quarter racetrack`ten
 what do jamaicans refer to as 'ganja'`marijuana
 what colour is the stripe on a mountie's dress uniform`yellow
 what bombay-born writer was called the bard of empire`rudyard kipling
@@ -669,12 +669,12 @@ what blood sport originated the word crestfallen`cockfighting
 what blew up at lakehurst, new jersey, on may 6, 1937`the hindenburg
 literature: what joel chandler harris book tells the stories of br'er fox and br'er rabbit`uncle remus
 looks like rain: what's the boundary between two air masses called`a front
-which way is up: how many compass point names are there`thirty two*32
+which way is up: how many compass point names are there`thirty two
 what's for dinner: what two vegetables are combined in succotash`corn and beans*beans and corn
 what country did the battle of el alamein take place in`egypt
 which anniversary is dubbed the crystal anniversary`the fifteenth
 what is the only us state name that ends with three vowels`hawaii
-do the math: what is seventy percent of seventy`forty nine*49
+do the math: what is seventy percent of seventy`forty nine
 fun 'n games: what toy can you make sleep`a yo-yo
 history: who did giuseppe zangara try to assassinate in miami on feb 15, 1933`franklin roosevelt
 you crazy animal: what's another term for a camelopard`a giraffe
@@ -691,7 +691,7 @@ country capitals: what's the world's southernmost national capital`wellington, n
 what is the most popular drink in greece`ouzo
 at the movies: which film won rod steiger the best actor oscar in 1967`in the heat of the night
 what four letters were placed on the cross on which christ was crucified`i.n.r.i.
-what is the base number in the duodecimal system`twelve*12
+what is the base number in the duodecimal system`twelve
 what is the more scientific name of the funny bone`the humerus bone
 where is noah's ark believed to have landed`mount ararat
 history: who betrayed norway to the nazis`vidkun quisling
@@ -716,7 +716,7 @@ history: what food did marco polo introduce into italy from the court of kubla k
 what egyptian writing material gave us the word paper`papyrus
 in ontario, canada, these five young ladies were born on may 28, 1934`the dionne quintuplets
 what does the latin word 'circa' before a date mean`about
-how many sheets of paper are there in a ream`five hundred*500
+how many sheets of paper are there in a ream`five hundred
 sports history: he was the first man to run the mile in less than four minutes`roger bannister
 what gate does the three-headed dog cerberus guard`the gate of hades
 what's the only dog which doesn't have a pink tongue`the chow
@@ -850,14 +850,14 @@ history: what british peerage gave its name to an overcoat, a sofa and a cigaret
 what is considered the sister language of english`german
 what did 80,000 men cut to build solomon's temple`the cedars of lebanon
 geography, buildings: what's the largest office building in the world`the pentagon
-true trivia: how many fingers did anne boleyn have`eleven*11
+true trivia: how many fingers did anne boleyn have`eleven
 what direction is the sahara desert expanding in by half a mile a year`south
 fun 'n games: who devised the point count bidding system for bridge`charles goren
 what did bock's car drop, in 1945`an atom bomb on nagasaki
 what is the more familiar name of the banana boat song`day-o
 literature: which author penned the hunchback of notre dame`victor hugo
-what iq level is considered to be the beginning of genius`one hundred forty*140
-what is the average iq level of all living people`one hundred*100
+what iq level is considered to be the beginning of genius`one hundred forty
+what is the average iq level of all living people`one hundred
 mind your manners: where are wine glasses placed at a table setting`to the right
 who was the first man to appear on the cover of playboy magazine`peter sellers
 weird science: what colour does litmus paper turn if a solution is acidic`pink*red
@@ -875,7 +875,7 @@ all creatures great and small: what creatures live in a formicary`ants
 fun 'n games: name one of the two skills which make up the winter biathlon`cross-country skiing*target shooting
 history: what russian master spy lived in the us under the name emil goldfus`rudolf abel
 what's the international radio code word for the letter 'o'`oscar
-fun 'n games: what's the point value of the outer bullseye on a dartboard`twenty five*25
+fun 'n games: what's the point value of the outer bullseye on a dartboard`twenty five
 geography: what statue overlooks piccadilly circus`eros
 history: who did photographer heinrich hoffmann introduce to adolf hitler in 1929`eva braun
 a toast: what country produces rioja wines`spain
@@ -920,7 +920,7 @@ fun 'n games: what's the world's largest legal bookmaking firm`ladbrokes of lond
 history: who was the captain of the mayflower`miles standish
 history of war: what long-range wwi german cannon was named for bertha krupp`big bertha
 what architect's story was told in wizard of the dome`buckminster fuller
-from a distance: how many nautical miles are there in one degree of longitude`sixty*60
+from a distance: how many nautical miles are there in one degree of longitude`sixty
 fine cuisine: where was baloney first served`bologna, italy
 history: what did sir walter raleigh lose in 1618`his head
 literature: what are the first three words in the bible`in the beginning
@@ -948,7 +948,7 @@ the animal in you: what's the strongest muscle in the human body`the tongue
 geography: where does the us rank among world countries in total area`fourth*4th
 the funny papers: what kind of dog is marmaduke`great dane
 here, kitty kitty: what kind of cats are seal points and blue points`siamese
-what's your sign: how many degrees are there in each house of the zodiac`thirty*30
+what's your sign: how many degrees are there in each house of the zodiac`thirty
 fun 'n games: what does the bell rung during the 1,500-metre race signify`one lap to go
 literature: what richard adams book includes an account of bigwig's encounter with a fox`watership down
 the animal in you: what is the shape of a camel's spine`straight

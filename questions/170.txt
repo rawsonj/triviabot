@@ -233,7 +233,7 @@ video games: who is the main character from nintendo's 'earthbound'`ness
 video games: the nintendo 64 was titled under what name during production`project reality
 video games: what is a "koopa"`a turtle
 video games: if you're killing a goomba, what game are you playing`super mario bros
-video games: how many fighters are playable in 'street fighter ii'`eight*8
+video games: how many fighters are playable in 'street fighter ii'`eight
 video games: which rpg series features a line of inventors of the name "shaia"`lufia
 video games: what was the first arcade game ever released`computer space
 video games: what's the first video game ever to contain an "easter egg"`adventure
@@ -257,7 +257,7 @@ video games: what alternate dimension does link find himself in in majora's mask
 video games: which body part is found in bodley mansion in 'castlevania ii: simon's quest'`an eye
 video games: what do you need to collect 100 of to get an extra life in super mario bros.`coins
 video games: what was the hybrid pinball/video game in the pac-man series`baby pac-man
-video games: how many buttons (excluding the control pad) did the original nes controller have`four*4
+video games: how many buttons (excluding the control pad) did the original nes controller have`four
 video games: who manufactured the first home video game system`magnavox
 video games: which company made the original 'donkey kong'`nintendo
 video games: what was the first home console system released by sega`sega master system
@@ -271,9 +271,9 @@ video games: what game takes place on the fantastic island of koholint`link's aw
 video games: what was the first cartridge that had a battery backed save feature`the legend of zelda
 video games: on what non-nintendo console can you find zelda games`philips cd-i
 video games: in dead or alive 2, hayabusa informs you that "if your soul is imperfect," what`living will be difficult
-video games: how many gears do you have in 'pole position'`two*2
+video games: how many gears do you have in 'pole position'`two
 video games: the hylians come from what game series`the legend of zelda
-video games: in 'pac-man' for the atari 2600, how many points were each pellet worth`one*1
+video games: in 'pac-man' for the atari 2600, how many points were each pellet worth`one
 video games: in super mario bros. 2, how many extra lives do you get for spinning three 7s on the slot machine`ten*10*
 video games: in which mega man game did mega man first gain the ability to charge up his shots`mega man 4
 video games: who wrote the song, "pac-man fever"`buckner and garcia
@@ -326,7 +326,7 @@ which tv soap do the woolpackers originate from`emmerdale
 which queen single was a xmas number one in 1975 and again in 1991`bohemian rhapsody
 which female vocalist sang the title song to the bond film tomorrow never dies`sheryl crow
 which rem song features kate from the b-52s`shiny happy people
-which number completes the group's name: s club - what`seven*7
+which number completes the group's name: s club - what`seven
 who sang the theme tune to moonraker`shirley bassey
 which african leader did the special aka sing about`nelson mandela
 baccara sang yes sir i can….what`boogie
@@ -861,7 +861,7 @@ which film star made his screen debut in the film "steamboat willie" in 1928`mic
 in edward lear's poem, upon which fruit did the owl and the pussycat dine`quince
 which teacher did maggie smith play in the 1969 film of muriel spark's novel`miss jean brodie
 the secret police of which country were known as the 'ton ton macoute'`haiti
-in solo whist, how many tricks must a player take in order to win a call of "abundance`nine*9
+in solo whist, how many tricks must a player take in order to win a call of "abundance`nine
 which substance may be added in the preparation of jams to make them set`pectin
 in which american state was the first atomic bomb test carried out in july 1945`new mexico
 all members of which religion bear the surname singh`sikhism
@@ -897,7 +897,7 @@ what kind of creature is a lorikeet`a parrot
 which sport uses "stones" and a "house"`curling
 which pop group's only u.k. chart entry, "sugar sugar" got to no. 1 in 1969`the archies
 name either of the only sisters to both win acting oscars`joan fontaine*olivia de haviland
-how many lines does a sonnet have`fourteen*14
+how many lines does a sonnet have`fourteen
 who had a number one hit in 1966 with keep on running`spencer davis group
 what are siblings`brothers & sisters by blood
 which european country is a grand duchy`luxembourg
@@ -954,7 +954,7 @@ which city is the location for the 1998 commonwealth games`kula lumpur
 who is the commonwealth secretary general`emeka anyaoku
 who invented the carpet sweeper in 1876`melville bissell
 which country is indicated by the car identification letters wal`sierra leone
-how many years is an emerald wedding anniversary`fifty five*55
+how many years is an emerald wedding anniversary`fifty five
 in which country is the volcano popocatepetl`mexico
 which is the highest mountain outside asia`aconcagua
 who is the current monarch of the netherlands`beatrix
@@ -962,7 +962,7 @@ which christian feast is celebrated on 15th august`assumption of virgin mary
 who invented the fountain pen in 1884`lewis waterman
 which city was the location for the 1994 winter olympics`lillehammer, norway
 who won the 1979 nobel peace prize`mother teresa
-how many years is a sapphire wedding anniversary`forty five*45
+how many years is a sapphire wedding anniversary`forty five
 who invented the food processor in 1947`kenneth wood
 which is the largest (in area) of the australian states and territories`western australia
 which country is indicated by the car identification letters ra`argentina

@@ -128,7 +128,7 @@ Music : Alice In Chain's song that includes the line "Did she call my name".`rai
 Music : All that she wants is another baby.`all that she wants
 Music : Alternative Music : Angry young man who leads Nine Inch Nails:`trent reznor
 Music : Alternative Music : Finish this song title: 'Heaven or ___ _____' `las vegas
-Music : Alternative Music : How many albums does Pantera really have(very tricky)`eight*8
+Music : Alternative Music : How many albums does Pantera really have(very tricky)`eight
 Music : Alternative Music : Temple of the Dog was formed to pay tribute to the leader of this ex-band:`mother love bone
 Music : Alternative Music : The B-52's are from this in Georgia.`athens
 Music : Alternative Music : Tori Amos did a cover of this Nirvana song.`smells like teen spirit
@@ -1987,7 +1987,7 @@ Music : 80's Chart Toppers: Name The Artist: Hearts On Fire`randy meisner
 Music : 80's Chart Toppers: Name The Artist: Hearts`marty balin
 Music : 80's Chart Toppers: Name The Artist: Heat Of The Moment`asia
 Music : 80's Chart Toppers: Name The Artist: Heat Of The Night`bryan adams & tina turner
-Music : 80's Chart Toppers: Name The Artist: Heaven Help Me`deon estus/george michael*5
+Music : 80's Chart Toppers: Name The Artist: Heaven Help Me`deon estus/george michael
 Music : 80's Chart Toppers: Name The Artist: Heaven In Your Eyes`loverboy
 Music : 80's Chart Toppers: Name The Artist: Heaven Is A Place On Earth`belinda carlisle
 Music : 80's Chart Toppers: Name The Artist: Heaven`bryan adams

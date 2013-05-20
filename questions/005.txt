@@ -322,7 +322,7 @@ True or False: It takes a week to make a jelly bean`true
 True or False: You can't tickle yourself`true
 True or False: The University of Texas system is the third-largest landowner in the United States`true
 Who was the LAST man to walk on the moon`gene cernan
-How many stars are there in the Paramount movie logo`twenty two*22
+How many stars are there in the Paramount movie logo`twenty two
 True or False: You can't trademark surnames`true
 What are the names of the two stone lions in front of  the New York Public Library`patience & fortitude
 What is Tennessee Williams' real name`thomas lanier williams
@@ -364,7 +364,7 @@ When is it impossible to sneeze`with your eyes open
 Paul McCartney's mother was a`midwife
 A baby eel is called an`elver
 A baby oyster is called a`spat
-There are only how many letters in the Hawaiian alphabet`twelve*12
+There are only how many letters in the Hawaiian alphabet`twelve
 Fossilized dinosaur droppings are called`coprolites
 Rabbits love this black stuff`licorice
 Ogdensburg, New York is the only city in the United States situated what river`st lawrence
@@ -372,7 +372,7 @@ Gilligan of Gilligan's Island had a first name that was only used once, on the n
 In England, the Speaker of the House is not allowed to`speak
 What color do turnips turn when sunburnt`green
 A flamingo can eat only when its head is`upside down
-An elephant can be pregnant for up to how many years`two*2
+An elephant can be pregnant for up to how many years`two
 Your left lung is smaller than your right lung to make room for your`heart
 Heroin is the brand name of morphine once marketed by`bayer
 One of the many Tarzans, Karmuela Searlel, was mauled to death on the set by a`elephant
@@ -380,7 +380,7 @@ A game of pool is referred to as a`frame
 The Soviet Sukhoi-34 is the first strike fighter with a _____ in it`toilet
 During WWII, Americans tried to train bats to`drop bombs
 Swahili is a combination of African tribal languages`arabic & portuguese
-An enneahedron is solid with ho many faces`nine*9
+An enneahedron is solid with ho many faces`nine
 There are more _____ than any other kind of creature in the world`beetles
 Jean Harlow was the first actress to appear on the cover of ____ magazine`life
 Shrimps' hearts are in their`heads
@@ -393,7 +393,7 @@ The only capital letter in the Roman alphabet with exactly one endpoint is`p
 The longest time someone has typed on a typewriter continuously is ____ hours, set by Violet Gibson Burns`264
 Hydroxydesoxycorticosterone and hydroxydeoxycorticosterones are the largest`anagrams
 Only one person in two billion will live to be ___ or older`116
-A cat has __ muscles in each ear`thirty two*32
+A cat has __ muscles in each ear`thirty two
 Tigers have striped ____, not just striped fur`skin
 Gerald Ford pardoned Robert E. Lee posthumously of all crimes of`treason
 The band Duran Duran got their name from an astronaut in the 1968 Jane Fonda movie`barbarella
@@ -567,13 +567,13 @@ The Mount of Jupiter and the Girdle of Venus are found on the _________`palm of 
 The Auricularis muscles are used to move the____ `ears
 The vaccine for ________ was developed in 1798`smallpox
 In the United States, 1982, the painkiller 'Tylenol' was spiked with`cyanide
-The normal body temperature in ___ degrees Celsius`thirty seven*37
-In 1982, Englishman William Hall committed suicide by drilling holes into his head with a power drill . . . it took ___ holes`eight*8
+The normal body temperature in ___ degrees Celsius`thirty seven
+In 1982, Englishman William Hall committed suicide by drilling holes into his head with a power drill . . . it took ___ holes`eight
 The rate of Quadruplets are 1 (set) in every  __________ births`490,000
 A person suffering from polythelia has 3 _______`nipples
 Clinophobia is a fear of`beds
-The human brain is __% water`eighty*80
-The brain uses more than __% of the oxygen used by the human body`twenty five*25
+The human brain is __% water`eighty
+The brain uses more than __% of the oxygen used by the human body`twenty five
 The nose continues to _____ throughout your life`grow
 Blonde beards grow ______ than darker beards`faster
 The left side of the brain is usually responsible for the control of`speech
@@ -594,24 +594,24 @@ A tincture of opium, was a common sedative in Victorian times`laudanum
 In the early Twentieth century, rattlesnake venom was used to treat _____`epilepsy
 The human body contains about sixthy thousand miles of _____ _______`blood vessels
 The surface area of a human lung is equal to a`tennis court
-The human body transmits nerve impulses at about __ metres a second`ninety*90
+The human body transmits nerve impulses at about __ metres a second`ninety
 Spread out, the walls of the human intestines would cover an area of about`one hundred square feet
 The hydrochloric acid in the human stomach is strong enough to dissolve a`nail
-There are ______  phalanges (finger bones) in a human hand`fourteen*14
+There are ______  phalanges (finger bones) in a human hand`fourteen
 In 1979 Dr. Christian Barnard was offered ________ by the American National Enquirer to perform a human head transplant`$250,000
-Most people have lost fifty per cent of their taste buds by the time they reach the age of`sixty*60
+Most people have lost fifty per cent of their taste buds by the time they reach the age of`sixty
 The amount of carbon in the human body is enough to fill about _____ 'lead' pencils`9,000
-Cancer claims ____ victims an hour in America`forty*40
-In the English hospitals of the seventeenth century, children were entitled to ___  gallons of beer as part of their weekly diet`two*2
+Cancer claims ____ victims an hour in America`forty
+In the English hospitals of the seventeenth century, children were entitled to ___  gallons of beer as part of their weekly diet`two
 Podobromhidrosis is more commonly known as`smelly feet
 If a surgeon in Ancient Egypt lost a patient while performing an operation, his hands were`cut off
-Men have on average __% more red blood cells than women`ten*10
+Men have on average __% more red blood cells than women`ten
 New Zealand's first hospital was opened in`1843
 One square inch of human skin contains ___ sweat glands`625
 When you blush, your  also ___________ reddens`stomach lining
 The largest muscle in the human body is the`buttock muscle
 The Islands of Langerhans won't be found on a map, they're a group of cells located in the`pancreas
-Every time you step forward, you use ________ muscles`fifty four*54
+Every time you step forward, you use ________ muscles`fifty four
 A Rhinologist specialises in the human`nose
 If you could remove all the space from the atoms that make up your body, you could walk through the`eye of a needle
 A chromosome is large than a`gene
@@ -621,14 +621,14 @@ The Black Death claimed roughly __________ lives in the thirteenth century`forty
 The human wrist contains more bones than the`ankle
 Someone who grinds their teeth is a`bruxomaniac
 If the present birth rate continues, New York city will have a black majority by the`end of the century
-In 1562 a man was dug up six hours after his burial, after he had been seen breathing by someone at the funeral - he lived for another ___ years`seventy five*75
+In 1562 a man was dug up six hours after his burial, after he had been seen breathing by someone at the funeral - he lived for another ___ years`seventy five
 Physcrophilia is the sexual arousal by`cold
-If __% of the human liver was removed, it could still function and would eventually restore itself to its original size`eighty*80
+If __% of the human liver was removed, it could still function and would eventually restore itself to its original size`eighty
 There is more pigment in ______ eyes than blue`brown
 Nearly a quarter of all human bones can be found in the`feet
 The ' funny bone' is not a bone but a`nerve
 Most people blink about ______ times a day`25,000
-The human body has enough fat to produce ___ bars of soap`seven*7
+The human body has enough fat to produce ___ bars of soap`seven
 The human head is a quarter of our total length at birth, but only an eighth of our total length by the time we reach`adulthood
 There is no single word given to describe the back of the`knee
 From fertilisation to birth, a baby's weigh increase ________ times`five billion
@@ -636,10 +636,10 @@ The woman of the Brazilin Apinaly Tribe bite their mates eyebrows during`interco
 Thomas Wedders, the English circus freak, had a _____ which was seven and a half inches long`nose
 The human body has less muscles in it than a`caterpillar
 Men are ten times more likely to be ________ than women`color blind
-An eighteenth century woman used only lard to 'wash' her face and hands and lived to the age of`one hundred & sixteen*116
+An eighteenth century woman used only lard to 'wash' her face and hands and lived to the age of`one hundred & sixteen
 The liver is the largest internal organ weighing about ____ kilograms`10.5
 Human adults breathe about _____ time a day`23,000
-It requires __ muscles to raise your eyebrows`thirty*30
+It requires __ muscles to raise your eyebrows`thirty
 The most common form of cancer is _____ cancer`skin
 The Middle ear and the Pharynx are joined with the ________ tube`eustachian
 The Extensor digiti minimi manus is used to extend the`little finger
@@ -666,7 +666,7 @@ Pogonophobia is the fear of`beards
 In 1647 the English Parliament abolished`christmas
 King George III was declared violently insane in ___, 9 years before he died`1811
 In Ancient Peru, when a woman found an 'ugly' _______, it was the custom for her to push it into the face of the nearest man`potato
-When George I became King of England in 1714, his wife did not become Queen. He placed her under house arrest for ____ years`thirty two*32
+When George I became King of England in 1714, his wife did not become Queen. He placed her under house arrest for ____ years`thirty two
 The richest 10 per cent of the French people are approximately _____ times better off than the poorest 10 per cent`fifty
 Henry VII was the only British King to be crowned on the`field of battle
 During World War One, the future Pope John XXIII was a _______ in the Italian Army`sergeant
@@ -676,18 +676,18 @@ The Puritans forbade the singing of ______ ______, judging them to be out of kee
 Albert Einstein was once offered the Presidency of _____. He declined saying he had no head for problems`israel
 Uri Geller, the professional psychic was born on December 20 ____`1946
 As to the origin of his alleged powers, Uri Geller maintains that they come from the distant planet of`hoova
-Ralph and Carolyn Cummins had ____ children between 1952 and 1966, all were born on the 20 February`five*5
+Ralph and Carolyn Cummins had ____ children between 1952 and 1966, all were born on the 20 February`five
 John D. Rockefeller gave away over US$ _________ during his lifetime`500,000,000
 In the 1970's, the Rhode Island Legislature in the US entertained a proposal that there be a $2 tax on every act of _____ ____ in the State`sexual intercourse
 Widows in equatorial ____ actually wear sackcloth and ashes when attending a funeral`africa
-The British did not release the body of Napoleon Bonaparte to the French until _____ days after his death`twenty*20
+The British did not release the body of Napoleon Bonaparte to the French until _____ days after his death`twenty
 John Glenn, the American who first orbited the Earth, was showered with ______ tonnes of ticker tape when he got back`3,529
 American Red Indians used to name their children after the first thing they saw as they left their _____ subsequent to the birth. Hence such strange names as Sitting Bull and Running Water`tepees
-Catherine the First of Russia, made a rule that no man was allowed to get drunk at one of her parties before ____ o'clock`nine*9
+Catherine the First of Russia, made a rule that no man was allowed to get drunk at one of her parties before ____ o'clock`nine
 Queen Elizabeth I passed a law which forced everyone except for the rich to wear a flat cap on`sundays
 In 1969 the shares of the Australian company 'Poseidon' were worth $1, one year later they were worth $___ each`280
 Julius Caesar wore a laurel wreath to cover the onset of`baldness
-Ernest Bevin, Minister of Labour during World War II, left school at the age of`eleven*11
+Ernest Bevin, Minister of Labour during World War II, left school at the age of`eleven
 It is illegal to be a prostitute in Siena,Italy, if your name is`mary
 The Turk's consider it considered unlucky to step on a`piece of bread
 The authorities do not allow tourists to take pictures of ______ in Zambia`pygmies
@@ -699,7 +699,7 @@ It was considered unfashionable for Venetian women, during the Renaissance to ha
 Queen Victoria was one of the first women ever to use ________ to combat pain during childbirth`chloroform
 Atilla the Hun is thought to have been a`dwarf
 The warriors tribes of ________ used to hang the testicles of those they killed in battle on the ends of their spears`ethiopia
-There are over _____ religious denominations in the United States`two hundred*200
+There are over _____ religious denominations in the United States`two hundred
 Eau de Cologne was originally marketed as a way of protecting yourself against the`plague
 Charles the Simple was the grandson of Charles the Bald, both were rulers of`france
 Gabriel and Michael are the only 2 angels to be named in the`bible
@@ -717,7 +717,7 @@ During the reign of Elizabeth I, there was a tax put on men's`beards
 Idi Amin, one of the most ruthless tyrants in the world, before coming to power, served in the`british army
 Some Eskimos have been known to use _________ to keep their food from freezing`refrigerators
 It is illegal to play tennis in the streets of`cambridge
-Custer was the youngest General in US history, he was promoted at the age of`twenty three*23
+Custer was the youngest General in US history, he was promoted at the age of`twenty three
 It costs more to send someone to reform school than it does to send them to`eton
 The American pilot Charles Lindbergh received the Service Cross of the German Eagle from _____ _____ in 1938`hermann goering
 The active ingredient in Chinese Bird's nest soup is`saliva
@@ -746,9 +746,9 @@ On 9 February ____, soap rationing began in Britain`1942
 Paul Revere was a`dentist
 A parthenophobic has a fear of`virgins
 South American gauchos were known to put raw steak under their saddles before starting a day's riding, in order to ______ the meat`tenderise
-There are _______ white dots in a Pacman arcade game`two hundred & forty*240
+There are _______ white dots in a Pacman arcade game`two hundred & forty
 In 1939 the US political party 'The American Nazi Party' had _________ members`200,000
-King Solomon of Israel had about ______ wives as well as hundreds of mistresses`seven hundred*700
+King Solomon of Israel had about ______ wives as well as hundreds of mistresses`seven hundred
 Urine was once used to`wash clothes
 North American Indian, Sitting Bull, died on 15 December`1890
 St Nicholas, the original Father Christmas, is the patron saint of thieves, virgins and communist`russia
@@ -758,7 +758,7 @@ Princess Ann was the only competitor at the 1976 Montreal Olympics that did not 
 Coffins which are due for cremation are usually made with ______ handles`plastic
 Blackbird, who was the chief of _______ Indians, was buried sitting on his favourite horse`omaha
 The two highest IQ's ever recorded (on a standard test) both belong to`women
-The Imperial Throne of Japan has been occupied by the same family for the last ______ _________ years`thirteen hundred*1300
+The Imperial Throne of Japan has been occupied by the same family for the last ______ _________ years`thirteen hundred
 In the seventeenth-century a Boston man was sentenced to two hours in the stocks for obscene behaviour, his crime, kissing his wife in a public place on a`sunday
 President Kaunda of ______ once threatened to resign if his fellow countrymen didn't stop drinking so much alcohol`zambia
 Due to staggering inflation in the 1920's, 4,000,000,000,000,000,000 ____ _______ were worth 1 US dollar`german marks
@@ -773,16 +773,16 @@ Goats produce`cashmere
 The common term for a member of the bee genus 'Bombus' is the`bumblebee
 A turkey's furcula better known as a`wishbone
 A 'geep' is the resulting offspring of a sheep and a`goat
-The typical housefly cruses at ___ km/hr`eight*8
+The typical housefly cruses at ___ km/hr`eight
 The chemical ______, found in ripe fruit, causes jam to set when cooling`pectin
 In 1876, Sir Henery Wickham transported _______ rubber tree seeds from Brazil to Kew Gardens in London`70,000
 The compound carotene gives the _______ its colour`carrot
 Bananas grow pointing`upwards
 Kiwi eggs, when not completely white, are tinged with`green
 The cucumber is a _____, not a vegetable`fruit
-The flying fish has been known to glide up to _____ metres`ninety*90
+The flying fish has been known to glide up to _____ metres`ninety
 A starfish can turn its ______ inside out`stomach
-Sea otters have ______ coats of fur`two*2
+Sea otters have ______ coats of fur`two
 Hummingbirds can't`walk
 A moth has no`stomach
 Lobsters have blue`blood
@@ -813,33 +813,33 @@ In 1978 the United Nations Food and Agricultural Organisation estimated that 'al
 The ________ is the only animal whose evidence is admissible in an American court`bloodhound
 Only the _____ nightingale sings`male
 A chameleon's _____ is twice the length of its body`tongue
-The black widow spider can devour as many as _______ 'mates' in a single day`twenty*20
-A woodchuck breathes only ___ times during hibernation`ten*10
+The black widow spider can devour as many as _______ 'mates' in a single day`twenty
+A woodchuck breathes only ___ times during hibernation`ten
 Goldfish can suffer _____ sickness`motion
-When young, black sea basses are mostly female, but at the age of _____ years many switch sexes to male`five*5
-Gorillas often sleep for up to _______ hours a day`fourteen*14
+When young, black sea basses are mostly female, but at the age of _____ years many switch sexes to male`five
+Gorillas often sleep for up to _______ hours a day`fourteen
 Giraffes are unable to`cough
-A 2 year old horse has ___incisors`six*6
+A 2 year old horse has ___incisors`six
 The last of a cat's senses to develop is`sight
 The Ancient Egyptians trained ______ to wait at their tables`baboons
-In relation to its size, the ordinary house spider is ______ times faster than an Olympic sprinter`eight*8
-A millipede has ____ legs on each segment of its body`four*4
-Sloths spend ____% of their lives asleep`seventy five*75
+In relation to its size, the ordinary house spider is ______ times faster than an Olympic sprinter`eight
+A millipede has ____ legs on each segment of its body`four
+Sloths spend ____% of their lives asleep`seventy five
 During its lifetime an ______ changes its sex from male to female and back several times`oyster
 The ____ was wrongly named after what was thought to be its country of origin`turkey
 About 70% of all living organisms in the world are`bacteria
 Camels are born without`humps
 Many male fish blow bubbles when they want to`copulate
 Crocodiles are ______ blind`colour
-Snails mate only once in their lifetime, but it can take up to ____ hours`twelve*12
+Snails mate only once in their lifetime, but it can take up to ____ hours`twelve
 Dogs are ________ blind`colour
 Anteaters prefer _______ to ants`termites
 Baby eels are`elvers
-Whales increase in weight 30,000,000,000 times in their first ___ years`two*2
+Whales increase in weight 30,000,000,000 times in their first ___ years`two
 There are more ____ in the world than all other animals together`insects
 On average, elephants sleep for about ________ per day`two hours*2 hours
 A giraffe's neck contains the same number of ________ as a human`vertebrae
-An electric eel produces an average of ____________ volts`four hundred*400
+An electric eel produces an average of ____________ volts`four hundred
 Spiders' webs are a traditional natural ______ _______, when applied to a cut they quickly stop the flow of blood`clotting agent
 The orang-utan's warning signal to would be aggressors is a loud`belch
 The Emu gets its name from the ______  word for ostrich`portuguese
@@ -848,15 +848,15 @@ A cheetah can accelerate from 0 to _____ in 2 seconds`seventy km/h*70 km/h
 Although Cleopatra was meant to have died after a bite from an ____, the species does not exist in Egypt`asp
 The 'Alligator Pear' is better known as the`avocado
 Snails can sleep for _____ without eating`three years*3 years
-An Elephant's trunk can hold over _____ litres of water`five*5
-The largest shark ever caught with a rod was just less than ______ feet long`seventeen*17
-Bees have ___ eyes`five*5
+An Elephant's trunk can hold over _____ litres of water`five
+The largest shark ever caught with a rod was just less than ______ feet long`seventeen
+Bees have ___ eyes`five
 The mullet fish only turns _____ after death`red
-The Goliath frog of West Africa is nearly _____ feet long`three*3
+The Goliath frog of West Africa is nearly _____ feet long`three
 To make half a kilo of honey, bees must collect nectar from over ___ _______ individual flowers`two million*2,000,000
-Vampire Bats can hear sound frequencies which are over _____ times higher than any picked up by the human ear`eight*8
+Vampire Bats can hear sound frequencies which are over _____ times higher than any picked up by the human ear`eight
 The male Californian sea-otter grips the nose of the female with his teeth during`mating
-The heart of giraffe is two feet long, and can weigh as much as ____ ____ pounds`twenty four*24
+The heart of giraffe is two feet long, and can weigh as much as ____ ____ pounds`twenty four
 The smallest trees in the world are Greenland`dwarf willows
 A myrmecologist studies`ants
 The original source of the dye 'sepia' was the`cuttlefish
@@ -866,10 +866,10 @@ The Kiwi is the only bird with _____ at the end of its bill`nostrils
 Shark's teeth are literally as hard as`steel
 Turkey's often look up at the sky during a`rainstorm
 The only wild camels in the world are found in`australia
-At full tilt, Pumas can leap a distance of about ____ feet`sixty*60
+At full tilt, Pumas can leap a distance of about ____ feet`sixty
 Crocodiles carry their ____ in their mouths`young
 Tarantula's can survive ______ years without food`two & half*2.5
-It has been estimated that there are something like ____ _____ million cats in the U.S`twenty three*23
+It has been estimated that there are something like ____ _____ million cats in the U.S`twenty three
 A sloth can move ______ as fast in water as it can on land`twice
 India has a Bill of Rights for`cows
 What can run faster uphill than they can (or want to) downhill, because of the bone structure of their legs`bulls
@@ -877,13 +877,13 @@ What can run faster uphill than they can (or want to) downhill, because of the b
 The sperm of a _____ is longer than the sperm of an elephant`mouse
 A dog has`elbows
 Whales can't swim`backwards
-Penguins can jump over ____ feet`six*6
+Penguins can jump over ____ feet`six
 Lions have been exported to _____ by Windsor Safari Park in England`africa
-An Elephant has the world's largest penis, weighing about _____ kg`twenty seven*27
+An Elephant has the world's largest penis, weighing about _____ kg`twenty seven
 The aquatic animal, the Red Sponge, can be broken into a thousand pieces and still _______ itself`reconstitute
-The Moa bird of New Zealand, which became extinct four hundred years ago, was over ____ feet tall`ten*10
-Australian termites have been known to build mounds ______ feet high`twenty*20
-Australian termites have been known to build mounds at least ____ feet wide`one hundred*100
+The Moa bird of New Zealand, which became extinct four hundred years ago, was over ____ feet tall`ten
+Australian termites have been known to build mounds ______ feet high`twenty
+Australian termites have been known to build mounds at least ____ feet wide`one hundred
 The ________ is born under water`hippopotamus
 Catgut comes from _____ not cats`sheep
 Male cats have _____ on their genitals, which cause the females to cry out in pain on withdrawal`barbs
@@ -891,24 +891,24 @@ The average porcupine has about _______ quills`30,000
 Cats have no facility for tasting`sugar
 Only ___ mosquitoes bite`female
 It takes _______ to hardboil an ostrich egg`four hours*4 hours
-The nerve fibres in the squid are ____  times thicker than a humans'`five hundred*500
+The nerve fibres in the squid are ____  times thicker than a humans'`five hundred
 A shark must keep ___ ____  to stay alive`moving forward
 Fish are the only vertebrates that outnumber`birds
-Some snakes can take as long as ______ _______ hours to copulate`twenty four*24
-Polar bears can run as fast as _______ km/h`forty*40
+Some snakes can take as long as ______ _______ hours to copulate`twenty four
+Polar bears can run as fast as _______ km/h`forty
 A ______ is capable of devouring a pig whole`python
-The ordinary house-fly beats its wings nearly ____ _______ times a second`two hundred*200
+The ordinary house-fly beats its wings nearly ____ _______ times a second`two hundred
 Rhinoceros horn, when powered, is believed in some countries to increase a persons`sexual potency
-A mosquito has _____ teeth`forty seven*47
+A mosquito has _____ teeth`forty seven
 An anencephalous creature has no`brain
-A large whale needs more than _____ tonnes of food a day`two*2
+A large whale needs more than _____ tonnes of food a day`two
 Pedals were added to the bicycle in`1839
 The early personal computer, the Sinclair ZX80, had _________ of internal memory`1 kilobyte
 Allied bombers were issued with Biro pens as  pens leaked at high altitude`fountain
 The Dotmatrix printer was developed for the 1964 Tokyo Olympic Games by the Japanese company`seiko
-The worlds longest escalator is in Leningrad Metro, ______ metres long`one hundred & twenty*120
-The fluorescent tube uses ___% of the power to produce an equal amount of light as a tungsten filament bulb`twenty*20
-The tip of a rotary mower travels at over _____ km/hr`two hundred*200
+The worlds longest escalator is in Leningrad Metro, ______ metres long`one hundred & twenty
+The fluorescent tube uses ___% of the power to produce an equal amount of light as a tungsten filament bulb`twenty
+The tip of a rotary mower travels at over _____ km/hr`two hundred
 In an atom, the electron weighs _________ th of the weight of the proton`1/2000
 The world's oldest man-made alloy is`bronze
 Rainfall is measured with a`ombrometer
@@ -921,14 +921,14 @@ The diameter of wool is measured in`microns
 Gunpowder is formed after mixing charcoal, ______ and sulphur`saltpetre
 Gunpowder is formed after mixing charcoal, saltpetre and _______`sulphur
 Plutonium was developed by deuteron bombardment of uranium-238 in a`cyclotron
-Oxygen, carbon, hydrogen and nitrogen make up ______% of the human body`ninety*90
+Oxygen, carbon, hydrogen and nitrogen make up ______% of the human body`ninety
 The revolving door was invented in`1888
 Cars were first started with ignition keys in`1949
 The three primary colours are red, yellow and blue. The three secondary colours are`green, orange & purple
 The first washing machine was marketed by Hurley Machine Co in`1907
 Pearls melt in`vinegar
 Twenty two carat gold has _____ parts per thousand pure gold`916
-A shadow of a four-dimensional object would have _____ dimensions`three*3
+A shadow of a four-dimensional object would have _____ dimensions`three
 What color light has the greatest wavelength`red
 Brimstone, referred to in the Bible and some Alchemy text, is`sulphur
 Nicotinic acid is listed on breakfast cereal boxes as`niacin
@@ -936,25 +936,25 @@ The hottest flame known is produced with carbon subnitride (C4N2), which can gen
 Ninety eight per cent of the weight of water is made up from`oxygen
 For every extra kilogram carried on a space flight, _____ kg of excess fuel are needed at lift-off`530
 Sugar was first added to chewing gum in ____ . . . by a dentist ( William Semple)`1869
-A full loaded supertanker travelling at normal speed takes a least ______ minutes to stop`twenty*20
+A full loaded supertanker travelling at normal speed takes a least ______ minutes to stop`twenty
 Paper money was first used in`china
 Some soft drinks are made sweeter by adding`coal
-Albert Einstein was thought to be suffering from dyslexia, as he couldn't speak properly until he was _____ years old`nine*9
-The Chinese used fingerprints as a method of identification as far back as AD`seven hundred*700
-Sir Isaac Newton was only _______ ______  years old when he discovered the law of universal gravitation`twenty three*23
+Albert Einstein was thought to be suffering from dyslexia, as he couldn't speak properly until he was _____ years old`nine
+The Chinese used fingerprints as a method of identification as far back as AD`seven hundred
+Sir Isaac Newton was only _______ ______  years old when he discovered the law of universal gravitation`twenty three
 A flush toilet exists that dates back to`2000 bc
-No matter its size or thickness, no piece of paper can be folded in half more than ______ times`seven*7
+No matter its size or thickness, no piece of paper can be folded in half more than ______ times`seven
 Just after the first moon walk, Pan-American Airlines announced that they were willing to take enquires about future commercial flights to the moon. They received ________ requests almost immediately`80,000
 When cutting a diamond with a laser, _______ dust is formed`graphite
 The metal ______ will melt in the heat of your hands`gallium
-A Boeing 707 uses _____ _____ gallons of petrol in its take-off climb`four thousand*4000
+A Boeing 707 uses _____ _____ gallons of petrol in its take-off climb`four thousand
 The study of soil is`paedology
 The Lie Detector was invented by John Augustus Larson in`1921
 Another term for pure china clay is`kaolin
 Soap was originally made by boiling fat and adding ____ to it`lye
 The active ingredient in smelling salts is`ammonia
 Light is ______ ______ radiation`electro magnetic
-Minus ______ degrees Celsius is exactly the same as minus _____ degrees Fahrenheit`forty*40
+Minus ______ degrees Celsius is exactly the same as minus _____ degrees Fahrenheit`forty
 The screwdriver was invented before the`screw
 The first taxi with metered fares were operational in`1907
 Rubber is an impertinent ingredient in the manufacture of`bubble gum
@@ -968,17 +968,17 @@ The far side of the moon was first photographed by a Russian satellite in`1959
 Captain Cook was the first man to set foot on all continents except`antarctica
 The diameter of the Moon is ______ km`3,476
 200 million years ago Earth contained 1 land mass called`pangaea
-The largest wave ever recorded was near the Japanese Island of Ishigaki in 1971. It was recorded at ______metres high`eighty five*85
+The largest wave ever recorded was near the Japanese Island of Ishigaki in 1971. It was recorded at ______metres high`eighty five
 The largest iceberg recorded ( in 1956 ) was 200 miles long and 60 miles wide, larger that the country of`belgium
-The surface of the Dead Sea is _______ metres below the surface of the Mediterranean Sea, which is only 75 km away`four hundred*400
+The surface of the Dead Sea is _______ metres below the surface of the Mediterranean Sea, which is only 75 km away`four hundred
 The country of Benin changed its name from Dahomey in`1975
-The Nova Zemlya Glacier in the (former) USSR is over _____ km long`four hundred*400
+The Nova Zemlya Glacier in the (former) USSR is over _____ km long`four hundred
 The coldest temperature ever recorded was ____ deg Celsius, in Siberia`-70
 The US state of Florida first saw the cultivation of oranges in`1539
 The world's largest exporter of sugar is`cuba
 There are no rivers in`saudi arabia
-England's Stonehenge is ______ years older than Rome's Colosseum`fifteen hundred*1500
-In 1896, Britain and Zanzibar were at war for _____ minutes`thirty eight*38
+England's Stonehenge is ______ years older than Rome's Colosseum`fifteen hundred
+In 1896, Britain and Zanzibar were at war for _____ minutes`thirty eight
 Numbering houses in London streets only began in`1764
 More than 75% of all the countries in the world are _____ of the equator`north
 Less than 1% of the ________ Islands are inhabited`caribbean
@@ -991,7 +991,7 @@ It takes 8.5 minutes for light to get from the ____ to earth`volcanic
 The tree dictated on the Lebanese flag is a`cedar
 The _____ Ocean covers the world's longest mountain range`atlantic
 In 1825 Upper Peru became`bolivia
-New York City contains ________ kilometres of shoreline`nine hundred & twenty*920
+New York City contains ________ kilometres of shoreline`nine hundred & twenty
 There are 3 Great pyramids at`giza
 The world's largest delta was created by the river`ganges
 60% of all US potato products originate in`idaho
@@ -999,21 +999,21 @@ The northern most country claiming part of Antarctica is`norway
 The inhabitants of ________ are known as 'Monegasques'`monaco
 New York's Central Park opened in`1876
 The city of Istanbul straddles two separate continents, ______ & _______ `europe & asia
-At the nearest point , Russia and America are less than ____ km apart`four*4
+At the nearest point , Russia and America are less than ____ km apart`four
 99% of the solar systems mass is concentrated in the`sun
 The furthest point from any ocean would be in`china
 The Tibetan Mountain people use yak's milk as their form of`currency
 The Spanish Inquisition once condemned the entire _______ to death for heresy`netherlands
 Earth is the only planet not named after a`god
-The Angel falls in Venezuela are nearly _________ times taller than Niagara falls`twenty*20
-The Channel between England and France grows about ______ millimetres each year`three hundred*300
+The Angel falls in Venezuela are nearly _________ times taller than Niagara falls`twenty
+The Channel between England and France grows about ______ millimetres each year`three hundred
 Until the 18th century ____  produced almost all the worlds diamonds`india
 As the Pacific plate moves under its coast, the ______ Island of New Zealand is getting larger`north
-If you travel from east to west across the Soviet Union, you will cross _____ time zones`seven*7
+If you travel from east to west across the Soviet Union, you will cross _____ time zones`seven
 Sahara mean _______ in Arabic`desert
-Every litre of water taken from the Red Sea would contain about _____ grams of salt`two hundred*200
-Lighting strikes the Earth about ______ times a second`two hundred*200
-Very hard rain would pour down at the rate of about _____ miles per hour`twenty*20
+Every litre of water taken from the Red Sea would contain about _____ grams of salt`two hundred
+Lighting strikes the Earth about ______ times a second`two hundred
+Very hard rain would pour down at the rate of about _____ miles per hour`twenty
 No rain has ever been recorded falling in the Atacama desert in`chile
 The background radiation in ________ is twice that of the rest of Great Britain`aberdeen
 The southern most tip of Africa is not the 'Cape of Good Hope' but`cape agulhas
@@ -1022,21 +1022,21 @@ The tower of London, during its lifetime has served many purposes, including a`z
 There is a village near the Somme in ______ which is simply called Y`france
 In the north of _______, the sun shines constantly for about 14 weeks each summer`norway
 The Polynesian country of _______ is a 170 square kilometre limestone rock emerging 60 metres from the Pacific`niue
-Yugoslavia is bordered by _____ other countries`seven*7
+Yugoslavia is bordered by _____ other countries`seven
 Within a few years of Columbus' discovery of America, the ______ had killed one and a half million Indians`spaniards
 Hawaii officially became apart of the US on June 14,`1900
 If the population of China walked past you in single file, the line would never end because of the rate of`reproduction
 The earth's average velocity orbiting the sun is _________ km per hour`107,220
 The sun has a core temperature of ________ Kelvin`154,000,000
-A day on Jupiter is about ____ hours, 50 minutes, 30 seconds at the equator`nine*9
-Carolyn Shoemaker has discovered 32 comets and approximately  ______ asteroids`eight hundred*800
-The Earth is pear shaped, the North Pole radius being ____ mm longer than the South Pole radius`forty four*44
+A day on Jupiter is about ____ hours, 50 minutes, 30 seconds at the equator`nine
+Carolyn Shoemaker has discovered 32 comets and approximately  ______ asteroids`eight hundred
+The Earth is pear shaped, the North Pole radius being ____ mm longer than the South Pole radius`forty four
 'Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu'  is the name of a hill in`new Zealand
 The book by Copernicus, which suggested that the Sun and not the Earth was the centre of the solar system, was banned officially banned by the Papacy until`1835
 A quarter of Russia is covered by`forest
 South Africa produces two-thirds of the world's`gold
 What is the densest planet in the solar system`earth
-There is no point in England more than _____ miles from the ocean`seventy five*75
+There is no point in England more than _____ miles from the ocean`seventy five
 The ____ sea is not mentioned in the Bible`red
 England is smaller than`new england
 The number of UFO sightings constantly increase when _____ is nearest the Earth`mars
@@ -1044,7 +1044,7 @@ The first city in the world to have a population of over one million was`london
 New York was once`new amsterdam
 The fastest tectonic movement on earth is 240 mm per year, at the Tonga micro-plate near`samoa
 In 1980 Rhodesia became independent`zimbabwe
-The model ape used in the 1933 movie ' King Kong ' was ______ inches tall`eighteen*18
+The model ape used in the 1933 movie ' King Kong ' was ______ inches tall`eighteen
 There are over ______ verses in the Bible`30,000
 The tablecloth in da Vinci's Last supper was`white
 World heavyweight boxing champion, Gene Tunney also lectured on Shakespeare at _____ University later in his life`yale
@@ -1054,7 +1054,7 @@ The 'Thing', from the movie of the same name, had ___ blood`green
 Charles Dickens was an insomniac, who believed his best chance of sleeping was in the centre of a bed facing directly`north
 The writer, Rudyard Kipling, only ever used _____ ink`black
 John Lennon's middle name was`winston
-Over ________ different languages are spoken throughout what used to be known as the Soviet Union`two hundred*200
+Over ________ different languages are spoken throughout what used to be known as the Soviet Union`two hundred
 The 3 largest newspaper circulations are`russian
 There are ______ semihemidemisemiquavers in a breve`256
 The subject of the first printed book in England was`chess
@@ -1063,7 +1063,7 @@ Monaco's national _______ is bigger than its army`orchestra
 Of the two chipmunks, Chip and Dale, ____ has the black nose`chip
 Charlie Chaplain's cane was made of`bamboo
 Colophony is a`bow resin
-A Penny whistle has ____ finger holes`six*6
+A Penny whistle has ____ finger holes`six
 Turkey has a ban on _______ in films`kissing
 EMI stands for`electrical and musical instruments
 Leonardo da Vinci played the`viola
@@ -1073,8 +1073,8 @@ The first recorded reference to cricket dates back to`1272
 The highjump method of jumping head first and landing on their back is called the`fosbury flop
 Orienteering originated in`sweden
 Snooker originated in`india
-A soccer ball has _____ panels`thirty two*32
-To a yachtsman, a fresh breeze is about _____ knots`twenty*20
+A soccer ball has _____ panels`thirty two
+To a yachtsman, a fresh breeze is about _____ knots`twenty
 The collecting of Beer mats is called`tegestology
 Grabatology is the collecting of`ties
 The Australian term for extras in cricket are`sundries
@@ -1094,31 +1094,31 @@ Venus is __________ kilometres in diameter`12,000
 Venus is __________ miles in diameter`7,456
 Mars is __________ kilometres in diameter`6,790
 Mars is __________ miles in diameter`4,219
-One day on Mercury lasts  _____ Earth days`fifty eight*58
-Venus is ____ million kilometres from the Sun`one hundred & eight*108
-Mars is ____ million kilometres from the Sun`two hundred & twenty eight*228
+One day on Mercury lasts  _____ Earth days`fifty eight
+Venus is ____ million kilometres from the Sun`one hundred & eight
+Mars is ____ million kilometres from the Sun`two hundred & twenty eight
 Jupiter is _________ kilometres in diameter`143,000
 Jupiter is _________ miles in diameter`89,000
-Jupiter is ____ million kilometres from the Sun`seven hundred & seventy eight*778
+Jupiter is ____ million kilometres from the Sun`seven hundred & seventy eight
 Neptune is _________ million kilometres from the Sun`4,500
 Uranus is ______ kilometres in diameter`52,000
 Uranus is ______ miles in diameter`32,000
 Uranus is ______ million kilometres from the Sun`2,870
 Earth is ______ kilometres in diameter`3,476
 Earth is ______ miles in diameter`2,160
-Earth is ______ million kilometres from the Sun`one hundred & fifty*150
-One "day" on Mercury lasts more than ___ Earth days`fifty eight*58
-Venus takes nearly ___ Earth days to circle the Sun`two hundred & twenty five*225
+Earth is ______ million kilometres from the Sun`one hundred & fifty
+One "day" on Mercury lasts more than ___ Earth days`fifty eight
+Venus takes nearly ___ Earth days to circle the Sun`two hundred & twenty five
 Mars is sometimes called the ___ planet`red
-Mars takes ______ Earth days to circle the sun`six hundred & eighty seven*687
-Saturn takes just over ____ Earth years to circle the Sun`twenty nine*29
+Mars takes ______ Earth days to circle the sun`six hundred & eighty seven
+Saturn takes just over ____ Earth years to circle the Sun`twenty nine
 When was the last Supernova in our galaxy`1604
 Gas from a Supernova can travel up to _________ kilometres per second`10,000
 Gas from a Supernova can travel up to _________ miles per second`6,000
 One light year is equivalent to how many million kilometres`9,460,000
 One light year is equivalent to how many million miles`5,912,500
 When was the first space shuttle launched`april, 1981
-How many signs in the Zodiac`twelve*12
+How many signs in the Zodiac`twelve
 What is the Zodiac sign of the scorpion`scorpio
 What is the Zodiac sign of the scales`libra
 What is the Zodiac sign of the virgin`virgo
@@ -1133,9 +1133,9 @@ What is the Zodiac sign of the goat`capricorn
 What is the Zodiac sign of the fish`pisces
 What is the largest of the dinosaur family`brachiosaurus
 What does the name "Brachiosaurus" mean`arm lizard
-Approximately how tall was the Brachiosaurus, in metres`twelve*12
-Approximately how long was the Brachiosaurus, in metres`twenty four*24
-Approximately how long was the Diplodocus, in metres`twenty seven*27
+Approximately how tall was the Brachiosaurus, in metres`twelve
+Approximately how long was the Brachiosaurus, in metres`twenty four
+Approximately how long was the Diplodocus, in metres`twenty seven
 While the earth's atmosphere is divided into 4 main zones, which is the highest zone`exosphere
 The main elements of the Exosphere are hydrogen and ______`helium
 The Exosphere merges with the _______ `ionosphere
@@ -1166,65 +1166,65 @@ What is the monetary unit of Gambia`dalasi
 What is the monetary unit of Ghana`cedi
 What is the monetary unit of Kenya`shilling
 In ancient Rome, auburn-haired puppies were sacrificed to ensure a plentiful ______ crop`corn
-Ostriches live about ____ years and can reproduce for 50 years`seventy five*75
+Ostriches live about ____ years and can reproduce for 50 years`seventy five
 In England, the most commonly used guide dog for the blind is the__________`yellow labrador retriever
 Contrary to popular belief, dogs do not sweat by salivating. They sweat through the____________`pads of their feet
 In Korea, the _____ is a symbol of long life, and is often portrayed in the company of immortals`deer
-Cougars can kill animals ______ times their size`eight*8
-The venom of the king cobra is so deadly that one gram of it can kill ______ people`one hundred and fifty*150
+Cougars can kill animals ______ times their size`eight
+The venom of the king cobra is so deadly that one gram of it can kill ______ people`one hundred and fifty
 The Virginia opossum is the only marsupial (pouched mammal) indigenous to __________`north america
-The Virginia opossum have a litter size of up to ____`twenty two*22
-The opossum offspring say in their mothers pouch for the first __________ days`sixty*60
-The largest Great White Shark ever caught measured _______ feet`thirty seven*37
+The Virginia opossum have a litter size of up to ____`twenty two
+The opossum offspring say in their mothers pouch for the first __________ days`sixty
+The largest Great White Shark ever caught measured _______ feet`thirty seven
 The largest Great White Shark ever caught weighed ________ pounds`24,000
-The largest jellyfish in the world has a bell that can reach _______ feet across`eight*8
+The largest jellyfish in the world has a bell that can reach _______ feet across`eight
 The burrowing boodie of Australia is the only kangaroo in the world that lives _________`underground
 The whistling swan has more than __________ feathers on its body`25,000
-Pandas spend about _____ hours a day eating bamboo`twelve*12
+Pandas spend about _____ hours a day eating bamboo`twelve
 The white elephant is the sacred animal of _______`thailand
 The largest order of mammals, with about _____ species, is rodents`1,700
-Bats are second largest order of mammals, with about ______ species`nine hundred and fifty*950
-In one year, hens in America lay enough eggs to encircle the globe  _____ times`one hundred*100
-The woolly mammoth, extinct since the Ice Age, had tusks almost _____ feet high`sixteen*16
-The largest species of seahorse measures _____ inches`eight*8
+Bats are second largest order of mammals, with about ______ species`nine hundred and fifty
+In one year, hens in America lay enough eggs to encircle the globe  _____ times`one hundred
+The woolly mammoth, extinct since the Ice Age, had tusks almost _____ feet high`sixteen
+The largest species of seahorse measures _____ inches`eight
 In Pakistan, goats are often sacrificed to improve the performance of the________`stock market
 The word "puppy" comes from the French poupee, meaning`doll
 The leech has 32 _______`brains
 In Russia, dogs have been trained to sniff out ore deposits that contain _________`iron sulfides
 The word "struthious" refers to something that resembles or is related to ______`ostriches
-The leech will gorge itself up to _____ times its body weight and then just fall off its victim`five*5
+The leech will gorge itself up to _____ times its body weight and then just fall off its victim`five
 The chameleon has a tongue that is _______ times the length of its body`1.5
-In the air, puffins are powerful flyers, beating their wings 300 to 400 times a minute to achieve speeds up to _____ miles per hour`forty*40
-The world's fastest reptile (measured on land) is the spiny-tailed iguana of Costa Rica. It has been clocked at nearly _____ miles per hour`twenty two*22
+In the air, puffins are powerful flyers, beating their wings 300 to 400 times a minute to achieve speeds up to _____ miles per hour`forty
+The world's fastest reptile (measured on land) is the spiny-tailed iguana of Costa Rica. It has been clocked at nearly _____ miles per hour`twenty two
 The life expectancy of the average mockingbird is ____ years`10
 Pigs, walruses, and light-colored horses can be`sunburned
-The lungfish can live out of water in a state of suspended animation for _____ years`three*3
-The chicken can travel up to _____ miles per hour`nine*9
+The lungfish can live out of water in a state of suspended animation for _____ years`three
+The chicken can travel up to _____ miles per hour`nine
 Pink elephants? In regions of India where the soil is red, elephants take on a permanent pink tinge because they regularly spray dust over their bodies to protect themselves against ________`insects
 It is estimated that a single toad may catch and eat as many as ________ insects in the course of a summer`10,000
-Prior to migration a goose will consume the equivalent of up to ____ percent of its body weight per day, accumulating large amounts of fat`twenty five*25during the migration, geese may cover up to ____ miles per day*six hundred*600
-It is estimated that manatees live a maximum of ___ years`sixty*60
+Prior to migration a goose will consume the equivalent of up to ____ percent of its body weight per day, accumulating large amounts of fat`twenty five*25during the migration, geese may cover up to ____ miles per day*six hundred
+It is estimated that manatees live a maximum of ___ years`sixty
 A "winkle" is an edible`sea snail
-A 42-foot sperm whale has about _____ tons of oil in it`seven*7
-A 4-inch-long abalone can grip a rock with a force of ______ pounds`four hundred*400
+A 42-foot sperm whale has about _____ tons of oil in it`seven
+A 4-inch-long abalone can grip a rock with a force of ______ pounds`four hundred
 A baby giraffe is about _____ feet tall at birth`6
 A baby gray whale drinks enough milk to fill more than ______ bottles a day`2,000
-A bear in hibernation loses up to _____ percent of its body weight`twenty five*25
-The world's largest mammal, the blue whale, weighs _____ tons at birth`fifty*50
- Fully grown, a blue whale can weigh as much as ______ tons`one hundred and fifty*150
+A bear in hibernation loses up to _____ percent of its body weight`twenty five
+The world's largest mammal, the blue whale, weighs _____ tons at birth`fifty
+ Fully grown, a blue whale can weigh as much as ______ tons`one hundred and fifty
 There are ________ known species of starfishes in the world`1,600
 The color of the blood of an octopus is`bluish green
 A bison can jump ___ feet`6
 There are _____ species of parrotsthree hundred and twenty eight`328
 Racehorses have been known to wear out new ______ in one race`shoes
 There are ________ muscles and tendons in an elephant's trunk`40,000
-Rats can swim for a 1/2 mile without resting, and they can tread water for _____ days straight`three*3
-There are ______ known species of bats`six hundred and ninety*690
-The massive skeleton of the African elephant accounts for about _______ percent of the body weight`fifteen*15
+Rats can swim for a 1/2 mile without resting, and they can tread water for _____ days straight`three
+There are ______ known species of bats`six hundred and ninety
+The massive skeleton of the African elephant accounts for about _______ percent of the body weight`fifteen
 The crayfish isn't a fish at all - it is related to the`lobster
-There are about _____ species of owl`one hundred and thirty*130
-It takes a lobster approximately ________ years to grow to be one pound`seven*7
-It takes about _______ hours for a snake to digest one frog`fifty*50
+There are about _____ species of owl`one hundred and thirty
+It takes a lobster approximately ________ years to grow to be one pound`seven
+It takes about _______ hours for a snake to digest one frog`fifty
 There are about _______ species of coral known`5,000
 The Mola Mola, or Ocean Sunfish, lays up to _______ eggs at one time`five million*5,000,000
 Researchers don't know why killer whales like to rub their sensitive stomachs on the bottom of shallow beaches, but they think it may be a form of`grooming
@@ -1233,10 +1233,10 @@ The crocodile is surprisingly fast on land. If pursued by a crocodile, a person 
 What city has more homeless cats per square mile than any other city in the world`rome
 It takes approximately ____ venom extractions from the coral snake to fill a 1-pint container`69,000
 The most carnivorous of all bears is the ______ bear`polar
-It would require an average of ____ hummingbirds to weigh in at 1 ounce`eighteen*18
+It would require an average of ____ hummingbirds to weigh in at 1 ounce`eighteen
 The digestive juices of crocodiles contain so much __________ that they have dissolved iron spearheads and 6-inch steel hooks that the crocodiles have swallowed`hydrochloric acid
-Seals can withstand water pressure of up to _________ pounds per square inch`eight hundred and fifty*850
-Jackrabbits are powerful jumpers. A 20-inch adult can leap ___ feet in a single bound`twenty*20
+Seals can withstand water pressure of up to _________ pounds per square inch`eight hundred and fifty
+Jackrabbits are powerful jumpers. A 20-inch adult can leap ___ feet in a single bound`twenty
 Javelinas are very noisy animals among each other and squeal, snort, woof, and click their teeth to`communicate
 There are close to ______ known species of frogs, including toads`4,000
 The most venomous of all snakes, known as the _____, has enough venom in one bite to kill more than 200,000 mice`taipan
@@ -1245,30 +1245,30 @@ Bactrian camels have survived in a land with no water in an area used for nuclea
 The dog and the turkey were the only two domesticated animals in ancient`mexico
 The ________ is a fish that can actually walk on land`mudskipper
 Time magazine named the computer its "Man of the Year" in`1982
-A 1999 survey of 25,500 standard English-language dictionary words found that ______ percent of them have been registered as .coms`ninety three*93
+A 1999 survey of 25,500 standard English-language dictionary words found that ______ percent of them have been registered as .coms`ninety three
 A ball of glass will bounce higher than a ball of`rubber
 A ball of solid steel will bounce higher than one made entirely of`glass
 A chest X-ray is comprised of 90,000 to 130,000 ______ volts`electron
-A NUKE InterNETWORK poll found that ________ percent of Internet users have cut back on watching TV in order to spend more time online; 12 percent have cut back on seeing friends`fifty two*52
-A standard 747 Jumbo Jet has ______ seats`four hundred and twenty*420
+A NUKE InterNETWORK poll found that ________ percent of Internet users have cut back on watching TV in order to spend more time online; 12 percent have cut back on seeing friends`fifty two
+A standard 747 Jumbo Jet has ______ seats`four hundred and twenty
 After his death in 1937, Guglielmo Marconi, inventor of the ___________ was honored by broadcasters worldwide as they let the airwaves fall silent for two minutes in his memory`wireless telegraph
 Artificial rain was first used near _______, New Hampshire, in 1947 to fight a forest fire`concord
 At a glance, the Celsius scale makes more sense than the Fahrenheit scale for temperature measuring. But its creator, Anders Celsius, was an oddball scientist. When he first developed his scale, he made freezing 100 degrees and boiling 0 degrees, or upside down. No one dared point this out to him, so fellow scientists waited until Celsius died to change the scale. True or False`true
-At a jet plane's speed of  ______ miles per hour, the length of the plane becomes one atom shorter than its original length`six hundred and twenty*620
-Bill Gates formed a company to sell a computerized traffic counting system to cities, which made $20,000 its first year. Business dropped sharply when customers learned Gates was only _______ years old`fourteen*14
+At a jet plane's speed of  ______ miles per hour, the length of the plane becomes one atom shorter than its original length`six hundred and twenty
+Bill Gates formed a company to sell a computerized traffic counting system to cities, which made $20,000 its first year. Business dropped sharply when customers learned Gates was only _______ years old`fourteen
 Colonel Waring, New York City Street Cleaning Commissioner, was responsible for organizing the first rubbish-sorting plant for recycling in the United States in`1898
 Cooking and salad _____ could lubricate machinery, such as cars and boats, according to Penn State chemical engineers`oils
 Dating back to the 1600s, thermometers were filled with ______ instead of mercury`brandy
 Early models of vacuum cleaners were powered by`gasoline
 Focus group information compiled by CalComp revealed that 50 percent of computer users do not like using a`mouse
-From 9,000 pounds of roses, which totals about 55,000 blossoms, ___ pounds of costly rose essence can be extracted to be used as a component in fragrances`two*2
+From 9,000 pounds of roses, which totals about 55,000 blossoms, ___ pounds of costly rose essence can be extracted to be used as a component in fragrances`two
 The condensed water vapor trail left behind by jets and rockets is called a`contrail
-The first automobile to cross the United States took ______ days in 1903 to travel from San Francisco to New York`fifty two*52
+The first automobile to cross the United States took ______ days in 1903 to travel from San Francisco to New York`fifty two
 The first commercial passenger airplane began flying in`1914
 The first commercial passenger airplane with a bathroom began flying in`1919
 The first parking meter was installed in Oklahoma City, Oklahoma, in`1935
 The first video game was _____, introduced in 1972 by Noel Bushnell, who then created Atari`pong
-The highest man-made temperature - _____ million degrees Celsius - was generated at Princeton University in a fusion power experiment in 1978`seventy*70
+The highest man-made temperature - _____ million degrees Celsius - was generated at Princeton University in a fusion power experiment in 1978`seventy
 The last 12-cylinder car produced in the United States was the 1948 __________`lincoln continental
 Gold salts are sometimes injected into the muscles to relieve`arthritis
 What is used as a center for golf balls and in antifreeze mixtures`honey
@@ -1278,18 +1278,18 @@ In 1878, Wanamaker's of Philadelphia was the first U.S. department store to inst
 In 1900, there were _______ cars in the United States`8,000
 By 1919, there were _________ cars in the U.S`six million*6,000,000
 The little "m's" on "M&M's"(r) Chocolate Candies weren't printed on the candies until ____`1950
-The maximum flight speed of a Boeing 747-300 jetliner is __________ miles per hour`five hundred and eighty three*583
+The maximum flight speed of a Boeing 747-300 jetliner is __________ miles per hour`five hundred and eighty three
 The ______ is the U.S. Marine tilt-rotor transport that takes off and lands like a helicopter, but flies like an airplane`osprey
 The Osprey is also known as the`v-22
-The rare metal gallium melts at _________ degrees Fahrenheit. It is safe to touch; if you hold a piece of it in your hand and wait, it will melt`eighty six*86
+The rare metal gallium melts at _________ degrees Fahrenheit. It is safe to touch; if you hold a piece of it in your hand and wait, it will melt`eighty six
 The Studebaker auto company produced a car called the "_____" from 1927-1936`dictator
 The Times Square "time ball" for the year 2000 was named the`star of hope
 The Times Square "time ball" for the year 2000 was specially made by _________ in Ireland`waterford crystal
-The Times Square "time ball" for the year 2000 contained _____ glass crystals cut into triangles`five hundred and four*504
-The Times Square "time ball" for the year 2000 contained _______ light bulbs`six hundred*600
-The Times Square "time ball" for the year 2000 contained _______ big lights`ninety six*96
-The Times Square "time ball" for the year 2000 contained _______ mirrors`ninety two*92
-In 1995, the average U.S. public school contained _____ computers`seventy two*72
+The Times Square "time ball" for the year 2000 contained _____ glass crystals cut into triangles`five hundred and four
+The Times Square "time ball" for the year 2000 contained _______ light bulbs`six hundred
+The Times Square "time ball" for the year 2000 contained _______ big lights`ninety six
+The Times Square "time ball" for the year 2000 contained _______ mirrors`ninety two
+In 1995, the average U.S. public school contained _____ computers`seventy two
 In computer-ese, "wysiwyg" is an acronym for`what you see is what you get
 In December of 1957 -- Shippingport, Pennsylvania became the site of the first full-scale ______ power plant in the U.S`nuclear
 In July of 1955 - Arco, Idaho, with a population of 1,000, became the first U.S. town powered by nuclear energy. The town's energy was supplied by an experimental boiling-water reactor called the`borax iii
@@ -1300,9 +1300,9 @@ There are five types of simple machines: the lever, the pulley, the _________, t
 There are five types of simple machines: the lever, the pulley, the inclined plane, the _____, and the wheel and axle`screw
 There are five types of simple machines: the lever, the pulley, the inclined plane, the screw, and the__________`wheel and axle
 There are hefty pricetags on some Internet domain names. The highest-selling domain name to date, business.com, went for ________ in 1999`$7.5 million
-There are more than ____ satellites orbiting earth solely for the purpose of private communications services, including pagers, telephones, and computers`two hundred*200
+There are more than ____ satellites orbiting earth solely for the purpose of private communications services, including pagers, telephones, and computers`two hundred
 Thirty-two percent of computer data loss cases are due to ______ error`human
-In Rome, the world's first paved streets were laid out in _____ B.C`one hundred and seventy*170
+In Rome, the world's first paved streets were laid out in _____ B.C`one hundred and seventy
 In the military world, EGADS is an acronym for`electronic ground automatic destruct system
 In web site addresses on the Internet, "http" stands for`hypertext transfer protocol
 In years past, spermaceti oil - from the sperm whale - was used as _________ in Rolls-Royce automobiles`transmission oil
@@ -1314,7 +1314,7 @@ What cities expressways, built on a radial pattern dating from the eighteenth ce
 A device invented as a primitive steam engine by the Greek engineer Hero, about the time of the birth of Christ, is used today as a`rotating lawn sprinkler
 During the U.S. Civil War, telegraph wires were strung to follow and report on the action on the battlefield. But there was no telegraph office in the White House, so President Lincoln trekked across the street to the ___________ to get the news`war department
 In ___, Namco released Pac-Man, the most popular arcade game of all time`1979
-WD-40 Company products are sold in more than ________ countries around the world`one hundred and fifty*150
+WD-40 Company products are sold in more than ________ countries around the world`one hundred and fifty
 When the first escalator, or "inclined elevator," was installed in the department store Harrod's in London (near the turn of the century), ________ was served to passengers who felt faint`brandy
 It takes _____ watts to run an electric toaster`1,100
 It took Henry Ford's Motor Company seven years to manufacture 1 million automobiles. One hundred thirty-two working days after this figure was reached (in 1924), the company had made ______  more cars`nine million*9,000,000
@@ -1322,10 +1322,10 @@ Microsoft CEO Bill Gates, launched his business career in 1969, at age 14 by for
 Nanotechnology has produced a guitar no bigger than a ______ `blood cell
 The smallest guitar made by Nanotechnology is _________ long, has six strummable strings`10 micrometers
 Natural gas has no`smell
-Penicillin causes about ________ deaths in the United States every year`three hundred*300
+Penicillin causes about ________ deaths in the United States every year`three hundred
 Forget-me-not pollen grains are so small that _______ of them can fit on the head of a pin`ten thousand*10,000
 The sale of lawn mowers got a great boost when lawn tennis came into vogue in England in`1870
-Skydivers accelerate to a terminal velocity of ______ mph`one hundred and twenty*120
+Skydivers accelerate to a terminal velocity of ______ mph`one hundred and twenty
 Some Chinese typewriters have ______ characters`5,700
 Steve Jobs and Steve Wozniak are best known as the creators of the _____ computer`apple
 Steve Jobs and Steve Wozniak designed a popular arcade game for Atari called`breakout
@@ -1335,23 +1335,23 @@ The B-2 Stealth Bomber is designed to fly undetected by`radar
 In Milwaukee during the 1900s, ______ horses in the city left an estimated 133 tons of manure and urine on the streets per year`12,500
 In Milwaukee during the 1900s, 12,500 horses in the city left an estimated ____ tons of manure and urine on the streets per year`133
 Sharks and rays are the only animals known to man that cannot succumb to cancer. Scientists believe this is related to the fact that they have no bone - only`cartilage
-The duckbill platypus of Australia can store up to _____ worms in its large cheek pouches`six hundred*600
-There are more than ____ species of finches throughout the world`four hundred and fifty*450
+The duckbill platypus of Australia can store up to _____ worms in its large cheek pouches`six hundred
+There are more than ____ species of finches throughout the world`four hundred and fifty
 The ears of the Asiatic _____ bears are larger than those of other bear species`black
-Sharks can travel up to _____ miles per hour`forty*40
-The Nile crocodile averages about 45 years in the wild, and may live up to ____ years in captivity`eighty*80
+Sharks can travel up to _____ miles per hour`forty
+The Nile crocodile averages about 45 years in the wild, and may live up to ____ years in captivity`eighty
 Sheep will not drink from __________. Hence, the line in the Twenty-third Psalm: "He leadeth me beside the still waters"`running water
 There are no wild deer of any kind in Australia, and the small red deer is the only one found in`africa
-The normal body temperature of the Clydesdale horse is ________ degrees Fahrenheit`one hundred and one*101
-There are _______ distinctive types of combs on chickens`seven*7
+The normal body temperature of the Clydesdale horse is ________ degrees Fahrenheit`one hundred and one
+There are _______ distinctive types of combs on chickens`seven
 The now-extinct ancestor of the horse, _______, had a short neck, a pug muzzle, and stood no higher than a medium-sized dog`eohippus
-The electric eel is the most shocking animal on Earth - no other animal packs such a big charge. If attacking a large prey, a 9-foot-long eel can discharge about _____ volts`eight hundred*800
+The electric eel is the most shocking animal on Earth - no other animal packs such a big charge. If attacking a large prey, a 9-foot-long eel can discharge about _____ volts`eight hundred
 Since white tigers have pigmented stripes and blue eyes, they are not`albinos
-There are some _____ different species of sea snakes, and all of them are venomous`fifty*50
+There are some _____ different species of sea snakes, and all of them are venomous`fifty
 The once popular dog name "Fido" is from Latin and means`fidelity
 Most lipstick contains`fish scales
 What is the longest word that alternates hands`skepticisms
-No piece of square dry paper can be folded more than _____ times in half`seven*7
+No piece of square dry paper can be folded more than _____ times in half`seven
 A group of geese on the ground is a gaggle, a group of geese in the air is a`skein
 Over _______ left handed people a year are killed from using products made for right handed people`2500
 There are more than _______ bricks in the Empire State Building`10 million
@@ -1365,20 +1365,20 @@ The longest recorded flight of a chicken is`thirteen seconds*13 seconds
 The world's termites outweigh the world's humans 10 to 1`humans
 The electric chair was invented by a`dentist
 Windmills always turn counter-clockwise. Except for the windmills in`ireland
-A hedgehog's heart beats ______ times a minute on average`three hundred*300
+A hedgehog's heart beats ______ times a minute on average`three hundred
 Camels have three ______ to protect themselves from blowing sand`eyelids
 The placement of a donkey's eyes in its' heads enables it to see all it's ___ at all times`feet
-A mole can dig a tunnel ________ feet long in just one night`three hundred*300
+A mole can dig a tunnel ________ feet long in just one night`three hundred
 A hummingbird weighs less than a`penny
 Until 1796, there was a state in the United States called Franklin. Today it's known as`tennessee
 The Earth weighs around _____________ tons`6,588,000,000,000,000,000,000,000
 A cockroach can live several weeks with its _______ cut off - it dies from starvation`head
 Every time you lick a _____, you're consuming 1/10 of a calorie`stamp
 The average person has over ________ dreams a year`1,460
-One in every _____ Americans has appeared on television`four*4
+One in every _____ Americans has appeared on television`four
 The average American/Canadian will eat about 11.9 pounds of _______ per year`cereal
 It's against the law to burp, or sneeze in a certain church in`omaha, nebraska
-You're born with 300 bones, but when you get to be an adult, you only have`two hundred and six*206
+You're born with 300 bones, but when you get to be an adult, you only have`two hundred and six
 Human thigh bones are stronger than`concrete
 Over _________ birds a year die from smashing into windows`ten thousand*10,000
 The state of Florida is bigger than`england
@@ -1387,18 +1387,18 @@ Your heart beats over _________ times a day`one hundred thousand*100,000
 Thomas Edison, lightbulb inventor, was afraid of the`dark
 Some ribbon worms will eat _______ if they cant find any food`themselves
 Dolphins ________ with one eye open`sleep
-The worlds oldest piece of chewing gum is over _____ years old`nine thousand*9000
+The worlds oldest piece of chewing gum is over _____ years old`nine thousand
 In space, astronauts cannot cry, because there is no ________, so the tears can't flow`gravity
 There are more ______ flamingos in the U.S, than real ones`plastic
 About 3000 years ago, most _____ died by the time they were 30`egyptians
 More people use ______ toothbrushes, than red ones`blue
 More people use blue toothbrushes, than ____ ones`red
-A sneeze travels out your mouth at over ______ m.p.h.`one hundred*100
+A sneeze travels out your mouth at over ______ m.p.h.`one hundred
 Your ribs move about _______ times a year, every time you breathe`five million
 In the White House, there are _______ knives, forks and spoons`13,092
-Recycling one glass jar, saves enough energy to watch T.V for ________ hours`three*3
+Recycling one glass jar, saves enough energy to watch T.V for ________ hours`three
 Lightning strikes about _______ times per minute on this planet`six thousand*6,000
-The average American/Canadian drinks about _______ sodas a year`six hundred*600
+The average American/Canadian drinks about _______ sodas a year`six hundred
 It was once against the law to slam your car door in a city in`switzerland
 There wasn't a single pony in the Pony Express, just`horses
 Honeybees have a type of _______ on their eyes`hair
@@ -1412,8 +1412,8 @@ The penguin is the only bird who can swim, but not`fly
 What is the only letter in the alphabet that does not appear in the name of any of the United States!`q
 One quarter of the bones in your body are in your`feet
 Fortune cookies were actually invented in America, in ______, by Charles Jung`1918
-A man named Charles Osborne had the hiccups for _________ years`sixty nine*69
-A giraffe can clean its ears with its _____-inch tongue`twenty one*21
+A man named Charles Osborne had the hiccups for _________ years`sixty nine
+A giraffe can clean its ears with its _____-inch tongue`twenty one
 Chewing gum while peeling onions will keep you from`crying
 How many pieces of mail are delivered each year in the U.S`166,875,000,000
 How many miles of telephone wire a strung across the U.S`1,525,000,000
@@ -1426,11 +1426,11 @@ In Tokyo, they sell toupees for`dogs
 There are over _______ dogs in the U.S`fifty eight million*58,000,000
 Dogs and cats consume over ________ worth of pet food a year`$11,000,000,000
 You blink over _______ times a year`10,000,000
-Baby robins eat _____ feet of earthworms every day`fourteen*14
+Baby robins eat _____ feet of earthworms every day`fourteen
 In England, in the 1880's, ______ was considered a dirty word`pants
 Most dust particles in your house are made from`dead skin
 The blesbok, a South African ______, is almost the same color as grapejuice`antelope
-The average person laughs _______ times a day`thirteen*13
+The average person laughs _______ times a day`thirteen
 Dogs can hear _______ that humans cant`sounds
 Men are 6 times more likely to be struck by _______ than women`lighting
 It is estimated that millions of trees in the world are accidentally planted by _______ who bury nuts and then forget where they hid them`squirrels
@@ -1438,12 +1438,12 @@ Ernest Vincent Wright wrote a novel, "Gadsby", which contains over 50,000 words 
 A toothpick is the object most often _______ on by Americans`choked
 There are more than ________ earthquakes throughout the world every year`fifty thousand*50,000
 The original name for the butterfly was`flutterby
-The opposite sides of a dice cube always add up to`seven*7
+The opposite sides of a dice cube always add up to`seven
 Nose prints are used to identify`dogs
 Bulls are _______ `colorblind
 Apples are more efficient than ______ in keeping people awake in the mornings`caffeine
 Smelling bananas and/or green apples (smelling, not eating) can help you lose`weight
-A hard working adult sweats up to ______ gallons per day`four*4
+A hard working adult sweats up to ______ gallons per day`four
 The average ice berg weighs ___________ tons`20,000,000
 The poison-arrow frog has enough poison to kill about _______ people`2,200
 A lump of pure gold the size of a matchbox can be flattened into a sheet the size of a`tennis court
@@ -1542,7 +1542,7 @@ What is "Banda Oriental" known as today`uruguay
 What is 113 in Roman numerals`cxiii
 What is 2 + 3`5
 What is 30% of 90`twenty seven
-What is 99% of 200`one hundred & ninety eight*198
+What is 99% of 200`one hundred & ninety eight
 What is a 300th anniversary called`tercentenary
 What is a artificial egg hatching device called`incubator
 What is a baby frog called`tadpole
@@ -1762,10 +1762,10 @@ Nearly a third of all bottled drinking water purchased in the US is contaminated
 If you sneeze too hard, you can`fracture a rib
 If you try to suppress a sneeze, you can rupture a _________ in your head or neck and die`blood vessel
 Rats multiply so quickly that in 18 months, two rats could have over ________ descendents`one million*1,000,000
-The average chocolate bar has ____ insects' legs in it`eight*8
-The average human eats __________ spiders in their lifetime at night`eight*8
+The average chocolate bar has ____ insects' legs in it`eight
+The average human eats __________ spiders in their lifetime at night`eight
 The shortest war in history was between ___________ in 1896`zanzibar & england
-The shortest war in history Zanzibar surrendered after _______ minutes`thirty eight*38
+The shortest war in history Zanzibar surrendered after _______ minutes`thirty eight
 A polar bear's skin is black. Its fur is not white, but actually`clear
 Elvis had a twin brother named ____, who died at birth`garon
 Donald Duck comics were banned in ______ because he doesn't wear pants`finland
@@ -1775,14 +1775,14 @@ Shakespeare invented the words _________ & _______`assassination & bump
 Marilyn Monroe had six`toes
 If you keep a goldfish in the dark room, it will eventually turn`white
 Women blink nearly ______ as much as men`twice
-Right handed people live, on average, ______ years longer than left handed people do`nine*9
+Right handed people live, on average, ______ years longer than left handed people do`nine
 The name of all the _______ end with the same letter that they start with`continents
 The word "lethologica" describes the state of not being able to _______ the word you want`remember
 If the population of China walked past you in single file, the line would  never end because of the rate of`reproduction
 The words _____ &  _____ are the same whether they are read left to right or right to left`racecar & kayak
-A snail can sleep for _____ years`three*3
+A snail can sleep for _____ years`three
 American Airlines saved $40,000 in 1987 by eliminating one _______ from each salad served in first-class`olive
-How many World Championship points are awarded to a winning Grand Prix driver`ten*10
+How many World Championship points are awarded to a winning Grand Prix driver`ten
 In French what country is Ecosse`scotland
 Which Daniel Defoe character was born in Newgate Prison`moll flanders
 Why is Caspian Sea a misnomer`its a lake
@@ -1855,7 +1855,7 @@ On which ship did Sir Francis Drake receive his knighthood`the golden hind
 Which country is called Misr by its natives`egypt
 What are a whales breathing organs called`lungs
 Which power station in Pennsylvania was the scene of a 1979 nuclear accident`three mile island
-How many cards are dealt to each player in gin rummy`ten*10
+How many cards are dealt to each player in gin rummy`ten
 What is made from a tree bark that turns a gin pink`angostura bitters
 Who said he could distinguish between 140 different types of tobacco ash`sherlock holmes
 Before 1992 what 4 letters were on Soviet Olympic vests`cccp
@@ -2310,7 +2310,7 @@ What name is given to the cap worn by a cardinal`biretta
 Which birth sign precedes Cancer`gemini
 Who composed "Emilia de Liverpool"`donizetti
 What is the key signature of E flat major`3 flats
-How many inches in a cubit`eighteen*18
+How many inches in a cubit`eighteen
 In country music, who is the "Coalminer's Daughter"`loretta lynn
 What type of fruit are "Malling Jet" & "Wellington XXX"`blackcurrants
 What is the main grape used in Barolo and Barbaresco`nebbiolo
@@ -2876,7 +2876,7 @@ Name The Year: Ansel Adams, knows how to handle a camera, born.`1902
 Name The Year: Alexei Kosygin, Soviet Premier, born.`1904
 Name The Year: Gloria Vanderbilt, fashion designer (Don't my jeans look great!), born.`1924
 Name The Year: Sydney Poitier, actor, born.`1924
-Name The Year: Robert Altman, director (M`A*S*H), born.*1925
+Name The Year: Robert Altman, director (M`A*S*H), born.
 Name The Year: Bobby Unser, auto racer, born.`1934
 Name The Year: First automobile/airplane combination tested, Santa Monica, Ca`1937
 Name The Year: John Glenn aboard Friendship 7, is first American to orbit the Earth.`1962
@@ -3517,7 +3517,7 @@ Name The Year: Kingdom of Italy annexes Venetia.`1866
 Name The Year: James Ritty patents the first cash register, to combat stealing by bartenders in his Dayton, Ohio saloon.`1879
 Name The Year: Art Carney, actor (Honeymooners, Harold and Maude)`1918
 Name The Year: Howard Carter discovers the tomb of Tutankhamen.`1922
-Name The Year: Loretta Swit (in Passaic, NJ), actor (M`A*S*H)*1937
+Name The Year: Loretta Swit (in Passaic, NJ), actor (M`A*S*H)
 Name The Year: First air conditioned automobile (Packard) exhibited, Chicago, IL.`1939
 Name The Year: UN Educational, Scientific, and Cultural Organization formed. (UNESCO)`1946
 Name The Year: Israeli troops reach the Suez Canal for the first time.`1956
@@ -3719,7 +3719,7 @@ Name The Year: Barbara Hutton, actress`1912
 Name The Year: Veronica Lake, actress`1919
 Name The Year: Brian Keith, actor`1921
 Name The Year: BBC began domestic radio service.`1922
-Name The Year: McLean Stevenson, actor (M`A*S*H)*1929
+Name The Year: McLean Stevenson, actor (M`A*S*H)
 Name The Year: Edward H. White II, astronaut (Gemini 4)`1930
 Name The Year: Fred Haise, astronaut (Apollo 13)`1933
 Name The Year: Hussein I, king of Jordan (1953- )`1935
@@ -4372,7 +4372,7 @@ Name The Year: German Kingdom of Westphalia abolished.`1813
 Name The Year: Arthur Rimbaud, France, poet/adventurer (Illuminations), born.`1854
 Name The Year: Margaret Dumont, actress-Marx Brothers' foil, born.`1889
 Name The Year: Mickey Mantle, NY Yankee home run slugger, born.`1931
-Name The Year: William Christopher, actor (Father Mulcahy-M`A*S*H), born.*1932
+Name The Year: William Christopher, actor (Father Mulcahy-M`A*S*H), born.
 Name The Year: Martin Landau, actor (Mission Impossible, Space 1999, Tucker), born.`1934
 Name The Year: Revolution by workers and students in Guatemala.`1944
 Name The Year: Tom Petty, Florida, USA, singer, born.`1953
@@ -4915,7 +4915,7 @@ Name The Year: "The Fugitive" premiers on TV in the USA.`1963
 Name The Year: "Bewitched" premiers on TV in the USA.`1964
 Name The Year: Supremes release "Baby Love".`1964
 Name The Year: "Mission Impossible" premieres on TV in the USA.`1967
-Name The Year: "M`A*S*H" premiers on TV.*1972
+Name The Year: "M`A*S*H" premiers on TV.
 Name The Year: Soviet Union and Saudi Arabia restore diplomatic ties.`1990
 Name The Year: North and South Korea joins the UN.`1991
 Name The Year: Chile declares independence from Spain (National Day).`1810
