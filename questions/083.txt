@@ -735,7 +735,7 @@ Name The Artist: Hearts On Fire`randy meisner
 Name The Artist: Hearts`marty balin
 Name The Artist: Heat Of The Moment`asia
 Name The Artist: Heat Of The Night`bryan adams & tina turner
-Name The Artist: Heaven Help Me`deon estus/george michael*5
+Name The Artist: Heaven Help Me`deon estus/george michael
 Name The Artist: Heaven In Your Eyes`loverboy
 Name The Artist: Heaven Is A Place On Earth`belinda carlisle
 Name The Artist: Heaven`bryan adams

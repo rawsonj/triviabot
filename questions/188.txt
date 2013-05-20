@@ -3374,7 +3374,7 @@ TV / Movies: Category: Star Trek Next Generation: Characters: Transporter Chief 
 TV / Movies: Category: Star Trek Next Generation: Characters: Who is the Chief of Engineering?`LaForge
 TV / Movies: Category: Star Trek Next Generation: Characters: Worf's son's name?`Alexander
 TV / Movies: Category: Star Trek Next Generation: Tech: In the Warp engine core, matter-antimatter annihilation is regulated by this`Dilithium crystal
-TV / Movies: Category: Star Trek Next Generation: Tech: Level _ Diagnostic is the most comprehensive type of system diagnostics`one*1
+TV / Movies: Category: Star Trek Next Generation: Tech: Level _ Diagnostic is the most comprehensive type of system diagnostics`one
 TV / Movies: Category: Star Trek Next Generation: Tech: This crystal is the only material known to be nonreactive with antimatter`Dilithium crystal
 TV / Movies: Category: Star Trek Next Generation: Tech: This small device is used for voice communications and transporter lock-ons`Personal communicator
 TV / Movies: Category: Star Trek Next Generation: Tech: This type of electronics is used in computer systems and networks`Optical electronics

@@ -306,9 +306,9 @@ Category:Fun Cocktails: Vodka, orange juice and Galliano make a(n) ···········.`
 Category:Fun Cocktails: Whiskey, hot coffee, and whipped cream make a(n) ·········.`Irish coffee
 Category:Games A bridge hand with no cards in one suit is said to have a ·······.`void
 Category:Games A poker hand consisting of three of a kind and a pair is called a ·······.`full house
-Category:Games How many balls are used in a game of snooker including the cue ball`twenty two*22
-Category:Games How many dots are there on a pair of dice`forty two*42
-Category:Games How many squares are there on a chessboard`sixty four*64
+Category:Games How many balls are used in a game of snooker including the cue ball`twenty two
+Category:Games How many dots are there on a pair of dice`forty two
+Category:Games How many squares are there on a chessboard`sixty four
 Category:Games If you "peg out" what game are you playing`cribbage
 Category:Games In poker five cards of the same suit is called a(n) ········.`flush
 Category:Games In pool, what color is the eight ball`black
@@ -326,7 +326,7 @@ Category:Games This is the lowest ranking suit in Bridge.`clubs
 Category:Games This term denotes a chess move in which both the king and the rook are moved.`castling
 Category:Games What bowling term means three straight strikes`turkey
 Category:Games What game or sport is Bobby Fischer identified with`chess
-Category:Games What number is on the opposite side of the "five" on dice`two*2
+Category:Games What number is on the opposite side of the "five" on dice`two
 Category:Games What score is not possible for a cribbage hand`nineteen
 Category:Games Which chess piece is usually valued as 5 points`rook
 Category:Games Which game usually begins with, "Is it animal, vegetable, or mineral"`twenty questions
@@ -358,7 +358,7 @@ Category:Geography Halifax is the capital of which Canadian province`Nova Scotia
 Category:Geography Havana is the capital of which country`Cuba
 Category:Geography He invented the most common projection for world maps.`Gerardus Mercator
 Category:Geography He visited Australia and New Zealand, then surveyed the Pacific Coast of North America.`Vancouver
-Category:Geography How many stars are on the flag of New Zealand`four*4
+Category:Geography How many stars are on the flag of New Zealand`four
 Category:Geography If its 4:00pm in Seattle, Washington what time is it in Portland, Oregon`4:00pm
 Category:Geography In what city are the famous Tivoli Gardens`Copenhagen
 Category:Geography In what city is the Leaning Tower`Pisa
@@ -686,8 +686,8 @@ Category:History He was the U.S. president during the Civil War.`Abraham Lincoln
 Category:History His ship was the H.M.S. Beagle.`Charles Darwin
 Category:History His wife was Roxana. His horse was Bacephalus. He was ········.`Alexander the Great
 Category:History How do you write 69 in Roman numerals`LXIX
-Category:History How many astronauts manned each Apollo flight`three*3
-Category:History How old was John F. Kennedy when he became president`forty three*43
+Category:History How many astronauts manned each Apollo flight`three
+Category:History How old was John F. Kennedy when he became president`forty three
 Category:History In 1902 this volcano erupted, killing 30,000.`Pelee
 Category:History In what country did "Sepoy Mutiny" occur`India
 Category:History In what year did England's lease on Hong Kong expire`1997
@@ -829,11 +829,11 @@ Category:Mathematics An integer that is greater than 1 and is divisible only by 
 Category:Mathematics Approximately how many inches are there in one meter`thirty nine
 Category:Mathematics Arc, radius, and sector are parts of a(n) ·········.`circle
 Category:Mathematics He is known as "The Father of Geometry".`Euclid
-Category:Mathematics How many corners are there in a cube`eight*8
+Category:Mathematics How many corners are there in a cube`eight
 Category:Mathematics How many nickles are there in 2.25`forty five
 Category:Mathematics If you cut through a solid sphere what shape will the flat area be`circle
 Category:Mathematics Name the number system which uses only the symbols 1 and 0.`The binary system
-Category:Mathematics The angles inside a square total ······· degrees.`three hundred and sixty*360
+Category:Mathematics The angles inside a square total ······· degrees.`three hundred and sixty
 Category:Mathematics The mathematical study of properties of lines, angels, etc., is ········.`geometry
 Category:Mathematics The space occupied by a body is called its ······.`volume
 Category:Mathematics The square root of 1 is`1
@@ -853,9 +853,9 @@ Category:Medicine Gastritis affects the ··········.`stomach
 Category:Medicine Hammer, anvil, and stirrup are parts of the ········.`ear
 Category:Medicine He discovered the process of vaccination for prevention of smallpox.`Edward Jenner
 Category:Medicine Hepatitis affects the ··········.`Liver
-Category:Medicine How many bones are there in the human body`two hundred and six*206
-Category:Medicine How many chambers does the human heart have`four*4
-Category:Medicine How many pints of blood does the average human have in his/her body`twelve*12
+Category:Medicine How many bones are there in the human body`two hundred and six
+Category:Medicine How many chambers does the human heart have`four
+Category:Medicine How many pints of blood does the average human have in his/her body`twelve
 Category:Medicine In the field of psychiatry this term means self-love.`narcissism
 Category:Medicine In what organ of the body is insulin produced`pancreas
 Category:Medicine In which organ is a clear watery solution known as the "aqueous humor" found`eye
@@ -901,7 +901,7 @@ Category:Medicine Where do you find the medulla oblongata`brain
 Category:Medicine Where in the body is the tiniest human muscle`ear
 Category:Medicine Which disease is also known as "Hansen's Disease"`leprosy
 Category:Medicine With what body part is otology involved`ear
-Category:Meteorology If the groundhog sees his shadow on Feb. 2, there will be how many more weeks of bad weather`six*6
+Category:Meteorology If the groundhog sees his shadow on Feb. 2, there will be how many more weeks of bad weather`six
 Category:Meteorology This dry, warm wind flows eastward down the slopes of the Rocky Mountains.`Chinook
 Category:Movie Trivia Actor: ······· Borgnine.`Ernest
 Category:Movie Trivia Actor: ········ Hackman.`Gene
@@ -1074,9 +1074,9 @@ Category:Nature Dogs bark.  What do donkeys do`bray
 Category:Nature Excluding man, what is the longest-lived land mammal`elephant
 Category:Nature Fandible, lateral line, and dorsal fin are parts of a(n) ········.`fish
 Category:Nature From what animal is "ambergis" obtained`sperm whale
-Category:Nature How man legs does a crab have`ten*10
-Category:Nature How many teats does a cow have`four*4
-Category:Nature How many tentacles does a squid have`ten*10
+Category:Nature How man legs does a crab have`ten
+Category:Nature How many teats does a cow have`four
+Category:Nature How many tentacles does a squid have`ten
 Category:Nature Imperial, Buck, and Luna are types of ·········.`moth
 Category:Nature Knife, Clown, and Pencil are types of ··········.`fish
 Category:Nature Linseed oil is obtained from the seed of which plant`flax
@@ -1162,8 +1162,8 @@ Category:Physics The rate of change of velocity is known as ·········.`accelerat
 Category:Physics The visible spectrum of light ranges from red to ········.`violet
 Category:Physics True Or False: Contrary to popular belief, a lightbulb actually absorbs darkness`false
 Category:Physics Two 1.5 volt batteries, when connected in series, produces _ volts.`3
-Category:Physics Water freezes at _ degrees Celcius.`zero*0
-Category:Physics Water freezes at ·· degrees Fahrenheit.`thirty two*32
+Category:Physics Water freezes at _ degrees Celcius.`zero
+Category:Physics Water freezes at ·· degrees Fahrenheit.`thirty two
 Category:Physics What is measured by a Geiger counter`radioactivity
 Category:Physics When light waves pass from one medium into another they change direction.  This is called ·········.`refraction
 Category:Physics Work done, equals force multiplied by ········.`distance
@@ -1176,7 +1176,7 @@ Category:Quick! Quick! Name the circular plastic media you put in a CD-ROM drive
 Category:Quick! Quick! On a standard computer keyboard, this is the letter just to the right of Z.`x
 Category:Quick! Quick! The longest key on your keyboard is the ····· bar.`space
 Category:Quick! Quick! The season ······ comes right after Spring.`summer
-Category:Quick! Quick! There are ·· seconds in a minute.`sixty*60
+Category:Quick! Quick! There are ·· seconds in a minute.`sixty
 Category:Quick! Quick! This is required to make all electric things work`electricity
 Category:Quick! Quick! What color is a blue crayon`blue
 Category:Quick! Quick! What color is a green crayon`green
@@ -1217,7 +1217,7 @@ Category:Science He invented "bifocal" lenses for eyeglasses.`Benjamin Franklin
 Category:Science He is known for his theory of "Evolution".`Charles Darwin
 Category:Science He transmitted radio signals across the Atlantic in 1901.`Enrico Marconi
 Category:Science He wrote "Sexual Behaviour in the Human Male" in 1948.`Alfred Kinsey
-Category:Science How many degrees does the earth rotate each hour`fifteen*15
+Category:Science How many degrees does the earth rotate each hour`fifteen
 Category:Science In which country was the match invented`France
 Category:Science Nitrous oxide is better known as ··········.`laughing gas
 Category:Science Nuclear membrane, cytoplasm, and nucleus are parts of a(n) ··········.`cell
@@ -1293,19 +1293,19 @@ Category:Sport Hockey: The Pittsburgh ··········.`Penguins
 Category:Sport Hockey: The St. Louis ··········.`Blues
 Category:Sport Hockey: The Toronto ·······.`Maple Leafs
 Category:Sport Hockey: The Vancouver ········.`Canucks
-Category:Sport How many feet high is a basketball net`ten*10
-Category:Sport How many games must you win to win a normal set in tennis`six*6
-Category:Sport How many minutes is a major penalty in hockey`five*5
-Category:Sport How many minutes is each period of hockey`twenty*20
-Category:Sport How many players are there on a soccer team`eleven*11
-Category:Sport How many players are there on a water polo team`seven*7
-Category:Sport How many players make up a field hockey team`eleven*11
-Category:Sport How many points are awarded for a safety touch in football`two*2
-Category:Sport How many referees work a soccer game`three*3
-Category:Sport How many seams are there on a football (American)`four*4
-Category:Sport How many sides does a home-plate have`five*5
-Category:Sport In pro football a "sudden death" period lasts how many minutes long`fifteen*15
-Category:Sport In ten-pin bowling, how many points does a perfect game consist of`three hundred*300
+Category:Sport How many feet high is a basketball net`ten
+Category:Sport How many games must you win to win a normal set in tennis`six
+Category:Sport How many minutes is a major penalty in hockey`five
+Category:Sport How many minutes is each period of hockey`twenty
+Category:Sport How many players are there on a soccer team`eleven
+Category:Sport How many players are there on a water polo team`seven
+Category:Sport How many players make up a field hockey team`eleven
+Category:Sport How many points are awarded for a safety touch in football`two
+Category:Sport How many referees work a soccer game`three
+Category:Sport How many seams are there on a football (American)`four
+Category:Sport How many sides does a home-plate have`five
+Category:Sport In pro football a "sudden death" period lasts how many minutes long`fifteen
+Category:Sport In ten-pin bowling, how many points does a perfect game consist of`three hundred
 Category:Sport In this team sport each player gets a chance to play every position.`volleyball
 Category:Sport In what sport is the Heisman trophy awarded`American football
 Category:Sport In which city is the Cotton Bowl played`Dallas
@@ -1341,7 +1341,7 @@ Category:Sport What football player rushed for 2,003 yards in 1973`OJ Simpson
 Category:Sport What game features the largest ball`earthball
 Category:Sport What is it called when a football team loses possession of the ball due to a misplay`turnover
 Category:Sport What is the heaviest class of weight-lifting`super heavyweight
-Category:Sport What number wood is a driver in golf`one*1
+Category:Sport What number wood is a driver in golf`one
 Category:Sport What sport do the Harlem Globetrotters play`basketball
 Category:Sport What sport has a hooker in a scrum`rugby
 Category:Sport What sport would you helicopter to the Bugaboos for`skiing
@@ -1369,8 +1369,8 @@ Category:Summertime This is the sandy area nearest the ocean.`beach
 Category:Triplets Hook, line and ···········.`sinker
 Category:Trivia "7X" was used to refer to the secret ingredient of which drink`Coca Cola
 Category:Trivia A "pigskin" is another name for a(n) ········.`football
-Category:Trivia A can of Pepsi holds ·· fluid ounces.`twelve*12
-Category:Trivia A foot-long ruler is ·· inches long.`twelve*12
+Category:Trivia A can of Pepsi holds ·· fluid ounces.`twelve
+Category:Trivia A foot-long ruler is ·· inches long.`twelve
 Category:Trivia Most men do this each morning, using a razor.`shave
 Category:Trivia Most people wear a watch on their ···· wrist.`left
 Category:Trivia Name the implement that removes water from your windshield on your car`wiper

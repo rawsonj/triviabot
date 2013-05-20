@@ -874,7 +874,7 @@ what novel contains the line: "who promoted major major"`catch 22
 what novel recounts john blackthorne's adventures in 16th century japan`shogun
 what novel was alexandra ripley hired to pen a sequel to`gone with the wind
 what number is at 12 o'clock on a dartboard`twenty
-what number is used to represent satan`six six six*666
+what number is used to represent satan`six six six
 what numbers does the binary system use`one and zero
 what numerical computer language doesn't have pointer or recursion`fortran
 what ocean current moderates the weather in north-western europe`gulf stream

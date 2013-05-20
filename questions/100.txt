@@ -59,7 +59,7 @@ What's the common term for a cubic decimetre`litre
 What's the composition of "dry ice"`carbon dioxide
 Whats the computer term "bit" short for`binary digit
 What's the curved line between any two points on a circle`arc
-What's the decimal equivalent of the binary number 101`five*5
+What's the decimal equivalent of the binary number 101`five
 What's the Eskimo word for a moccasin type boot`mukluk
 What's the fastest sea dwelling mammal`the dolphin
 What's the favorite food of dragonflies`mosquitoes
@@ -70,7 +70,7 @@ What's the highest mountain in the 48 contiguous u.s. States`mount whitney
 Whats the Italian game thats similar to lawn bowling`bocci
 What's the largest airport in the US`dallas, fort worth
 What's the largest &  most powerful of the American cats`jaguar
-What's the largest commercial passenger plane`the jumbojet*747
+What's the largest commercial passenger plane`the jumbojet
 What's the largest continent in the world`asia
 What's the largest island in the Atlantic`greenland
 What's the largest island in the British Isles, with 84,200 square miles`great britain
@@ -81,7 +81,7 @@ What's the light sensitive layer on photographic film called`emulsion
 What's the longest river in Asia`yangtze
 What's the longest river in the U S`mississippi river*mississippi
 What's the main ingredient in glass`sand
-What's the maximum number of players in a game of Chinese chequers`six*6
+What's the maximum number of players in a game of Chinese chequers`six
 What's the most abundant metal element in the earth's crust`aluminium
 What's the most effective insulator   brick, fibreglass or wood`fibreglass
 What's the most popular form of bridge`contract bridge
@@ -127,9 +127,9 @@ What's the zodiacal symbol for Virgo`virgin
 Whats traditionally the first event in a rodeo`bareback riding
 Wheeled vehicle, specifically, a vehicle for carrying persons, designed to be drawn by one or more draft animals`carriage
 When a a positive &  negative plate are placed together in an electrical circuit which stores a charge in the form of an electric field it is called a _________`capacitor
-When a coffee seed is planted, it takes how many years to yield consumable fruit`five*5
+When a coffee seed is planted, it takes how many years to yield consumable fruit`five
 When a female horse &  male donkey mate, the offspring is called a what`mule
-When a U S army bomber crashed into the New York's Empire State Building, how many people did it kill`fourteen*14
+When a U S army bomber crashed into the New York's Empire State Building, how many people did it kill`fourteen
 When angered, the ears of what animal turn a pinkish red`tazmanian devil
 When did Disneyland open`1955
 When did England's lease on Hong Kong expire`1997
@@ -284,7 +284,7 @@ During WW I, it was at this city & battle where the Germans introduced mustard g
 During WW I, what day of the week was the recommended meatless day`tuesday
 Dutch-born Swiss scientist, who discovered basic principles of fluid behavior`daniel bernoulli
 Each body cell contains how many chromosomes`46
-Each unit on the Richter scale is euivalent to a power factor of how much`thirty two*32
+Each unit on the Richter scale is euivalent to a power factor of how much`thirty two
 Earth's outer layer of surface soil or crust is called the`lithosphere
 East Berlin was the capital of ______`east germany
 Easy question: type the alphabet`abcdefghijklmnopqrstuvwxyz
@@ -308,7 +308,7 @@ Every human has one of these on their tummies`navel
 Every person has a unique _____ print`finger
 Everyone is familiar with the RCA logo with nipper the dog listening to the rca grammaphone. But the original picture had both the dog & the grammaphone sitting on what`his dead master's casket
 Excessive discharge of blood from blood vessels, caused by pathological condition of the vessels or by traumatic rupture of one or more vessels`haemmorage
-Excluding Rudolph, how many reindeer pull Santa's sleigh`eight*8
+Excluding Rudolph, how many reindeer pull Santa's sleigh`eight
 Extensive cultivation of plants to yield food, feed, or fiber; to provide medicinal or industrial ingredients; or to grow ornamental products`crop farming
 Famous painter that paints with both his right & left hands`leonardo da vinci*da vinci
 Fandible, lateral line, & dorsal fin are parts of a(n) ________`fish
@@ -859,7 +859,7 @@ Who won an Oscar for his role in the film 'The Fugitive"`tommy lee jones
 Which was the first British group to have 3 consecutive U.K. No. 1 hits that went straight to No. 1 upon release`gerry and the pacemakers
 Who was the first man to win the Formula One motor racing championship`farina
 In music what is a chromatic scale`a scale made up of semi-tones
-In the English legal system how many judges form a quorum in the Court of Appeal`three*3
+In the English legal system how many judges form a quorum in the Court of Appeal`three
 In which USA state is Frankfort the capital`kentucky
 Who plays the boy in the film 'Billy Elliot'`jamie bell
 Which two colours appear on the Bangladesh flag`green & red
@@ -937,7 +937,7 @@ In a Gilbert and Sullivan opera, who was John Wellington Wells`sorcerer
 Who, or what is a trogon`tropical bird
 Which European country has regions named Limburg, Drente and Brabant`netherlands
 Hartford is the capital of which American state`connecticut
-What is the decimal equivalent of the binary number 11011`twenty seven*27
+What is the decimal equivalent of the binary number 11011`twenty seven
 Whose novels include 'Restoration' and 'The Way I Found Her'`rose tremain
 With over 41% of the population, which country has the highest ratio of cellular mobile phones`finland
 Which country has won the most Nobel Prizes for Literature`france
@@ -946,7 +946,7 @@ Which band recorded the live album 'Live and Dangerous'`thin lizzie
 Which country has won the most Nobel Prizes for Peace`u s a
 Whose novels include 'The Joy Luck Club' and The Kitchen God's Wife`'amy tan
 Which band recorded the live album 'Strangers in the Night'`ufo
-What is the decimal equivalent of the binary number 10011`seventeen*17
+What is the decimal equivalent of the binary number 10011`seventeen
 Montpelier is the capital of which American state`vermont
 Which country has regions named Cyreniaca, Tripolitania and Fezzan`libya
 Which F1 racing driver, after receiving the last rites, went on to win 2 world championships`niki lauda

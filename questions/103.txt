@@ -437,7 +437,7 @@ What is 'pollo' on a menu in rome`chicken
 What is 'shogun' in english`military governer
 What is 'the helvetic confederation' in latin`confederatio helvetica
 What is 'tizwin'`indian corn beer
-What is 65% of sixty`thirty nine*39
+What is 65% of sixty`thirty nine
 What is 9 metres high, 7 metres wide and 2,500 kilometres long`great wall of china
 What is a "hiatus"`brief period of rest
 What is a "ruderal"`weed

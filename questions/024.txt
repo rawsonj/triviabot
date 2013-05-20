@@ -43,7 +43,7 @@ Music : 80's Chart Toppers: Name The Artist: Hearts On Fire`randy meisner
 Music : 80's Chart Toppers: Name The Artist: Hearts`marty balin
 Music : 80's Chart Toppers: Name The Artist: Heat Of The Moment`asia
 Music : 80's Chart Toppers: Name The Artist: Heat Of The Night`bryan adams & tina turner
-Music : 80's Chart Toppers: Name The Artist: Heaven Help Me`deon estus/george michael*5
+Music : 80's Chart Toppers: Name The Artist: Heaven Help Me`deon estus/george michael
 Music : 80's Chart Toppers: Name The Artist: Heaven In Your Eyes`loverboy
 Music : 80's Chart Toppers: Name The Artist: Heaven Is A Place On Earth`belinda carlisle
 Music : 80's Chart Toppers: Name The Artist: Heaven`bryan adams
@@ -693,7 +693,7 @@ TV/ Movies: Get Smart: His first name is Ludwig.`siegfried
 TV/ Movies: Get Smart: In Smart's apartment, the phone is hidden inside this`phone
 TV/ Movies: Get Smart: Kaos executioner & Smart's nemesis.`siegfried
 TV/ Movies: Get Smart: KAOS stands for this`nothing
-TV/ Movies: Get Smart: Said "I'd give anything to be cooped up in anything as big as a small room."`thirteen*13
+TV/ Movies: Get Smart: Said "I'd give anything to be cooped up in anything as big as a small room."`thirteen
 TV/ Movies: Get Smart: Said "People hate; robots love."`hymie
 TV/ Movies: Get Smart: Said "Would you believe ... "`smart
 TV/ Movies: Get Smart: Smart calls this Chinese KAOS agent "The Craw".`the claw
@@ -746,15 +746,15 @@ TV/ Movies: Hollywood: Richard Chamberlain's first name.`george
 TV/ Movies: Hollywood: TV/Casino star who wrote much poetry, including Touch Me, & Touch Me Again.`suzanne somers
 TV/ Movies: How long did "i love lucy" run`six seasons*6 seasons
 TV/ Movies: How many '58 Plymouth Furys were used to make the movie "christine"`9
-TV/ Movies: How many episodes were there in the original star trek series`seventy five*75
-TV/ Movies: How many james bond movies did sean connery star in`seven*7
-TV/ Movies: How many southpark episodes have there been that kenny didnt get killed`one*1
+TV/ Movies: How many episodes were there in the original star trek series`seventy five
+TV/ Movies: How many james bond movies did sean connery star in`seven
+TV/ Movies: How many southpark episodes have there been that kenny didnt get killed`one
 TV/ Movies: How many St. Bernards were used in the movie "cujo"`5
-TV/ Movies: How many stories did the towering inferno have`one hundred & thirty eight*138
-TV/ Movies: How many westerns were directed by a woman`one*1
+TV/ Movies: How many stories did the towering inferno have`one hundred & thirty eight
+TV/ Movies: How many westerns were directed by a woman`one
 TV/ Movies: How many years of life did the klingon empire have left to it`fifty years
 TV/ Movies: How much would contestants win if you could not "make me laugh" on tv`one dollar per minute
-TV/ Movies: How old was Sally Field when she starred in Gidget`eighteen*18
+TV/ Movies: How old was Sally Field when she starred in Gidget`eighteen
 TV/ Movies: How was the virus transmitted in the movie 'Outbreak'`through the air
 TV/ Movies: Howdy Doody had how many freckles`48
 TV/ Movies: If norm could have any woman in the world, who would it be`jill eikenberry
@@ -789,7 +789,7 @@ TV/ Movies: In the cartoons who was hokie wolf's sidekick`dingaling
 TV/ Movies: In the episode "trilogy part 3", who did sam leap into`larry stanton
 TV/ Movies: In the film "bringing up baby", the baby is what`leopard
 TV/ Movies: In the film '101 dalmatians', what animal is sergeant tibbs`cat
-TV/ Movies: In the film 'hackers', how old was 'zero_kool' when he was first arrested`eleven*11
+TV/ Movies: In the film 'hackers', how old was 'zero_kool' when he was first arrested`eleven
 TV/ Movies: In the film 'star trek first contact', when picard shows lilly she is orbiting earth, australia & papua new guinea are clearly visible, but which country is missing`new zealand
 TV/ Movies: In the movie "annie", who played daddy warbucks`albert finney
 TV/ Movies: In the movie "the manchurian candidate", how many people are feared dead in the hurricane`20
@@ -899,7 +899,7 @@ TV/ Movies: Mickey mouse's ears are always turned which way, no matter which dir
 TV/ Movies: Miss Moneypenny adores this figure.`james bond
 TV/ Movies: Monty Python: Lancelot's servant`concord
 TV/ Movies: Monty Python: Name of the kid who falls out of window`herbert
-TV/ Movies: Monty Python: The deformed knight had this many heads.`three*3
+TV/ Movies: Monty Python: The deformed knight had this many heads.`three
 TV/ Movies: Monty Python: The enchanter's name`tim
 TV/ Movies: Monty Python: What was the name of the scholary knight at the witch trial`sir bedivere
 TV/ Movies: Moronic Duo 1: (Easy one!) The network that airs B&B:`mtv

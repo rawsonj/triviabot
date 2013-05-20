@@ -152,7 +152,7 @@ what chemical symbol is used for the element actinium`ac
 name the moody blues first lp`lose your money
 who recorded the album 'wings over america' in 1976`paul mccartney
 what system do the blind use for reading`braille
-l is the roman numeral for what number`fifty*50
+l is the roman numeral for what number`fifty
 what was the name of the old fireman on 'leave it to beaver'`gus
 what marx brother had real name milton`gummo
 who was 'bonnie prince charles'`charles edward stuart
@@ -167,7 +167,7 @@ what did gail borden give to the world in 1853`condensed milk
 music:  who recorded 'just one look'`linda ronstadt
 music:  who recorded 'rubber soul' in 1965`beatles
 what pop group recorded the title track for 'a view to a kill' in 1985`a-ha
-the lumbar spine consists of how many vertebrae`five*5
+the lumbar spine consists of how many vertebrae`five
 who wrote 'titus groan'`mervyn peake
 what was the name of jacques cousteau's research ship`calypso
 form of visible electric discharge between rain clouds or between a rain cloud and the earth (electricity)`lightning
@@ -242,7 +242,7 @@ desert antelope that originally ranged from the western sahara and mauritania to
 what is the largest river in north america`mississippi
 in religion, the assumption of an earthly form by a god`incarnation
 path or trajectory of a body through space`orbit
-how many names did the first telephone book ever issued contain`fifty*50
+how many names did the first telephone book ever issued contain`fifty
 branch of linguistics concerned with the production, physical nature, and perception of speech sounds`phonetics
 crosby stills and nash debut album included this captivating song about a girl and the colour of her eyes`sweet judy blue eyes
 what was the name of the family featured in `father knows best'`andrews
@@ -293,7 +293,7 @@ which city had the first movie theatre in the us`los angeles, ca
 charlemagne ruled a large part of western and central europe in the years`800-814
 which movie was not directed by inoshiro honda a.godzilla, king of monsters. b.latitude zero. c.mothra d.8 man`d*8 man
 what is the name of the cape at the southernmost tip of africa`cape agulhas
-how many cows does it take to supply the nfl in footballs for one year`3,000*3000
+how many cows does it take to supply the nfl in footballs for one year`3,000
 what was the name of the first steam-powered warship`demologos
 how many men who signed the declaration of independence in 1776 later became us presidents (one word)`2
 how many bones are there in the inner ear`3
@@ -325,7 +325,7 @@ when was the constitution fully ratified`1787
 what is a nautical knot (international)`1.1508 statute miles/hour
 in what famous sci fi flick did an einsteinlike scientist say to a space alien 'sit down. i have several thousand questions i'd like to ask you`day the earth stood still
 what animal has the largest penis size in proportion to its body size`flea
-how many 'joeys' can a female kangaroo have in her pouch at one time`three*3
+how many 'joeys' can a female kangaroo have in her pouch at one time`three
 in which dr. seuss book did the word 'nerd' first appear`if i ran the zoo
 in what us state was the phillips head screwdriver invented`oregon
 on what day was mother teresa awarded the nobel peace prize`october 17, 1979
@@ -881,10 +881,10 @@ how is the mathematically related structure of beads strung on parallel wires in
 how is the stockmarket collapse of the 24th october 1929 better known`black thursday
 how many bits are in a nibble`4*four
 how many countries have a population over 130 million`seven(pakistan, russia, brazil, indonesia, united states, india and china)
-how many countries have an area less then 10 square miles`four*4
+how many countries have an area less then 10 square miles`four
 how many countries joined the united nations at it's start`51*fifty one
 how many feet are in a nautical mile`6080*six thousand and eighty
-how many herrings are in a warp`four*4
+how many herrings are in a warp`four
 how many muscles are in a human`639*six hundred and thirty nine
 how many pieces are found in a chess set`32*thirty two
 how many seconds are in a day`86400*eighty six thousand and four hundred
@@ -903,7 +903,7 @@ in ancient egypt which animal was considered sacred`cat
 in the 17th century which country started taxing beards`russia
 in the 1855 russian war, what were used to transport torpedos`kites
 in the 9th century which city had several thousand bookstores`baghdad
-in the gregorian calendar after 10,000 years by how many days will the calendar be wrong by`three*3
+in the gregorian calendar after 10,000 years by how many days will the calendar be wrong by`three
 in the kama-sutra the art of which game is recommened for women to study`chess
 in the period 978-1016 england was ruled by which 'unready' king`ethelred 
 in the year 2000 which companies ceo was the worlds second richest man`oracle
@@ -941,7 +941,7 @@ the term sesquincentennial represents how many years`150*one hundred and fifty
 the term sesquiquadricentennial represents how many years`450*four hundred and fifty
 the term sesquitercentennial represents how many years`350*three hundred and fifty
 the term tercentennial represents how many years`300*three hundred
-thomas young the physicist and egyptologist spoke how many language when he was 14`twelve*12
+thomas young the physicist and egyptologist spoke how many language when he was 14`twelve
 tic-tac-toe is based on which game`nine men morris
 to which island was napoleon exiled, after his loss at waterloo`st helena
 what are eastern, central, mountain, and pacific`american time zones

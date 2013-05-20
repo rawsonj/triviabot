@@ -25,7 +25,7 @@ TV / Movies:  Back To The Future: If future events are altered, photos and writi
 TV / Movies:  Back To The Future: In BTTF 3 Doc Brown finds true love in this woman (full name)`clara clayton
 TV / Movies:  Back To The Future: In BTTF 1, Marty outruns his enemies with a skateboard. In BTTF 2, he uses _'`hoverboard
 TV / Movies:  Back To The Future: Terrorists almost kill Doc Brown in BTTF 1 because he stole their what`plutonium
-TV / Movies:  Back To The Future: Which movie (1,2, or 3) does Marty come face to face with his own son`Two*2
+TV / Movies:  Back To The Future: Which movie (1,2, or 3) does Marty come face to face with his own son`Two
 TV / Movies:  Barbara Bel Geddes won a Emmy in 1980 as outstanding lead actress in what drama series`dallas
 TV / Movies:  Bart Simpsons sister's name`lisa
 TV / Movies:  Bewitched: Darren & Samantha _______ (surname)`stevens
@@ -95,14 +95,14 @@ TV / Movies:  Hollywood: Singer made his debut in The Jazz Singer.`neil diamond
 TV / Movies:  Hollywood: Star Trek star who played an extraterrestrial in Zombies of the Stratosphere.`nimoy
 TV / Movies:  Hollywood: The "King of the Miniseries" after doing Shogun and the Thorn Birds`richard chamberlain
 TV / Movies:  Hollywood: This tough guy starred in the porno "A Party at Kitty's and Studs"`sylvester stallone
-TV / Movies:  How many children do the Brady's have`six*6
-TV / Movies:  How many episodes were there in the original Star Trek series`seventy five*75
-TV / Movies:  How many 'Southpark' episodes have there been that Kenny didn't get killed`one*1
+TV / Movies:  How many children do the Brady's have`six
+TV / Movies:  How many episodes were there in the original Star Trek series`seventy five
+TV / Movies:  How many 'Southpark' episodes have there been that Kenny didn't get killed`one
 TV / Movies:  In "Family Affair", what was Buffy's dolls name`mrs beasley
 TV / Movies:  In 1957 which actress recorded 'Tammy' from one of her films`debbie reynolds
 TV / Movies:  In 'Southpark', what is Chef obsessed with`sex
 TV / Movies:  In the film '101 Dalmatians', what animal is Sergeant Tibbs`cat
-TV / Movies:  In the film 'Hackers', how old was 'Zero_kool' when he was first arrested`eleven*11
+TV / Movies:  In the film 'Hackers', how old was 'Zero_kool' when he was first arrested`eleven
 TV / Movies:  In the film 'Star Trek First Contact', when Picard shows Lilly she is orbiting earth, Australia & Papua New Guinea are clearly visible, but which country is missing`new zealand
 TV / Movies:  In the first part of 'Hard To Kill', what did Steven Seagal use to kill the mobster`credit card
 TV / Movies:  In the Lone Ranger, what was the name of Tonto's horse`scout
@@ -202,7 +202,7 @@ TV / Movies:  Simpsons Cartoon : This "Kramer vs. Kramer" star played Reverend L
 TV / Movies:  Simpsons: How much did it cost Milhouse to buy Bart's soul`$5
 TV / Movies:  Simpsons: How much does Homer charge for eternal happiness in his telemarketing scam`$1
 TV / Movies:  Simpsons: In the episode when Ned's house is destroyed, what does Bart reply to him after Ned says something mean to him`i am shocked & appalled*i am shocked
-TV / Movies:  Simpsons: In the opening credits, how many cars do the Simpsons have`two*2
+TV / Movies:  Simpsons: In the opening credits, how many cars do the Simpsons have`two
 TV / Movies:  Simpsons: In which movie was Moe in`little rascals
 TV / Movies:  Simpsons: Milhouse was the movie sidekick of what comic book hero`radioactive man
 TV / Movies:  Simpsons: What concert does Homer take Bart & Lisa too`lollapalooza
@@ -707,7 +707,7 @@ TV / Movies: Category: 1996-1997 Movies: This trilogy was restored and re-releas
 TV / Movies: Category: 2001: HAL's name is (Clarke says unintentionally) similar to this acronym.`IBM
 TV / Movies: Category: 2001: He was the next person to walk on the moon after the movie was made.`Neil Armstrong
 TV / Movies: Category: 2001: Name of the ship going to Jupiter.`Discovery I
-TV / Movies: Category: 2001: Number of monolith scenes in the film.`four*4
+TV / Movies: Category: 2001: Number of monolith scenes in the film.`four
 TV / Movies: Category: 2001: This actor played Dr. Haywood Floyd`William Sylvester
 TV / Movies: Category: 50s Flicks: Which 1957 film had the whistled "Colonel Bogey" as its theme`The Bridge on the River Kwai
 TV / Movies: Category: 50s Flicks: Which actress starred in _From Here to Eternity_ & _The King and I_`Deborah Kerr
@@ -812,7 +812,7 @@ TV / Movies: Category: Batman: Batman really doesn't like this superhero, and wo
 TV / Movies: Category: Batman: Bruce's loyal and witty, if often sardonic, butler and mentor`Alfred
 TV / Movies: Category: Batman: Selena Kyle's alter-identity, now with her own series`Catwoman
 TV / Movies: Category: Batman: The man who shot Thomas and Martha Wayne (Careful!, it wasn't the Joker!)`Joe Chill
-TV / Movies: Category: Batman: There have been this many Robins`three*3
+TV / Movies: Category: Batman: There have been this many Robins`three
 TV / Movies: Category: Blazing Saddles: A particularly gross scene involved cowboys eating lots of what`Beans
 TV / Movies: Category: Blazing Saddles: What did people keep calling Hedley Lamarr`Hetty Lamarr
 TV / Movies: Category: Blazing Saddles: What did the sheriff disguise himself as to infiltrate the bad guys`A ku klux klansman
@@ -1154,7 +1154,7 @@ TV / Movies: Category: TV: Played the part of Meggie in the mini-series "The Tho
 TV / Movies: Category: TV: Rosey Grier, Merlin Olsen, and Fred Dryer have this sport in common.`football
 TV / Movies: Category: TV: Sleuthing brothers played by Shaun Cassidy and Parker Stevenson.`Hardy Boys
 TV / Movies: Category: Twin Peaks: A burning smell is present whenever who is nearby`Bob
-TV / Movies: Category: Twin Peaks: How many seasons did the show last`two*2
+TV / Movies: Category: Twin Peaks: How many seasons did the show last`two
 TV / Movies: Category: Twin Peaks: So who DID kill Laura Palmer`Leland
 TV / Movies: Category: Twin Peaks: What is Kyle Mclachlan's characters full name`Dale Cooper
 TV / Movies: Category: Twin Peaks: What other movie of David Lynch's did Sherryl Lee appear in`Wild at Heart
@@ -1204,7 +1204,7 @@ TV / Movies: Couples: Wilma Deering's boyfriend.`buck rogers
 TV / Movies: Dame Peggy Ashcroft won for this film set in the Subcontinent, 1920s`a passage to india
 TV / Movies: Darth Vader was the villian in the movie, "____ Wars"`star
 TV / Movies: David Letterman: Dave is often mistaken for this superstar`Regis Philbin
-TV / Movies: David Letterman: Number of jokes Dave told in his nightly NBC monologue`four*4
+TV / Movies: David Letterman: Number of jokes Dave told in his nightly NBC monologue`four
 TV / Movies: David Letterman: This football great slapped Dave in the face`Terry Bradshaw
 TV / Movies: David Letterman: This relative of Dave's covered the 1992 Winter Olympics`Mom
 TV / Movies: David Letterman: Type of jacket Dave always wears`Double breasted
@@ -1257,7 +1257,7 @@ TV / Movies: Doctor Who: Very famous painting which is an important plot element
 TV / Movies: Doctor Who: What would you immediately notice if you stepped inside the TARDIS`bigger on the inside
 TV / Movies: Duke Slater was the best friend of this marine.`gomer pyle
 TV / Movies: Ed Harris watches his wife,Mary Elizabeth Mastrantonio, drown to death.`The Abyss
-TV / Movies: Elvis how many songs were recorded for the movie "Follow That Dream"`seven*7
+TV / Movies: Elvis how many songs were recorded for the movie "Follow That Dream"`seven
 TV / Movies: Emmy awards: Name the only actress with 4 best drama actress awards`tyne daly
 TV / Movies: Entertainment Grabbag 2: In The Searchers, John Wayne searches for this actress.`natalie wood
 TV / Movies: Entertainment Grabbag 2: In this musical, the hero sells his soul so the Senators can win the pennant`damn yankees
@@ -1395,7 +1395,7 @@ TV / Movies: Get Smart: His first name is Ludwig.`Siegfried
 TV / Movies: Get Smart: In Smart's apartment, the phone is hidden inside this`Phone
 TV / Movies: Get Smart: Kaos executioner & Smart's nemesis.`Siegfried
 TV / Movies: Get Smart: KAOS stands for this`Nothing
-TV / Movies: Get Smart: Said "I'd give anything to be cooped up in anything as big as a small room."`thirteen*13
+TV / Movies: Get Smart: Said "I'd give anything to be cooped up in anything as big as a small room."`thirteen
 TV / Movies: Get Smart: Said "People hate; robots love."`Hymie
 TV / Movies: Get Smart: Said "Would you believe ... "`Smart
 TV / Movies: Get Smart: Smart calls this Chinese KAOS agent "The Craw".`The Claw
@@ -1449,15 +1449,15 @@ TV / Movies: Hollywood: She is the mother of Jason Gould.`Barbra Streisand
 TV / Movies: Hollywood: TV/Casino star who wrote much poetry, including Touch Me, & Touch Me Again.`Suzanne Somers
 TV / Movies: How long did "i love lucy" run`six seasons*6 seasons 
 TV / Movies: How many '58 Plymouth Furys were used to make the movie "christine"`9
-TV / Movies: How many episodes were there in the original star trek series`seventy five*75
-TV / Movies: How many james bond movies did sean connery star in`seven*7
-TV / Movies: How many southpark episodes have there been that kenny didnt get killed`one*1
+TV / Movies: How many episodes were there in the original star trek series`seventy five
+TV / Movies: How many james bond movies did sean connery star in`seven
+TV / Movies: How many southpark episodes have there been that kenny didnt get killed`one
 TV / Movies: How many St. Bernards were used in the movie "cujo"`5
-TV / Movies: How many stories did the towering inferno have`one hundred & thirty eight*138
-TV / Movies: How many westerns were directed by a woman`one*1
+TV / Movies: How many stories did the towering inferno have`one hundred & thirty eight
+TV / Movies: How many westerns were directed by a woman`one
 TV / Movies: How many years of life did the klingon empire have left to it`fifty years 
 TV / Movies: How much would contestants win if you could not "make me laugh" on tv`one dollar per minute
-TV / Movies: How old was Sally Field when she starred in Gidget`eighteen*18
+TV / Movies: How old was Sally Field when she starred in Gidget`eighteen
 TV / Movies: How was the virus transmitted in the movie 'Outbreak'`through the air
 TV / Movies: Howdy Doody had how many freckles`48
 TV / Movies: If norm could have any woman in the world, who would it be`jill eikenberry
@@ -1492,7 +1492,7 @@ TV / Movies: In the cartoons who was hokie wolf's sidekick`dingaling
 TV / Movies: In the episode "trilogy part 3", who did sam leap into`larry stanton 
 TV / Movies: In the film "bringing up baby", the baby is what`leopard
 TV / Movies: In the film '101 dalmatians', what animal is sergeant tibbs`cat
-TV / Movies: In the film 'hackers', how old was 'zero_kool' when he was first arrested`eleven*11
+TV / Movies: In the film 'hackers', how old was 'zero_kool' when he was first arrested`eleven
 TV / Movies: In the film 'star trek first contact', when picard shows lilly she is orbiting earth, australia & papua new guinea are clearly visible, but which country is missing`new zealand
 TV / Movies: In the movie "annie", who played daddy warbucks`albert finney
 TV / Movies: In the movie "the manchurian candidate", how many people are feared dead in the hurricane`20
@@ -1602,7 +1602,7 @@ TV / Movies: Mickey mouse's ears are always turned which way, no matter which di
 TV / Movies: Miss Moneypenny adores this figure.`james bond
 TV / Movies: Monty Python: Lancelot's servant `Concord
 TV / Movies: Monty Python: Name of the kid who falls out of window `Herbert
-TV / Movies: Monty Python: The deformed knight had this many heads.`three*3
+TV / Movies: Monty Python: The deformed knight had this many heads.`three
 TV / Movies: Monty Python: The enchanter's name`Tim
 TV / Movies: Monty Python: What was the name of the scholary knight at the witch trial `Sir Bedivere
 TV / Movies: Moronic Duo 1: (Easy one!) The network that airs B&B:`MTV
@@ -2277,7 +2277,7 @@ TV / Movies: What Sylvester Stallone movie was hyped: " His whole life was a mil
 TV / Movies: What syndicated show sometimes goes by the title E T`entertainment tonight
 TV / Movies: What Texan slammed back more bourbon & branch water than any character in tv history`j. R. Ewing
 TV / Movies: What thrill flick master died at 80 in 1980`alfred hitchcock
-TV / Movies: What transporter room aboard the Enterprise is Chief O'brien's favorite`three*3
+TV / Movies: What transporter room aboard the Enterprise is Chief O'brien's favorite`three
 TV / Movies: What trivia fact about mel blanc (voice of bugs bunny) is most ironic`he was allergic to carrots
 TV / Movies: What TV comedian with no ID card was asked to give a Tarzan yell to verify her identity, at Bergdorf Goodman`carol burnett
 TV / Movies: What tv series did Dirk Benedict star in`battlestar galactica
@@ -2310,7 +2310,7 @@ TV / Movies: What was mary ann's last name off of gilligans island`summers
 TV / Movies: What was mickey mouse almost called`mortimer
 TV / Movies: What was Mickey Mouse's first known as`mortimer mouse
 TV / Movies: What was Mr. Spock's blood type`x positive
-TV / Movies: What was Napoleon Solo's badge number in the "Man From Uncle" program`eleven*11
+TV / Movies: What was Napoleon Solo's badge number in the "Man From Uncle" program`eleven
 TV / Movies: What was Npoleon Solos boss's name`mr waverley
 TV / Movies: What was one of the 5 movies nominated for best motion picture in 1955`mister roberts
 TV / Movies: What was one of the 5 movies nominated for best picture in 1989`field of dreams
@@ -2365,7 +2365,7 @@ TV / Movies: What was the name of the oil company that bought Jed Clampett's oil
 TV / Movies: What was the name of the old fireman on "leave it to beaver"`gus
 TV / Movies: What was the name of the ranch in bonanza`ponderosa
 TV / Movies: What was the name of the ranch on the Roy Rogers show`double r bar ranch
-TV / Movies: What was the number of Gunther Toody's patrol car`fifty four*54
+TV / Movies: What was the number of Gunther Toody's patrol car`fifty four
 TV / Movies: What was the principal setting location in "Young At Heart"`tashmoo prison, pa
 TV / Movies: What was the real name of john wayne`marion morrison
 TV / Movies: What was the real name of the dolphin that played flipper in the movie`mitzi
@@ -2703,7 +2703,7 @@ TV / Movies: Wizard Of Oz: The actor originally slated to play the tin man.`Budd
 TV / Movies: Wizard Of Oz: The famous actress who played Dorothy.`judy garland
 TV / Movies: Wizard Of Oz: The words the wicked witch wrote in the sky above the Emerald City.`Surrender Dorothy
 TV / Movies: Zorro was the secret identity of what wealthy landowner`don diego de la vega
-TV / Movies: Zsa Zsa Gabor has been married how many times`eight*8
+TV / Movies: Zsa Zsa Gabor has been married how many times`eight
 TV : Movies: What movie gave Humphrey Bogart the line: "I remember every detail.  The Germans wore gray.  You wore blue."`Casablanca
 TV / Movies: Commander Sisko loves what sport`baseball
 TV / Movies: 'Dances With Wolves' won the best picture Oscar in 1990, 1991, or 1993`1990

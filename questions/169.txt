@@ -297,7 +297,7 @@ Music : Classical Music : He was a patient of Freud's for a short time.`mahler
 Music : Classical Music : He wrote over 100 symphonies...and he created the string quartet. `haydn
 Music : Classical Music : His principal works are the operas Wozzeck & Lulu.`alban berg
 Music : Classical Music : Schumann's wife hung around him after her husband Robert Schumann died. `brahms
-Music : Classical Music : The Love Theme from Elvira Madigan is this number piano concerto. `twenty one*21
+Music : Classical Music : The Love Theme from Elvira Madigan is this number piano concerto. `twenty one
 Music : Classical Music : This composer was a pupil of Beethoven & a teacher of Liszt.`czerny
 Music : Classical: Bach's Two & Three part inventions are a primer for this opus. `well tempered clavier
 Music : Classical: Berlioz was a proficient player of only this instrument. `guitar
@@ -496,7 +496,7 @@ Music : Early Pop Rock: He joined the Grateful dead in 1968.`tom constanten
 Music : Early Pop Rock: Ironically, "Our Day Will Come" was #1 when this song was #2.`the end of the world
 Music : Early Pop Rock: Lead singer for the Stone Canyon BAND in the late sixties.`linda ronstadt
 Music : Early Pop Rock: Little Richard's final top 40 hit before going into gospel music.`oh my soul
-Music : Early Pop Rock: Number of Elvis songs that hit #1.`eighteen*18
+Music : Early Pop Rock: Number of Elvis songs that hit #1.`eighteen
 Music : Early Pop Rock: Occupation of speaker in "American Pie".`paperboy
 Music : Early Pop Rock: Oldest person to hit #1 on the singles chart.`louis Armstrong
 Music : Early Pop Rock: Original title of this instrumental was "Padmeskoveeye Vietchera".`midnight in moscow
@@ -572,7 +572,7 @@ Music : Epic Songs: The only Iron Butterfly song anyone's ever heard: 12-minute 
 Music : Epic Songs: The Who: last song on Who's Next`wont get fooled again
 Music : Erasure: Finish the Erasure song title: "Blue ........."`savannah
 Music : Erasure: Finish the Erasure song title: "River Deep, ....`mountain high
-Music : Erasure: How many members are in Erasure`two*2
+Music : Erasure: How many members are in Erasure`two
 Music : Erasure: Name the Erasure song: "Ooh, do we not sail on the .`ship of Fools
 Music : Erasure: Who is the instrumentalist in Erasure`vince clarke
 Music : Essential Clapton: Clapton wrote this song when he fell in love with George Harrison's wife.`layla
@@ -666,7 +666,7 @@ Music : G Music : John Travolta sings this homage to a fast car in _Grease_`grea
 Music : G Music : Ramones motto: "_____ _____ hey!" `gabba gabba
 Music : G Music : The song where John Lennon announces "I don't believe in Beatles"`god
 Music : Garth Brooks has made 4 specials for which TV network`nbc
-Music : Garth Brooks: (1995) Garth has how many kids`two*2
+Music : Garth Brooks: (1995) Garth has how many kids`two
 Music : Garth Brooks: AHBA stands for this. `american honkytonk bar association
 Music : Garth Brooks: What does GB collect for charity at every concert`canned Goods
 Music : Garth Brooks: What is the name of Garth's record label`liberty records
@@ -813,25 +813,25 @@ Music : How did Sonny Bono die`skiing accident
 Music : How far did Madonna get the coke bottle down her throat`to the label*label
 Music : How far is it to the top 'if you wanna rock n roll' according to ac/dc`a long way
 Music : How long will Davy probably be in the navy, according to Billy Joel`for life
-Music : How many drum kits did Adam & The Ants use in most of their songs`two*2
+Music : How many drum kits did Adam & The Ants use in most of their songs`two
 Music : How many grooves are there on each side of a 45 r.p.m. record`one
-Music : How many keys on a standard piano keyboard`eighty eight*88
-Music : How many members of the Mamas & The Papas were there`four*4
-Music : How many notes are there in the first two bars of Beethoven's 'Fifth Symphony'`four*4
-Music : How many number 1 singles did Mariah Carey have on her first album`four*4
-Music : How many pedals does a grand piano have`three*3
-Music : How many people are in the rock group Van Halen`four*4
-Music : How many songs are there on Eminems first LP`twenty*20
-Music : How many strings does a violin have`four*4
-Music : How many strings on a bass guitar`four*4
-Music : How many symphonies did Beethoven compose`nine*9
-Music : How many times has Tanya Tucker been married`none*0
-Music : How many valves does a French horn have`three*3
-Music : How old was Frankie Lymon when "Why Do Fools Fall In Love" became a hit`thirteen*13
-Music : How old was Leann Rhimes when she became a country music star`fourteen*14
-Music : How old was Ray Charles when he became blind`seven*7
-Music : How old was Shania Twain when she started singing in bars`eight*8
-Music : How old was the girl in the Beatles song "I Saw Her Standing There"`seventeen*17
+Music : How many keys on a standard piano keyboard`eighty eight
+Music : How many members of the Mamas & The Papas were there`four
+Music : How many notes are there in the first two bars of Beethoven's 'Fifth Symphony'`four
+Music : How many number 1 singles did Mariah Carey have on her first album`four
+Music : How many pedals does a grand piano have`three
+Music : How many people are in the rock group Van Halen`four
+Music : How many songs are there on Eminems first LP`twenty
+Music : How many strings does a violin have`four
+Music : How many strings on a bass guitar`four
+Music : How many symphonies did Beethoven compose`nine
+Music : How many times has Tanya Tucker been married`none
+Music : How many valves does a French horn have`three
+Music : How old was Frankie Lymon when "Why Do Fools Fall In Love" became a hit`thirteen
+Music : How old was Leann Rhimes when she became a country music star`fourteen
+Music : How old was Ray Charles when he became blind`seven
+Music : How old was Shania Twain when she started singing in bars`eight
+Music : How old was the girl in the Beatles song "I Saw Her Standing There"`seventeen
 Music : Howdeeee! What country performer once worked as a Minnie Pearl impersonator at Opryland`chely wright
 Music : Hugely successful syndicated TV show featuring country music & stars.`hee haw
 Music : Hulk Hogan's theme song`real american
@@ -844,7 +844,7 @@ Music : I long to see the sunlight in your hair`hello
 Music : Ian Hunter's old band, which played "All The Young Dudes"`mott the Hoople
 Music : Identify the song - "I've got very bad posture"`pennyroyal tea
 Music : Identify the song - "Soon I find myself alone, to relax and fade away"`rocket
-Music : If you own all the KoRn, Limp Bizkit, Eminem & Dr. Dre cd's how many cd's do you own`nine*9
+Music : If you own all the KoRn, Limp Bizkit, Eminem & Dr. Dre cd's how many cd's do you own`nine
 Music : 'I'm Getting Sentimental Over You' was who's theme song`tommy dorsey
 Music : In 1953, Clyde McPhatter left the Dominoes to form this group`the drifters
 Music : In 1957 which actress recorded 'Tammy' from one of her films`debbie reynolds
@@ -3557,7 +3557,7 @@ What was the 10th Elton John album`caribou
 Elton John got married (with a woman) only once in 1994. With whom`renate blauel
 Which British soccer team was owned by Elton John`watford
 Which record label is owned by Elton John`rocket records
-How many consecutive Elton John albums hit the first position on the charts (1971-1975)`seven*7
+How many consecutive Elton John albums hit the first position on the charts (1971-1975)`seven
 Who is Elton John lyrics writer`bernie taupin
 Who sang in duo with Elton John, "Don't go breaking ny heart" in 1976`kiki dee
 What was Elton John's father's job`royal air force pilot

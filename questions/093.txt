@@ -41,9 +41,9 @@ In 1936 Bruno ---------- , convicted Lindbergh baby killer, executed.`hauptmann
 In 1942 Wayne ---------- , singer, born.`newton
 In 1961 Eddie ---------- , comedian, actor, born.`murphy
 In 1964 US and ---------- agree to resume diplomatic relations.`panama
-In 1966 Luna ---------- , first lunar orbiter.`ten*10
+In 1966 Luna ---------- , first lunar orbiter.`ten
 In 1968 N. Vietnam agreed to meet US reps to set up preliminary ---------- talks.`peace
-In 1974 Soyuz ---------- is launched.`fourteen*14
+In 1974 Soyuz ---------- is launched.`fourteen
 In 1977 Egyptian Pres Anwar ---------- first meeting with President Jimmy Carter.`sadat
 In 1982 UN Security Council demanded ---------- withdraw from Falkland Islands.`argentina
 In 188 ---------- Roman emperor (211-17), born.`caracalla
@@ -92,17 +92,17 @@ In 1923 Nguyen ---------- president of South Vietnam, born.`van thieu
 In 1929 Nigel ---------- actor (Tartuffe, Pope John Paul II (Sir Humphrey Appleby in Yes Minister), Richard III), born.`hawthorne
 In 1941 Eric ---------- rocker (Animals-House of the Rising Sun), born.`burdon
 In 1943 ---------- found after being adrift 133 days`poon lim
-In 1943 Poon Lim found after being adrift ---------- days`one hundred & thirty three*133
+In 1943 Poon Lim found after being adrift ---------- days`one hundred & thirty three
 In 1951 Julius & Ethel ---------- , atomic spies, sentenced to death`rosenberg
 In 1954 Elvis Presley records his debut single, " ---------- "`that's all right
 In 1955 ---------- resigns as British PM, Anthony Eden succeeds him`winston churchill
 In 1958 Cammie ---------- LA Calif, Guinness' World Strongest Woman, born.`lusko
 In 1962 NASA civilian pilot Neil A ---------- takes X-15 to 54,600 m`armstrong
 In 1963 Beatles receive their 1st ---------- disc (Please Please Me)`silver
-In 1964 Douglas MacArthur US general (Pacific theater-WW II), dies at`eighty four*84
+In 1964 Douglas MacArthur US general (Pacific theater-WW II), dies at`eighty four
 In 1971 Mount ---------- erupts in Sicily Italy`etna
 In 1976 Harold ---------- resigns as British PM.`wilson
-In 1976 Howard Hughes reclusive billionaire, dies at`seventy two*72
+In 1976 Howard Hughes reclusive billionaire, dies at`seventy two
 In 1986 Record for a throw-and-return ---------- toss is set (121m)`boomerang
 In 1987 Fox TV network premiers showing ---------- & Tracey Ullman`married with children
 In 1989 Solidarity grants ---------- status in Poland`legal
@@ -113,11 +113,11 @@ In 1892 Donald Wills ---------- , founded an aircraft company`douglas
 In 1896 Modern Olympics ---------- . (First modern Olympiad)`anniversary
 In 1906 First animated ---------- is copyrighted.`cartoon
 In 1917 US declares war on ---------- (WWI).`germany
-In 1926 ---------- planes take off on first successful around-the-world flight.`four*4
+In 1926 ---------- planes take off on first successful around-the-world flight.`four
 In 1965 Intelsat 1 ("Early Bird") first commercial ---------- communication satellite.`geosynchronous
 In 1973 Pioneer 11 launched. First spacecraft to flyby`saturn
 In 1975 Nationalist Chinese leader Chiang ---------- died at the age of 87.`kai-shek
-In 1975 Nationalist Chinese leader Chiang Kai-Shek died at the age of`eighty seven*87
+In 1975 Nationalist Chinese leader Chiang Kai-Shek died at the age of`eighty seven
 In 1984 Eleventh Space Shuttle Mission - ---------- is launched.`challenger 5
 In 30 Scholars' calculate this as the date that Jesus of Nazareth was crucified by ---------- troops in Jerusalem.`roman
 In 1860 W. K. ---------- , founded a cereal company`kellogg

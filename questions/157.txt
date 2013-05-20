@@ -2485,12 +2485,12 @@ Music : 1970s Hits: This brother act had 4 #1's in 1970...`jackson 5
 Music : 1970s Hits: This group song the 1978 #1 "Baby Come Back"`player
 Music : 1970s Hits: This instrumentalist hit #1 in 1977 with the theme from "Star Wars"`meco
 Music : 1970s Hits: This singer was the first to have his first 3 singles hit #1`andy gibb
-Music : 1971 Num1 Hits: "Gypsies, Tramps, and Thieves" was #1 for how many weeks`two*2
+Music : 1971 Num1 Hits: "Gypsies, Tramps, and Thieves" was #1 for how many weeks`two
 Music : 1971 Num1 Hits: "How Can You Mend a Broken Heart" was a #1 for whom`bee gees
 Music : 1971 Num1 Hits: "Just My Imagination" spent two weeks on the #1 spot for what group`temptations
-Music : 1971 Num1 Hits: "Maggie May" was #1 for how many weeks`five*5
-Music : 1971 Num1 Hits: "One Bad Apple" was #1 for this many weeks.`five*5
-Music : 1971 Num1 Hits: The number of #1's in 1971.`nineteen*19
+Music : 1971 Num1 Hits: "Maggie May" was #1 for how many weeks`five
+Music : 1971 Num1 Hits: "One Bad Apple" was #1 for this many weeks.`five
+Music : 1971 Num1 Hits: The number of #1's in 1971.`nineteen
 Music : 1971 Num1 Hits: The Rolling Stones had a hit with this "colorful" song.`brown sugar
 Music : 1971 Num1 Hits: This song was a 5 week #1 for Rod Stewart.`maggie may
 Music : 1971 Num1 Hits: This Three Dog Night song was #1 for 6 weeks, the longest of 1971.`joy to the world

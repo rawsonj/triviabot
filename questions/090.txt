@@ -455,28 +455,28 @@ Name that car maker`proton
 Name that car maker`subaru
 Name that car maker`suzuki
 Name that car maker`volkswagon
-What is the sum of 27 + 52`seventy nine*79
-What is the sum of 236 - 145`ninety one*91
-What is the sum of 32 + 49 + 765`eight hundred and forty six*846
+What is the sum of 27 + 52`seventy nine
+What is the sum of 236 - 145`ninety one
+What is the sum of 32 + 49 + 765`eight hundred and forty six
 What is the sum of 2a + 5a`seven a*7a
 What is the sum of 2y + 32y + 56y`ninety y*90y
 What is the sum of 2741 + 3562`6303
 What is the sum of 91 x 452`41132
-What is the sum of 75 + 23 + 84 - 101 + 18`ninety nine*99
+What is the sum of 75 + 23 + 84 - 101 + 18`ninety nine
 What is the sum of 47b + 96b`143b
 What is the sum of 9685z + 235z - 1800z + 2z`8122z
-What is the sum of 95 x 1`ninety five*95
-What is the sum of 67 + 67 + 67 + 67 + 67`three hundred and thirty five*335
-What is the sum of 99 - 33 - 33 - 33`zero*0
-What is the sum of 444 x 2 x 2 - 1700`seventy six*76
+What is the sum of 95 x 1`ninety five
+What is the sum of 67 + 67 + 67 + 67 + 67`three hundred and thirty five
+What is the sum of 99 - 33 - 33 - 33`zero
+What is the sum of 444 x 2 x 2 - 1700`seventy six
 What is the sum of 4 x 4 x 24 x 44`16896
-What is the square root of 16`four*4
-What is the square root of 64`eight*8
-What is the square root of 4096`sixty four*64
-What is the square root of 65536`two hundred and fifty six*256
-What is the square root of 9801`ninety nine*99
-What is the square root of 144`twelve*12
-What is the square root of 81`nine*9
+What is the square root of 16`four
+What is the square root of 64`eight
+What is the square root of 4096`sixty four
+What is the square root of 65536`two hundred and fifty six
+What is the square root of 9801`ninety nine
+What is the square root of 144`twelve
+What is the square root of 81`nine
 Who directed the 1976 film All The President's Men`alan j pakula
 Who was nominated for a Best Actress Oscar for the film Mary, Queen of Scots`vanessa redgrave
 Actress Amy Irving divorced her producer husband in 1989, who was he`steven spielberg

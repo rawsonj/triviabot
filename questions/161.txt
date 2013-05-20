@@ -53,10 +53,10 @@ Category:Animal Kingdom - As what is a moose also known`algonquin
 Category:Animal Kingdom - As what is an algonquin more commonaly known`moose
 Category:Animal Kingdom - At what age does a filly become a mare`five
 Category:Animal Kingdom - Does a wild rabbit live 10, 15 or 20 years`10
-Category:Animal Kingdom - How fast (mph) can a kangaroo hop`forty*40
-Category:Animal Kingdom - How many hours a day does a ferret sleep`twenty*20
-Category:Animal Kingdom - How many hours does an antelope sleep at night`one*1
-Category:Animal Kingdom - How many teeth does a walrus have`eighteen*18
+Category:Animal Kingdom - How fast (mph) can a kangaroo hop`forty
+Category:Animal Kingdom - How many hours a day does a ferret sleep`twenty
+Category:Animal Kingdom - How many hours does an antelope sleep at night`one
+Category:Animal Kingdom - How many teeth does a walrus have`eighteen
 Category:Animal Kingdom - If a robin's egg is put in vinegar for thirty days, what colour does it become`yellow
 Category:Animal Kingdom - Name one male fish that gives birth`sea horse or pipe fish
 Category:Animal Kingdom - Of what are walrus tusks made`ivory
@@ -105,7 +105,7 @@ Category:Animal kingdom - Where are there over 58 million dogs`USA
 Category:Animals - What is the most venomous snake (no, it's not the king cobra!)`Inland Taipan
 Category:Archaeology - Approximately how many years old is the first known written advertisement`three thousand
 Category:Archaeology - In which ruins was the first known written advertisement found`Thebes
-Category:Archaic Terms - What date is the 'Ides' of March`Fifteenth*15
+Category:Archaic Terms - What date is the 'Ides' of March`Fifteenth
 Category:Architecture - Which famous million dollar building cost more than a million dollars`Sydney Opera House
 Category:Art - Who painted 'Irises'`Vincent Van Gogh
 Category:Arts - What is the art of tracing designs and making impressions of them called`lithography
@@ -133,7 +133,7 @@ Category:Astronomy - Who discovered the four largest moons of Jupiter`Galileo
 Category:Astronomy - Who invented the telescope`Galileo Galilei
 Category:Atmosphere - What is the stratosphere immediately above`troposphere
 Category:Atmosphere - What is the troposphere immediately lower than`stratosphere
-Category:Aviation - How many 'Air Force One'(s) are there`two*2
+Category:Aviation - How many 'Air Force One'(s) are there`two
 Category:Baseball - Who wore a cabbage leaf under his cap`Babe Ruth
 Category:Beverages - What drink is named after the queen of England who was famous for her 'sanguinary' persecution of the protestants`Bloody Mary
 Category:Beverages - What is made of fermented grape juice`wine
@@ -169,11 +169,11 @@ Category:Biology - When a tumour is cancerous, what is it said to be`malignant
 Category:Biology - With age, what organ shrinks faster in males than in females`brain
 Category:Birthstones - What is the birthstone for May`emerald
 Category:Birthstones - What is the birthstone for September`sapphire
-Category:Botany - Approximately how many years old are oak trees before they produce acorns`fifty*50
+Category:Botany - Approximately how many years old are oak trees before they produce acorns`fifty
 Category:Botany - One ragweed plant can release approximately how many grains of pollen`one billion
 Category:Botany - To which family does the coffee plant belong`madder
 Category:Botany - Which tree only produces acorns after it is fifty years old`oak
-Category:Britain - How many inches tall are the bearskins worn by the guards at Buckingham Palace`twenty*20
+Category:Britain - How many inches tall are the bearskins worn by the guards at Buckingham Palace`twenty
 Category:Britain - In the House of Lords, where does the Lord Chancellor sit`woolsack
 Category:Britain - In which park are Queen Mary's gardens`Regents Park
 Category:Britain - What are the only two london boroughs that start with the letter 'e'`Ealing and Enfield
@@ -192,7 +192,7 @@ Category:Cars - What make of car is an 'Espace'`Renault
 Category:Cars - Which country has the most cars per mile of road`England
 Category:Cartoon Decorum - Donald Duck comics were banned in Finland because he didn't wear ······`pants
 Category:Cartoon Trivia - For which cartoon character was Beethoven a favourite composer`Shroeder
-Category:Cartoon Trivia - How many freckles did Howdy Doody have`forty eight*48
+Category:Cartoon Trivia - How many freckles did Howdy Doody have`forty eight
 Category:Cartoon Trivia - The maiden names of which two cartoon characters are Slaghoople and Mcbricker`Wilma Flintstone and Betty Rubble
 Category:Cartoon Trivia - What are the names of Donald Duck's nephews`Huey Dewey and Louey
 Category:Cartoon Trivia - What city do Batman and Robin patrol`Gotham City
@@ -221,7 +221,7 @@ Category:Chemistry - To what group of elements do cerium, praesiodymium and prom
 Category:Chemistry - What does the symbol 'Am' represent`americium
 Category:Chemistry - What is a corrosive substance with a pH value less than 7 called`acid
 Category:Chemistry - What is calcium oxide commonly called`lime
-Category:Chemistry - What is the atomic number for thalium`eighty one*81
+Category:Chemistry - What is the atomic number for thalium`eighty one
 Category:Chemistry - What is the atomic number of Bromine`thirty five
 Category:Chemistry - What is the atomic number of Molybdenum`forty two
 Category:Chemistry - What is the atomic number of sulphur`16
@@ -236,10 +236,10 @@ Category:Chemistry - What term is applied to ethyl alcohol that has been treated
 Category:Chemistry - What type of paper is used to test for acidity and alkalinity`litmus
 Category:Choking - On what do approximately 100 people choke to death every year`ballpoint pens
 Category:Christianity - How long did it take God to create the Universe`six days
-Category:Christianity - How many children did Noah have`three*3
-Category:Christianity - How many sayings did Jesus say from the cross`seven*7
-Category:Christianity - How many times did Peter deny Jesus`three*3
-Category:Christianity - How old was Sarah when she had a child`ninety*90
+Category:Christianity - How many children did Noah have`three
+Category:Christianity - How many sayings did Jesus say from the cross`seven
+Category:Christianity - How many times did Peter deny Jesus`three
+Category:Christianity - How old was Sarah when she had a child`ninety
 Category:Christianity - On which day was the resurrection of Christ`Easter Sunday
 Category:Christianity - What are the first three words of The Bible`In the beginning
 Category:Christianity - What two biblical cities did God destroy with fire and brimstone`Sodom and Gomorrah
@@ -247,11 +247,11 @@ Category:Christianity - Which two books in the Old Testament list the ten comman
 Category:Christianity - Who killed Goliath`David
 Category:Christianity - Who replaced Moses as the prophet of the Israelites`Joshua
 Category:Christianity - Whose name did God change to Israel`Jacob
-Category:Christmas Trivia - In the 'Twelve days of christmas', how many items in total are sent by 'my true love'`seventy eight*78
+Category:Christmas Trivia - In the 'Twelve days of christmas', how many items in total are sent by 'my true love'`seventy eight
 Category:Geography - As what is Constantinople now known`Istanbul
 Category:Technology - Who has the world's largest double-decker tram fleet`Hong Kong
 Category:Clichés - A bird in the hand is worth ······`two in the bush
-Category:Clichés - A stitch in time saves ····`nine*9
+Category:Clichés - A stitch in time saves ····`nine
 Category:Clichés - As clear as a ·······`bell
 Category:Clichés - As close as two ······ in a pod`peas
 Category:Clichés - As easy as ······`pie
@@ -356,7 +356,7 @@ Category:Egypt - What egyptian object is also known as 'the key to the Nile'`Ank
 Category:Electronics - As what was Sony's video recorder known`betamax
 Category:Electronics - Circuits can be wired in parallel or ······`series
 Category:Entomology - What is the only insect that can turn its head`praying mantis
-Category:Environmentalism - Recycling one glass jar saves enough energy to watch TV for how many hours`three*3
+Category:Environmentalism - Recycling one glass jar saves enough energy to watch TV for how many hours`three
 Category:Famous Dead Bodies - Where is Sir Herbert Baker buried`Westminster Abbey
 Category:Famous Genitals - For how much did an American urologist buy Napoleon's penis (US Dollars)`$3800
 Category:Famous Initials - For what are Allen and Wright most famous`root beer
@@ -364,15 +364,15 @@ Category:Famous Places - What Surrey town is famed for its salts`Epsom
 Category:Farming - What is the most rural state in the USA`North Dakota
 Category:Fear - If hell is a lake of fire, what would the temperature be (in degrees Fahrenheit)`833
 Category:Film and Television - Who is the main character in 'Touched By An Angel'`Monica
-Category:Flags - How many stars are there on the New Zealand flag`four*4
+Category:Flags - How many stars are there on the New Zealand flag`four
 Category:Flags - What colours are on the Belgian flag`yellow, black and red
 Category:Flags - Which country has a plain green flag`Libya
 Category:Flags - Whose flag has the national arms on one side and the treasury seal on the other`Paraguay
 Category:Flea Abilities - How many times its own length can the average flea jump`150
 Category:Folklore - Who was the tallest of Robin Hood's men`Little John
 Category:Food - Cornflakes were invented in 1863, 1890 or 1915`1890
-Category:Food - How many herbs and spices are used in Kentucky Fried Chicken`eleven*11
-Category:Food - How many pieces of bun are in a Mcdonald's Big Mac`three*3
+Category:Food - How many herbs and spices are used in Kentucky Fried Chicken`eleven
+Category:Food - How many pieces of bun are in a Mcdonald's Big Mac`three
 Category:Food - In which country did edam cheese originate`Holland
 Category:Food - In which country did the word 'biscuit' originate`France
 Category:Food - What breakfast cereal was invented at Battle Creek Sanitarium`Cornflakes
@@ -394,24 +394,24 @@ Category:Fruit - Where is most of the vitamin C in fruits`skin
 Category:Fun Runs - What is San Francisco's equivalent to Sydney's 'City To Surf' race`Bay to Breakers footrace
 Category:Furniture - What is the metal part of a lamp surrounding the bulb and supporting the shade called`harp
 Category:Furniture - Where did venetian blinds originate`Japan
-Category:Games - How many dots are on a twister mat`thirty*30
-Category:Games - How many folds does a Monopoly board have`one*1
-Category:Games - How many numbers are on the spinner in the game of 'Life'`ten*10
+Category:Games - How many dots are on a twister mat`thirty
+Category:Games - How many folds does a Monopoly board have`one
+Category:Games - How many numbers are on the spinner in the game of 'Life'`ten
 Category:Games - How much does Park Place cost in Monopoly (in US Dollars)`450
-Category:Games - In a game of horseshoes, how many feet apart must the stakes be`forty*40
+Category:Games - In a game of horseshoes, how many feet apart must the stakes be`forty
 Category:Games - In roulette, what number is green`zero
-Category:Games - Moving anti-clockwise on a dartboard, what is the number next to '4'`eighteen*18
-Category:Games - To what do opposite faces of a dice always add up`seven*7
+Category:Games - Moving anti-clockwise on a dartboard, what is the number next to '4'`eighteen
+Category:Games - To what do opposite faces of a dice always add up`seven
 Category:Games - What is another name for the card game 'Blackjack'`Twenty-one
 Category:Games - What is another name for the card game 'Twenty-one'`Blackjack
-Category:Games - What is the best possible score in blackjack`twenty one*21
+Category:Games - What is the best possible score in blackjack`twenty one
 Category:Games - What is the most popular sport in england`darts
 Category:Games - What is the tallest piece on a chessboard`king
 Category:Games - What number is at 12 o'clock on a dartboard`20*twenty
 Category:Games - What sport/game is Bobby Fischer associated with`chess
 Category:Games - Where did the card game 'bridge' originate`Turkey
 Category:Games - Where does the annual Poker World Series take place`Las Vegas
-Category:Gastronomy - Approximately how many pounds of cereal will the average american/canadian eat every year`twelve*12
+Category:Gastronomy - Approximately how many pounds of cereal will the average american/canadian eat every year`twelve
 Category:Gems - Peridot is the birthstone for ······`August
 Category:Gems - What is the birthstone for August`peridot
 Category:General Knowledge - During which month is the longest day in the Northern hemisphere`June
@@ -425,7 +425,7 @@ Category:General Knowledge - What is viewed during a a pyrotechnic display`firew
 Category:General Knowledge - What system do the blind use for reading`braille
 Category:General Knowledge - Where will children as young as 15 be jailed for cheating on their finals`Bangladesh
 Category:General Knowledge - With what day does a month start if it has a Friday the 13th`Sunday
-Category:Genetics - How many chromosomes do each body cell contain`forty six*46
+Category:Genetics - How many chromosomes do each body cell contain`forty six
 Category:Geograhy - What is the capital of Democratic Republic of the Congo`Kinshasa
 Category:Geography - Accra is the capital of ······`Ghana
 Category:Geography - Albany is the capital of ·····`New York
@@ -453,8 +453,8 @@ Category:Geography - Djibouti is the capital of ······`Djibouti
 Category:Geography - Five US states border which ocean`Pacific Ocean
 Category:Geography - Guatemala is the capital of ······`Guatemala
 Category:Geography - Helena is the capital of ······`Montana
-Category:Geography - How many Great Lakes are there`five*5
-Category:Geography - How many countries border the black sea`six*6
+Category:Geography - How many Great Lakes are there`five
+Category:Geography - How many countries border the black sea`six
 Category:Geography - If you flew due West from Portugal, what is the first continent you would reach`North America
 Category:Geography - In what state is Silicon Valley`California
 Category:Geography - In which city is Westminster Abbey`London
@@ -676,11 +676,11 @@ Category:Geography - Which tropic passes through Australia`Tropic of Capricorn
 Category:Geography - Who owns the island of Bermuda`Britain
 Category:Geography - Yaounde is the capital of ······`Cameroon
 Category:Geography - What is the capital of Senegal`Dakar
-Category:Geogrophy - Approximately what percentage of the earth do the oceans cover`seventy one*71
+Category:Geogrophy - Approximately what percentage of the earth do the oceans cover`seventy one
 Category:Geology - What is the highest active volcano in the world`Cotopaxi
 Category:Geology - What is the most reliable geyser in the world`Old Faithful
 Category:Geology - What type of rock is marble`metamorphic
-Category:Geometry - What is the sum of all the angles in a square (in degrees)`three hundred and sixty*360
+Category:Geometry - What is the sum of all the angles in a square (in degrees)`three hundred and sixty
 Category:Glass Making - What is the glass capital of the world`Toledo
 Category:Handy Hints - By raising your legs slowly and laying on your back, in what can you not sink`quicksand
 Category:Hisory - Who invented the predecessor to today's computers`Charles Babbage
@@ -702,8 +702,8 @@ Category:History - George Washington Carver advocated planting what to replace c
 Category:History - Germany was split into two zones by which agreement`Yalta agreement
 Category:History - His wife was Roxana, his horse was Bacephalus, he was`Alexander the Great
 Category:History - How many British officers were forced by Indian troops into the Black Hole of Calcutta`146
-Category:History - How many people were killed in the battle of Lexington`eight*8
-Category:History - How many years was Nelson Mandela in prison`twenty seven*27
+Category:History - How many people were killed in the battle of Lexington`eight
+Category:History - How many years was Nelson Mandela in prison`twenty seven
 Category:History - In 1962, for what did Britain and France sign an agreement to build together`Concorde
 Category:History - In 1975, what re-opened after an 8 year closure`Suez Canal
 Category:History - In the 15th century, what was the war between the houses of Lancaster and York`War of the Roses
@@ -890,7 +890,7 @@ Category:History - Who wrote 'The Starry Messenger'`Galileo
 Category:History - Winston Churchill resigned from office in 1954, 1955 or 1956`1955
 Category:Hobbies - What hobby was developed by the Palmer Paint Company`Painting by numbers
 Category:Hobbies - Who invented painting by numbers`palmer paint company
-Category:How many - How many years in a vicennial`twenty*20
+Category:How many - How many years in a vicennial`twenty
 Category:Human Achievment - Who hit the first golf shot on the moon`Alan Sheppard
 Category:Humanitarianism - What does the abbreviation 'UNICEF' stand for`United Nations Childrens' Emergency Fund
 Category:IRC - In mIRC, what colour does control-K + 4 give`red
@@ -939,8 +939,8 @@ Category:Legends - Who was Clyde Barrow's partner`Bonnie Parker
 Category:Legends - Who was John Reid`Lone Ranger
 Category:Legends - Who was the Lone Ranger's Indian companion`Tonto
 Category:Literature - As what did H.G. Wells refer to Adolf Hitler`A certifiable lunatic
-Category:Literature - How many books are there in Anne Rice's vampire series`five*5
-Category:Literature - How many stories did enid blyton publish in 1959`fifty nine*59
+Category:Literature - How many books are there in Anne Rice's vampire series`five
+Category:Literature - How many stories did enid blyton publish in 1959`fifty nine
 Category:Literature - In 'A Christmas Carol', how many ghosts visited Scrooge`four
 Category:Literature - In 'A Christmas Carol', what was the name of the miser`Ebenezer Scrooge
 Category:Literature - In 'Alice In Wonderland', who never stopped sobbing`Mock Turtle
@@ -997,7 +997,7 @@ Category:Literature - Who wrote the 'Myth' series`Robert Asprin
 Category:Literature - Who wrote the 'Noddy' books`Enid Blyton
 Category:Literature - Who wrote the vampire series that featured Lestat as the main character`Anne Rice
 Category:Literature - Who's last words were 'Thus with a kiss I die'`Romeo
-Category:Longevity - How old was the world's oldest man`one hundred and forty one*141
+Category:Longevity - How old was the world's oldest man`one hundred and forty one
 Category:Longevity - Who was the world's oldest man`Bir Narayan Chaudhari
 Category:Maritime Trivia - On a ship, what is the line that indicates the maximum load that may be transported`Plimsoll Line
 Category:Mathematics - How many different letters are used in the roman numeral system`seven
@@ -1006,6 +1006,6 @@ Category:Mathematics - What is the maximum number of integer degrees in a reflex
 Category:Mathematics - What is the maximum number of integer degrees in an acute angle`eighty nine
 Category:Mathematics - What is the maximum number of integer degrees in an obtuse angle`one hundred and seventy nine
 Category:Mathematics - What is the minimum number of integer degrees in a reflex angle`one hundred and eighty one
-Category:Mathematics - What is the minimum number of integer degrees in an acute angle`one*1
-Category:Mathematics - What is the minimum number of integer degrees in an obtuse angle`ninety one*91
+Category:Mathematics - What is the minimum number of integer degrees in an acute angle`one
+Category:Mathematics - What is the minimum number of integer degrees in an obtuse angle`ninety one
 Category:Mathematics - What is the only digit that has the same number of letters as its value`four
