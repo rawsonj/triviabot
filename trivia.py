@@ -241,8 +241,8 @@ class triviabot(irc.IRCClient):
                                    'source' : self._show_source,
                                    'standings' : self._standings,
                                    'giveclue' : self._give_clue,
-                                   'next' : self._next_vote
-                                   'skip': self._next_question,
+                                   'next' : self._next_vote,
+                                   'skip': self._next_question
                                  }
         priviledged_commands = { 'die' : self._die,
                                  'set' : self._set_user_score,

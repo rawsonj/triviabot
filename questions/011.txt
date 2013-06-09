@@ -2,7 +2,7 @@ Animal Trivia: The breed of the Thoroughbred horse is only about 300 years old, 
 Animal Trivia: Ostriches are such fast runners, they can outrun a horse. Male ostriches can ---------`roar like a lion
 Animal Trivia: In ancient Rome, auburn-haired puppies were sacrificed to ensure a plentiful ----------`corn crop
 Animal Trivia: Communication within the prairie dog community is crucial to the creatures' survival. An appointed sentry, spotting a predator, will give a distinctive warning cry, which instantly sends all others grabbing up babies and scurrying to the safety of their burrows. An all-clear call later announces that danger is passed. Experts are fascinated by the prairie dogs' ----------`cooperative system
-Animal Trivia: Ostriches live about 75 years and can reproduce for ----------`*fifty years*50 years
+Animal Trivia: Ostriches live about 75 years and can reproduce for ----------`fifty years
 Animal Trivia: In England, the most commonly used guide dog for the blind is the Yellow ----------`labrador retriever
 Animal Trivia: In Korea, the deer is a symbol of long life, and is often portrayed in the company of ----------`immortals
 Animal Trivia: Cougars can kill animals ---------- times their size`eight
@@ -85,7 +85,7 @@ Animal Trivia: There are ---------- that nest in trees. These creatures may spen
 Animal Trivia: The mudskipper is a fish that can actually ----------`walk on land
 Animal Trivia: The domestic cat is the only species able to hold its tail vertically while walking. Wild cats hold their tail horizontally, or tucked between their legs while ----------`walking
 Animal Trivia: Sharks and rays are the only animals known to man that cannot succumb to cancer. Scientists believe this is related to the fact that they have no bone - only ----------`cartilage
-Animal Trivia: There are more than 100 million ----------`in the united states. americans spend more than 5.4 billion dollars on their pets each year.*dogs and cats*cats and dogs
+Animal Trivia: There are more than 100 million ---------- in the united states. americans spend more than 5.4 billion dollars on their pets each year.`dogs and cats
 Animal Trivia: The nematode Caenorhabditis elegans ages the equivalent of 5 human years for every day they live, usually expiring after 14 days. However, when stressed, the `worm goes into a state of suspended animation that can last for 2 months or more. the human equivalent would be to sleep for about ----------*200 years
 Animal Trivia: The duckbill platypus of Australia can store up to 600 worms in its large cheek ----------`pouches
 Animal Trivia: Sharks can be dangerous even before they are born. Scientist Stewart Springer was bitten by a sand tiger shark embryo while he was examining its ----------`pregnant mother
@@ -259,7 +259,7 @@ Animal Trivia: Within the hawk, or birds of prey, family, there are ---------- s
 Animal Trivia: Wolf packs could be found in all the forests of Europe, and in 1420 and 1438, wolves roamed the streets of ----------`paris
 Animal Trivia: ---------- are freeze-tolerant and spend winters frozen on land, only to thaw in the spring and begin their breeding process in vernal ponds.`wood frogs
 Animal Trivia: You can identify a ---------- bear's mark by the sign of five claws. A black bear will lacerate a tree trunk with four claws.`grizzly
-Animal Trivia: You can tell the sex of a horse by its teeth. Most males have 40, females have ----------`thirty six*36*
+Animal Trivia: You can tell the sex of a horse by its teeth. Most males have 40, females have ----------`thirty six
 Animal Trivia: You could milk about ---------- cows per hour by hand, but with modern machinery, you can milk up to 100 cows per hour.`six
 Animal Trivia: Young birds such as ducks, geese, and shore birds are born with their ----------`eyes open
 Animal Trivia: ----------, like other equids, have three gaits: the walk, the trot, and the gallop.`zebras
@@ -605,7 +605,7 @@ Animal Trivia: The jackrabbit is not a rabbit; it is a ----------`hare
 Animal Trivia: The bite of a leech is painless due to its own ----------`anaesthetic
 Animal Trivia: The Jardine River in Australia's Cape York Peninsula is home to Crocodylus porosus, the saltwater or estuarine crocodile. It is the largest and perhaps most dangerous of all ---------- species of crocodilians.`twenty three
 Animal Trivia: The black bear is not always black. It can be brown, cinnamon, ----------, and sometimes a bluish color.`yellow
-Animal Trivia: On the Baja coast, osprey couples return to the same nests year after year. These birds rebuild their old nest, carefully repairing any damage caused by winds, rain, and age. After years of rebuilding, some osprey nests can reach heights of ----------`four feet*4 feet.*
+Animal Trivia: On the Baja coast, osprey couples return to the same nests year after year. These birds rebuild their old nest, carefully repairing any damage caused by winds, rain, and age. After years of rebuilding, some osprey nests can reach heights of ----------`four feet
 Animal Trivia: Hummingbirds cannot glide or soar as other bird do. They are the only bird that can ----------`hover continuously
 Animal Trivia: The kakapo is a nocturnal burrowing parrot of ---------- that has a green body with brown and yellow markings. Its name is from Maori and means "night parrot."`new zealand
 Animal Trivia: The blow of a whale has a strong, foul odor. It apparently smells like a combination of spoiled fish and old oil. Because whales have such terrible breath, sailors believed at one time that a whiff of it could cause ----------`brain disorders
@@ -645,7 +645,7 @@ Animal Trivia: In Milwaukee during the 1900s, 12,500 horses in the city left an 
 Animal Trivia: The white elephant is the sacred animal of ----------`thailand
 Animal Trivia: The largest order of mammals, with about 1,700 species, is ----------. Bats are second with about  950 species.`rodents
 Animal Trivia: The calories burned daily by the sled dogs running in Alaska's annual Iditarod race average 10,000. The 1,149-mile race commemorates the 1925 "Race for Life" when 20 volunteer mushers relayed medicine from Anchorage to Nome to battle a children's ----------`diphtheria epidemic
-Animal Trivia: Parrots, most famous of all talking birds, rarely acquire a vocabulary of more than twenty words. However, Tymhoney Greys and African Greys have been known to carry vocabularies in excess of ----------`*one hundred words*100 words
+Animal Trivia: Parrots, most famous of all talking birds, rarely acquire a vocabulary of more than twenty words. However, Tymhoney Greys and African Greys have been known to carry vocabularies in excess of ----------`one hundred words
 Animal Trivia: In one year, hens in America lay enough eggs to encircle the globe a ----------`one hundred times*100 times
 Animal Trivia: The woolly ----------, extinct since the Ice Age, had tusks almost 16 feet high.`mammoth
 Animal Trivia: The largest species of seahorse measures ----------`eight inches*8 inches
@@ -2227,9 +2227,8 @@ Which playwright and dissident became President of Czechoslovakia in 1989`vaclav
 Carvel and Clinker are methods of making what`boats
 Name either of the churches that merged in 1972 to form the United Reformed Church`presbyterian*congregational
 Which car company took over Mitsubishi in March 2000`daimler*chrysler
-Name one of the three branches of the Methodist Church that merged in 1932 to form the current Church.`wesleyan*primitive*united
-What word refers to very harsh laws such as those devised by a 7th century BC Athenian legislator`draconian*draconic
-On which river is Warsaw to be found`vistula*wisla
+What word refers to very harsh laws such as those devised by a 7th century BC Athenian legislator`draconian
+On which river is Warsaw to be found`vistula
 Which comedienne's alternative persona is 'Mrs. Merton'`caroline aherne
 Three of Shakespeare's plays contain a ghost - Hamlet is one, name either of the others`macbeth*julius caesar
 Who is famously buried in the churchyard at Bamburgh, Northumberland`grace darling
