@@ -3,7 +3,8 @@ triviabot
 
 A simple IRC trivia bot written in python using twisted.
 
-h2. Features
+Features
+--------
 
 Simple implementation. Questions are <string>`<string> formatted in plain text files.
 
@@ -11,7 +12,8 @@ Configurable colored text to help differentiate game text from user text.
 
 Event driven implementation: uses very little cycles.
 
-h2. Implementation
+Implementation
+--------------
 
 triviabot uses a config.py and comes with an example for you to tweak and use.
 
@@ -21,7 +23,8 @@ Each round, a file is selected at random, then a line is selected at random from
 The answer is then masked and the question is asked. Periodically, the bot will ask the current question
 again and unmask a letter. This happens three times before the answer is revealed.
 
-h2. What the bot doesn't do.
+What the bot doesn't do.
+------------------------
 
 It doesn't have multiple answers to a question. It shows you the format. Part of the game is to match its formatting.
 
@@ -30,6 +33,7 @@ There needs to be an army of editors to go through the 350+k lines and format th
 The bot was written to catch malformed questions so it wouldn't crash, but if it technically matches <string>`<string>
 there's no way for the bot to understand that's not part of the question.
 
-h2. Todo:
+Todo:
+-----
 
 Look at the issues. Pull requests welcome.
