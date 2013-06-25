@@ -852,11 +852,11 @@ What was George Washington's favorite horse's name`lexington
 What was H.G. Wells' first novel`the time machine
 How many Great Lakes do not border Michigan`one
 How many men have walked on the moon`twelve
-How many years did Hitler predict the Third Reich would reign`one thousand*1,000*1000*a thousand
-How many years long is a quinquennium`five*5*five years*5 years*5 yrs
+How many years did Hitler predict the Third Reich would reign`one thousand
+How many years long is a quinquennium`five
 What 1902 children's book continues to sell over 50,000 copies per year`the tale of peter rabbit
 What 1955 fad was good for New York City fur dealers`coonskin hats
-What African country's name is Latin for "free"`liberia's*liberias*liberia
+What African country's name is Latin for "free"`liberia's
 What ailing founding father was carted to the Constitutional Convention in a sedan chair carried by four prisoners`benjamin franklin
 What American spoiled Hitler's Aryan dream at the 1936 Olympics`jesse owens
 What ancient symbol's German name translates as "hooked cross"`the swastika*swastika
@@ -893,7 +893,7 @@ What does "Rx" mean to a pharmacist`a prescription*prescription
 What does a catoptrophic narcissist fear`mirrors
 What does a priest distribute with an aspergillum`holy water
 What does the slang term "all day & night" mean to a prison inmate`a life sentence*life sentence
-What European country's most common last name is Martin`france's*frances*france
+What European country's most common last name is Martin`france's
 What former resistance fighter was Israel's first Likud Party prime minister`menachem begin
 What former riverboat pilot & author called the Mississippi "the crookedest river in the world"`mark twain
 What government issue item did sensitive G I's dub "sandpaper"`toilet paper
@@ -915,22 +915,22 @@ What major league baseball team has a moose for a mascot`the seattle mariners*se
 What marvel Comics superhero carries a star spangled shield`captain america
 What museum is home to half the paintings now attributed to Leondardo`the louvre*louvre
 What name did George Eastman invent in 1888 because it was easy to memorize, pronounce & spell`kodak
-What name did Kresge's end up with`k mart*k mart*kmart
+What name did Kresge's end up with`k mart
 What nation did 23 African countries sever relations with in 1974`israel
 What nation has its capital in Zagreb`croatia
-What nation's 90 man army is the world's oldest, dating back to 1506`vatican city's*vatican citys*vatican city
-What nation's populace watches the most TV, per capita`japan's*japans*japan
+What nation's 90 man army is the world's oldest, dating back to 1506`vatican city's
+What nation's populace watches the most TV, per capita`japan's
 What nickname did Imelda Marcos share with a heavey metal rock group`iron butterfly
 What Norse explorer introduced Christianity to Greenland around 1000 A.D.`leif ericsson
-What northern nation's geyser heated soil allows it to grow bananas`iceland's*icelands*iceland
+What northern nation's geyser heated soil allows it to grow bananas`iceland's
 What Olympic aquatic event includes such positions as the flamingo, crane & fishtail`synchronized swimming
-What Olympic event's winner is considered to be the "world's greatest athlete"`the decathlon's*the decathlons*decathlon's*decathlons*decathlon
+What Olympic event's winner is considered to be the "world's greatest athlete"`the decathlon's
 What organ will most often suffer permanent damage if you have amoebic dysentery`the liver*liver
 What organization's launch was FDR preparing to attend when he died`the united nations*united nations
 What outfit merged with Time Warner in 1996 to form the world's largest entertainment company`turner broadcasting systems
 What part of an eatery do some restaurant owners call "the cancer ward"`the smoking section*smoking section
 What percentage of Earth's circumference does the Great Wall span`ten
-What river snakes through Germany, Austria, Slovakia, Hungary, Serbia, Romania, & Bulgaria`the danube*danube*danube river*the danube river
+What river snakes through Germany, Austria, Slovakia, Hungary, Serbia, Romania, & Bulgaria`the danube
 What rock makes the cheapest, softest form of sandpaper`flint
 What sexually ambigious prisonmate was often dubbed "Mrs. Hitler"`rudolf hess
 What shoe brand were all 39 members of the Heaven's Gate cult wearing when they committed suicide in 1997`nike
@@ -947,11 +947,11 @@ What Turkish city has spread to both sides of the Bosporus Strait`istanbul
 What two European states enjoy observer status at the United Nations`switzerland & vatican city*vatican city & switzerland
 What two factors do meteorologists combine to determine the heat index`temperature & humidity*humidity & temperature
 What type of animal was selected to test the first electric toothbrush`the dog*dog
-What type of tests were National League umpires ordered to undergo in 1911`eye tests*eye test*an eye test
+What type of tests were National League umpires ordered to undergo in 1911`eye tests
 What typewriter brand was invented by a man whose father made a well known flintlock rifle`remington
 What Utah town plays host to the Sundance Film Festival`park city
 What Van Gogh painting did the Getty Museum pick up after Alan Bond was unable to pay the 53.9 million he agreed to pay Sotheby's`irises
-What Venetian traveler's printed journal did Columbus have a copy of`marco polo's*marco polos*marco polo
+What Venetian traveler's printed journal did Columbus have a copy of`marco polo's
 What was mixed with vodka in 1946 to make a Moscow Mule`ginger ale
 What was Spode the first to make in 1797, by adding bone ash to hard paste porcelain`bone china
 What was the top technology manual of 1996, at over one million sales`windows 95 for dummies
@@ -993,7 +993,7 @@ What's white sugar mixed with to make brown sugar`molasses
 Where did over 300 defiant Indians head off to, after Sitting Bull was killed`wounded knee
 Where would you experience serious pain if someone dropped a concrete block on your hallus`your big toe*big toe
 Which of Shakespeare's kings cries: "A horse! A horse! My kingdome for a horse!"`richard iii
-Which two bodies of water separate Britain from mainland Europe`the english channel & the north sea*english channel & north sea*north sea & english channel
+Which two bodies of water separate Britain from mainland Europe`the english channel & the north sea
 Who called overcrowded, poorly ventilated hospitals "gateways to death"`florence nightingale
 Who did Davy Crockett beat in a keelboat race, from Disney's perspective`mike fink
 Who did Richard Nixon call the ayatollah of the press corps`sam donaldson
@@ -2003,7 +2003,7 @@ What is the technical term for the bones in the fingers and toes`phalanges
 Whose abduction of Helen of Troy brought about the Trojan War`paris
 What was the first name of Captain Bligh, of 'Mutiny on the Bounty' fame`william
 Which British scientist invented a safety lamp for miners`davy
-The film M`A*S*H was set during which war*korean
+The film M*A*S*H was set during which war`korean
 What kind of garment is a 'Sloppy Joe"`sweater
 Which acid is found in yoghurt`lactic
 How is a zither played`plucked
@@ -2575,7 +2575,6 @@ Name The Year: Kahlil Gibran, philosopher, born.`1883
 Name The Year: Austrian Archduke Maximilian became emperor of Mexico.`1864
 Name The Year: American Society for the Prevention of Cruelty to Animals organized.`1866
 Name The Year: RMS Titanic sets sail for its first and last voyage.`1912
-Name The Year: Harry Morgan (in Detroit, MI), actor (Dragnet, M`A*S*H), born.
 Name The Year: First professional golf tournament held.`1916
 Name The Year: Chuck Connors, actor (The Rifleman), born.`1924
 Name The Year: Max von Sydow, actor, born.`1929
@@ -3821,7 +3820,6 @@ Name The Year: William Seward Burroughs inventor (recording adding machine), bor
 Name The Year: Jackson Pollack abstract artist (Lavender Mist), born.`1912
 Name The Year: Christopher Hornsrud chosen PM of Norway at age 101.`1928
 Name The Year: Susan Sontag NYC, author/film director (1966 Pol Award), born.`1933
-Name The Year: Alan Alda NYC, actor (Hawkeye Pierce-M`A*S*H), born.
 Name The Year: William Butler Yeats Irish poet, dies in France at 73.`1939
 Name The Year: Construction began on 1st private thorium-uranium nuclear reactor.`1958
 Name The Year: Republic of Rwanda proclaimed.`1961
@@ -4412,7 +4410,6 @@ Name The Year: St Pius X, 257th Roman Catholic pope (1903-14), born.`1835
 Name The Year: P.T. Barnum & his circus begin 1st tour of US.`1835
 Name The Year: Thomas Hardy, England, poet/novelist (Mayor of Casterbridge), born.`1840
 Name The Year: John Weissmuller, actor (Tarzan)/100m swimmer (Olympic-gold-1924, 28), born.`1904
-Name The Year: Sally Kellerman, Long Beach Cal, actress (M`A*S*H, Back to School), born.
 Name The Year: Marvin Hamlisch, US composer/pianist (The Sting, Chorus Line), born.`1944
 Name The Year: Italian people chooses republic over monarchy (National Day).`1946
 Name The Year: Jerry Mathers, Sioux City Iowa, actor (Beaver-Leave It To Beaver), born.`1948

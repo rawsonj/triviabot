@@ -228,8 +228,8 @@ class triviabot(irc.IRCClient):
             return
         self.msg(user,
             COLOR_CODE+'''I'm nameless's trivia bot.\n'''
-            +COLOR_CODE+'''Commands: score, standings, giveclue, help, next, source\n'''
-            +COLOR_CODE+'''Admin commands: die, set <user> <score>, skip, start,\n'''
+            +COLOR_CODE+'''Commands: score, standings, giveclue, help, next, skip, source\n'''
+            +COLOR_CODE+'''Admin commands: die, set <user> <score>, start,\n'''
             +COLOR_CODE+'''stop, save''')
 
     def _show_source(self,args,user,channel):
@@ -241,10 +241,6 @@ class triviabot(irc.IRCClient):
         self.msg(user,
             COLOR_CODE+'''My source can be found at: '''
             +COLOR_CODE+'''https://github.com/rawsonj/triviabot''')
-
-    def _color_test(self,*args):
-        self.msg(self._game_channel, str(COLOR_CODE)+
-                '''This is a color test.''')
 
     def select_command(self, command, args, user, channel):
         '''
@@ -259,15 +255,14 @@ class triviabot(irc.IRCClient):
                                    'source' : self._show_source,
                                    'standings' : self._standings,
                                    'giveclue' : self._give_clue,
-                                   'next' : self._next_vote
+                                   'next' : self._next_vote,
+                                   'skip': self._next_question
                                  }
         priviledged_commands = { 'die' : self._die,
                                  'set' : self._set_user_score,
-                                 'skip': self._next_question,
                                  'start': self._start,
                                  'stop': self._stop,
                                  'save': self._save_game,
-                                 'colortest': self._color_test
                                }
         print command, args, user, channel
         try:

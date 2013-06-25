@@ -1152,7 +1152,7 @@ What is mercury also known as`quicksilver
 What is the hardest mineral`diamond
 What is the second hardest mineral`corundum
 What is one of the softest minerals`aluminite*talc
-Most precious stones are minerals, though some come from animals or plants, one of these is`pearl*amber*coral
+Most precious stones are minerals, though some come from animals or plants, one of these is`pearl
 Gemstones are formed from slowly cooling __________ rocks`igneous
 Where are icebergs usually larger`antarctica
 What is the monetary unit of Algeria`dinar
@@ -1202,7 +1202,7 @@ The lungfish can live out of water in a state of suspended animation for _____ y
 The chicken can travel up to _____ miles per hour`nine
 Pink elephants? In regions of India where the soil is red, elephants take on a permanent pink tinge because they regularly spray dust over their bodies to protect themselves against ________`insects
 It is estimated that a single toad may catch and eat as many as ________ insects in the course of a summer`10,000
-Prior to migration a goose will consume the equivalent of up to ____ percent of its body weight per day, accumulating large amounts of fat`twenty five*25during the migration, geese may cover up to ____ miles per day*six hundred
+Prior to migration a goose will consume the equivalent of up to ____ percent of its body weight per day, accumulating large amounts of fat`twenty five
 It is estimated that manatees live a maximum of ___ years`sixty
 A "winkle" is an edible`sea snail
 A 42-foot sperm whale has about _____ tons of oil in it`seven
@@ -2876,7 +2876,6 @@ Name The Year: Ansel Adams, knows how to handle a camera, born.`1902
 Name The Year: Alexei Kosygin, Soviet Premier, born.`1904
 Name The Year: Gloria Vanderbilt, fashion designer (Don't my jeans look great!), born.`1924
 Name The Year: Sydney Poitier, actor, born.`1924
-Name The Year: Robert Altman, director (M`A*S*H), born.
 Name The Year: Bobby Unser, auto racer, born.`1934
 Name The Year: First automobile/airplane combination tested, Santa Monica, Ca`1937
 Name The Year: John Glenn aboard Friendship 7, is first American to orbit the Earth.`1962
@@ -3517,7 +3516,6 @@ Name The Year: Kingdom of Italy annexes Venetia.`1866
 Name The Year: James Ritty patents the first cash register, to combat stealing by bartenders in his Dayton, Ohio saloon.`1879
 Name The Year: Art Carney, actor (Honeymooners, Harold and Maude)`1918
 Name The Year: Howard Carter discovers the tomb of Tutankhamen.`1922
-Name The Year: Loretta Swit (in Passaic, NJ), actor (M`A*S*H)
 Name The Year: First air conditioned automobile (Packard) exhibited, Chicago, IL.`1939
 Name The Year: UN Educational, Scientific, and Cultural Organization formed. (UNESCO)`1946
 Name The Year: Israeli troops reach the Suez Canal for the first time.`1956
@@ -3719,7 +3717,6 @@ Name The Year: Barbara Hutton, actress`1912
 Name The Year: Veronica Lake, actress`1919
 Name The Year: Brian Keith, actor`1921
 Name The Year: BBC began domestic radio service.`1922
-Name The Year: McLean Stevenson, actor (M`A*S*H)
 Name The Year: Edward H. White II, astronaut (Gemini 4)`1930
 Name The Year: Fred Haise, astronaut (Apollo 13)`1933
 Name The Year: Hussein I, king of Jordan (1953- )`1935
@@ -4372,7 +4369,6 @@ Name The Year: German Kingdom of Westphalia abolished.`1813
 Name The Year: Arthur Rimbaud, France, poet/adventurer (Illuminations), born.`1854
 Name The Year: Margaret Dumont, actress-Marx Brothers' foil, born.`1889
 Name The Year: Mickey Mantle, NY Yankee home run slugger, born.`1931
-Name The Year: William Christopher, actor (Father Mulcahy-M`A*S*H), born.
 Name The Year: Martin Landau, actor (Mission Impossible, Space 1999, Tucker), born.`1934
 Name The Year: Revolution by workers and students in Guatemala.`1944
 Name The Year: Tom Petty, Florida, USA, singer, born.`1953
@@ -4915,7 +4911,6 @@ Name The Year: "The Fugitive" premiers on TV in the USA.`1963
 Name The Year: "Bewitched" premiers on TV in the USA.`1964
 Name The Year: Supremes release "Baby Love".`1964
 Name The Year: "Mission Impossible" premieres on TV in the USA.`1967
-Name The Year: "M`A*S*H" premiers on TV.
 Name The Year: Soviet Union and Saudi Arabia restore diplomatic ties.`1990
 Name The Year: North and South Korea joins the UN.`1991
 Name The Year: Chile declares independence from Spain (National Day).`1810
