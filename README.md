@@ -37,3 +37,5 @@ Todo:
 -----
 
 Look at the issues. Pull requests welcome.
+
+Released under the GPLv3.

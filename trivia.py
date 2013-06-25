@@ -1,4 +1,5 @@
 #!/usr/bin/python2
+# 
 #
 # Need to load the scores, if they exist, and connect to irc, displaying
 # a welcome message.
