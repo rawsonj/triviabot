@@ -379,7 +379,7 @@ class triviabot(irc.IRCClient):
         Administrative action taken to adjust scores, if needed.
         '''
         try:
-            self._scores[args[0]] = args[1]
+            self._scores[args[0]] = int(args[1])
         except:
             self.msg(user, COLOR_CODE+args[0]+" not in scores database.")
             return
