@@ -46,13 +46,15 @@
 # Every so often between questions the bot should list the top ranked
 # players, wait some, then continue.
 #
-from os import listdir,walk,path,makedirs
-from random import randint,choice
+
+import json
+from os import listdir, path, makedirs
+from random import choice
+
 from twisted.words.protocols import irc
 from twisted.internet import ssl, reactor
-from twisted.internet.protocol import ClientFactory, Protocol
+from twisted.internet.protocol import ClientFactory
 from twisted.internet.task import LoopingCall
-import json
 
 from lib.answer import Answer
 
