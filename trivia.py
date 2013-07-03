@@ -488,6 +488,6 @@ class ircbotFactory(ClientFactory):
 if __name__ == "__main__":
     # these two lines do the irc connection over ssl.
     reactor.connectSSL(config.SERVER, config.SERVER_PORT,
-                       config.ircbotFactory(), ssl.ClientContextFactory())
+                       ircbotFactory(), ssl.ClientContextFactory())
     # reactor.connectTCP(config.SERVER, config.SERVER_PORT, ircbotFactory())
     reactor.run()
