@@ -64,7 +64,7 @@ import config
 class triviabot(irc.IRCClient):
     '''
     This is the irc bot portion of the trivia bot.
-    
+
     It implements the whole program so is kinda big. The algorithm is
     implemented by a series of callbacks, initiated by an admin on the
     server.
@@ -170,32 +170,32 @@ class triviabot(irc.IRCClient):
         '''
         user,temp = user.split('!')
         print(user+" : "+channel+" : "+msg)
-    # need to strip off colors if present.
-	try:
-	    while not msg[0].isalnum() and not msg[0] == '?':
-		msg = msg[1:]
-	except IndexError:
-	    return
+        # need to strip off colors if present.
+        try:
+            while not msg[0].isalnum() and not msg[0] == '?':
+                msg = msg[1:]
+        except IndexError:
+            return
 
-    # parses each incoming line, and sees if it's a command for the bot.
-	try:
-	    if (msg[0]=="?"):
-		command = msg.replace('?','').split()[0]
-		args = msg.replace('?','').split()[1:]
-		self.select_command(command, args, user, channel)
-		return
-	    elif (msg.split()[0].find(self.nickname)==0):
-		command = msg.split()[1]
-		args = msg.replace(self.nickname,'').split()[2:]
-		self.select_command(command, args, user, channel)
-		return
-	    # if not, try to match the message to the answer.
-	    else:
-		if msg.lower().strip() == self._answer.answer.lower():
-		    self._winner(user,channel)
-		    self._save_game()
-	except:
-	    return
+        # parses each incoming line, and sees if it's a command for the bot.
+        try:
+            if (msg[0]=="?"):
+                command = msg.replace('?','').split()[0]
+                args = msg.replace('?','').split()[1:]
+                self.select_command(command, args, user, channel)
+                return
+            elif (msg.split()[0].find(self.nickname)==0):
+                command = msg.split()[1]
+                args = msg.replace(self.nickname,'').split()[2:]
+                self.select_command(command, args, user, channel)
+                return
+            # if not, try to match the message to the answer.
+            else:
+                if msg.lower().strip() == self._answer.answer.lower():
+                    self._winner(user,channel)
+                    self._save_game()
+        except:
+            return
 
     def _winner(self,user,channel):
         '''
@@ -301,7 +301,7 @@ class triviabot(irc.IRCClient):
         '''Implements user voting for the next question.
 
         Need to keep track of who voted, and how many votes.
-        
+
         '''
         if not self._lc.running:
             self._gmsg("We aren't playing right now.")
@@ -322,7 +322,7 @@ class triviabot(irc.IRCClient):
                 self._votes = 0
                 self._voters = []
                 self._next_question(None,None,None)
-            
+
     def _start(self, args, user, channel):
         '''
         Starts the trivia game.
@@ -484,11 +484,10 @@ class ircbotFactory(ClientFactory):
         print("Could not connect: %s" % (reason,))
         connector.connect()
 
-    
+
 if __name__ == "__main__":
     # these two lines do the irc connection over ssl.
     reactor.connectSSL(config.SERVER, config.SERVER_PORT,
                        config.ircbotFactory(), ssl.ClientContextFactory())
     # reactor.connectTCP(config.SERVER, config.SERVER_PORT, ircbotFactory())
     reactor.run()
-
