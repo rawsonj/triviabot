@@ -52,13 +52,14 @@ from os import listdir, path, makedirs
 from random import choice
 
 from twisted.words.protocols import irc
-from twisted.internet import ssl, reactor
+from twisted.internet import reactor
+from twisted.internet import ssl
 from twisted.internet.protocol import ClientFactory
 from twisted.internet.task import LoopingCall
 
 from lib.answer import Answer
 
-from config import *
+import config
 
 class triviabot(irc.IRCClient):
     '''
@@ -73,10 +74,10 @@ class triviabot(irc.IRCClient):
         self._question = ''
         self._scores = {}
         self._clue_number = 0
-        self._admins = list(ADMINS)
-        self._game_channel = GAME_CHANNEL
+        self._admins = list(config.ADMINS)
+        self._game_channel = config.GAME_CHANNEL
         self._current_points = 5
-        self._questions_dir = Q_DIR
+        self._questions_dir = config.Q_DIR
         self._lc = LoopingCall(self._play_game)
         self._load_game()
         self._votes = 0
@@ -97,7 +98,7 @@ class triviabot(irc.IRCClient):
         Write a colorized message.
         """
 
-        self.msg(dest, "%s%s" % (COLOR_CODE, msg))
+        self.msg(dest, "%s%s" % (config.COLOR_CODE, msg))
 
     def _gmsg(self, msg):
         """
@@ -146,7 +147,7 @@ class triviabot(irc.IRCClient):
         Actions to perform on signon to the server.
         '''
         self.join(self._game_channel)
-        self.msg('NickServ','identify '+IDENT_STRING)
+        self.msg('NickServ', 'identify %s' % config.IDENT_STRING)
         print("Signed on as %s." % (self.nickname,))
         if self.factory.running:
             self._start(None,None,None)
@@ -294,7 +295,7 @@ class triviabot(irc.IRCClient):
             unpriviledged_commands[command](args, user, channel)
         else:
             self.describe(channel, '%slooks at %s oddly.' %
-                          (COLOR_CODE, user))
+                          (config.COLOR_CODE, user))
 
     def _next_vote(self, args, user, channel):
         '''Implements user voting for the next question.
@@ -331,7 +332,7 @@ class triviabot(irc.IRCClient):
         if self._lc.running:
             return
         else:
-            self._lc.start(WAIT_INTERVAL)
+            self._lc.start(config.WAIT_INTERVAL)
             self.factory.running = True
 
     def _stop(self,*args):
@@ -354,9 +355,9 @@ class triviabot(irc.IRCClient):
         '''
         Saves the game to the data directory.
         '''
-        if not path.exists(SAVE_DIR):
-            makedirs(SAVE_DIR)
-        with open(SAVE_DIR+'scores.json','w') as savefile:
+        if not path.exists(config.SAVE_DIR):
+            makedirs(config.SAVE_DIR)
+        with open(config.SAVE_DIR+'scores.json','w') as savefile:
             json.dump(self._scores, savefile)
             print "Scores have been saved."
 
@@ -366,11 +367,11 @@ class triviabot(irc.IRCClient):
         '''
         # ensure initialization
         self._scores = {}
-        if not path.exists(SAVE_DIR):
+        if not path.exists(config.SAVE_DIR):
             print "Save directory doesn't exist."
             return
         try:
-            with open(SAVE_DIR+'scores.json','r') as savefile:
+            with open(config.SAVE_DIR+'scores.json','r') as savefile:
                 temp_dict = json.load(savefile)
         except:
             print "Save file doesn't exist."
@@ -422,7 +423,7 @@ class triviabot(irc.IRCClient):
                    self._answer.answer)
         self._clue_number = 0
         self._lc.stop()
-        self._lc.start(WAIT_INTERVAL)
+        self._lc.start(config.WAIT_INTERVAL)
 
     def _standings(self,args,user,channel):
         '''
@@ -454,7 +455,7 @@ class triviabot(irc.IRCClient):
         while damaged_question:
             #randomly select file
             filename = choice(listdir(self._questions_dir))
-            fd = open(Q_DIR+filename)
+            fd = open(config.Q_DIR+filename)
             lines = fd.read().splitlines()
             myline = choice(lines)
             fd.close()
@@ -470,10 +471,10 @@ class triviabot(irc.IRCClient):
 class ircbotFactory(ClientFactory):
     protocol = triviabot
 
-    def __init__(self, nickname = DEFAULT_NICK):
+    def __init__(self, nickname=config.DEFAULT_NICK):
         self.nickname = nickname
         self.running = False
-        self.lineRate = LINE_RATE
+        self.lineRate = config.LINE_RATE
 
     def clientConnectionLost(self, connector, reason):
         print("Lost connection (%s)" % (reason,))
@@ -486,6 +487,8 @@ class ircbotFactory(ClientFactory):
     
 if __name__ == "__main__":
     # these two lines do the irc connection over ssl.
-    reactor.connectSSL(SERVER, SERVER_PORT, ircbotFactory(),ssl.ClientContextFactory())
+    reactor.connectSSL(config.SERVER, config.SERVER_PORT,
+                       config.ircbotFactory(), ssl.ClientContextFactory())
+    # reactor.connectTCP(config.SERVER, config.SERVER_PORT, ircbotFactory())
     reactor.run()
 
