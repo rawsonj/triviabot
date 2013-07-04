@@ -72,7 +72,7 @@ Useless Trivia: In---------- , 20% of all publications sold are comic books.`jap
 Useless Trivia: In Japan, ---------- of all publications sold are comic books.`20%
 Useless Trivia: In Japan, 20% of all publications sold are ---------- books.`comic
 Useless Trivia: In the next ---------- days, 800 Americans will be injured by their jewellery.`seven
-Useless Trivia: In the next seven days, ---------- Americans will be injured by their jewellery.`eight hunudred
+Useless Trivia: In the next seven days, ---------- Americans will be injured by their jewellery.`eight hundred
 Useless Trivia: In the next seven days, 800 Americans will be injured by their---------- .`jewellery
 Useless Trivia: It is estimated that at any one time, ---------- of the world's population are drunk.`0.7%
 Useless Trivia: It is estimated that at any one time, 0.7% of the world's population are---------- .`drunk
