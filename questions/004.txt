@@ -507,7 +507,7 @@ category:  couples: ricky ricardo and ____`lucy
 category: american authors: once wrote that every modern american novel is derived from "huckleberry finn"`ernest hemingway
 category: american authors: this canadian-born author wrote "the handmaid's tale" and "rape fantasies"`margaret atwood
 category: american authors: among his short stories are "the open boat" and "the blue hotel":`stephen crane
-category: american authors: he wrote "an occurrence at owl creek bridge" and "the devil's dictionary"`ambrose bierce
+category: American authors: He wrote "An Occurrence at Owl Creek Bridge" and "The Devil's Dictionary"`Ambrose Bierce
 category: american authors: this new jersey-born author/journalist wrote "the armies of the night"`norman mailer
 category: misc music magic: wrote the songs for "joseph and the amazing technicolor dreamcoat"`andrew lloyd webber
 category: pinball: this 1988 lawlor game has a vertical playfield instead of a normal backglass`banzai run

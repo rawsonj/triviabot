@@ -4270,7 +4270,7 @@ Name The Year: Great Britain takes Gibraltar from Spain.`1704
 Name The Year: Simon Bolivar, freed 6 Latin American republics from Spanish rule, born.`1783
 Name The Year: Georgia becomes a protectorate of tsarist Russia.`1783
 Name The Year: Alexandre Dumas, France, author (3 Musketeers), born.`1802
-Name The Year: Ambrose Bierce Ohio, writer (The Devils Dictionary), born.`1842
+Name The Year: Ambrose Bierce, Ohio, writer (The Devil's Dictionary), born.`1842
 Name The Year: Soviets blockades Berlin from the west.`1948
 Name The Year: Lynda Carter Phoenix Az, Miss USA/actress (Wonder Woman, Billie Jo).`1951
 Name The Year: Bob Dylan releases "Like a Rolling Stone".`1965
