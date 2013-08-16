@@ -26,9 +26,9 @@ again and unmask a letter. This happens three times before the answer is reveale
 What the bot doesn't do.
 ------------------------
 
-It doesn't have multiple answers to a question. It shows you the format. Part of the game is to match its formatting.
+  * It doesn't have multiple answers to a question. It shows you the format. Part of the game is to match its formatting.
 
-Have error-free questions: the questions come from other bot implementations which themselves had horrible typos.
+  * Have error-free questions: the questions come from other bot implementations which themselves had horrible typos.
 There needs to be an army of editors to go through the 350+k lines and format them to the standard format for the bot.
 The bot was written to catch malformed questions so it wouldn't crash, but if it technically matches <string>`<string>
 there's no way for the bot to understand that's not part of the question.
