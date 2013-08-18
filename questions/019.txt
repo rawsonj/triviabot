@@ -2132,7 +2132,6 @@ AUTHORS: Who wrote Vanity Fair`dorothy parker
 AUTHORS: Who wrote Dr. Zhivago`boris pasternak
 AUTHORS: Who wrote Cry the Beloved Country`alan paton
 AUTHORS: Who wrote The Moviegoer`walker percy
-AUTHORS: Who wrote Devil's Dictionary`ambrose pierce
 AUTHORS: Who wrote The Black Cat`edgar allan poe
 AUTHORS: Who wrote Murders of Rue Morgue`edgar allan poe
 AUTHORS: Who wrote The Mystery of Marie Roget`edgar allan poe

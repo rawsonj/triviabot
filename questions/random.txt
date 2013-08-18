@@ -6994,7 +6994,6 @@ Who recorded 'a boy named sue'`johnny cash
 Who recorded 'hejira' in 1976`joni mitchell
 Who recorded 'hey jealousy'`gin blossoms
 Who recorded blue morning blue day in 1978`foreigner
-Who recorded left overture in 1976`kansas
 Who recorded such popular songs as 'policy of truth' and 'personal jesus'`depeche mode
 Who recorded such songs as 'toys in the attic' and 'angel', and also did the music for the film 'armageddon'`aerosmith
 Who recorded the album "business as usual" in 1983`men at work
@@ -18807,7 +18806,6 @@ Category:  Couples: Ricky Ricardo and ____`lucy
 Category: American Authors: Once wrote that every modern American novel is derived from "Huckleberry Finn"`ernest hemingway
 Category: American Authors: This Canadian-born author wrote "The Handmaid's Tale" and "Rape Fantasies"`margaret atwood
 Category: American Authors: Among his short stories are "The Open Boat" and "The Blue Hotel":`stephen crane
-Category: American Authors: He wrote "An Occurrence at Owl Creek Bridge" and "The Devil's Dictionary"`ambrose bierce
 Category: American Authors: This New Jersey-born author/journalist wrote "The Armies of the Night"`norman mailer
 Category: Misc Music Magic: Wrote the songs for "Joseph and the Amazing Technicolor Dreamcoat"`andrew lloyd webber
 Category: Pinball: This 1988 Lawlor game has a vertical playfield instead of a normal backglass`banzai run
@@ -24106,11 +24104,6 @@ Category: DC Secret Identities: Kay Challis`crazy jane
 Category: DC Secret Identities: Lyta Trevor`fury
 Category: DC Secret Identities: Maggie Sawyer`maggie sawyer
 Category: DC Secret Identities: Wally West`the flash
-Category: Devils Dictionary: A familiar kitchen-garden vegetable about as large and wise as a man's head`cabbage
-Category: Devils Dictionary: A person who boasts himself hard to please because nobody tries to please him`critic
-Category: Devils Dictionary: A person whom we know well enough to borrow from,but not well enough to lend to`acquaintance
-Category: Devils Dictionary: A woman with a fine prospect of happiness behind her`bride
-Category: Devils Dictionary: To perform successively and successfuly mastication,humectation & deglutition`eat
 Category: Entertainment Potpourri: Kazantzakis novel which became an Oscar-winning film in 1964`zorba the greek
 Category: Famous Canadians: Canadian Prime Minister who was on American Immigration's blacklist.`pierre elliot trudeau
 Category: Famous Canadians: Halifax native who built one of the world's largest shipping line.`cunard
@@ -24284,11 +24277,6 @@ Category:  80s: G.D. Searle & Co put this brand sweetener on the market in 1983.
 Category:  80s: In 1983, Anne Burford left her position as administrator of this agency.`epa
 Category:  80s: Shot dead at the airport in Manila, in 1983.`benigno aquino
 Category:  80s: This leader dozed off in a 1984 speech, leading to speculation of his health`chernenko
-Category:  Devils Dictionary: A large red organ thoughtfully provided by nature to be bilious with`liver
-Category:  Devils Dictionary: A malevolent literary device for cramping the growth of a language`dictionary
-Category:  Devils Dictionary: Able to pick with equal skill a right-hand pocket or a left`ambidextrous
-Category:  Devils Dictionary: One who in a perilous emergency thinks with his legs`coward
-Category:  Devils Dictionary: The most acceptable hypocrisy`politeness
 Category: This delightfully soft topping, care of your local bovine.`cheese
 Category: Toys Games: Charles Darrow based his game upon the 1904 "The Landlord's Game".`monopoly
 Category: Toys Games: Klondike is the most popular form of this game.`solitaire
@@ -24432,11 +24420,6 @@ Category: Deaths 91 to 92: Hall of Famer and 2nd baseman for Pennant-winning 194
 Category: Deaths 91 to 92: Indian film maker, given honorary Academy Award for lifetime achievement`satyajit ray
 Category: Deaths 91 to 92: Last surviving Nazi war criminal of rank, chief enforcer of "reign of terror"`klaus barbie
 Category: Deaths 91 to 92: Senior Democratic Senator from North Dakota`quentin burdick
-Category: Devils Dictionary: A ship big enough to carry two in fair weather, but only one in foul`friendship
-Category: Devils Dictionary: Animal usually living near Man, and having some susceptibility to domestication`woman
-Category: Devils Dictionary: God of world's leading religion. His chief temple is in holy city of New York`mammon
-Category: Devils Dictionary: In man, the gateway to the soul; in woman, the outlet of the heart`mouth
-Category: Devils Dictionary: To perform successively and successfuly mastication,humectation & deglutition`eat
 Category: Famous Gills: 50's era baseball player. Same last name as Craig, formerly of NBA's Bulls.`gil hodges
 Category: Famous Gills: Killer whose story was told in "Executioner's Song."`gary gilmore
 Category: Famous Gills: She called herself Lil, but everyone knew her as Nancy.`mcgill
@@ -37430,7 +37413,6 @@ AUTHORS: Who wrote Vanity Fair`dorothy parker
 AUTHORS: Who wrote Dr. Zhivago`boris pasternak
 AUTHORS: Who wrote Cry the Beloved Country`alan paton
 AUTHORS: Who wrote The Moviegoer`walker percy
-AUTHORS: Who wrote Devil's Dictionary`ambrose pierce
 AUTHORS: Who wrote The Black Cat`edgar allan poe
 AUTHORS: Who wrote Murders of Rue Morgue`edgar allan poe
 AUTHORS: Who wrote The Mystery of Marie Roget`edgar allan poe
