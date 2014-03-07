@@ -15,3 +15,4 @@ Computers: What is the "Three Fingered Salute?"`Control Alt Delete
 Computers: How do you override a linux system in any state?`The magic sysrq commands
 Computers: How does mongo DB ensure high speeds for commits?`It always returns success
 Computers: What is intel's manufacturer number when a device is enumerated?`8086
+C++: What is the keyword used in abstract base classes?`virtual
