@@ -202,10 +202,14 @@ class triviabot(irc.IRCClient):
         Congratulates the winner for guessing correctly and assigns
         points appropriately, then signals that it was guessed.
         '''
+        messages = ['WINS THIS ROUND', 'WINS AN INTERNET', 'EMERGES VICTORIOUS',
+                    'IS SUCCESSFUL', 'GUESSED CORRECTLY', 'IS TOTALLY AWESOME',
+                    'GOT IT', 'ROCKS', 'SUCCEEDED', 'SURE KNOWS TRIVIA',
+                    'SCORED', 'DISPLAYED GREAT INSIGHT', 'GOOGLES THE FASTEST']
         if channel != self._game_channel:
             self.msg(channel, "I'm sorry, answers must be given in the game channel.")
             return
-        self._gmsg("%s GOT IT!" % user.upper())
+        self._gmsg("%s %s!" % (user.upper(), choice(messages))
         try:
             self._scores[user] += self._current_points
         except:
