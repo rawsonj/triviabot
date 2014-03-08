@@ -205,7 +205,9 @@ class triviabot(irc.IRCClient):
         messages = ['WINS THIS ROUND', 'WINS AN INTERNET', 'EMERGES VICTORIOUS',
                     'IS SUCCESSFUL', 'GUESSED CORRECTLY', 'IS TOTALLY AWESOME',
                     'GOT IT', 'ROCKS', 'SUCCEEDED', 'SURE KNOWS TRIVIA',
-                    'SCORED', 'DISPLAYED GREAT INSIGHT', 'GOOGLES THE FASTEST']
+                    'SCORED', 'DISPLAYED GREAT INSIGHT', 'GOOGLES THE FASTEST',
+                    'IS A TRIVIA MAVEN', 'IS A TRIVIA TYCOON', 'IS GREAT',
+                    'MIGHT NEED TO GET A LIFE']
         if channel != self._game_channel:
             self.msg(channel, "I'm sorry, answers must be given in the game channel.")
             return
