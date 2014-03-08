@@ -208,6 +208,9 @@ class triviabot(irc.IRCClient):
                     'SCORED', 'DISPLAYED GREAT INSIGHT', 'GOOGLES THE FASTEST',
                     'IS A TRIVIA MAVEN', 'IS A TRIVIA TYCOON', 'IS GREAT',
                     'MIGHT NEED TO GET A LIFE']
+        gains = ['gains', 'acquires', 'increments their score by', 'gets',
+                 'wins', 'earns']
+        lousy = ['paltry', 'meager', 'measly', 'mere', 'lousy']
         if channel != self._game_channel:
             self.msg(channel, "I'm sorry, answers must be given in the game channel.")
             return
@@ -217,11 +220,11 @@ class triviabot(irc.IRCClient):
         except:
             self._scores[user] = self._current_points
         if self._current_points == 1:
-            self._gmsg("%s point has been added to your score!" %
-                       str(self._current_points))
+            self._gmsg("%s %s a %s single point!" %
+                       (user, choice(gains), choice(lousy)))
         else:
-            self._gmsg("%s gains %s points!" % (user, 
-                        str(self._current_points))) 
+            self._gmsg("%s %s %s points!" % (user, choice(gains)
+                        str(self._current_points)))
         self._clue_number = 0
         self._get_new_question()
 
