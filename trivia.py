@@ -218,8 +218,8 @@ class triviabot(irc.IRCClient):
             self._gmsg("%s point has been added to your score!" %
                        str(self._current_points))
         else:
-            self._gmsg("%s points has been added to your score!" %
-                       str(self._current_points))
+            self._gmsg("%s gains %s points!" % (user, 
+                        str(self._current_points))) 
         self._clue_number = 0
         self._get_new_question()
 
