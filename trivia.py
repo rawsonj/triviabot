@@ -202,28 +202,22 @@ class triviabot(irc.IRCClient):
         Congratulates the winner for guessing correctly and assigns
         points appropriately, then signals that it was guessed.
         '''
-        messages = ['WINS THIS ROUND', 'WINS AN INTERNET', 'EMERGES VICTORIOUS',
-                    'IS SUCCESSFUL', 'GUESSED CORRECTLY', 'IS TOTALLY AWESOME',
-                    'GOT IT', 'ROCKS', 'SUCCEEDED', 'SURE KNOWS TRIVIA',
-                    'SCORED', 'DISPLAYED GREAT INSIGHT', 'GOOGLES THE FASTEST',
-                    'IS A TRIVIA MAVEN', 'IS A TRIVIA TYCOON', 'IS GREAT',
-                    'MIGHT NEED TO GET A LIFE']
-        gains = ['gains', 'acquires', 'increments their score by', 'gets',
-                 'wins', 'earns']
-        lousy = ['paltry', 'meager', 'measly', 'mere', 'lousy']
+        win_msg = choice(config.win_messages) if config.win_messages else 'GOT IT'
+        point_gain_msg = choice(config.point_gain_verbs) if config.point_gain_verbs else 'gets'
+        single_point_msg = choice(config.single_point_words) + ' ' if config.single_point_words else ''
         if channel != self._game_channel:
             self.msg(channel, "I'm sorry, answers must be given in the game channel.")
             return
-        self._gmsg("%s %s!" % (user.upper(), choice(messages))
+        self._gmsg("%s %s!" % (user.upper(), win_msg)
         try:
             self._scores[user] += self._current_points
         except:
             self._scores[user] = self._current_points
         if self._current_points == 1:
-            self._gmsg("%s %s a %s single point!" %
-                       (user, choice(gains), choice(lousy)))
+            self._gmsg("%s %s a %ssingle point!" %
+                       (user, point_gain_msg, single_point_msg))
         else:
-            self._gmsg("%s %s %s points!" % (user, choice(gains)
+            self._gmsg("%s %s %s points!" % (user, point_gain_msg
                         str(self._current_points)))
         self._clue_number = 0
         self._get_new_question()
