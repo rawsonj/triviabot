@@ -203,21 +203,24 @@ class triviabot(irc.IRCClient):
         Congratulates the winner for guessing correctly and assigns
         points appropriately, then signals that it was guessed.
         '''
+        win_msg = choice(config.win_messages) if config.win_messages else 'GOT IT'
+        point_gain_msg = choice(config.point_gain_verbs) if config.point_gain_verbs else 'gets'
+        single_point_msg = choice(config.single_point_words) + ' ' if config.single_point_words else ''
         if channel != self._game_channel:
             self.msg(channel,
                      "I'm sorry, answers must be given in the game channel.")
             return
-        self._gmsg("%s GOT IT!" % user.upper())
+        self._gmsg("%s %s!" % (user.upper(), win_msg)
         try:
             self._scores[user] += self._current_points
         except:
             self._scores[user] = self._current_points
         if self._current_points == 1:
-            self._gmsg("%s point has been added to your score!" %
-                       str(self._current_points))
+            self._gmsg("%s %s a %ssingle point!" %
+                       (user, point_gain_msg, single_point_msg))
         else:
-            self._gmsg("%s points have been added to your score!" %
-                       str(self._current_points))
+            self._gmsg("%s %s %s points!" % (user, point_gain_msg
+                        str(self._current_points)))
         self._clue_number = 0
         self._get_new_question()
 
