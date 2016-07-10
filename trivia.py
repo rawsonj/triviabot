@@ -288,12 +288,12 @@ class triviabot(irc.IRCClient):
 
         # the following takes care of sorting out functions and
         # priviledges.
-        if not is_admin and command in priviledged_commands.keys():
+        if not is_admin and command in priviledged_commands:
             self.msg(channel, "%s: You don't tell me what to do." % user)
             return
-        elif is_admin and command in priviledged_commands.keys():
+        elif is_admin and command in priviledged_commands:
             priviledged_commands[command](args, user, channel)
-        elif command in unpriviledged_commands.keys():
+        elif command in unpriviledged_commands:
             unpriviledged_commands[command](args, user, channel)
         else:
             self.describe(channel, '%slooks at %s oddly.' %
@@ -438,7 +438,7 @@ class triviabot(irc.IRCClient):
                                (v, k), reverse=True)
         for rank, (player, score) in enumerate(sorted_scores, start=1):
             formatted_score = "%s: %s: %s" % (rank, player, score)
-            self._cmsg(user, str(formatted_score))
+            self._cmsg(user, formatted_score)
 
     def _give_clue(self, args, user, channel):
         if not self._lc.running:
