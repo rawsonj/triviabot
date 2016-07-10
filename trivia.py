@@ -175,7 +175,8 @@ class triviabot(irc.IRCClient):
         try:
             while not msg[0].isalnum() and not msg[0] == '?':
                 msg = msg[1:]
-        except IndexError:
+        except IndexError as e:
+	    print e
             return
 
         # parses each incoming line, and sees if it's a command for the bot.
@@ -195,7 +196,8 @@ class triviabot(irc.IRCClient):
                 if msg.lower().strip() == self._answer.answer.lower():
                     self._winner(user, channel)
                     self._save_game()
-        except:
+        except Exception as e:
+	    print e
             return
 
     def _winner(self, user, channel):
@@ -434,7 +436,7 @@ class triviabot(irc.IRCClient):
         TODO: order them.
         '''
         self._cmsg(user, "The current trivia standings are: ")
-        sorted_scores = sorted(self._scores.iteritems(), key=lambda k, v:
+        sorted_scores = sorted(self._scores.iteritems(), key=lambda (k, v):
                                (v, k), reverse=True)
         for rank, (player, score) in enumerate(sorted_scores, start=1):
             formatted_score = "%s: %s: %s" % (rank, player, score)
