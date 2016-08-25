@@ -60,8 +60,12 @@ from lib.answer import Answer
 
 import config
 
-if config.USE_SSL != "NO":
+if config.USE_SSL.lower() == "yes":
     from twisted.internet import ssl
+elif config.USE_SSL.lower() != 'no':
+    # USE_SSL wasn't yes and it's not no, so raise an error.
+    raise ValueError("USE_SSL must either be 'yes' or 'no'.")
+    
 
 class triviabot(irc.IRCClient):
     '''
@@ -534,7 +538,7 @@ class ircbotFactory(ClientFactory):
 if __name__ == "__main__":
     # SSL will be attempted in all cases unless "NO" is explicity specified
     # in the config
-    if config.USE_SSL == "NO":
+    if config.USE_SSL.lower() == "no":
         reactor.connectTCP(config.SERVER, config.SERVER_PORT, ircbotFactory())
     else:
         reactor.connectSSL(config.SERVER, config.SERVER_PORT,
