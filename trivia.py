@@ -50,6 +50,7 @@
 import json
 from os import listdir, path, makedirs
 from random import choice
+
 from twisted.words.protocols import irc
 from twisted.internet import reactor
 from twisted.internet.protocol import ClientFactory
@@ -73,6 +74,10 @@ class triviabot(irc.IRCClient):
     def __init__(self):
         self._answer = Answer()
         self._question = ''
+        self._current_myline = ''
+        self._previous_myline = ''
+        self._current_filename = ''
+        self._last_filename = ''
         self._scores = {}
         self._clue_number = 0
         self._admins = list(config.ADMINS)
@@ -246,7 +251,7 @@ class triviabot(irc.IRCClient):
             return
         self._cmsg(user, "I'm nameless's trivia bot.")
         self._cmsg(user, "Commands: score, standings, giveclue, help, next, "
-                   "skip, source")
+                   "skip, report (report last question), source")
         self._cmsg("Admin commands: die, set <user> <score>, start, stop, "
                    "save")
 
@@ -273,7 +278,8 @@ class triviabot(irc.IRCClient):
                                   'standings': self._standings,
                                   'giveclue': self._give_clue,
                                   'next': self._next_vote,
-                                  'skip': self._next_question
+                                  'skip': self._next_question,
+                                  'report': self._report_previous_question
                                   }
         priviledged_commands = {'die': self._die,
                                 'set': self._set_user_score,
@@ -355,6 +361,22 @@ class triviabot(irc.IRCClient):
             self._save_game()
             self.factory.running = False
 
+    def _write_broken(self, arg, arg2):
+        '''
+        Writes broken questions to log file
+        '''
+        with open(config.SAVE_DIR+'broken.log', 'a') as brokenlog:
+            brokenlog.write(arg+'\n')
+            brokenlog.write(arg2+'\n')
+
+    def _write_report_broken(self, arg, arg2):
+        '''
+        Writes reported questions to log file
+        '''
+        with open(config.SAVE_DIR+'reported.log', 'a') as reportedlog:
+            reportedlog.write(arg+'\n')
+            reportedlog.write(arg2+'\n')
+
     def _save_game(self, *args):
         '''
         Saves the game to the data directory.
@@ -379,7 +401,6 @@ class triviabot(irc.IRCClient):
                 temp_dict = json.load(savefile)
         except:
             print("Save file doesn't exist.")
-            print(savefile)
             return
         for name in temp_dict.keys():
             self._scores[str(name)] = int(temp_dict[name])
@@ -430,6 +451,18 @@ class triviabot(irc.IRCClient):
         self._lc.stop()
         self._lc.start(config.WAIT_INTERVAL)
 
+    def _report_previous_question(self, args, user, channel):
+        '''
+        Administratively reports the previous question.
+        '''
+        if not self._lc.running:
+            self._gmsg("We are not playing right now.")
+            return
+        self._write_report_broken(self._last_filename, self._previous_myline)
+        self._gmsg("The previous question has been reported. Thank you!")
+        self._lc.stop()
+        self._lc.start(config.WAIT_INTERVAL)
+
     def _standings(self, args, user, channel):
         '''
         Tells the user the complete standings in the game.
@@ -458,17 +491,24 @@ class triviabot(irc.IRCClient):
         '''
         damaged_question = True
         while damaged_question:
+            if self._current_filename != '':
+                self._last_filename = self._current_filename
+                self._previous_myline = self._current_myline
+
             # randomly select file
             filename = choice(listdir(self._questions_dir))
+            self._current_filename = choice(listdir(self._questions_dir))
             fd = open(config.Q_DIR+filename)
             lines = fd.read().splitlines()
             myline = choice(lines)
+            self._current_myline = myline
             fd.close()
             try:
                 self._question, temp_answer = myline.split('`')
             except ValueError:
                 print("Broken question:")
                 print(myline)
+                self._write_broken(self._current_filename, myline)
                 continue
             self._answer.set_answer(temp_answer.strip())
             damaged_question = False
@@ -499,6 +539,5 @@ if __name__ == "__main__":
     else:
         reactor.connectSSL(config.SERVER, config.SERVER_PORT,
                        ircbotFactory(), ssl.ClientContextFactory())
-        reactor.connectTCP(config.SERVER, config.SERVER_PORT, ircbotFactory())
 
     reactor.run()
