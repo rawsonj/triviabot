@@ -59,8 +59,12 @@ from lib.answer import Answer
 
 import config
 
-if config.USE_SSL != "NO":
+if config.USE_SSL.lower() == "yes":
     from twisted.internet import ssl
+elif config.USE_SSL.lower() != 'no':
+    # USE_SSL wasn't yes and it's not no, so raise an error.
+    raise ValueError("USE_SSL must either be 'yes' or 'no'.")
+    
 
 class triviabot(irc.IRCClient):
     '''
@@ -379,7 +383,6 @@ class triviabot(irc.IRCClient):
                 temp_dict = json.load(savefile)
         except:
             print("Save file doesn't exist.")
-            print(savefile)
             return
         for name in temp_dict.keys():
             self._scores[str(name)] = int(temp_dict[name])
