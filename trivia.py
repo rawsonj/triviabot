@@ -50,10 +50,8 @@
 import json
 from os import listdir, path, makedirs
 from random import choice
-
 from twisted.words.protocols import irc
 from twisted.internet import reactor
-from twisted.internet import ssl
 from twisted.internet.protocol import ClientFactory
 from twisted.internet.task import LoopingCall
 
@@ -61,6 +59,8 @@ from lib.answer import Answer
 
 import config
 
+if config.USE_SSL != "NO":
+    from twisted.internet import ssl
 
 class triviabot(irc.IRCClient):
     '''
@@ -379,6 +379,7 @@ class triviabot(irc.IRCClient):
                 temp_dict = json.load(savefile)
         except:
             print("Save file doesn't exist.")
+            print(savefile)
             return
         for name in temp_dict.keys():
             self._scores[str(name)] = int(temp_dict[name])
@@ -491,8 +492,13 @@ class ircbotFactory(ClientFactory):
 
 
 if __name__ == "__main__":
-    # these two lines do the irc connection over ssl.
-    reactor.connectSSL(config.SERVER, config.SERVER_PORT,
+    # SSL will be attempted in all cases unless "NO" is explicity specified
+    # in the config
+    if config.USE_SSL == "NO":
+        reactor.connectTCP(config.SERVER, config.SERVER_PORT, ircbotFactory())
+    else:
+        reactor.connectSSL(config.SERVER, config.SERVER_PORT,
                        ircbotFactory(), ssl.ClientContextFactory())
-    # reactor.connectTCP(config.SERVER, config.SERVER_PORT, ircbotFactory())
+        reactor.connectTCP(config.SERVER, config.SERVER_PORT, ircbotFactory())
+
     reactor.run()

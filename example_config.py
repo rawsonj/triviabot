@@ -9,3 +9,4 @@ LINE_RATE = 0.4
 DEFAULT_NICK = 'triviabot'
 SERVER = 'irc.freenode.net'
 SERVER_PORT = 6667
+USE_SSL = "YES"
