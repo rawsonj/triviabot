@@ -65,7 +65,7 @@ if config.USE_SSL.lower() == "yes":
 elif config.USE_SSL.lower() != 'no':
     # USE_SSL wasn't yes and it's not no, so raise an error.
     raise ValueError("USE_SSL must either be 'yes' or 'no'.")
-    
+
 
 class triviabot(irc.IRCClient):
     '''
@@ -365,21 +365,12 @@ class triviabot(irc.IRCClient):
             self._save_game()
             self.factory.running = False
 
-    def _write_broken(self, arg, arg2):
+    def _write_log(self, logfile, f, q):
         '''
-        Writes broken questions to log file
+        Writes broken and reported questions to log file
         '''
-        with open(config.SAVE_DIR+'broken.log', 'a') as brokenlog:
-            brokenlog.write(arg+'\n')
-            brokenlog.write(arg2+'\n')
-
-    def _write_report_broken(self, arg, arg2):
-        '''
-        Writes reported questions to log file
-        '''
-        with open(config.SAVE_DIR+'reported.log', 'a') as reportedlog:
-            reportedlog.write(arg+'\n')
-            reportedlog.write(arg2+'\n')
+        with open(config.SAVE_DIR+logfile, 'a') as log:
+            log.write(f+'\n'+q+'\n')
 
     def _save_game(self, *args):
         '''
@@ -462,10 +453,8 @@ class triviabot(irc.IRCClient):
         if not self._lc.running:
             self._gmsg("We are not playing right now.")
             return
-        self._write_report_broken(self._last_filename, self._previous_myline)
+        self._write_log("reported.log", self._last_filename, self._previous_myline)
         self._gmsg("The previous question has been reported. Thank you!")
-        self._lc.stop()
-        self._lc.start(config.WAIT_INTERVAL)
 
     def _standings(self, args, user, channel):
         '''
@@ -512,7 +501,7 @@ class triviabot(irc.IRCClient):
             except ValueError:
                 print("Broken question:")
                 print(myline)
-                self._write_broken(self._current_filename, myline)
+                self._write_log("broken.log", self._current_filename, myline)
                 continue
             self._answer.set_answer(temp_answer.strip())
             damaged_question = False
