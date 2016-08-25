@@ -497,11 +497,10 @@ class ircbotFactory(ClientFactory):
 if __name__ == "__main__":
     # SSL will be attempted in all cases unless "NO" is explicity specified
     # in the config
-    if config.USE_SSL == "NO":
+    if config.USE_SSL.lower() == "no":
         reactor.connectTCP(config.SERVER, config.SERVER_PORT, ircbotFactory())
     else:
         reactor.connectSSL(config.SERVER, config.SERVER_PORT,
                        ircbotFactory(), ssl.ClientContextFactory())
-        reactor.connectTCP(config.SERVER, config.SERVER_PORT, ircbotFactory())
 
     reactor.run()
