@@ -218,7 +218,9 @@ class triviabot(irc.IRCClient):
             self.msg(channel,
                      "I'm sorry, answers must be given in the game channel.")
             return
-        self._gmsg("%s GOT IT!" % user.upper())
+        self._gmsg("%s GOT IT!\n" % user.upper())
+        self._gmsg("If there was any doubt, the correct answer was:\n")
+        self._gmsg("%s\n" % self._answer.answer)
         try:
             self._scores[user] += self._current_points
         except:
@@ -365,12 +367,13 @@ class triviabot(irc.IRCClient):
             self._save_game()
             self.factory.running = False
 
-    def _write_log(self, logfile, f, q):
+    def _write_log(self, logfile, questions_file, question):
         '''
         Writes broken and reported questions to log file
         '''
+        #with open(os.path.join(config.SAVE_DIR, logfile), 'a') as log:
         with open(config.SAVE_DIR+logfile, 'a') as log:
-            log.write(f+'\n'+q+'\n')
+            log.write(questions_file+" | "+question+'\n')
 
     def _save_game(self, *args):
         '''
