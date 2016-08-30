@@ -14,31 +14,6 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
-# Need to load the scores, if they exist, and connect to irc, displaying
-# a welcome message.
-#
-# Scores should be kept in a class which will hold a nick -> score dict
-# object, and at the end of every question will dump the dict to json
-# where it can be loaded from. This might get weird if people start using
-# weird nicks, but we'll cross that road when we get to it.
-#
-# irc connection should be a class, and we should use twisted. We don't
-# really care if people come and go, since everyone in the channel is
-# playing. Should handle this like karma. Watch all traffic, and if
-# someone blurts out a string that matches the answer, they get the points.
-# If they haven't scored before, add them to the scoreboard and give them
-# their points, else, add their points to their total. Then dump the json.
-#
-# This bot requires there to be a ../questions/ directory with text files
-# in it. These files are named after there genres, so "80s Films.txt"
-# and the like. While the bot is running, it will randomly choose a
-# file from this directory, open it, randomly choose a line, which is
-# a question*answer pair, then load that into a structure to be asked.
-#
-# Once the question is loaded, the bot will ask the IRC channel the
-# question, wait a period of time, show a character, then ask the question
-# again.
-#
 # The bot should respond to /msgs, so that users can check their scores,
 # and admins can give admin commands, like die, show all scores, edit
 # player scores, etc. Commands should be easy to implement.
@@ -64,7 +39,13 @@ if config.USE_SSL.lower() == "yes":
 elif config.USE_SSL.lower() != 'no':
     # USE_SSL wasn't yes and it's not no, so raise an error.
     raise ValueError("USE_SSL must either be 'yes' or 'no'.")
-    
+
+# Determine text color
+try:
+    config.COLOR_CODE
+except:
+    config.COLOR_CODE = ''
+
 
 class triviabot(irc.IRCClient):
     '''
@@ -74,6 +55,7 @@ class triviabot(irc.IRCClient):
     implemented by a series of callbacks, initiated by an admin on the
     server.
     '''
+
     def __init__(self):
         self._answer = Answer()
         self._question = ''
@@ -174,13 +156,13 @@ class triviabot(irc.IRCClient):
         with it.
         '''
         user, temp = user.split('!')
-        print(user+" : "+channel+" : "+msg)
+        print(user + " : " + channel + " : " + msg)
         # need to strip off colors if present.
         try:
             while not msg[0].isalnum() and not msg[0] == '?':
                 msg = msg[1:]
         except IndexError as e:
-	    print e
+            print(e)
             return
 
         # parses each incoming line, and sees if it's a command for the bot.
@@ -201,7 +183,7 @@ class triviabot(irc.IRCClient):
                     self._winner(user, channel)
                     self._save_game()
         except Exception as e:
-	    print e
+            print(e)
             return
 
     def _winner(self, user, channel):
@@ -232,7 +214,8 @@ class triviabot(irc.IRCClient):
         Responds to ctcp requests.
         Currently just reports them.
         '''
-        print("CTCP recieved: "+user+":"+channel+": "+msg[0][0]+" "+msg[0][1])
+        print("CTCP recieved: " + user + ":" + channel +
+              ": " + msg[0][0] + " " + msg[0][1])
 
     def _help(self, args, user, channel):
         '''
@@ -325,7 +308,7 @@ class triviabot(irc.IRCClient):
                 self._voters.append(user)
                 print(self._voters)
                 self._gmsg("%s, you have voted. %s more votes needed to "
-                           "skip." % (user, str(3-self._votes)))
+                           "skip." % (user, str(3 - self._votes)))
             else:
                 self._votes = 0
                 self._voters = []
@@ -365,7 +348,7 @@ class triviabot(irc.IRCClient):
         '''
         if not path.exists(config.SAVE_DIR):
             makedirs(config.SAVE_DIR)
-        with open(config.SAVE_DIR+'scores.json', 'w') as savefile:
+        with open(config.SAVE_DIR + 'scores.json', 'w') as savefile:
             json.dump(self._scores, savefile)
             print("Scores have been saved.")
 
@@ -379,7 +362,7 @@ class triviabot(irc.IRCClient):
             print("Save directory doesn't exist.")
             return
         try:
-            with open(config.SAVE_DIR+'scores.json', 'r') as savefile:
+            with open(config.SAVE_DIR + 'scores.json', 'r') as savefile:
                 temp_dict = json.load(savefile)
         except:
             print("Save file doesn't exist.")
@@ -396,9 +379,9 @@ class triviabot(irc.IRCClient):
         try:
             self._scores[args[0]] = int(args[1])
         except:
-            self._cmsg(user, args[0]+" not in scores database.")
+            self._cmsg(user, args[0] + " not in scores database.")
             return
-        self._cmsg(user, args[0]+" score set to "+args[1])
+        self._cmsg(user, args[0] + " score set to " + args[1])
 
     def _die(self, *args):
         '''
@@ -440,8 +423,7 @@ class triviabot(irc.IRCClient):
         TODO: order them.
         '''
         self._cmsg(user, "The current trivia standings are: ")
-        sorted_scores = sorted(self._scores.iteritems(), key=lambda (k, v):
-                               (v, k), reverse=True)
+        sorted_scores = sorted(self._scores.iteritems(), key=lambda (k, v): (v, k), reverse=True)
         for rank, (player, score) in enumerate(sorted_scores, start=1):
             formatted_score = "%s: %s: %s" % (rank, player, score)
             self._cmsg(user, formatted_score)
@@ -452,7 +434,7 @@ class triviabot(irc.IRCClient):
             return
         self._cmsg(channel, "Question: ")
         self._cmsg(channel, self._question)
-        self._cmsg(channel, "Clue: "+self._answer.current_clue())
+        self._cmsg(channel, "Clue: " + self._answer.current_clue())
 
     def _get_new_question(self):
         '''
@@ -463,7 +445,7 @@ class triviabot(irc.IRCClient):
         while damaged_question:
             # randomly select file
             filename = choice(listdir(self._questions_dir))
-            fd = open(config.Q_DIR+filename)
+            fd = open(config.Q_DIR + filename)
             lines = fd.read().splitlines()
             myline = choice(lines)
             fd.close()
@@ -501,6 +483,6 @@ if __name__ == "__main__":
         reactor.connectTCP(config.SERVER, config.SERVER_PORT, ircbotFactory())
     else:
         reactor.connectSSL(config.SERVER, config.SERVER_PORT,
-                       ircbotFactory(), ssl.ClientContextFactory())
+                           ircbotFactory(), ssl.ClientContextFactory())
 
     reactor.run()

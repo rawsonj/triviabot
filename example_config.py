@@ -22,10 +22,10 @@ IDENT_STRING = 'password'
 # If ?skip is used, the interval doesn't apply
 WAIT_INTERVAL = 30
 
-COLOR_CODE = '\0038,1 '
-# If the output doesn't appear correctly, comment the line above, and
-# uncomment the line below to turn the colors off
-# COLOR_CODE = ''
+# Colorize the text so it contrasts with the channel text.
+# This makes it easier to play the game when people are chatting.
+# The below code is yellow.
+COLOR_CODE = '\00308,01 '
 
 # How fast will the bot output messages to the channel
 LINE_RATE = 0.4
