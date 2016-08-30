@@ -64,7 +64,7 @@ if config.USE_SSL.lower() == "yes":
 elif config.USE_SSL.lower() != 'no':
     # USE_SSL wasn't yes and it's not no, so raise an error.
     raise ValueError("USE_SSL must either be 'yes' or 'no'.")
-    
+
 
 class triviabot(irc.IRCClient):
     '''
@@ -74,6 +74,7 @@ class triviabot(irc.IRCClient):
     implemented by a series of callbacks, initiated by an admin on the
     server.
     '''
+
     def __init__(self):
         self._answer = Answer()
         self._question = ''
@@ -174,13 +175,13 @@ class triviabot(irc.IRCClient):
         with it.
         '''
         user, temp = user.split('!')
-        print(user+" : "+channel+" : "+msg)
+        print(user + " : " + channel + " : " + msg)
         # need to strip off colors if present.
         try:
             while not msg[0].isalnum() and not msg[0] == '?':
                 msg = msg[1:]
         except IndexError as e:
-	    print e
+            print(e)
             return
 
         # parses each incoming line, and sees if it's a command for the bot.
@@ -201,7 +202,7 @@ class triviabot(irc.IRCClient):
                     self._winner(user, channel)
                     self._save_game()
         except Exception as e:
-	    print e
+            print e
             return
 
     def _winner(self, user, channel):
@@ -232,7 +233,8 @@ class triviabot(irc.IRCClient):
         Responds to ctcp requests.
         Currently just reports them.
         '''
-        print("CTCP recieved: "+user+":"+channel+": "+msg[0][0]+" "+msg[0][1])
+        print("CTCP recieved: " + user + ":" + channel +
+              ": " + msg[0][0] + " " + msg[0][1])
 
     def _help(self, args, user, channel):
         '''
@@ -325,7 +327,7 @@ class triviabot(irc.IRCClient):
                 self._voters.append(user)
                 print(self._voters)
                 self._gmsg("%s, you have voted. %s more votes needed to "
-                           "skip." % (user, str(3-self._votes)))
+                           "skip." % (user, str(3 - self._votes)))
             else:
                 self._votes = 0
                 self._voters = []
@@ -365,7 +367,7 @@ class triviabot(irc.IRCClient):
         '''
         if not path.exists(config.SAVE_DIR):
             makedirs(config.SAVE_DIR)
-        with open(config.SAVE_DIR+'scores.json', 'w') as savefile:
+        with open(config.SAVE_DIR + 'scores.json', 'w') as savefile:
             json.dump(self._scores, savefile)
             print("Scores have been saved.")
 
@@ -379,7 +381,7 @@ class triviabot(irc.IRCClient):
             print("Save directory doesn't exist.")
             return
         try:
-            with open(config.SAVE_DIR+'scores.json', 'r') as savefile:
+            with open(config.SAVE_DIR + 'scores.json', 'r') as savefile:
                 temp_dict = json.load(savefile)
         except:
             print("Save file doesn't exist.")
@@ -396,9 +398,9 @@ class triviabot(irc.IRCClient):
         try:
             self._scores[args[0]] = int(args[1])
         except:
-            self._cmsg(user, args[0]+" not in scores database.")
+            self._cmsg(user, args[0] + " not in scores database.")
             return
-        self._cmsg(user, args[0]+" score set to "+args[1])
+        self._cmsg(user, args[0] + " score set to " + args[1])
 
     def _die(self, *args):
         '''
@@ -452,7 +454,7 @@ class triviabot(irc.IRCClient):
             return
         self._cmsg(channel, "Question: ")
         self._cmsg(channel, self._question)
-        self._cmsg(channel, "Clue: "+self._answer.current_clue())
+        self._cmsg(channel, "Clue: " + self._answer.current_clue())
 
     def _get_new_question(self):
         '''
@@ -463,7 +465,7 @@ class triviabot(irc.IRCClient):
         while damaged_question:
             # randomly select file
             filename = choice(listdir(self._questions_dir))
-            fd = open(config.Q_DIR+filename)
+            fd = open(config.Q_DIR + filename)
             lines = fd.read().splitlines()
             myline = choice(lines)
             fd.close()
@@ -501,6 +503,6 @@ if __name__ == "__main__":
         reactor.connectTCP(config.SERVER, config.SERVER_PORT, ircbotFactory())
     else:
         reactor.connectSSL(config.SERVER, config.SERVER_PORT,
-                       ircbotFactory(), ssl.ClientContextFactory())
+                           ircbotFactory(), ssl.ClientContextFactory())
 
     reactor.run()
