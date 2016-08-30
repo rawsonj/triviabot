@@ -23,6 +23,7 @@
 #
 
 import json
+import string
 from os import listdir, path, makedirs
 from random import choice
 from twisted.words.protocols import irc
@@ -157,13 +158,9 @@ class triviabot(irc.IRCClient):
         '''
         user, temp = user.split('!')
         print(user + " : " + channel + " : " + msg)
-        # need to strip off colors if present.
-        try:
-            while not msg[0].isalnum() and not msg[0] == '?':
-                msg = msg[1:]
-        except IndexError as e:
-            print(e)
-            return
+        # need to strip out non-printable characters if present.
+        printable = string.printable
+        msg = ''.join(filter(lambda x: x in printable, s))
 
         # parses each incoming line, and sees if it's a command for the bot.
         try:

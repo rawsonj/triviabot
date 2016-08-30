@@ -24,8 +24,10 @@ WAIT_INTERVAL = 30
 
 # Colorize the text so it contrasts with the channel text.
 # This makes it easier to play the game when people are chatting.
-# The below code is yellow.
-COLOR_CODE = '\00308,01 '
+#
+# \003 is the color-code prefix, the next two numbers
+# is the foreground code, the last two numbers is the backgroudn code.
+COLOR_CODE = '\00308,01'
 
 # How fast will the bot output messages to the channel
 LINE_RATE = 0.4
