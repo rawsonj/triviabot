@@ -14,31 +14,6 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
-# Need to load the scores, if they exist, and connect to irc, displaying
-# a welcome message.
-#
-# Scores should be kept in a class which will hold a nick -> score dict
-# object, and at the end of every question will dump the dict to json
-# where it can be loaded from. This might get weird if people start using
-# weird nicks, but we'll cross that road when we get to it.
-#
-# irc connection should be a class, and we should use twisted. We don't
-# really care if people come and go, since everyone in the channel is
-# playing. Should handle this like karma. Watch all traffic, and if
-# someone blurts out a string that matches the answer, they get the points.
-# If they haven't scored before, add them to the scoreboard and give them
-# their points, else, add their points to their total. Then dump the json.
-#
-# This bot requires there to be a ../questions/ directory with text files
-# in it. These files are named after there genres, so "80s Films.txt"
-# and the like. While the bot is running, it will randomly choose a
-# file from this directory, open it, randomly choose a line, which is
-# a question*answer pair, then load that into a structure to be asked.
-#
-# Once the question is loaded, the bot will ask the IRC channel the
-# question, wait a period of time, show a character, then ask the question
-# again.
-#
 # The bot should respond to /msgs, so that users can check their scores,
 # and admins can give admin commands, like die, show all scores, edit
 # player scores, etc. Commands should be easy to implement.
@@ -64,6 +39,12 @@ if config.USE_SSL.lower() == "yes":
 elif config.USE_SSL.lower() != 'no':
     # USE_SSL wasn't yes and it's not no, so raise an error.
     raise ValueError("USE_SSL must either be 'yes' or 'no'.")
+
+# Determine text color
+try:
+    config.COLOR_CODE
+except:
+    config.COLOR_CODE = ''
 
 
 class triviabot(irc.IRCClient):
@@ -202,7 +183,7 @@ class triviabot(irc.IRCClient):
                     self._winner(user, channel)
                     self._save_game()
         except Exception as e:
-            print e
+            print(e)
             return
 
     def _winner(self, user, channel):
@@ -442,8 +423,7 @@ class triviabot(irc.IRCClient):
         TODO: order them.
         '''
         self._cmsg(user, "The current trivia standings are: ")
-        sorted_scores = sorted(self._scores.iteritems(), key=lambda (k, v):
-                               (v, k), reverse=True)
+        sorted_scores = sorted(self._scores.iteritems(), key=lambda (k, v): (v, k), reverse=True)
         for rank, (player, score) in enumerate(sorted_scores, start=1):
             formatted_score = "%s: %s: %s" % (rank, player, score)
             self._cmsg(user, formatted_score)
