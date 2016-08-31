@@ -160,7 +160,7 @@ class triviabot(irc.IRCClient):
         print(user + " : " + channel + " : " + msg)
         # need to strip out non-printable characters if present.
         printable = string.printable
-        msg = ''.join(filter(lambda x: x in printable, s))
+        msg = ''.join(filter(lambda x: x in printable, msg))
 
         # parses each incoming line, and sees if it's a command for the bot.
         try:
