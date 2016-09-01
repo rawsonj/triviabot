@@ -1,3 +1,8 @@
+2016-09-01
+
+    *trivia.py : Addresses #58 (using os.xxxx for portability) and repeated
+    messages that savedata dir doesn't exist (mentioned in #42)
+
 2016-08-30
 
     *trivia.py : Addressed issues #39 (won't parse negative answers) and

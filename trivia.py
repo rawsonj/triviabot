@@ -24,6 +24,7 @@
 
 import json
 import string
+import os
 from os import listdir, path, makedirs
 from random import choice
 from twisted.words.protocols import irc
@@ -34,6 +35,9 @@ from twisted.internet.task import LoopingCall
 from lib.answer import Answer
 
 import config
+
+if not os.path.exists(config.SAVE_DIR):
+    os.makedirs(config.SAVE_DIR)
 
 if config.USE_SSL.lower() == "yes":
     from twisted.internet import ssl
@@ -343,9 +347,7 @@ class triviabot(irc.IRCClient):
         '''
         Saves the game to the data directory.
         '''
-        if not path.exists(config.SAVE_DIR):
-            makedirs(config.SAVE_DIR)
-        with open(config.SAVE_DIR + 'scores.json', 'w') as savefile:
+        with open(os.path.join(config.SAVE_DIR, 'scores.json'), 'w') as savefile:
             json.dump(self._scores, savefile)
             print("Scores have been saved.")
 
@@ -359,7 +361,7 @@ class triviabot(irc.IRCClient):
             print("Save directory doesn't exist.")
             return
         try:
-            with open(config.SAVE_DIR + 'scores.json', 'r') as savefile:
+            with open(os.path.join(config.SAVE_DIR, 'scores.json'), 'r') as savefile:
                 temp_dict = json.load(savefile)
         except:
             print("Save file doesn't exist.")
@@ -442,7 +444,7 @@ class triviabot(irc.IRCClient):
         while damaged_question:
             # randomly select file
             filename = choice(listdir(self._questions_dir))
-            fd = open(config.Q_DIR + filename)
+            fd = open(os.path.join(config.Q_DIR, filename))
             lines = fd.read().splitlines()
             myline = choice(lines)
             fd.close()
