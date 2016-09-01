@@ -1,0 +1,22 @@
+2016-09-01
+
+    *trivia.py : Addresses #58 (using os.xxxx for portability) and repeated
+    messages that savedata dir doesn't exist (mentioned in #42)
+
+2016-08-30
+
+    *trivia.py : Addressed issues #39 (won't parse negative answers) and
+    #40 (color code stuff also eats dollar signs)
+
+2016-08-29
+
+    * example_config.py : comments added; color codes explained and
+    example updated
+
+2016-08-28
+
+    * example_config.py : comments added
+
+2016-08-24
+
+    * trivia.py : Addressed issue #42 (added option to disable SSL)
