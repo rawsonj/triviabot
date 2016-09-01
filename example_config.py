@@ -26,7 +26,8 @@ WAIT_INTERVAL = 30
 # This makes it easier to play the game when people are chatting.
 #
 # \003 is the color-code prefix, the next two numbers
-# is the foreground code, the last two numbers is the backgroudn code.
+# is the foreground code, the last two numbers is the background code.
+# A more in-depth explanation is at http://en.wikichip.org/wiki/irc/colors
 COLOR_CODE = '\00308,01'
 
 # How fast will the bot output messages to the channel
