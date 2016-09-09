@@ -197,8 +197,7 @@ class triviabot(irc.IRCClient):
                      "I'm sorry, answers must be given in the game channel.")
             return
         self._gmsg("%s GOT IT!" % user.upper())
-        self._gmsg("If there was any doubt, the correct answer was")
-        self._gmsg("%s" % self._answer.answer)
+        self._gmsg("""If there was any doubt, the correct answer was: {}""".format(self._answer.answer))
         try:
             self._scores[user] += self._current_points
         except:
@@ -411,8 +410,7 @@ class triviabot(irc.IRCClient):
         if not self._lc.running:
             self._gmsg("We are not playing right now.")
             return
-        self._gmsg("Question has been skipped. The answer was: %s" %
-                   self._answer.answer)
+        self._gmsg("Question has been skipped. The answer was: {}".format(self._answer.answer))
         self._clue_number = 0
         self._lc.stop()
         self._lc.start(config.WAIT_INTERVAL)
