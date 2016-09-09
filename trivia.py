@@ -25,7 +25,8 @@
 import json
 import string
 import os
-from os import listdir, path, makedirs
+import sys
+from os import execl, listdir, path, makedirs
 from random import choice
 from twisted.words.protocols import irc
 from twisted.internet import reactor
@@ -71,6 +72,8 @@ class triviabot(irc.IRCClient):
         self._current_points = 5
         self._questions_dir = config.Q_DIR
         self._lc = LoopingCall(self._play_game)
+        self._quit = False
+        self._restarting = False
         self._load_game()
         self._votes = 0
         self._voters = []
@@ -266,6 +269,7 @@ class triviabot(irc.IRCClient):
                                   'skip': self._next_question
                                   }
         priviledged_commands = {'die': self._die,
+                                'restart': self._restart,
                                 'set': self._set_user_score,
                                 'start': self._start,
                                 'stop': self._stop,
@@ -387,12 +391,30 @@ class triviabot(irc.IRCClient):
     def _die(self, *args):
         '''
         Terminates execution of the bot.
-        Need to dig into twisted to figure out how this happens.
+        '''
+        self._quit = True
+        self.quit(message='This is triviabot, signing off.')
+
+    def _restart(self, *args):
+        '''
+        Restarts the bot
+        '''
+        self._restarting = True
+        print('Restarting')
+        self.quit(message='Triviabot restarting.')
+
+    def connectionLost(self, reason):
+        '''
+        Called when connection is lost
         '''
         global reactor
-        self.quit(message='This is triviabot, signing off.')
-        reactor.stop()
-        # figure out how to kill the bot
+        if self._restarting:
+            try:
+                execl(sys.executable, *([sys.executable]+sys.argv))
+            except Exception as e:
+                print("Failed to restart: %s" % e)
+        if self._quit:
+            reactor.stop()
 
     def _score(self, args, user, channel):
         '''
