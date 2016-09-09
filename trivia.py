@@ -197,7 +197,7 @@ class triviabot(irc.IRCClient):
                      "I'm sorry, answers must be given in the game channel.")
             return
         self._gmsg("%s GOT IT!" % user.upper())
-        self._gmsg("If there was any doubt, the correct answer was {}".format(self._answer.answer))
+        self._gmsg("""If there was any doubt, the correct answer was: {}""".format(self._answer.answer))
         try:
             self._scores[user] += self._current_points
         except:
