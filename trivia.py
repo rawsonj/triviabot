@@ -93,7 +93,7 @@ class triviabot(irc.IRCClient):
         Write a colorized message.
         """
 
-        self.msg(dest, "%s%s" % (config.COLOR_CODE, msg))
+        self.msg(dest, "{}{}".format(config.COLOR_CODE, msg))
 
     def _gmsg(self, msg):
         """
@@ -120,19 +120,19 @@ class triviabot(irc.IRCClient):
             self._gmsg("")
             self._gmsg("Next question:")
             self._gmsg(self._question)
-            self._gmsg("Clue: %s" % self._answer.current_clue())
+            self._gmsg("Clue: {}".format.(self._answer.current_clue()))
             self._clue_number += 1
         # we must be somewhere in between
         elif self._clue_number < 4:
             self._current_points = points[self._clue_number]
             self._gmsg("Question:")
             self._gmsg(self._question)
-            self._gmsg('Clue: %s' % self._answer.give_clue())
+            self._gmsg("Clue: {}".format(self._answer.give_clue()))
             self._clue_number += 1
         # no one must have gotten it.
         else:
-            self._gmsg('No one got it. The answer was: %s' %
-                       self._answer.answer)
+            self._gmsg("No one got it. The answer was: {}"
+                        .format(self._answer.answer))
             self._clue_number = 0
             self._get_new_question()
             # self._lc.reset()
@@ -142,21 +142,21 @@ class triviabot(irc.IRCClient):
         Actions to perform on signon to the server.
         '''
         self.join(self._game_channel)
-        self.msg('NickServ', 'identify %s' % config.IDENT_STRING)
-        print("Signed on as %s." % (self.nickname,))
+        self.msg("NickServ', 'identify {}".format(config.IDENT_STRING))
+        print("Signed on as {}.".format(self.nickname))
         if self.factory.running:
             self._start(None, None, None)
         else:
-            self._gmsg('Welcome to %s!' % self._game_channel)
+            self._gmsg("Welcome to {}!".format(self._game_channel))
             self._gmsg("Have an admin start the game when you are ready.")
             self._gmsg("For how to use this bot, just say ?help or")
-            self._gmsg("%s help." % self.nickname)
+            self._gmsg("{} help.".format(self.nickname))
 
     def joined(self, channel):
         '''
         Callback runs when the bot joins a channel
         '''
-        print("Joined %s." % (channel,))
+        print("Joined {}."format((channel)))
 
     def privmsg(self, user, channel, msg):
         '''
