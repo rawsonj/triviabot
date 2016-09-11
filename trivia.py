@@ -68,6 +68,7 @@ class triviabot(irc.IRCClient):
         self._scores = {}
         self._clue_number = 0
         self._admins = list(config.ADMINS)
+        self._admins.append(config.OWNER)
         self._game_channel = config.GAME_CHANNEL
         self._current_points = 5
         self._questions_dir = config.Q_DIR
@@ -232,14 +233,14 @@ class triviabot(irc.IRCClient):
         try:
             self._admins.index(user)
         except:
-            self._cmsg(user, "I'm nameless's trivia bot.")
+            self._cmsg(user, "I'm %s's trivia bot." % config.OWNER)
             self._cmsg(user, "Commands: score, standings, giveclue, help, "
                        "next, source")
             return
-        self._cmsg(user, "I'm nameless's trivia bot.")
+        self._cmsg(user, "I'm %s's trivia bot." % config.OWNER)
         self._cmsg(user, "Commands: score, standings, giveclue, help, next, "
                    "skip, source")
-        self._cmsg("Admin commands: die, set <user> <score>, start, stop, "
+        self._cmsg(user, "Admin commands: die, set <user> <score>, start, stop, "
                    "save")
 
     def _show_source(self, args, user, channel):
