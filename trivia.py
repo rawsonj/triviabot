@@ -120,7 +120,7 @@ class triviabot(irc.IRCClient):
             self._gmsg("")
             self._gmsg("Next question:")
             self._gmsg(self._question)
-            self._gmsg("Clue: {}".format.(self._answer.current_clue()))
+            self._gmsg("Clue: {}".format(self._answer.current_clue()))
             self._clue_number += 1
         # we must be somewhere in between
         elif self._clue_number < 4:
@@ -142,8 +142,8 @@ class triviabot(irc.IRCClient):
         Actions to perform on signon to the server.
         '''
         self.join(self._game_channel)
-        self.msg("NickServ', 'identify {}".format(config.IDENT_STRING))
-        print("Signed on as {}.".format(self.nickname))
+        self.msg('NickServ', 'identify %s' % config.IDENT_STRING)
+        print("Signed on as %s." % (self.nickname,))
         if self.factory.running:
             self._start(None, None, None)
         else:
@@ -156,7 +156,7 @@ class triviabot(irc.IRCClient):
         '''
         Callback runs when the bot joins a channel
         '''
-        print("Joined {}."format((channel)))
+        print("Joined {}.".format((channel)))
 
     def privmsg(self, user, channel, msg):
         '''
