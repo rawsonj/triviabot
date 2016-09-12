@@ -132,7 +132,7 @@ class triviabot(irc.IRCClient):
         # no one must have gotten it.
         else:
             self._gmsg("No one got it. The answer was: {}"
-                        .format(self._answer.answer))
+                       .format(self._answer.answer))
             self._clue_number = 0
             self._get_new_question()
             # self._lc.reset()
@@ -142,8 +142,8 @@ class triviabot(irc.IRCClient):
         Actions to perform on signon to the server.
         '''
         self.join(self._game_channel)
-        self.msg('NickServ', 'identify %s' % config.IDENT_STRING)
-        print("Signed on as %s." % (self.nickname,))
+        self.msg("NickServ", "identify {}".format(config.IDENT_STRING))
+        print("Signed on as {}.".format(self.nickname))
         if self.factory.running:
             self._start(None, None, None)
         else:
@@ -199,18 +199,18 @@ class triviabot(irc.IRCClient):
             self.msg(channel,
                      "I'm sorry, answers must be given in the game channel.")
             return
-        self._gmsg("%s GOT IT!" % user.upper())
+        self._gmsg("{} GOT IT!".format(user.upper()))
         self._gmsg("""If there was any doubt, the correct answer was: {}""".format(self._answer.answer))
         try:
             self._scores[user] += self._current_points
         except:
             self._scores[user] = self._current_points
         if self._current_points == 1:
-            self._gmsg("%s point has been added to your score!" %
-                       str(self._current_points))
+            self._gmsg("{} point has been added to your score!"
+                       .format(str(self._current_points)))
         else:
-            self._gmsg("%s points have been added to your score!" %
-                       str(self._current_points))
+            self._gmsg("{} points have been added to your score!"
+                       .format(str(self._current_points)))
         self._clue_number = 0
         self._get_new_question()
 
@@ -284,15 +284,16 @@ class triviabot(irc.IRCClient):
         # the following takes care of sorting out functions and
         # priviledges.
         if not is_admin and command in priviledged_commands:
-            self.msg(channel, "%s: You don't tell me what to do." % user)
+            self.msg(channel, "{}: You don't tell me what to do."
+                     .format(user))
             return
         elif is_admin and command in priviledged_commands:
             priviledged_commands[command](args, user, channel)
         elif command in unpriviledged_commands:
             unpriviledged_commands[command](args, user, channel)
         else:
-            self.describe(channel, '%slooks at %s oddly.' %
-                          (config.COLOR_CODE, user))
+            self.describe(channel, "{}looks at {} oddly."
+                          .format(config.COLOR_CODE, user))
 
     def _next_vote(self, args, user, channel):
         '''Implements user voting for the next question.
@@ -305,16 +306,16 @@ class triviabot(irc.IRCClient):
             return
         try:
             self._voters.index(user)
-            self._gmsg("You already voted, %s, give someone else a chance to "
-                       "hate this question" % user)
+            self._gmsg("You already voted, {}, give someone else a chance to "
+                       "hate this question".format(user))
             return
         except:
             if self._votes < 2:
                 self._votes += 1
                 self._voters.append(user)
                 print(self._voters)
-                self._gmsg("%s, you have voted. %s more votes needed to "
-                           "skip." % (user, str(3 - self._votes)))
+                self._gmsg("{}, you have voted. {} more votes needed to "
+                           "skip.".format(user, str(3 - self._votes)))
             else:
                 self._votes = 0
                 self._voters = []
@@ -411,7 +412,7 @@ class triviabot(irc.IRCClient):
             try:
                 execl(sys.executable, *([sys.executable]+sys.argv))
             except Exception as e:
-                print("Failed to restart: %s" % e)
+                print("Failed to restart: {}".format(e))
         if self._quit:
             reactor.stop()
 
@@ -420,8 +421,8 @@ class triviabot(irc.IRCClient):
         Tells the user their score.
         '''
         try:
-            self._cmsg(user, "Your current score is: %s" %
-                       str(self._scores[user]))
+            self._cmsg(user, "Your current score is: {}"
+                       .format(str(self._scores[user])))
         except:
             self._cmsg(user, "You aren't in my database.")
 
@@ -446,7 +447,7 @@ class triviabot(irc.IRCClient):
         self._cmsg(user, "The current trivia standings are: ")
         sorted_scores = sorted(self._scores.iteritems(), key=lambda (k, v): (v, k), reverse=True)
         for rank, (player, score) in enumerate(sorted_scores, start=1):
-            formatted_score = "%s: %s: %s" % (rank, player, score)
+            formatted_score = "{}: {}: {}".format(rank, player, score)
             self._cmsg(user, formatted_score)
 
     def _give_clue(self, args, user, channel):
@@ -489,11 +490,11 @@ class ircbotFactory(ClientFactory):
         self.lineRate = config.LINE_RATE
 
     def clientConnectionLost(self, connector, reason):
-        print("Lost connection (%s)" % (reason,))
+        print("Lost connection ({})".format(reason))
         connector.connect()
 
     def clientConnectionFailed(self, connector, reason):
-        print("Could not connect: %s" % (reason,))
+        print("Could not connect: {}".format(reason))
         connector.connect()
 
 
