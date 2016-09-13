@@ -1,3 +1,9 @@
+2016-09-09
+
+    *trivia.py : example_config.py : Added owner name to string "I'm
+    nameless's trivia bot". ("nameless" now replaced by OWNER from
+    config.py) Closes issue #65
+
 2016-09-01
 
     *trivia.py : Addresses #58 (using os.xxxx for portability) and repeated

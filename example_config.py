@@ -8,6 +8,11 @@
 
 GAME_CHANNEL = '#triviachannel'
 
+# Nick of person running this bot? (the nick included here will be
+# automatically added to the list of ADMINS)
+# It will be displayed to user when ?help option is run
+OWNER = 'bot_owner'
+
 ADMINS = ['admin']
 # or a comma separated list
 # ADMINS = ['admin','admin2']
