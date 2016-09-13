@@ -233,11 +233,11 @@ class triviabot(irc.IRCClient):
         try:
             self._admins.index(user)
         except:
-            self._cmsg(user, "I'm %s's trivia bot." % config.OWNER)
+            self._cmsg(user, "I'm {}'s trivia bot.".format(config.OWNER))
             self._cmsg(user, "Commands: score, standings, giveclue, help, "
                        "next, source")
             return
-        self._cmsg(user, "I'm %s's trivia bot." % config.OWNER)
+        self._cmsg(user, "I'm {}'s trivia bot.".format(config.OWNER))
         self._cmsg(user, "Commands: score, standings, giveclue, help, next, "
                    "skip, source")
         self._cmsg(user, "Admin commands: die, set <user> <score>, start, stop, "
