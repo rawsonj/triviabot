@@ -213,7 +213,8 @@ class triviabot(irc.IRCClient):
             self._gmsg("{} points have been added to your score!"
                        .format(str(self._current_points)))
         self._clue_number = 0
-        self._get_new_question()
+        self._lc.stop()
+        self._lc.start(config.WAIT_INTERVAL)
 
     def ctcpQuery(self, user, channel, msg):
         '''
