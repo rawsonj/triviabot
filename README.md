@@ -46,6 +46,9 @@ Contact, Support, Development:
 Quakenet IRC - #triviabot-dev
 http://webchat.quakenet.org/?channels=triviabot-dev
 
+Gitter IM (GitHub Login available)
+https://gitter.im/triviabot-dev/Lobby
+
 GitHub Issues/Tickets
 https://github.com/rawsonj/triviabot/issues
 
