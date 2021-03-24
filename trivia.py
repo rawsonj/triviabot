@@ -26,7 +26,7 @@ import json
 import string
 import os
 import sys
-from os import execl, listdir, path, makedirs
+from os import execl, listdir, path
 from random import choice
 from twisted.words.protocols import irc
 from twisted.internet import reactor
@@ -221,8 +221,7 @@ class triviabot(irc.IRCClient):
         Responds to ctcp requests.
         Currently just reports them.
         '''
-        print("CTCP recieved: " + user + ":" + channel +
-              ": " + msg[0][0] + " " + msg[0][1])
+        print("CTCP recieved: " + user + ":" + channel + ": " + msg[0][0] + " " + msg[0][1])
 
     def _help(self, args, user, channel):
         '''
@@ -412,7 +411,7 @@ class triviabot(irc.IRCClient):
         global reactor
         if self._restarting:
             try:
-                execl(sys.executable, *([sys.executable]+sys.argv))
+                execl(sys.executable, *([sys.executable] + sys.argv))
             except Exception as e:
                 print("Failed to restart: {}".format(e))
         if self._quit:
@@ -447,7 +446,7 @@ class triviabot(irc.IRCClient):
         TODO: order them.
         '''
         self._cmsg(user, "The current trivia standings are: ")
-        sorted_scores = sorted(self._scores.iteritems(), key=lambda (k, v): (v, k), reverse=True)
+        sorted_scores = sorted(self._scores.iteritems(), key=lambda k: k[1], reverse=True)
         for rank, (player, score) in enumerate(sorted_scores, start=1):
             formatted_score = "{}: {}: {}".format(rank, player, score)
             self._cmsg(user, formatted_score)
